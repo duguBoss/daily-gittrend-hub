@@ -1,17 +1,17 @@
 # GitHub Trending (Added at: 2026-01-30)
 
-### [sponsors/openclaw](https://github.com/sponsors/openclaw)
-- Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
+### [hashicorp/vault](https://github.com/hashicorp/vault)
+- A tool for secrets management, encryption as a service, and privileged access management
 
-### [sponsors/asgeirtj](https://github.com/sponsors/asgeirtj)
-- Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
+### [sponsors/badlogic](https://github.com/sponsors/badlogic)
+- AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
 
-### [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli)
-- Kimi Code CLI is your next CLI agent.
+### [sponsors/anomalyco](https://github.com/sponsors/anomalyco)
+- 
 
-### [modelcontextprotocol/ext-apps](https://github.com/modelcontextprotocol/ext-apps)
-- Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers
+### [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf)
+- Protocol Buffers - Google's data interchange format
 
-### [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU)
-- Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).
+### [sponsors/pedroslopez](https://github.com/sponsors/pedroslopez)
+- A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
 
