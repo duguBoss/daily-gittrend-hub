@@ -1,0 +1,38 @@
+name: Daily Trending Sync
+
+on:
+  schedule:
+    # 对应美国东部时间 (ET) 凌晨 04:00
+    # 对应美国太平洋时间 (PT) 凌晨 01:00
+    # 对应北京时间 (CST) 下午 17:00
+    - cron: '0 9 * * *' 
+  workflow_dispatch: # 允许手动触发
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # 必须赋予写入权限
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run fetcher
+        run: python fetch_trending.py
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add data/weekly_trending.json current_trending.md
+          # 只有在文件有变动时才提交，防止 Action 报错
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update trending data $(date +%F)" && git push)
