@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "full_name": "sponsors/openclaw",
+    "url": "https://github.com/sponsors/openclaw",
+    "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+    "date_added": "2026-01-30"
+  },
+  {
+    "full_name": "sponsors/asgeirtj",
+    "url": "https://github.com/sponsors/asgeirtj",
+    "description": "Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini",
+    "date_added": "2026-01-30"
+  },
+  {
+    "full_name": "MoonshotAI/kimi-cli",
+    "url": "https://github.com/MoonshotAI/kimi-cli",
+    "description": "Kimi Code CLI is your next CLI agent.",
+    "date_added": "2026-01-30"
+  },
+  {
+    "full_name": "modelcontextprotocol/ext-apps",
+    "url": "https://github.com/modelcontextprotocol/ext-apps",
+    "description": "Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers",
+    "date_added": "2026-01-30"
+  },
+  {
+    "full_name": "NevaMind-AI/memU",
+    "url": "https://github.com/NevaMind-AI/memU",
+    "description": "Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).",
+    "date_added": "2026-01-30"
+  }
+]
