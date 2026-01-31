@@ -58,5 +58,29 @@
     "url": "https://github.com/sponsors/pedroslopez",
     "description": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
     "date_added": "2026-01-30"
+  },
+  {
+    "full_name": "TeamNewPipe/NewPipe",
+    "url": "https://github.com/TeamNewPipe/NewPipe",
+    "description": "A libre lightweight streaming front-end for Android.",
+    "date_added": "2026-01-31"
+  },
+  {
+    "full_name": "Shubhamsaboo/awesome-llm-apps",
+    "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+    "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+    "date_added": "2026-01-31"
+  },
+  {
+    "full_name": "microsoft/playwright-cli",
+    "url": "https://github.com/microsoft/playwright-cli",
+    "description": "CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots.",
+    "date_added": "2026-01-31"
+  },
+  {
+    "full_name": "sponsors/lobehub",
+    "url": "https://github.com/sponsors/lobehub",
+    "description": "The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.",
+    "date_added": "2026-01-31"
   }
 ]

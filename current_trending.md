@@ -1,17 +1,14 @@
-# GitHub Trending (Added at: 2026-01-30)
+# GitHub Trending (Added at: 2026-01-31)
 
-### [hashicorp/vault](https://github.com/hashicorp/vault)
-- A tool for secrets management, encryption as a service, and privileged access management
+### [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe)
+- A libre lightweight streaming front-end for Android.
 
-### [sponsors/badlogic](https://github.com/sponsors/badlogic)
-- AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
+### [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
+- Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
 
-### [sponsors/anomalyco](https://github.com/sponsors/anomalyco)
-- 
+### [microsoft/playwright-cli](https://github.com/microsoft/playwright-cli)
+- CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots.
 
-### [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf)
-- Protocol Buffers - Google's data interchange format
-
-### [sponsors/pedroslopez](https://github.com/sponsors/pedroslopez)
-- A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
+### [sponsors/lobehub](https://github.com/sponsors/lobehub)
+- The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.
 
