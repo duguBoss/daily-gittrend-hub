@@ -1,14 +1,17 @@
-# GitHub Trending (Added at: 2026-01-31)
+# GitHub Trending (Added at: 2026-02-01)
 
-### [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe)
-- A libre lightweight streaming front-end for Android.
+### [sponsors/ThePrimeagen](https://github.com/sponsors/ThePrimeagen)
+- Neovim AI agent done right
 
-### [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
-- Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+### [microsoft/BitNet](https://github.com/microsoft/BitNet)
+- Official inference framework for 1-bit LLMs
 
-### [microsoft/playwright-cli](https://github.com/microsoft/playwright-cli)
-- CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots.
+### [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
+- The absolute trainer to light up AI agents.
 
-### [sponsors/lobehub](https://github.com/sponsors/lobehub)
-- The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.
+### [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
+- Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
+
+### [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
+- Official, Anthropic-managed directory of high quality Claude Code Plugins.
 

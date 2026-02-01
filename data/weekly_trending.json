@@ -82,5 +82,35 @@
     "url": "https://github.com/sponsors/lobehub",
     "description": "The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.",
     "date_added": "2026-01-31"
+  },
+  {
+    "full_name": "sponsors/ThePrimeagen",
+    "url": "https://github.com/sponsors/ThePrimeagen",
+    "description": "Neovim AI agent done right",
+    "date_added": "2026-02-01"
+  },
+  {
+    "full_name": "microsoft/BitNet",
+    "url": "https://github.com/microsoft/BitNet",
+    "description": "Official inference framework for 1-bit LLMs",
+    "date_added": "2026-02-01"
+  },
+  {
+    "full_name": "microsoft/agent-lightning",
+    "url": "https://github.com/microsoft/agent-lightning",
+    "description": "The absolute trainer to light up AI agents.",
+    "date_added": "2026-02-01"
+  },
+  {
+    "full_name": "PaddlePaddle/PaddleOCR",
+    "url": "https://github.com/PaddlePaddle/PaddleOCR",
+    "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
+    "date_added": "2026-02-01"
+  },
+  {
+    "full_name": "anthropics/claude-plugins-official",
+    "url": "https://github.com/anthropics/claude-plugins-official",
+    "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+    "date_added": "2026-02-01"
   }
 ]
