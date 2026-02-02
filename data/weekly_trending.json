@@ -112,5 +112,35 @@
     "url": "https://github.com/anthropics/claude-plugins-official",
     "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
     "date_added": "2026-02-01"
+  },
+  {
+    "full_name": "pedramamini/Maestro",
+    "url": "https://github.com/pedramamini/Maestro",
+    "description": "Agent Orchestration Command Center",
+    "date_added": "2026-02-02"
+  },
+  {
+    "full_name": "sponsors/kovidgoyal",
+    "url": "https://github.com/sponsors/kovidgoyal",
+    "description": "The official source code repository for the calibre ebook manager",
+    "date_added": "2026-02-02"
+  },
+  {
+    "full_name": "sponsors/thedotmack",
+    "url": "https://github.com/sponsors/thedotmack",
+    "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+    "date_added": "2026-02-02"
+  },
+  {
+    "full_name": "amantus-ai/vibetunnel",
+    "url": "https://github.com/amantus-ai/vibetunnel",
+    "description": "Turn any browser into your terminal & command your agents on the go.",
+    "date_added": "2026-02-02"
+  },
+  {
+    "full_name": "sponsors/steipete",
+    "url": "https://github.com/sponsors/steipete",
+    "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
+    "date_added": "2026-02-02"
   }
 ]

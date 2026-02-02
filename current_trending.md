@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-02-01)
+# GitHub Trending (Added at: 2026-02-02)
 
-### [sponsors/ThePrimeagen](https://github.com/sponsors/ThePrimeagen)
-- Neovim AI agent done right
+### [pedramamini/Maestro](https://github.com/pedramamini/Maestro)
+- Agent Orchestration Command Center
 
-### [microsoft/BitNet](https://github.com/microsoft/BitNet)
-- Official inference framework for 1-bit LLMs
+### [sponsors/kovidgoyal](https://github.com/sponsors/kovidgoyal)
+- The official source code repository for the calibre ebook manager
 
-### [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
-- The absolute trainer to light up AI agents.
+### [sponsors/thedotmack](https://github.com/sponsors/thedotmack)
+- A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
 
-### [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
-- Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
+### [amantus-ai/vibetunnel](https://github.com/amantus-ai/vibetunnel)
+- Turn any browser into your terminal & command your agents on the go.
 
-### [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
-- Official, Anthropic-managed directory of high quality Claude Code Plugins.
+### [sponsors/steipete](https://github.com/sponsors/steipete)
+- Show usage stats for OpenAI Codex and Claude Code, without having to login.
 
