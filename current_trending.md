@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-02-02)
+# GitHub Trending (Added at: 2026-02-03)
 
-### [pedramamini/Maestro](https://github.com/pedramamini/Maestro)
-- Agent Orchestration Command Center
+### [sponsors/termux](https://github.com/sponsors/termux)
+- Termux - a terminal emulator application for Android OS extendible by variety of packages.
 
-### [sponsors/kovidgoyal](https://github.com/sponsors/kovidgoyal)
-- The official source code repository for the calibre ebook manager
+### [sponsors/netbirdio](https://github.com/sponsors/netbirdio)
+- Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
 
-### [sponsors/thedotmack](https://github.com/sponsors/thedotmack)
-- A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
+### [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev)
+- ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration
 
-### [amantus-ai/vibetunnel](https://github.com/amantus-ai/vibetunnel)
-- Turn any browser into your terminal & command your agents on the go.
+### [autobrr/qui](https://github.com/autobrr/qui)
+- A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers.
 
-### [sponsors/steipete](https://github.com/sponsors/steipete)
-- Show usage stats for OpenAI Codex and Claude Code, without having to login.
+### [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex)
+- 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
 

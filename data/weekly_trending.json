@@ -142,5 +142,35 @@
     "url": "https://github.com/sponsors/steipete",
     "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
     "date_added": "2026-02-02"
+  },
+  {
+    "full_name": "sponsors/termux",
+    "url": "https://github.com/sponsors/termux",
+    "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
+    "date_added": "2026-02-03"
+  },
+  {
+    "full_name": "sponsors/netbirdio",
+    "url": "https://github.com/sponsors/netbirdio",
+    "description": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
+    "date_added": "2026-02-03"
+  },
+  {
+    "full_name": "OpenBMB/ChatDev",
+    "url": "https://github.com/OpenBMB/ChatDev",
+    "description": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration",
+    "date_added": "2026-02-03"
+  },
+  {
+    "full_name": "autobrr/qui",
+    "url": "https://github.com/autobrr/qui",
+    "description": "A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers.",
+    "date_added": "2026-02-03"
+  },
+  {
+    "full_name": "VectifyAI/PageIndex",
+    "url": "https://github.com/VectifyAI/PageIndex",
+    "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "date_added": "2026-02-03"
   }
 ]
