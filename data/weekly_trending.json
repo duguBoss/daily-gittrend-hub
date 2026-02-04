@@ -172,5 +172,35 @@
     "url": "https://github.com/VectifyAI/PageIndex",
     "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
     "date_added": "2026-02-03"
+  },
+  {
+    "full_name": "masoncl/review-prompts",
+    "url": "https://github.com/masoncl/review-prompts",
+    "description": "AI review prompts",
+    "date_added": "2026-02-04"
+  },
+  {
+    "full_name": "openai/skills",
+    "url": "https://github.com/openai/skills",
+    "description": "Skills Catalog for Codex",
+    "date_added": "2026-02-04"
+  },
+  {
+    "full_name": "automazeio/ccpm",
+    "url": "https://github.com/automazeio/ccpm",
+    "description": "Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution.",
+    "date_added": "2026-02-04"
+  },
+  {
+    "full_name": "sponsors/obra",
+    "url": "https://github.com/sponsors/obra",
+    "description": "An agentic skills framework & software development methodology that works.",
+    "date_added": "2026-02-04"
+  },
+  {
+    "full_name": "virattt/dexter",
+    "url": "https://github.com/virattt/dexter",
+    "description": "An autonomous agent for deep financial research",
+    "date_added": "2026-02-04"
   }
 ]

@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-02-03)
+# GitHub Trending (Added at: 2026-02-04)
 
-### [sponsors/termux](https://github.com/sponsors/termux)
-- Termux - a terminal emulator application for Android OS extendible by variety of packages.
+### [masoncl/review-prompts](https://github.com/masoncl/review-prompts)
+- AI review prompts
 
-### [sponsors/netbirdio](https://github.com/sponsors/netbirdio)
-- Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
+### [openai/skills](https://github.com/openai/skills)
+- Skills Catalog for Codex
 
-### [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev)
-- ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration
+### [automazeio/ccpm](https://github.com/automazeio/ccpm)
+- Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution.
 
-### [autobrr/qui](https://github.com/autobrr/qui)
-- A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers.
+### [sponsors/obra](https://github.com/sponsors/obra)
+- An agentic skills framework & software development methodology that works.
 
-### [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex)
-- 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
+### [virattt/dexter](https://github.com/virattt/dexter)
+- An autonomous agent for deep financial research
 
