@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-02-04)
+# GitHub Trending (Added at: 2026-02-05)
 
-### [masoncl/review-prompts](https://github.com/masoncl/review-prompts)
-- AI review prompts
+### [disler/claude-code-hooks-mastery](https://github.com/disler/claude-code-hooks-mastery)
+- Master Claude Code Hooks
 
-### [openai/skills](https://github.com/openai/skills)
-- Skills Catalog for Codex
+### [ankitects/anki](https://github.com/ankitects/anki)
+- Anki is a smart spaced repetition flashcard program
 
-### [automazeio/ccpm](https://github.com/automazeio/ccpm)
-- Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution.
+### [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib)
+- Contrib repository for the OpenTelemetry Collector
 
-### [sponsors/obra](https://github.com/sponsors/obra)
-- An agentic skills framework & software development methodology that works.
+### [Canner/WrenAI](https://github.com/Canner/WrenAI)
+- ⚡️ GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered business intelligence in seconds.
 
-### [virattt/dexter](https://github.com/virattt/dexter)
-- An autonomous agent for deep financial research
+### [nvm-sh/nvm](https://github.com/nvm-sh/nvm)
+- Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 
