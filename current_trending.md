@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-02-05)
+# GitHub Trending (Added at: 2026-02-06)
 
-### [disler/claude-code-hooks-mastery](https://github.com/disler/claude-code-hooks-mastery)
-- Master Claude Code Hooks
+### [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)
+- The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
 
-### [ankitects/anki](https://github.com/ankitects/anki)
-- Anki is a smart spaced repetition flashcard program
+### [sponsors/j178](https://github.com/sponsors/j178)
+- ⚡ Better `pre-commit`, re-engineered in Rust
 
-### [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib)
-- Contrib repository for the OpenTelemetry Collector
+### [sponsors/topoteretes](https://github.com/sponsors/topoteretes)
+- Memory for AI Agents in 6 lines of code
 
-### [Canner/WrenAI](https://github.com/Canner/WrenAI)
-- ⚡️ GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered business intelligence in seconds.
+### [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
+- Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 
-### [nvm-sh/nvm](https://github.com/nvm-sh/nvm)
-- Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+### [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell)
+- The user-friendly command line shell.
 

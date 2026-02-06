@@ -1,65 +1,5 @@
 [
   {
-    "full_name": "sponsors/openclaw",
-    "url": "https://github.com/sponsors/openclaw",
-    "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
-    "date_added": "2026-01-30"
-  },
-  {
-    "full_name": "sponsors/asgeirtj",
-    "url": "https://github.com/sponsors/asgeirtj",
-    "description": "Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini",
-    "date_added": "2026-01-30"
-  },
-  {
-    "full_name": "MoonshotAI/kimi-cli",
-    "url": "https://github.com/MoonshotAI/kimi-cli",
-    "description": "Kimi Code CLI is your next CLI agent.",
-    "date_added": "2026-01-30"
-  },
-  {
-    "full_name": "modelcontextprotocol/ext-apps",
-    "url": "https://github.com/modelcontextprotocol/ext-apps",
-    "description": "Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers",
-    "date_added": "2026-01-30"
-  },
-  {
-    "full_name": "NevaMind-AI/memU",
-    "url": "https://github.com/NevaMind-AI/memU",
-    "description": "Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).",
-    "date_added": "2026-01-30"
-  },
-  {
-    "full_name": "hashicorp/vault",
-    "url": "https://github.com/hashicorp/vault",
-    "description": "A tool for secrets management, encryption as a service, and privileged access management",
-    "date_added": "2026-01-30"
-  },
-  {
-    "full_name": "sponsors/badlogic",
-    "url": "https://github.com/sponsors/badlogic",
-    "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
-    "date_added": "2026-01-30"
-  },
-  {
-    "full_name": "sponsors/anomalyco",
-    "url": "https://github.com/sponsors/anomalyco",
-    "description": "",
-    "date_added": "2026-01-30"
-  },
-  {
-    "full_name": "protocolbuffers/protobuf",
-    "url": "https://github.com/protocolbuffers/protobuf",
-    "description": "Protocol Buffers - Google's data interchange format",
-    "date_added": "2026-01-30"
-  },
-  {
-    "full_name": "sponsors/pedroslopez",
-    "url": "https://github.com/sponsors/pedroslopez",
-    "description": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
-    "date_added": "2026-01-30"
-  },
-  {
     "full_name": "TeamNewPipe/NewPipe",
     "url": "https://github.com/TeamNewPipe/NewPipe",
     "description": "A libre lightweight streaming front-end for Android.",
@@ -232,5 +172,35 @@
     "url": "https://github.com/nvm-sh/nvm",
     "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
     "date_added": "2026-02-05"
+  },
+  {
+    "full_name": "bytedance/UI-TARS-desktop",
+    "url": "https://github.com/bytedance/UI-TARS-desktop",
+    "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+    "date_added": "2026-02-06"
+  },
+  {
+    "full_name": "sponsors/j178",
+    "url": "https://github.com/sponsors/j178",
+    "description": "⚡ Better `pre-commit`, re-engineered in Rust",
+    "date_added": "2026-02-06"
+  },
+  {
+    "full_name": "sponsors/topoteretes",
+    "url": "https://github.com/sponsors/topoteretes",
+    "description": "Memory for AI Agents in 6 lines of code",
+    "date_added": "2026-02-06"
+  },
+  {
+    "full_name": "aquasecurity/trivy",
+    "url": "https://github.com/aquasecurity/trivy",
+    "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "date_added": "2026-02-06"
+  },
+  {
+    "full_name": "fish-shell/fish-shell",
+    "url": "https://github.com/fish-shell/fish-shell",
+    "description": "The user-friendly command line shell.",
+    "date_added": "2026-02-06"
   }
 ]
