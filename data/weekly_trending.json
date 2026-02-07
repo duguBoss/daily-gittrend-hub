@@ -1,29 +1,5 @@
 [
   {
-    "full_name": "TeamNewPipe/NewPipe",
-    "url": "https://github.com/TeamNewPipe/NewPipe",
-    "description": "A libre lightweight streaming front-end for Android.",
-    "date_added": "2026-01-31"
-  },
-  {
-    "full_name": "Shubhamsaboo/awesome-llm-apps",
-    "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-    "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
-    "date_added": "2026-01-31"
-  },
-  {
-    "full_name": "microsoft/playwright-cli",
-    "url": "https://github.com/microsoft/playwright-cli",
-    "description": "CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots.",
-    "date_added": "2026-01-31"
-  },
-  {
-    "full_name": "sponsors/lobehub",
-    "url": "https://github.com/sponsors/lobehub",
-    "description": "The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.",
-    "date_added": "2026-01-31"
-  },
-  {
     "full_name": "sponsors/ThePrimeagen",
     "url": "https://github.com/sponsors/ThePrimeagen",
     "description": "Neovim AI agent done right",
@@ -202,5 +178,29 @@
     "url": "https://github.com/fish-shell/fish-shell",
     "description": "The user-friendly command line shell.",
     "date_added": "2026-02-06"
+  },
+  {
+    "full_name": "sponsors/likec4",
+    "url": "https://github.com/sponsors/likec4",
+    "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
+    "date_added": "2026-02-07"
+  },
+  {
+    "full_name": "ZeroTworu/anet",
+    "url": "https://github.com/ZeroTworu/anet",
+    "description": "Simple Rust VPN Client / Server",
+    "date_added": "2026-02-07"
+  },
+  {
+    "full_name": "Flowseal/zapret-discord-youtube",
+    "url": "https://github.com/Flowseal/zapret-discord-youtube",
+    "description": "",
+    "date_added": "2026-02-07"
+  },
+  {
+    "full_name": "DataExpert-io/data-engineer-handbook",
+    "url": "https://github.com/DataExpert-io/data-engineer-handbook",
+    "description": "This is a repo with links to everything you'd ever want to learn about data engineering",
+    "date_added": "2026-02-07"
   }
 ]
