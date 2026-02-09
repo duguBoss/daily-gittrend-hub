@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-02-08)
+# GitHub Trending (Added at: 2026-02-09)
 
-### [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon)
-- Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.
+### [sponsors/pydantic](https://github.com/sponsors/pydantic)
+- A minimal, secure Python interpreter written in Rust for use by AI
 
-### [microsoft/litebox](https://github.com/microsoft/litebox)
-- A security-focused library OS supporting kernel- and user-mode execution
+### [google/langextract](https://github.com/google/langextract)
+- A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
 
-### [p-e-w/heretic](https://github.com/p-e-w/heretic)
-- Fully automatic censorship removal for language models
+### [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi)
+- Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!
 
-### [OpenBMB/MiniCPM-o](https://github.com/OpenBMB/MiniCPM-o)
-- A Gemini 2.5 Flash Level MLLM for Vision, Speech, and Full-Duplex Multimodal Live Streaming on Your Phone
+### [home-assistant/addons](https://github.com/home-assistant/addons)
+- ➕ Docker add-ons for Home Assistant
 
-### [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm)
-- An open-source, cross-platform terminal for seamless workflows
+### [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+- The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 

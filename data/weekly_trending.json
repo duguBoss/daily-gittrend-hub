@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "pedramamini/Maestro",
-    "url": "https://github.com/pedramamini/Maestro",
-    "description": "Agent Orchestration Command Center",
-    "date_added": "2026-02-02"
-  },
-  {
-    "full_name": "sponsors/kovidgoyal",
-    "url": "https://github.com/sponsors/kovidgoyal",
-    "description": "The official source code repository for the calibre ebook manager",
-    "date_added": "2026-02-02"
-  },
-  {
-    "full_name": "sponsors/thedotmack",
-    "url": "https://github.com/sponsors/thedotmack",
-    "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
-    "date_added": "2026-02-02"
-  },
-  {
-    "full_name": "amantus-ai/vibetunnel",
-    "url": "https://github.com/amantus-ai/vibetunnel",
-    "description": "Turn any browser into your terminal & command your agents on the go.",
-    "date_added": "2026-02-02"
-  },
-  {
-    "full_name": "sponsors/steipete",
-    "url": "https://github.com/sponsors/steipete",
-    "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
-    "date_added": "2026-02-02"
-  },
-  {
     "full_name": "sponsors/termux",
     "url": "https://github.com/sponsors/termux",
     "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
@@ -202,5 +172,35 @@
     "url": "https://github.com/wavetermdev/waveterm",
     "description": "An open-source, cross-platform terminal for seamless workflows",
     "date_added": "2026-02-08"
+  },
+  {
+    "full_name": "sponsors/pydantic",
+    "url": "https://github.com/sponsors/pydantic",
+    "description": "A minimal, secure Python interpreter written in Rust for use by AI",
+    "date_added": "2026-02-09"
+  },
+  {
+    "full_name": "google/langextract",
+    "url": "https://github.com/google/langextract",
+    "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
+    "date_added": "2026-02-09"
+  },
+  {
+    "full_name": "iOfficeAI/AionUi",
+    "url": "https://github.com/iOfficeAI/AionUi",
+    "description": "Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
+    "date_added": "2026-02-09"
+  },
+  {
+    "full_name": "home-assistant/addons",
+    "url": "https://github.com/home-assistant/addons",
+    "description": "➕ Docker add-ons for Home Assistant",
+    "date_added": "2026-02-09"
+  },
+  {
+    "full_name": "gitbutlerapp/gitbutler",
+    "url": "https://github.com/gitbutlerapp/gitbutler",
+    "description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
+    "date_added": "2026-02-09"
   }
 ]
