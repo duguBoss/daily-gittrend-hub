@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-02-09)
+# GitHub Trending (Added at: 2026-02-10)
 
-### [sponsors/pydantic](https://github.com/sponsors/pydantic)
-- A minimal, secure Python interpreter written in Rust for use by AI
+### [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN)
+- 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
 
-### [google/langextract](https://github.com/google/langextract)
-- A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
+### [public-apis/public-apis](https://github.com/public-apis/public-apis)
+- A collective list of free APIs
 
-### [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi)
-- Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!
+### [github/gh-aw](https://github.com/github/gh-aw)
+- GitHub Agentic Workflows
 
-### [home-assistant/addons](https://github.com/home-assistant/addons)
-- ➕ Docker add-ons for Home Assistant
+### [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
+- Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
 
-### [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-- The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
+### [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin)
+- Official Claude Code compound engineering plugin
 

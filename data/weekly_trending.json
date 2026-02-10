@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "sponsors/termux",
-    "url": "https://github.com/sponsors/termux",
-    "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
-    "date_added": "2026-02-03"
-  },
-  {
-    "full_name": "sponsors/netbirdio",
-    "url": "https://github.com/sponsors/netbirdio",
-    "description": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
-    "date_added": "2026-02-03"
-  },
-  {
-    "full_name": "OpenBMB/ChatDev",
-    "url": "https://github.com/OpenBMB/ChatDev",
-    "description": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration",
-    "date_added": "2026-02-03"
-  },
-  {
-    "full_name": "autobrr/qui",
-    "url": "https://github.com/autobrr/qui",
-    "description": "A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers.",
-    "date_added": "2026-02-03"
-  },
-  {
-    "full_name": "VectifyAI/PageIndex",
-    "url": "https://github.com/VectifyAI/PageIndex",
-    "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "date_added": "2026-02-03"
-  },
-  {
     "full_name": "masoncl/review-prompts",
     "url": "https://github.com/masoncl/review-prompts",
     "description": "AI review prompts",
@@ -202,5 +172,35 @@
     "url": "https://github.com/gitbutlerapp/gitbutler",
     "description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
     "date_added": "2026-02-09"
+  },
+  {
+    "full_name": "hsliuping/TradingAgents-CN",
+    "url": "https://github.com/hsliuping/TradingAgents-CN",
+    "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
+    "date_added": "2026-02-10"
+  },
+  {
+    "full_name": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "description": "A collective list of free APIs",
+    "date_added": "2026-02-10"
+  },
+  {
+    "full_name": "github/gh-aw",
+    "url": "https://github.com/github/gh-aw",
+    "description": "GitHub Agentic Workflows",
+    "date_added": "2026-02-10"
+  },
+  {
+    "full_name": "Shubhamsaboo/awesome-llm-apps",
+    "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+    "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+    "date_added": "2026-02-10"
+  },
+  {
+    "full_name": "EveryInc/compound-engineering-plugin",
+    "url": "https://github.com/EveryInc/compound-engineering-plugin",
+    "description": "Official Claude Code compound engineering plugin",
+    "date_added": "2026-02-10"
   }
 ]
