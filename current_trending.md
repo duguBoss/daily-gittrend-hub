@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-02-10)
+# GitHub Trending (Added at: 2026-02-11)
 
-### [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN)
-- 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
+### [carlvellotti/claude-code-pm-course](https://github.com/carlvellotti/claude-code-pm-course)
+- Interactive course teaching Product Managers how to use Claude Code effectively
 
-### [public-apis/public-apis](https://github.com/public-apis/public-apis)
-- A collective list of free APIs
+### [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb)
+- Free, simple, and intuitive online database diagram editor and SQL generator.
 
-### [github/gh-aw](https://github.com/github/gh-aw)
-- GitHub Agentic Workflows
+### [cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources)
+- A list of free LLM inference resources accessible via API.
 
-### [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
-- Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+### [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills)
+- 66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
 
-### [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin)
-- Official Claude Code compound engineering plugin
+### [virattt/dexter](https://github.com/virattt/dexter)
+- An autonomous agent for deep financial research
 
