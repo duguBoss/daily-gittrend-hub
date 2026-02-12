@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "disler/claude-code-hooks-mastery",
-    "url": "https://github.com/disler/claude-code-hooks-mastery",
-    "description": "Master Claude Code Hooks",
-    "date_added": "2026-02-05"
-  },
-  {
-    "full_name": "ankitects/anki",
-    "url": "https://github.com/ankitects/anki",
-    "description": "Anki is a smart spaced repetition flashcard program",
-    "date_added": "2026-02-05"
-  },
-  {
-    "full_name": "open-telemetry/opentelemetry-collector-contrib",
-    "url": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
-    "description": "Contrib repository for the OpenTelemetry Collector",
-    "date_added": "2026-02-05"
-  },
-  {
-    "full_name": "Canner/WrenAI",
-    "url": "https://github.com/Canner/WrenAI",
-    "description": "⚡️ GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered business intelligence in seconds.",
-    "date_added": "2026-02-05"
-  },
-  {
-    "full_name": "nvm-sh/nvm",
-    "url": "https://github.com/nvm-sh/nvm",
-    "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
-    "date_added": "2026-02-05"
-  },
-  {
     "full_name": "bytedance/UI-TARS-desktop",
     "url": "https://github.com/bytedance/UI-TARS-desktop",
     "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
@@ -202,5 +172,23 @@
     "url": "https://github.com/virattt/dexter",
     "description": "An autonomous agent for deep financial research",
     "date_added": "2026-02-11"
+  },
+  {
+    "full_name": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+    "date_added": "2026-02-12"
+  },
+  {
+    "full_name": "ChromeDevTools/chrome-devtools-mcp",
+    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+    "description": "Chrome DevTools for coding agents",
+    "date_added": "2026-02-12"
+  },
+  {
+    "full_name": "sponsors/patchy631",
+    "url": "https://github.com/sponsors/patchy631",
+    "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+    "date_added": "2026-02-12"
   }
 ]

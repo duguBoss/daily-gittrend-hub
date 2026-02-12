@@ -1,17 +1,11 @@
-# GitHub Trending (Added at: 2026-02-11)
+# GitHub Trending (Added at: 2026-02-12)
 
-### [carlvellotti/claude-code-pm-course](https://github.com/carlvellotti/claude-code-pm-course)
-- Interactive course teaching Product Managers how to use Claude Code effectively
+### [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
+- Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 
-### [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb)
-- Free, simple, and intuitive online database diagram editor and SQL generator.
+### [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
+- Chrome DevTools for coding agents
 
-### [cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources)
-- A list of free LLM inference resources accessible via API.
-
-### [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills)
-- 66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
-
-### [virattt/dexter](https://github.com/virattt/dexter)
-- An autonomous agent for deep financial research
+### [sponsors/patchy631](https://github.com/sponsors/patchy631)
+- In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
 
