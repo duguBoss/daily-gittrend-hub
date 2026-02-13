@@ -1,11 +1,17 @@
-# GitHub Trending (Added at: 2026-02-12)
+# GitHub Trending (Added at: 2026-02-13)
 
-### [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
-- Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
+### [tambo-ai/tambo](https://github.com/tambo-ai/tambo)
+- Generative UI SDK for React
 
-### [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
-- Chrome DevTools for coding agents
+### [sponsors/danielmiessler](https://github.com/sponsors/danielmiessler)
+- Agentic AI Infrastructure for magnifying HUMAN capabilities.
 
-### [sponsors/patchy631](https://github.com/sponsors/patchy631)
-- In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
+### [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat)
+- Open-source AI coworker, with memory
+
+### [sponsors/unslothai](https://github.com/sponsors/unslothai)
+- Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek, Qwen, Llama, Gemma, TTS 2x faster with 70% less VRAM.
+
+### [cinnyapp/cinny](https://github.com/cinnyapp/cinny)
+- Yet another matrix client
 

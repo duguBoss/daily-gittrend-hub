@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "bytedance/UI-TARS-desktop",
-    "url": "https://github.com/bytedance/UI-TARS-desktop",
-    "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
-    "date_added": "2026-02-06"
-  },
-  {
-    "full_name": "sponsors/j178",
-    "url": "https://github.com/sponsors/j178",
-    "description": "⚡ Better `pre-commit`, re-engineered in Rust",
-    "date_added": "2026-02-06"
-  },
-  {
-    "full_name": "sponsors/topoteretes",
-    "url": "https://github.com/sponsors/topoteretes",
-    "description": "Memory for AI Agents in 6 lines of code",
-    "date_added": "2026-02-06"
-  },
-  {
-    "full_name": "aquasecurity/trivy",
-    "url": "https://github.com/aquasecurity/trivy",
-    "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
-    "date_added": "2026-02-06"
-  },
-  {
-    "full_name": "fish-shell/fish-shell",
-    "url": "https://github.com/fish-shell/fish-shell",
-    "description": "The user-friendly command line shell.",
-    "date_added": "2026-02-06"
-  },
-  {
     "full_name": "sponsors/likec4",
     "url": "https://github.com/sponsors/likec4",
     "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
@@ -190,5 +160,35 @@
     "url": "https://github.com/sponsors/patchy631",
     "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
     "date_added": "2026-02-12"
+  },
+  {
+    "full_name": "tambo-ai/tambo",
+    "url": "https://github.com/tambo-ai/tambo",
+    "description": "Generative UI SDK for React",
+    "date_added": "2026-02-13"
+  },
+  {
+    "full_name": "sponsors/danielmiessler",
+    "url": "https://github.com/sponsors/danielmiessler",
+    "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
+    "date_added": "2026-02-13"
+  },
+  {
+    "full_name": "rowboatlabs/rowboat",
+    "url": "https://github.com/rowboatlabs/rowboat",
+    "description": "Open-source AI coworker, with memory",
+    "date_added": "2026-02-13"
+  },
+  {
+    "full_name": "sponsors/unslothai",
+    "url": "https://github.com/sponsors/unslothai",
+    "description": "Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek, Qwen, Llama, Gemma, TTS 2x faster with 70% less VRAM.",
+    "date_added": "2026-02-13"
+  },
+  {
+    "full_name": "cinnyapp/cinny",
+    "url": "https://github.com/cinnyapp/cinny",
+    "description": "Yet another matrix client",
+    "date_added": "2026-02-13"
   }
 ]
