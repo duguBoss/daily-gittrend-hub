@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-02-13)
+# GitHub Trending (Added at: 2026-02-14)
 
-### [tambo-ai/tambo](https://github.com/tambo-ai/tambo)
-- Generative UI SDK for React
+### [SynkraAI/aios-core](https://github.com/SynkraAI/aios-core)
+- Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0
 
-### [sponsors/danielmiessler](https://github.com/sponsors/danielmiessler)
-- Agentic AI Infrastructure for magnifying HUMAN capabilities.
+### [TelegramMessenger/MTProxy](https://github.com/TelegramMessenger/MTProxy)
+- 
 
-### [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat)
-- Open-source AI coworker, with memory
+### [google-deepmind/superhuman](https://github.com/google-deepmind/superhuman)
+- 
 
-### [sponsors/unslothai](https://github.com/sponsors/unslothai)
-- Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek, Qwen, Llama, Gemma, TTS 2x faster with 70% less VRAM.
+### [HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)
+- Official code repo for the O'Reilly Book - "Hands-On Large Language Models"
 
-### [cinnyapp/cinny](https://github.com/cinnyapp/cinny)
-- Yet another matrix client
+### [THUDM/slime](https://github.com/THUDM/slime)
+- slime is an LLM post-training framework for RL Scaling.
 
