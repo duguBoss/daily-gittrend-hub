@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "sponsors/pydantic",
-    "url": "https://github.com/sponsors/pydantic",
-    "description": "A minimal, secure Python interpreter written in Rust for use by AI",
-    "date_added": "2026-02-09"
-  },
-  {
-    "full_name": "google/langextract",
-    "url": "https://github.com/google/langextract",
-    "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
-    "date_added": "2026-02-09"
-  },
-  {
-    "full_name": "iOfficeAI/AionUi",
-    "url": "https://github.com/iOfficeAI/AionUi",
-    "description": "Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
-    "date_added": "2026-02-09"
-  },
-  {
-    "full_name": "home-assistant/addons",
-    "url": "https://github.com/home-assistant/addons",
-    "description": "➕ Docker add-ons for Home Assistant",
-    "date_added": "2026-02-09"
-  },
-  {
-    "full_name": "gitbutlerapp/gitbutler",
-    "url": "https://github.com/gitbutlerapp/gitbutler",
-    "description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
-    "date_added": "2026-02-09"
-  },
-  {
     "full_name": "hsliuping/TradingAgents-CN",
     "url": "https://github.com/hsliuping/TradingAgents-CN",
     "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
@@ -196,5 +166,35 @@
     "url": "https://github.com/letta-ai/letta-code",
     "description": "The memory-first coding agent",
     "date_added": "2026-02-15"
+  },
+  {
+    "full_name": "nautechsystems/nautilus_trader",
+    "url": "https://github.com/nautechsystems/nautilus_trader",
+    "description": "A high-performance algorithmic trading platform and event-driven backtester",
+    "date_added": "2026-02-16"
+  },
+  {
+    "full_name": "sponsors/steipete",
+    "url": "https://github.com/sponsors/steipete",
+    "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
+    "date_added": "2026-02-16"
+  },
+  {
+    "full_name": "sponsors/openclaw",
+    "url": "https://github.com/sponsors/openclaw",
+    "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+    "date_added": "2026-02-16"
+  },
+  {
+    "full_name": "moonshine-ai/moonshine",
+    "url": "https://github.com/moonshine-ai/moonshine",
+    "description": "Fast and accurate automatic speech recognition (ASR) for edge devices",
+    "date_added": "2026-02-16"
+  },
+  {
+    "full_name": "brave/brave-browser",
+    "url": "https://github.com/brave/brave-browser",
+    "description": "Brave browser for Android, iOS, Linux, macOS, Windows.",
+    "date_added": "2026-02-16"
   }
 ]
