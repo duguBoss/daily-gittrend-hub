@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "hsliuping/TradingAgents-CN",
-    "url": "https://github.com/hsliuping/TradingAgents-CN",
-    "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
-    "date_added": "2026-02-10"
-  },
-  {
-    "full_name": "public-apis/public-apis",
-    "url": "https://github.com/public-apis/public-apis",
-    "description": "A collective list of free APIs",
-    "date_added": "2026-02-10"
-  },
-  {
-    "full_name": "github/gh-aw",
-    "url": "https://github.com/github/gh-aw",
-    "description": "GitHub Agentic Workflows",
-    "date_added": "2026-02-10"
-  },
-  {
-    "full_name": "Shubhamsaboo/awesome-llm-apps",
-    "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-    "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
-    "date_added": "2026-02-10"
-  },
-  {
-    "full_name": "EveryInc/compound-engineering-plugin",
-    "url": "https://github.com/EveryInc/compound-engineering-plugin",
-    "description": "Official Claude Code compound engineering plugin",
-    "date_added": "2026-02-10"
-  },
-  {
     "full_name": "carlvellotti/claude-code-pm-course",
     "url": "https://github.com/carlvellotti/claude-code-pm-course",
     "description": "Interactive course teaching Product Managers how to use Claude Code effectively",
@@ -196,5 +166,17 @@
     "url": "https://github.com/brave/brave-browser",
     "description": "Brave browser for Android, iOS, Linux, macOS, Windows.",
     "date_added": "2026-02-16"
+  },
+  {
+    "full_name": "seerr-team/seerr",
+    "url": "https://github.com/seerr-team/seerr",
+    "description": "Open-source media request and discovery manager for Jellyfin, Plex, and Emby.",
+    "date_added": "2026-02-17"
+  },
+  {
+    "full_name": "sponsors/hummingbot",
+    "url": "https://github.com/sponsors/hummingbot",
+    "description": "Open source software that helps you create and deploy high-frequency crypto trading bots",
+    "date_added": "2026-02-17"
   }
 ]

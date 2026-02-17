@@ -1,17 +1,8 @@
-# GitHub Trending (Added at: 2026-02-16)
+# GitHub Trending (Added at: 2026-02-17)
 
-### [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader)
-- A high-performance algorithmic trading platform and event-driven backtester
+### [seerr-team/seerr](https://github.com/seerr-team/seerr)
+- Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
 
-### [sponsors/steipete](https://github.com/sponsors/steipete)
-- Google Suite CLI: Gmail, GCal, GDrive, GContacts.
-
-### [sponsors/openclaw](https://github.com/sponsors/openclaw)
-- Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
-
-### [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine)
-- Fast and accurate automatic speech recognition (ASR) for edge devices
-
-### [brave/brave-browser](https://github.com/brave/brave-browser)
-- Brave browser for Android, iOS, Linux, macOS, Windows.
+### [sponsors/hummingbot](https://github.com/sponsors/hummingbot)
+- Open source software that helps you create and deploy high-frequency crypto trading bots
 
