@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "carlvellotti/claude-code-pm-course",
-    "url": "https://github.com/carlvellotti/claude-code-pm-course",
-    "description": "Interactive course teaching Product Managers how to use Claude Code effectively",
-    "date_added": "2026-02-11"
-  },
-  {
-    "full_name": "drawdb-io/drawdb",
-    "url": "https://github.com/drawdb-io/drawdb",
-    "description": "Free, simple, and intuitive online database diagram editor and SQL generator.",
-    "date_added": "2026-02-11"
-  },
-  {
-    "full_name": "cheahjs/free-llm-api-resources",
-    "url": "https://github.com/cheahjs/free-llm-api-resources",
-    "description": "A list of free LLM inference resources accessible via API.",
-    "date_added": "2026-02-11"
-  },
-  {
-    "full_name": "Jeffallan/claude-skills",
-    "url": "https://github.com/Jeffallan/claude-skills",
-    "description": "66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.",
-    "date_added": "2026-02-11"
-  },
-  {
-    "full_name": "virattt/dexter",
-    "url": "https://github.com/virattt/dexter",
-    "description": "An autonomous agent for deep financial research",
-    "date_added": "2026-02-11"
-  },
-  {
     "full_name": "microsoft/PowerToys",
     "url": "https://github.com/microsoft/PowerToys",
     "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
@@ -178,5 +148,35 @@
     "url": "https://github.com/sponsors/hummingbot",
     "description": "Open source software that helps you create and deploy high-frequency crypto trading bots",
     "date_added": "2026-02-17"
+  },
+  {
+    "full_name": "p-e-w/heretic",
+    "url": "https://github.com/p-e-w/heretic",
+    "description": "Fully automatic censorship removal for language models",
+    "date_added": "2026-02-18"
+  },
+  {
+    "full_name": "sponsors/obra",
+    "url": "https://github.com/sponsors/obra",
+    "description": "An agentic skills framework & software development methodology that works.",
+    "date_added": "2026-02-18"
+  },
+  {
+    "full_name": "ashishps1/awesome-system-design-resources",
+    "url": "https://github.com/ashishps1/awesome-system-design-resources",
+    "description": "Learn System Design concepts and prepare for interviews using free resources.",
+    "date_added": "2026-02-18"
+  },
+  {
+    "full_name": "anthropics/claude-quickstarts",
+    "url": "https://github.com/anthropics/claude-quickstarts",
+    "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+    "date_added": "2026-02-18"
+  },
+  {
+    "full_name": "davila7/claude-code-templates",
+    "url": "https://github.com/davila7/claude-code-templates",
+    "description": "CLI tool for configuring and monitoring Claude Code",
+    "date_added": "2026-02-18"
   }
 ]

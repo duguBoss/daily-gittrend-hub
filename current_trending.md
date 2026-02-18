@@ -1,8 +1,17 @@
-# GitHub Trending (Added at: 2026-02-17)
+# GitHub Trending (Added at: 2026-02-18)
 
-### [seerr-team/seerr](https://github.com/seerr-team/seerr)
-- Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
+### [p-e-w/heretic](https://github.com/p-e-w/heretic)
+- Fully automatic censorship removal for language models
 
-### [sponsors/hummingbot](https://github.com/sponsors/hummingbot)
-- Open source software that helps you create and deploy high-frequency crypto trading bots
+### [sponsors/obra](https://github.com/sponsors/obra)
+- An agentic skills framework & software development methodology that works.
+
+### [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources)
+- Learn System Design concepts and prepare for interviews using free resources.
+
+### [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts)
+- A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
+
+### [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates)
+- CLI tool for configuring and monitoring Claude Code
 
