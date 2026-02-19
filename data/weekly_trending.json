@@ -1,23 +1,5 @@
 [
   {
-    "full_name": "microsoft/PowerToys",
-    "url": "https://github.com/microsoft/PowerToys",
-    "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
-    "date_added": "2026-02-12"
-  },
-  {
-    "full_name": "ChromeDevTools/chrome-devtools-mcp",
-    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-    "description": "Chrome DevTools for coding agents",
-    "date_added": "2026-02-12"
-  },
-  {
-    "full_name": "sponsors/patchy631",
-    "url": "https://github.com/sponsors/patchy631",
-    "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
-    "date_added": "2026-02-12"
-  },
-  {
     "full_name": "tambo-ai/tambo",
     "url": "https://github.com/tambo-ai/tambo",
     "description": "Generative UI SDK for React",
@@ -178,5 +160,35 @@
     "url": "https://github.com/davila7/claude-code-templates",
     "description": "CLI tool for configuring and monitoring Claude Code",
     "date_added": "2026-02-18"
+  },
+  {
+    "full_name": "OpenCTI-Platform/opencti",
+    "url": "https://github.com/OpenCTI-Platform/opencti",
+    "description": "Open Cyber Threat Intelligence Platform",
+    "date_added": "2026-02-19"
+  },
+  {
+    "full_name": "QwenLM/qwen-code",
+    "url": "https://github.com/QwenLM/qwen-code",
+    "description": "An open-source AI agent that lives in your terminal.",
+    "date_added": "2026-02-19"
+  },
+  {
+    "full_name": "sponsors/NirDiamant",
+    "url": "https://github.com/sponsors/NirDiamant",
+    "description": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses.",
+    "date_added": "2026-02-19"
+  },
+  {
+    "full_name": "harvard-edge/cs249r_book",
+    "url": "https://github.com/harvard-edge/cs249r_book",
+    "description": "Introduction to Machine Learning Systems",
+    "date_added": "2026-02-19"
+  },
+  {
+    "full_name": "HailToDodongo/pyrite64",
+    "url": "https://github.com/HailToDodongo/pyrite64",
+    "description": "N64 Game-Engine and Editor using libdragon & tiny3d",
+    "date_added": "2026-02-19"
   }
 ]

@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-02-18)
+# GitHub Trending (Added at: 2026-02-19)
 
-### [p-e-w/heretic](https://github.com/p-e-w/heretic)
-- Fully automatic censorship removal for language models
+### [OpenCTI-Platform/opencti](https://github.com/OpenCTI-Platform/opencti)
+- Open Cyber Threat Intelligence Platform
 
-### [sponsors/obra](https://github.com/sponsors/obra)
-- An agentic skills framework & software development methodology that works.
+### [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+- An open-source AI agent that lives in your terminal.
 
-### [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources)
-- Learn System Design concepts and prepare for interviews using free resources.
+### [sponsors/NirDiamant](https://github.com/sponsors/NirDiamant)
+- This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses.
 
-### [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts)
-- A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
+### [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book)
+- Introduction to Machine Learning Systems
 
-### [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates)
-- CLI tool for configuring and monitoring Claude Code
+### [HailToDodongo/pyrite64](https://github.com/HailToDodongo/pyrite64)
+- N64 Game-Engine and Editor using libdragon & tiny3d
 
