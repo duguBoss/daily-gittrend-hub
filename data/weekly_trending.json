@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "tambo-ai/tambo",
-    "url": "https://github.com/tambo-ai/tambo",
-    "description": "Generative UI SDK for React",
-    "date_added": "2026-02-13"
-  },
-  {
-    "full_name": "sponsors/danielmiessler",
-    "url": "https://github.com/sponsors/danielmiessler",
-    "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
-    "date_added": "2026-02-13"
-  },
-  {
-    "full_name": "rowboatlabs/rowboat",
-    "url": "https://github.com/rowboatlabs/rowboat",
-    "description": "Open-source AI coworker, with memory",
-    "date_added": "2026-02-13"
-  },
-  {
-    "full_name": "sponsors/unslothai",
-    "url": "https://github.com/sponsors/unslothai",
-    "description": "Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek, Qwen, Llama, Gemma, TTS 2x faster with 70% less VRAM.",
-    "date_added": "2026-02-13"
-  },
-  {
-    "full_name": "cinnyapp/cinny",
-    "url": "https://github.com/cinnyapp/cinny",
-    "description": "Yet another matrix client",
-    "date_added": "2026-02-13"
-  },
-  {
     "full_name": "SynkraAI/aios-core",
     "url": "https://github.com/SynkraAI/aios-core",
     "description": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
@@ -190,5 +160,23 @@
     "url": "https://github.com/HailToDodongo/pyrite64",
     "description": "N64 Game-Engine and Editor using libdragon & tiny3d",
     "date_added": "2026-02-19"
+  },
+  {
+    "full_name": "RichardAtCT/claude-code-telegram",
+    "url": "https://github.com/RichardAtCT/claude-code-telegram",
+    "description": "A powerful Telegram bot that provides remote access to Claude Code, enabling developers to interact with their projects from anywhere with full AI assistance and session persistence.",
+    "date_added": "2026-02-20"
+  },
+  {
+    "full_name": "open-mercato/open-mercato",
+    "url": "https://github.com/open-mercato/open-mercato",
+    "description": "AI‑supportive CRM / ERP foundation framework — built to power R&D, new processes, operations, and growth. It’s modular, extensible, and designed for teams that want strong defaults with room to customize everything. Better than Django, Retool and other alternatives - and Enterprise Grade!",
+    "date_added": "2026-02-20"
+  },
+  {
+    "full_name": "freemocap/freemocap",
+    "url": "https://github.com/freemocap/freemocap",
+    "description": "Free Motion Capture for Everyone 💀✨",
+    "date_added": "2026-02-20"
   }
 ]
