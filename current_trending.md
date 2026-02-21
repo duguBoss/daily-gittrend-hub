@@ -1,11 +1,17 @@
-# GitHub Trending (Added at: 2026-02-20)
+# GitHub Trending (Added at: 2026-02-21)
 
-### [RichardAtCT/claude-code-telegram](https://github.com/RichardAtCT/claude-code-telegram)
-- A powerful Telegram bot that provides remote access to Claude Code, enabling developers to interact with their projects from anywhere with full AI assistance and session persistence.
+### [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi)
+- ✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks
 
-### [open-mercato/open-mercato](https://github.com/open-mercato/open-mercato)
-- AI‑supportive CRM / ERP foundation framework — built to power R&D, new processes, operations, and growth. It’s modular, extensible, and designed for teams that want strong defaults with room to customize everything. Better than Django, Retool and other alternatives - and Enterprise Grade!
+### [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun)
+- Build ultra fast, tiny, and cross-platform desktop apps with Typescript.
 
-### [freemocap/freemocap](https://github.com/freemocap/freemocap)
-- Free Motion Capture for Everyone 💀✨
+### [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
+- Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+
+### [PostHog/posthog](https://github.com/PostHog/posthog)
+- 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.
+
+### [sponsors/eslint](https://github.com/sponsors/eslint)
+- Find and fix problems in your JavaScript code.
 

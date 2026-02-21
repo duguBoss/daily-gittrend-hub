@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "SynkraAI/aios-core",
-    "url": "https://github.com/SynkraAI/aios-core",
-    "description": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
-    "date_added": "2026-02-14"
-  },
-  {
-    "full_name": "TelegramMessenger/MTProxy",
-    "url": "https://github.com/TelegramMessenger/MTProxy",
-    "description": "",
-    "date_added": "2026-02-14"
-  },
-  {
-    "full_name": "google-deepmind/superhuman",
-    "url": "https://github.com/google-deepmind/superhuman",
-    "description": "",
-    "date_added": "2026-02-14"
-  },
-  {
-    "full_name": "HandsOnLLM/Hands-On-Large-Language-Models",
-    "url": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models",
-    "description": "Official code repo for the O'Reilly Book - \"Hands-On Large Language Models\"",
-    "date_added": "2026-02-14"
-  },
-  {
-    "full_name": "THUDM/slime",
-    "url": "https://github.com/THUDM/slime",
-    "description": "slime is an LLM post-training framework for RL Scaling.",
-    "date_added": "2026-02-14"
-  },
-  {
     "full_name": "minio/minio",
     "url": "https://github.com/minio/minio",
     "description": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
@@ -178,5 +148,35 @@
     "url": "https://github.com/freemocap/freemocap",
     "description": "Free Motion Capture for Everyone 💀✨",
     "date_added": "2026-02-20"
+  },
+  {
+    "full_name": "vxcontrol/pentagi",
+    "url": "https://github.com/vxcontrol/pentagi",
+    "description": "✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+    "date_added": "2026-02-21"
+  },
+  {
+    "full_name": "blackboardsh/electrobun",
+    "url": "https://github.com/blackboardsh/electrobun",
+    "description": "Build ultra fast, tiny, and cross-platform desktop apps with Typescript.",
+    "date_added": "2026-02-21"
+  },
+  {
+    "full_name": "aquasecurity/trivy",
+    "url": "https://github.com/aquasecurity/trivy",
+    "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "date_added": "2026-02-21"
+  },
+  {
+    "full_name": "PostHog/posthog",
+    "url": "https://github.com/PostHog/posthog",
+    "description": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.",
+    "date_added": "2026-02-21"
+  },
+  {
+    "full_name": "sponsors/eslint",
+    "url": "https://github.com/sponsors/eslint",
+    "description": "Find and fix problems in your JavaScript code.",
+    "date_added": "2026-02-21"
   }
 ]
