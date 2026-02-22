@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "minio/minio",
-    "url": "https://github.com/minio/minio",
-    "description": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
-    "date_added": "2026-02-15"
-  },
-  {
-    "full_name": "alibaba/zvec",
-    "url": "https://github.com/alibaba/zvec",
-    "description": "A lightweight, lightning-fast, in-process vector database",
-    "date_added": "2026-02-15"
-  },
-  {
-    "full_name": "ruvnet/wifi-densepose",
-    "url": "https://github.com/ruvnet/wifi-densepose",
-    "description": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers",
-    "date_added": "2026-02-15"
-  },
-  {
-    "full_name": "Zipstack/unstract",
-    "url": "https://github.com/Zipstack/unstract",
-    "description": "No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents",
-    "date_added": "2026-02-15"
-  },
-  {
-    "full_name": "letta-ai/letta-code",
-    "url": "https://github.com/letta-ai/letta-code",
-    "description": "The memory-first coding agent",
-    "date_added": "2026-02-15"
-  },
-  {
     "full_name": "nautechsystems/nautilus_trader",
     "url": "https://github.com/nautechsystems/nautilus_trader",
     "description": "A high-performance algorithmic trading platform and event-driven backtester",
@@ -178,5 +148,35 @@
     "url": "https://github.com/sponsors/eslint",
     "description": "Find and fix problems in your JavaScript code.",
     "date_added": "2026-02-21"
+  },
+  {
+    "full_name": "sponsors/abhigyanpatwari",
+    "url": "https://github.com/sponsors/abhigyanpatwari",
+    "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+    "date_added": "2026-02-22"
+  },
+  {
+    "full_name": "huggingface/skills",
+    "url": "https://github.com/huggingface/skills",
+    "description": "",
+    "date_added": "2026-02-22"
+  },
+  {
+    "full_name": "PowerShell/PowerShell",
+    "url": "https://github.com/PowerShell/PowerShell",
+    "description": "PowerShell for every system!",
+    "date_added": "2026-02-22"
+  },
+  {
+    "full_name": "anthropics/claude-code",
+    "url": "https://github.com/anthropics/claude-code",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+    "date_added": "2026-02-22"
+  },
+  {
+    "full_name": "sponsors/stan-smith",
+    "url": "https://github.com/sponsors/stan-smith",
+    "description": "Make beautiful isometric infrastructure diagrams",
+    "date_added": "2026-02-22"
   }
 ]
