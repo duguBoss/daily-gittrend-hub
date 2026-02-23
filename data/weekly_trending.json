@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "nautechsystems/nautilus_trader",
-    "url": "https://github.com/nautechsystems/nautilus_trader",
-    "description": "A high-performance algorithmic trading platform and event-driven backtester",
-    "date_added": "2026-02-16"
-  },
-  {
-    "full_name": "sponsors/steipete",
-    "url": "https://github.com/sponsors/steipete",
-    "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
-    "date_added": "2026-02-16"
-  },
-  {
-    "full_name": "sponsors/openclaw",
-    "url": "https://github.com/sponsors/openclaw",
-    "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
-    "date_added": "2026-02-16"
-  },
-  {
-    "full_name": "moonshine-ai/moonshine",
-    "url": "https://github.com/moonshine-ai/moonshine",
-    "description": "Fast and accurate automatic speech recognition (ASR) for edge devices",
-    "date_added": "2026-02-16"
-  },
-  {
-    "full_name": "brave/brave-browser",
-    "url": "https://github.com/brave/brave-browser",
-    "description": "Brave browser for Android, iOS, Linux, macOS, Windows.",
-    "date_added": "2026-02-16"
-  },
-  {
     "full_name": "seerr-team/seerr",
     "url": "https://github.com/seerr-team/seerr",
     "description": "Open-source media request and discovery manager for Jellyfin, Plex, and Emby.",
@@ -178,5 +148,29 @@
     "url": "https://github.com/sponsors/stan-smith",
     "description": "Make beautiful isometric infrastructure diagrams",
     "date_added": "2026-02-22"
+  },
+  {
+    "full_name": "sponsors/x1xhlol",
+    "url": "https://github.com/sponsors/x1xhlol",
+    "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+    "date_added": "2026-02-23"
+  },
+  {
+    "full_name": "Stremio/stremio-web",
+    "url": "https://github.com/Stremio/stremio-web",
+    "description": "Stremio - Freedom to Stream",
+    "date_added": "2026-02-23"
+  },
+  {
+    "full_name": "sponsors/OpenBB-finance",
+    "url": "https://github.com/sponsors/OpenBB-finance",
+    "description": "Financial data platform for analysts, quants and AI agents.",
+    "date_added": "2026-02-23"
+  },
+  {
+    "full_name": "cloudflare/agents",
+    "url": "https://github.com/cloudflare/agents",
+    "description": "Build and deploy AI Agents on Cloudflare",
+    "date_added": "2026-02-23"
   }
 ]

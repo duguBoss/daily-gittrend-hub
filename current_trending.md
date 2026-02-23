@@ -1,17 +1,14 @@
-# GitHub Trending (Added at: 2026-02-22)
+# GitHub Trending (Added at: 2026-02-23)
 
-### [sponsors/abhigyanpatwari](https://github.com/sponsors/abhigyanpatwari)
-- GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration
+### [sponsors/x1xhlol](https://github.com/sponsors/x1xhlol)
+- FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
 
-### [huggingface/skills](https://github.com/huggingface/skills)
-- 
+### [Stremio/stremio-web](https://github.com/Stremio/stremio-web)
+- Stremio - Freedom to Stream
 
-### [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell)
-- PowerShell for every system!
+### [sponsors/OpenBB-finance](https://github.com/sponsors/OpenBB-finance)
+- Financial data platform for analysts, quants and AI agents.
 
-### [anthropics/claude-code](https://github.com/anthropics/claude-code)
-- Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-
-### [sponsors/stan-smith](https://github.com/sponsors/stan-smith)
-- Make beautiful isometric infrastructure diagrams
+### [cloudflare/agents](https://github.com/cloudflare/agents)
+- Build and deploy AI Agents on Cloudflare
 
