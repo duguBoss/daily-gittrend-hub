@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-02-24)
+# GitHub Trending (Added at: 2026-02-25)
 
-### [sponsors/muratcankoylan](https://github.com/sponsors/muratcankoylan)
-- A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
+### [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird)
+- Truly independent web browser
 
-### [sponsors/f](https://github.com/sponsors/f)
-- f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+### [sponsors/obra](https://github.com/sponsors/obra)
+- An agentic skills framework & software development methodology that works.
 
-### [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion)
-- A latent text-to-image diffusion model
+### [ruvnet/ruvector](https://github.com/ruvnet/ruvector)
+- RuVector is a High Performance, Real-Time, Self-Learning, Vector Graph Neural Network, and Database built in Rust.
 
-### [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex)
-- 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
+### [sponsors/D4Vinci](https://github.com/sponsors/D4Vinci)
+- 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
 
-### [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui)
-- Use Claude Code, Cursor CLI or Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and projects remotely
+### [GVCLab/PersonaLive](https://github.com/GVCLab/PersonaLive)
+- [CVPR 2026] PersonaLive! : Expressive Portrait Image Animation for Live Streaming
 
