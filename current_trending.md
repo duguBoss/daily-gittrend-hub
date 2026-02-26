@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-02-25)
+# GitHub Trending (Added at: 2026-02-26)
 
-### [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird)
-- Truly independent web browser
+### [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents)
+- 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
 
-### [sponsors/obra](https://github.com/sponsors/obra)
-- An agentic skills framework & software development methodology that works.
+### [bytedance/deer-flow](https://github.com/bytedance/deer-flow)
+- An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours.
 
-### [ruvnet/ruvector](https://github.com/ruvnet/ruvector)
-- RuVector is a High Performance, Real-Time, Self-Learning, Vector Graph Neural Network, and Database built in Rust.
+### [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU)
+- Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).
 
-### [sponsors/D4Vinci](https://github.com/sponsors/D4Vinci)
-- 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
+### [NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM)
+- Ongoing research training transformer models at scale
 
-### [GVCLab/PersonaLive](https://github.com/GVCLab/PersonaLive)
-- [CVPR 2026] PersonaLive! : Expressive Portrait Image Animation for Live Streaming
+### [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)
+- Bash is all you need - A nano Claude Code–like agent, built from 0 to 1
 
