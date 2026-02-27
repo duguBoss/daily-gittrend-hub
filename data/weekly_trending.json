@@ -1,23 +1,5 @@
 [
   {
-    "full_name": "RichardAtCT/claude-code-telegram",
-    "url": "https://github.com/RichardAtCT/claude-code-telegram",
-    "description": "A powerful Telegram bot that provides remote access to Claude Code, enabling developers to interact with their projects from anywhere with full AI assistance and session persistence.",
-    "date_added": "2026-02-20"
-  },
-  {
-    "full_name": "open-mercato/open-mercato",
-    "url": "https://github.com/open-mercato/open-mercato",
-    "description": "AI‑supportive CRM / ERP foundation framework — built to power R&D, new processes, operations, and growth. It’s modular, extensible, and designed for teams that want strong defaults with room to customize everything. Better than Django, Retool and other alternatives - and Enterprise Grade!",
-    "date_added": "2026-02-20"
-  },
-  {
-    "full_name": "freemocap/freemocap",
-    "url": "https://github.com/freemocap/freemocap",
-    "description": "Free Motion Capture for Everyone 💀✨",
-    "date_added": "2026-02-20"
-  },
-  {
     "full_name": "vxcontrol/pentagi",
     "url": "https://github.com/vxcontrol/pentagi",
     "description": "✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
@@ -190,5 +172,29 @@
     "url": "https://github.com/shareAI-lab/learn-claude-code",
     "description": "Bash is all you need - A nano Claude Code–like agent, built from 0 to 1",
     "date_added": "2026-02-26"
+  },
+  {
+    "full_name": "clockworklabs/SpacetimeDB",
+    "url": "https://github.com/clockworklabs/SpacetimeDB",
+    "description": "Development at the speed of light",
+    "date_added": "2026-02-27"
+  },
+  {
+    "full_name": "farion1231/cc-switch",
+    "url": "https://github.com/farion1231/cc-switch",
+    "description": "A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.",
+    "date_added": "2026-02-27"
+  },
+  {
+    "full_name": "ruvnet/claude-flow",
+    "url": "https://github.com/ruvnet/claude-flow",
+    "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
+    "date_added": "2026-02-27"
+  },
+  {
+    "full_name": "moonshine-ai/moonshine",
+    "url": "https://github.com/moonshine-ai/moonshine",
+    "description": "Fast and accurate automatic speech recognition (ASR) for edge devices",
+    "date_added": "2026-02-27"
   }
 ]

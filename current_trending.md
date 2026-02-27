@@ -1,17 +1,14 @@
-# GitHub Trending (Added at: 2026-02-26)
+# GitHub Trending (Added at: 2026-02-27)
 
-### [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents)
-- 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
+### [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB)
+- Development at the speed of light
 
-### [bytedance/deer-flow](https://github.com/bytedance/deer-flow)
-- An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours.
+### [farion1231/cc-switch](https://github.com/farion1231/cc-switch)
+- A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.
 
-### [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU)
-- Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).
+### [ruvnet/claude-flow](https://github.com/ruvnet/claude-flow)
+- 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration
 
-### [NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM)
-- Ongoing research training transformer models at scale
-
-### [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)
-- Bash is all you need - A nano Claude Code–like agent, built from 0 to 1
+### [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine)
+- Fast and accurate automatic speech recognition (ASR) for edge devices
 
