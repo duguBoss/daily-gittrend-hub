@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "sponsors/abhigyanpatwari",
-    "url": "https://github.com/sponsors/abhigyanpatwari",
-    "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
-    "date_added": "2026-02-22"
-  },
-  {
-    "full_name": "huggingface/skills",
-    "url": "https://github.com/huggingface/skills",
-    "description": "",
-    "date_added": "2026-02-22"
-  },
-  {
-    "full_name": "PowerShell/PowerShell",
-    "url": "https://github.com/PowerShell/PowerShell",
-    "description": "PowerShell for every system!",
-    "date_added": "2026-02-22"
-  },
-  {
-    "full_name": "anthropics/claude-code",
-    "url": "https://github.com/anthropics/claude-code",
-    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-    "date_added": "2026-02-22"
-  },
-  {
-    "full_name": "sponsors/stan-smith",
-    "url": "https://github.com/sponsors/stan-smith",
-    "description": "Make beautiful isometric infrastructure diagrams",
-    "date_added": "2026-02-22"
-  },
-  {
     "full_name": "sponsors/x1xhlol",
     "url": "https://github.com/sponsors/x1xhlol",
     "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
@@ -196,5 +166,35 @@
     "url": "https://github.com/sponsors/steipete",
     "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
     "date_added": "2026-02-28"
+  },
+  {
+    "full_name": "ruvnet/wifi-densepose",
+    "url": "https://github.com/ruvnet/wifi-densepose",
+    "description": "WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
+    "date_added": "2026-03-01"
+  },
+  {
+    "full_name": "anthropics/claude-code",
+    "url": "https://github.com/anthropics/claude-code",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+    "date_added": "2026-03-01"
+  },
+  {
+    "full_name": "Shubhamsaboo/awesome-llm-apps",
+    "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+    "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+    "date_added": "2026-03-01"
+  },
+  {
+    "full_name": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "description": "",
+    "date_added": "2026-03-01"
+  },
+  {
+    "full_name": "superset-sh/superset",
+    "url": "https://github.com/superset-sh/superset",
+    "description": "IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine",
+    "date_added": "2026-03-01"
   }
 ]
