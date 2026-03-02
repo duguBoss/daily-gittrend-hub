@@ -1,29 +1,5 @@
 [
   {
-    "full_name": "sponsors/x1xhlol",
-    "url": "https://github.com/sponsors/x1xhlol",
-    "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-    "date_added": "2026-02-23"
-  },
-  {
-    "full_name": "Stremio/stremio-web",
-    "url": "https://github.com/Stremio/stremio-web",
-    "description": "Stremio - Freedom to Stream",
-    "date_added": "2026-02-23"
-  },
-  {
-    "full_name": "sponsors/OpenBB-finance",
-    "url": "https://github.com/sponsors/OpenBB-finance",
-    "description": "Financial data platform for analysts, quants and AI agents.",
-    "date_added": "2026-02-23"
-  },
-  {
-    "full_name": "cloudflare/agents",
-    "url": "https://github.com/cloudflare/agents",
-    "description": "Build and deploy AI Agents on Cloudflare",
-    "date_added": "2026-02-23"
-  },
-  {
     "full_name": "sponsors/muratcankoylan",
     "url": "https://github.com/sponsors/muratcankoylan",
     "description": "A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.",
@@ -196,5 +172,35 @@
     "url": "https://github.com/superset-sh/superset",
     "description": "IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine",
     "date_added": "2026-03-01"
+  },
+  {
+    "full_name": "microsoft/markitdown",
+    "url": "https://github.com/microsoft/markitdown",
+    "description": "Python tool for converting files and office documents to Markdown.",
+    "date_added": "2026-03-02"
+  },
+  {
+    "full_name": "alibaba/OpenSandbox",
+    "url": "https://github.com/alibaba/OpenSandbox",
+    "description": "OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training.",
+    "date_added": "2026-03-02"
+  },
+  {
+    "full_name": "K-Dense-AI/claude-scientific-skills",
+    "url": "https://github.com/K-Dense-AI/claude-scientific-skills",
+    "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+    "date_added": "2026-03-02"
+  },
+  {
+    "full_name": "basecamp/omarchy",
+    "url": "https://github.com/basecamp/omarchy",
+    "description": "Beautiful, Modern & Opinionated Linux",
+    "date_added": "2026-03-02"
+  },
+  {
+    "full_name": "X-PLUG/MobileAgent",
+    "url": "https://github.com/X-PLUG/MobileAgent",
+    "description": "Mobile-Agent: The Powerful GUI Agent Family",
+    "date_added": "2026-03-02"
   }
 ]
