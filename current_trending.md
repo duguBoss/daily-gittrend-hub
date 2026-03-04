@@ -1,11 +1,17 @@
-# GitHub Trending (Added at: 2026-03-03)
+# GitHub Trending (Added at: 2026-03-04)
 
-### [ruvnet/RuView](https://github.com/ruvnet/RuView)
-- π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.
+### [sponsors/msitarzewski](https://github.com/sponsors/msitarzewski)
+- A complete AI agency at your fingertips** - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
 
-### [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial)
-- Anthropic's Interactive Prompt Engineering Tutorial
+### [CodebuffAI/codebuff](https://github.com/CodebuffAI/codebuff)
+- Generate code from the terminal!
 
-### [sponsors/servo](https://github.com/sponsors/servo)
-- Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
+### [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope)
+- Build and run agents you can see, understand and trust.
+
+### [agentscope-ai/ReMe](https://github.com/agentscope-ai/ReMe)
+- ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.
+
+### [LMCache/LMCache](https://github.com/LMCache/LMCache)
+- Supercharge Your LLM with the Fastest KV Cache Layer
 

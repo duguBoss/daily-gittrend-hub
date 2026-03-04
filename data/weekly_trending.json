@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "LadybirdBrowser/ladybird",
-    "url": "https://github.com/LadybirdBrowser/ladybird",
-    "description": "Truly independent web browser",
-    "date_added": "2026-02-25"
-  },
-  {
-    "full_name": "sponsors/obra",
-    "url": "https://github.com/sponsors/obra",
-    "description": "An agentic skills framework & software development methodology that works.",
-    "date_added": "2026-02-25"
-  },
-  {
-    "full_name": "ruvnet/ruvector",
-    "url": "https://github.com/ruvnet/ruvector",
-    "description": "RuVector is a High Performance, Real-Time, Self-Learning, Vector Graph Neural Network, and Database built in Rust.",
-    "date_added": "2026-02-25"
-  },
-  {
-    "full_name": "sponsors/D4Vinci",
-    "url": "https://github.com/sponsors/D4Vinci",
-    "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
-    "date_added": "2026-02-25"
-  },
-  {
-    "full_name": "GVCLab/PersonaLive",
-    "url": "https://github.com/GVCLab/PersonaLive",
-    "description": "[CVPR 2026] PersonaLive! : Expressive Portrait Image Animation for Live Streaming",
-    "date_added": "2026-02-25"
-  },
-  {
     "full_name": "datawhalechina/hello-agents",
     "url": "https://github.com/datawhalechina/hello-agents",
     "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
@@ -190,5 +160,35 @@
     "url": "https://github.com/sponsors/servo",
     "description": "Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.",
     "date_added": "2026-03-03"
+  },
+  {
+    "full_name": "sponsors/msitarzewski",
+    "url": "https://github.com/sponsors/msitarzewski",
+    "description": "A complete AI agency at your fingertips** - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+    "date_added": "2026-03-04"
+  },
+  {
+    "full_name": "CodebuffAI/codebuff",
+    "url": "https://github.com/CodebuffAI/codebuff",
+    "description": "Generate code from the terminal!",
+    "date_added": "2026-03-04"
+  },
+  {
+    "full_name": "agentscope-ai/agentscope",
+    "url": "https://github.com/agentscope-ai/agentscope",
+    "description": "Build and run agents you can see, understand and trust.",
+    "date_added": "2026-03-04"
+  },
+  {
+    "full_name": "agentscope-ai/ReMe",
+    "url": "https://github.com/agentscope-ai/ReMe",
+    "description": "ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.",
+    "date_added": "2026-03-04"
+  },
+  {
+    "full_name": "LMCache/LMCache",
+    "url": "https://github.com/LMCache/LMCache",
+    "description": "Supercharge Your LLM with the Fastest KV Cache Layer",
+    "date_added": "2026-03-04"
   }
 ]
