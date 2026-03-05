@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-03-04)
+# GitHub Trending (Added at: 2026-03-05)
 
-### [sponsors/msitarzewski](https://github.com/sponsors/msitarzewski)
-- A complete AI agency at your fingertips** - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
+### [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon)
+- Shannon Lite is a fully autonomous AI pentester for web apps and APIs. 96.15% (100/104 exploits) on a hint-free, source-aware variant of the XBOW benchmark.
 
-### [CodebuffAI/codebuff](https://github.com/CodebuffAI/codebuff)
-- Generate code from the terminal!
+### [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
+- Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 
-### [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope)
-- Build and run agents you can see, understand and trust.
+### [sponsors/FujiwaraChoki](https://github.com/sponsors/FujiwaraChoki)
+- Automate the process of making money online.
 
-### [agentscope-ai/ReMe](https://github.com/agentscope-ai/ReMe)
-- ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.
+### [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica)
+- Perplexica is an AI-powered answering engine.
 
-### [LMCache/LMCache](https://github.com/LMCache/LMCache)
-- Supercharge Your LLM with the Fastest KV Cache Layer
+### [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader)
+- A high-performance algorithmic trading platform and event-driven backtester
 
