@@ -1,17 +1,11 @@
-# GitHub Trending (Added at: 2026-03-05)
+# GitHub Trending (Added at: 2026-03-06)
 
-### [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon)
-- Shannon Lite is a fully autonomous AI pentester for web apps and APIs. 96.15% (100/104 exploits) on a hint-free, source-aware variant of the XBOW benchmark.
+### [TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine)
+- A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.
 
-### [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
-- Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+### [inclusionAI/AReaL](https://github.com/inclusionAI/AReaL)
+- Lightning-Fast RL for LLM Reasoning and Agents. Made Simple & Flexible.
 
-### [sponsors/FujiwaraChoki](https://github.com/sponsors/FujiwaraChoki)
-- Automate the process of making money online.
-
-### [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica)
-- Perplexica is an AI-powered answering engine.
-
-### [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader)
-- A high-performance algorithmic trading platform and event-driven backtester
+### [microsoft/hve-core](https://github.com/microsoft/hve-core)
+- A refined collection of Hypervelocity Engineering components (instructions, prompts, agents) to start your project off right, or upgrade your existing projects to get the most out of all Copilots
 

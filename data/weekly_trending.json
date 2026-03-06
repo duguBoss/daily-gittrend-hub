@@ -1,29 +1,5 @@
 [
   {
-    "full_name": "clockworklabs/SpacetimeDB",
-    "url": "https://github.com/clockworklabs/SpacetimeDB",
-    "description": "Development at the speed of light",
-    "date_added": "2026-02-27"
-  },
-  {
-    "full_name": "farion1231/cc-switch",
-    "url": "https://github.com/farion1231/cc-switch",
-    "description": "A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.",
-    "date_added": "2026-02-27"
-  },
-  {
-    "full_name": "ruvnet/claude-flow",
-    "url": "https://github.com/ruvnet/claude-flow",
-    "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
-    "date_added": "2026-02-27"
-  },
-  {
-    "full_name": "moonshine-ai/moonshine",
-    "url": "https://github.com/moonshine-ai/moonshine",
-    "description": "Fast and accurate automatic speech recognition (ASR) for edge devices",
-    "date_added": "2026-02-27"
-  },
-  {
     "full_name": "ruvnet/ruflo",
     "url": "https://github.com/ruvnet/ruflo",
     "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
@@ -190,5 +166,23 @@
     "url": "https://github.com/nautechsystems/nautilus_trader",
     "description": "A high-performance algorithmic trading platform and event-driven backtester",
     "date_added": "2026-03-05"
+  },
+  {
+    "full_name": "TheCraigHewitt/seomachine",
+    "url": "https://github.com/TheCraigHewitt/seomachine",
+    "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.",
+    "date_added": "2026-03-06"
+  },
+  {
+    "full_name": "inclusionAI/AReaL",
+    "url": "https://github.com/inclusionAI/AReaL",
+    "description": "Lightning-Fast RL for LLM Reasoning and Agents. Made Simple & Flexible.",
+    "date_added": "2026-03-06"
+  },
+  {
+    "full_name": "microsoft/hve-core",
+    "url": "https://github.com/microsoft/hve-core",
+    "description": "A refined collection of Hypervelocity Engineering components (instructions, prompts, agents) to start your project off right, or upgrade your existing projects to get the most out of all Copilots",
+    "date_added": "2026-03-06"
   }
 ]
