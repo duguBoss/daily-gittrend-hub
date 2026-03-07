@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "ruvnet/ruflo",
-    "url": "https://github.com/ruvnet/ruflo",
-    "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
-    "date_added": "2026-02-28"
-  },
-  {
-    "full_name": "moeru-ai/airi",
-    "url": "https://github.com/moeru-ai/airi",
-    "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
-    "date_added": "2026-02-28"
-  },
-  {
-    "full_name": "Wei-Shaw/claude-relay-service",
-    "url": "https://github.com/Wei-Shaw/claude-relay-service",
-    "description": "CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
-    "date_added": "2026-02-28"
-  },
-  {
-    "full_name": "tukaani-project/xz",
-    "url": "https://github.com/tukaani-project/xz",
-    "description": "XZ Utils",
-    "date_added": "2026-02-28"
-  },
-  {
-    "full_name": "sponsors/steipete",
-    "url": "https://github.com/sponsors/steipete",
-    "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
-    "date_added": "2026-02-28"
-  },
-  {
     "full_name": "ruvnet/wifi-densepose",
     "url": "https://github.com/ruvnet/wifi-densepose",
     "description": "WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
@@ -184,5 +154,35 @@
     "url": "https://github.com/microsoft/hve-core",
     "description": "A refined collection of Hypervelocity Engineering components (instructions, prompts, agents) to start your project off right, or upgrade your existing projects to get the most out of all Copilots",
     "date_added": "2026-03-06"
+  },
+  {
+    "full_name": "moeru-ai/airi",
+    "url": "https://github.com/moeru-ai/airi",
+    "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+    "date_added": "2026-03-07"
+  },
+  {
+    "full_name": "QwenLM/Qwen-Agent",
+    "url": "https://github.com/QwenLM/Qwen-Agent",
+    "description": "Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.",
+    "date_added": "2026-03-07"
+  },
+  {
+    "full_name": "Ed1s0nZ/CyberStrikeAI",
+    "url": "https://github.com/Ed1s0nZ/CyberStrikeAI",
+    "description": "CyberStrikeAI is an AI-native security testing platform built in Go. It integrates 100+ security tools, an intelligent orchestration engine, role-based testing with predefined security roles, a skills system with specialized testing skills, and comprehensive lifecycle management capabilities.",
+    "date_added": "2026-03-07"
+  },
+  {
+    "full_name": "lingfengQAQ/webnovel-writer",
+    "url": "https://github.com/lingfengQAQ/webnovel-writer",
+    "description": "基于 Claude Code 的长篇网文辅助创作系统，解决 AI 写作中的「遗忘」和「幻觉」问题，支持 200 万字量级 连载创作。",
+    "date_added": "2026-03-07"
+  },
+  {
+    "full_name": "openai/skills",
+    "url": "https://github.com/openai/skills",
+    "description": "Skills Catalog for Codex",
+    "date_added": "2026-03-07"
   }
 ]
