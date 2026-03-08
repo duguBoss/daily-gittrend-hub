@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "ruvnet/wifi-densepose",
-    "url": "https://github.com/ruvnet/wifi-densepose",
-    "description": "WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
-    "date_added": "2026-03-01"
-  },
-  {
-    "full_name": "anthropics/claude-code",
-    "url": "https://github.com/anthropics/claude-code",
-    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-    "date_added": "2026-03-01"
-  },
-  {
-    "full_name": "Shubhamsaboo/awesome-llm-apps",
-    "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-    "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
-    "date_added": "2026-03-01"
-  },
-  {
-    "full_name": "NousResearch/hermes-agent",
-    "url": "https://github.com/NousResearch/hermes-agent",
-    "description": "",
-    "date_added": "2026-03-01"
-  },
-  {
-    "full_name": "superset-sh/superset",
-    "url": "https://github.com/superset-sh/superset",
-    "description": "IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine",
-    "date_added": "2026-03-01"
-  },
-  {
     "full_name": "microsoft/markitdown",
     "url": "https://github.com/microsoft/markitdown",
     "description": "Python tool for converting files and office documents to Markdown.",
@@ -184,5 +154,35 @@
     "url": "https://github.com/openai/skills",
     "description": "Skills Catalog for Codex",
     "date_added": "2026-03-07"
+  },
+  {
+    "full_name": "666ghj/MiroFish",
+    "url": "https://github.com/666ghj/MiroFish",
+    "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+    "date_added": "2026-03-08"
+  },
+  {
+    "full_name": "GoogleCloudPlatform/generative-ai",
+    "url": "https://github.com/GoogleCloudPlatform/generative-ai",
+    "description": "Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI",
+    "date_added": "2026-03-08"
+  },
+  {
+    "full_name": "agentjido/jido",
+    "url": "https://github.com/agentjido/jido",
+    "description": "🤖 Autonomous agent framework for Elixir. Built for distributed, autonomous behavior and dynamic workflows.",
+    "date_added": "2026-03-08"
+  },
+  {
+    "full_name": "virattt/ai-hedge-fund",
+    "url": "https://github.com/virattt/ai-hedge-fund",
+    "description": "An AI Hedge Fund Team",
+    "date_added": "2026-03-08"
+  },
+  {
+    "full_name": "sponsors/toeverything",
+    "url": "https://github.com/sponsors/toeverything",
+    "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+    "date_added": "2026-03-08"
   }
 ]
