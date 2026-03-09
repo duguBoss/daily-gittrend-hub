@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "microsoft/markitdown",
-    "url": "https://github.com/microsoft/markitdown",
-    "description": "Python tool for converting files and office documents to Markdown.",
-    "date_added": "2026-03-02"
-  },
-  {
-    "full_name": "alibaba/OpenSandbox",
-    "url": "https://github.com/alibaba/OpenSandbox",
-    "description": "OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training.",
-    "date_added": "2026-03-02"
-  },
-  {
-    "full_name": "K-Dense-AI/claude-scientific-skills",
-    "url": "https://github.com/K-Dense-AI/claude-scientific-skills",
-    "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
-    "date_added": "2026-03-02"
-  },
-  {
-    "full_name": "basecamp/omarchy",
-    "url": "https://github.com/basecamp/omarchy",
-    "description": "Beautiful, Modern & Opinionated Linux",
-    "date_added": "2026-03-02"
-  },
-  {
-    "full_name": "X-PLUG/MobileAgent",
-    "url": "https://github.com/X-PLUG/MobileAgent",
-    "description": "Mobile-Agent: The Powerful GUI Agent Family",
-    "date_added": "2026-03-02"
-  },
-  {
     "full_name": "ruvnet/RuView",
     "url": "https://github.com/ruvnet/RuView",
     "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
@@ -184,5 +154,35 @@
     "url": "https://github.com/sponsors/toeverything",
     "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
     "date_added": "2026-03-08"
+  },
+  {
+    "full_name": "shadcn-ui/ui",
+    "url": "https://github.com/shadcn-ui/ui",
+    "description": "A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.",
+    "date_added": "2026-03-09"
+  },
+  {
+    "full_name": "sponsors/openclaw",
+    "url": "https://github.com/sponsors/openclaw",
+    "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+    "date_added": "2026-03-09"
+  },
+  {
+    "full_name": "shareAI-lab/learn-claude-code",
+    "url": "https://github.com/shareAI-lab/learn-claude-code",
+    "description": "Bash is all you need - A nano Claude Code–like agent, built from 0 to 1",
+    "date_added": "2026-03-09"
+  },
+  {
+    "full_name": "is-a-dev/register",
+    "url": "https://github.com/is-a-dev/register",
+    "description": "Grab your own sweet-looking '.is-a.dev' subdomain.",
+    "date_added": "2026-03-09"
+  },
+  {
+    "full_name": "teng-lin/notebooklm-py",
+    "url": "https://github.com/teng-lin/notebooklm-py",
+    "description": "Unofficial Python API for Google NotebookLM",
+    "date_added": "2026-03-09"
   }
 ]

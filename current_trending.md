@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-03-08)
+# GitHub Trending (Added at: 2026-03-09)
 
-### [666ghj/MiroFish](https://github.com/666ghj/MiroFish)
-- A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
+### [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
+- A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 
-### [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai)
-- Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI
+### [sponsors/openclaw](https://github.com/sponsors/openclaw)
+- Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 
-### [agentjido/jido](https://github.com/agentjido/jido)
-- 🤖 Autonomous agent framework for Elixir. Built for distributed, autonomous behavior and dynamic workflows.
+### [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)
+- Bash is all you need - A nano Claude Code–like agent, built from 0 to 1
 
-### [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)
-- An AI Hedge Fund Team
+### [is-a-dev/register](https://github.com/is-a-dev/register)
+- Grab your own sweet-looking '.is-a.dev' subdomain.
 
-### [sponsors/toeverything](https://github.com/sponsors/toeverything)
-- There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
+### [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py)
+- Unofficial Python API for Google NotebookLM
 
