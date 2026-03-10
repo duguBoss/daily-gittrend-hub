@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-03-09)
+# GitHub Trending (Added at: 2026-03-10)
 
-### [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
-- A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
+### [karpathy/nanochat](https://github.com/karpathy/nanochat)
+- The best ChatGPT that $100 can buy.
 
-### [sponsors/openclaw](https://github.com/sponsors/openclaw)
-- Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
+### [666ghj/BettaFish](https://github.com/666ghj/BettaFish)
+- 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
 
-### [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)
-- Bash is all you need - A nano Claude Code–like agent, built from 0 to 1
+### [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+- The agent that grows with you
 
-### [is-a-dev/register](https://github.com/is-a-dev/register)
-- Grab your own sweet-looking '.is-a.dev' subdomain.
+### [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
+- The design language that makes your AI harness better at design.
 
-### [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py)
-- Unofficial Python API for Google NotebookLM
+### [alibaba/page-agent](https://github.com/alibaba/page-agent)
+- JavaScript in-page GUI agent. Control web interfaces with natural language.
 
