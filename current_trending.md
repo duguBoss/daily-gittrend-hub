@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-03-10)
+# GitHub Trending (Added at: 2026-03-11)
 
-### [karpathy/nanochat](https://github.com/karpathy/nanochat)
-- The best ChatGPT that $100 can buy.
+### [sponsors/msitarzewski](https://github.com/sponsors/msitarzewski)
+- A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
 
-### [666ghj/BettaFish](https://github.com/666ghj/BettaFish)
-- 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
+### [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo)
+- Test your prompts, agents, and RAGs. AI Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.
 
-### [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
-- The agent that grows with you
+### [sponsors/obra](https://github.com/sponsors/obra)
+- An agentic skills framework & software development methodology that works.
 
-### [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
-- The design language that makes your AI harness better at design.
+### [sepinf-inc/IPED](https://github.com/sepinf-inc/IPED)
+- IPED Digital Forensic Tool. It is an open source software that can be used to process and analyze digital evidence, often seized at crime scenes by law enforcement or in a corporate investigation by private examiners.
 
-### [alibaba/page-agent](https://github.com/alibaba/page-agent)
-- JavaScript in-page GUI agent. Control web interfaces with natural language.
+### [bytedance/deer-flow](https://github.com/bytedance/deer-flow)
+- An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours.
 
