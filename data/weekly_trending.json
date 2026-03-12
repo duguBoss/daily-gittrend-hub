@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "KeygraphHQ/shannon",
-    "url": "https://github.com/KeygraphHQ/shannon",
-    "description": "Shannon Lite is a fully autonomous AI pentester for web apps and APIs. 96.15% (100/104 exploits) on a hint-free, source-aware variant of the XBOW benchmark.",
-    "date_added": "2026-03-05"
-  },
-  {
-    "full_name": "aquasecurity/trivy",
-    "url": "https://github.com/aquasecurity/trivy",
-    "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
-    "date_added": "2026-03-05"
-  },
-  {
-    "full_name": "sponsors/FujiwaraChoki",
-    "url": "https://github.com/sponsors/FujiwaraChoki",
-    "description": "Automate the process of making money online.",
-    "date_added": "2026-03-05"
-  },
-  {
-    "full_name": "ItzCrazyKns/Perplexica",
-    "url": "https://github.com/ItzCrazyKns/Perplexica",
-    "description": "Perplexica is an AI-powered answering engine.",
-    "date_added": "2026-03-05"
-  },
-  {
-    "full_name": "nautechsystems/nautilus_trader",
-    "url": "https://github.com/nautechsystems/nautilus_trader",
-    "description": "A high-performance algorithmic trading platform and event-driven backtester",
-    "date_added": "2026-03-05"
-  },
-  {
     "full_name": "TheCraigHewitt/seomachine",
     "url": "https://github.com/TheCraigHewitt/seomachine",
     "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.",
@@ -196,5 +166,17 @@
     "url": "https://github.com/bytedance/deer-flow",
     "description": "An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours.",
     "date_added": "2026-03-11"
+  },
+  {
+    "full_name": "fishaudio/fish-speech",
+    "url": "https://github.com/fishaudio/fish-speech",
+    "description": "SOTA Open Source TTS",
+    "date_added": "2026-03-12"
+  },
+  {
+    "full_name": "AstrBotDevs/AstrBot",
+    "url": "https://github.com/AstrBotDevs/AstrBot",
+    "description": "Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+    "date_added": "2026-03-12"
   }
 ]
