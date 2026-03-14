@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "moeru-ai/airi",
-    "url": "https://github.com/moeru-ai/airi",
-    "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
-    "date_added": "2026-03-07"
-  },
-  {
-    "full_name": "QwenLM/Qwen-Agent",
-    "url": "https://github.com/QwenLM/Qwen-Agent",
-    "description": "Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.",
-    "date_added": "2026-03-07"
-  },
-  {
-    "full_name": "Ed1s0nZ/CyberStrikeAI",
-    "url": "https://github.com/Ed1s0nZ/CyberStrikeAI",
-    "description": "CyberStrikeAI is an AI-native security testing platform built in Go. It integrates 100+ security tools, an intelligent orchestration engine, role-based testing with predefined security roles, a skills system with specialized testing skills, and comprehensive lifecycle management capabilities.",
-    "date_added": "2026-03-07"
-  },
-  {
-    "full_name": "lingfengQAQ/webnovel-writer",
-    "url": "https://github.com/lingfengQAQ/webnovel-writer",
-    "description": "基于 Claude Code 的长篇网文辅助创作系统，解决 AI 写作中的「遗忘」和「幻觉」问题，支持 200 万字量级 连载创作。",
-    "date_added": "2026-03-07"
-  },
-  {
-    "full_name": "openai/skills",
-    "url": "https://github.com/openai/skills",
-    "description": "Skills Catalog for Codex",
-    "date_added": "2026-03-07"
-  },
-  {
     "full_name": "666ghj/MiroFish",
     "url": "https://github.com/666ghj/MiroFish",
     "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
@@ -190,5 +160,35 @@
     "url": "https://github.com/google-ai-edge/LiteRT",
     "description": "LiteRT, successor to TensorFlow Lite. is Google's On-device framework for high-performance ML & GenAI deployment on edge platforms, via efficient conversion, runtime, and optimization",
     "date_added": "2026-03-13"
+  },
+  {
+    "full_name": "lightpanda-io/browser",
+    "url": "https://github.com/lightpanda-io/browser",
+    "description": "Lightpanda: the headless browser designed for AI and automation",
+    "date_added": "2026-03-14"
+  },
+  {
+    "full_name": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "description": "A collective list of free APIs",
+    "date_added": "2026-03-14"
+  },
+  {
+    "full_name": "sponsors/dolthub",
+    "url": "https://github.com/sponsors/dolthub",
+    "description": "Dolt – Git for Data",
+    "date_added": "2026-03-14"
+  },
+  {
+    "full_name": "google/A2UI",
+    "url": "https://github.com/google/A2UI",
+    "description": "",
+    "date_added": "2026-03-14"
+  },
+  {
+    "full_name": "anthropics/claude-plugins-official",
+    "url": "https://github.com/anthropics/claude-plugins-official",
+    "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+    "date_added": "2026-03-14"
   }
 ]

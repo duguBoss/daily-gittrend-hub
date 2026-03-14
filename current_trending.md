@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-03-13)
+# GitHub Trending (Added at: 2026-03-14)
 
-### [microsoft/BitNet](https://github.com/microsoft/BitNet)
-- Official inference framework for 1-bit LLMs
+### [lightpanda-io/browser](https://github.com/lightpanda-io/browser)
+- Lightpanda: the headless browser designed for AI and automation
 
-### [langflow-ai/openrag](https://github.com/langflow-ai/openrag)
-- OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch.
+### [public-apis/public-apis](https://github.com/public-apis/public-apis)
+- A collective list of free APIs
 
-### [sponsors/InsForge](https://github.com/sponsors/InsForge)
-- Give agents everything they need to ship fullstack apps. The backend built for agentic development.
+### [sponsors/dolthub](https://github.com/sponsors/dolthub)
+- Dolt – Git for Data
 
-### [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight)
-- Hindsight: Agent Memory That Learns
+### [google/A2UI](https://github.com/google/A2UI)
+- 
 
-### [google-ai-edge/LiteRT](https://github.com/google-ai-edge/LiteRT)
-- LiteRT, successor to TensorFlow Lite. is Google's On-device framework for high-performance ML & GenAI deployment on edge platforms, via efficient conversion, runtime, and optimization
+### [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
+- Official, Anthropic-managed directory of high quality Claude Code Plugins.
 
