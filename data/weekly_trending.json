@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "666ghj/MiroFish",
-    "url": "https://github.com/666ghj/MiroFish",
-    "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
-    "date_added": "2026-03-08"
-  },
-  {
-    "full_name": "GoogleCloudPlatform/generative-ai",
-    "url": "https://github.com/GoogleCloudPlatform/generative-ai",
-    "description": "Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI",
-    "date_added": "2026-03-08"
-  },
-  {
-    "full_name": "agentjido/jido",
-    "url": "https://github.com/agentjido/jido",
-    "description": "🤖 Autonomous agent framework for Elixir. Built for distributed, autonomous behavior and dynamic workflows.",
-    "date_added": "2026-03-08"
-  },
-  {
-    "full_name": "virattt/ai-hedge-fund",
-    "url": "https://github.com/virattt/ai-hedge-fund",
-    "description": "An AI Hedge Fund Team",
-    "date_added": "2026-03-08"
-  },
-  {
-    "full_name": "sponsors/toeverything",
-    "url": "https://github.com/sponsors/toeverything",
-    "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
-    "date_added": "2026-03-08"
-  },
-  {
     "full_name": "shadcn-ui/ui",
     "url": "https://github.com/shadcn-ui/ui",
     "description": "A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.",
@@ -190,5 +160,23 @@
     "url": "https://github.com/anthropics/claude-plugins-official",
     "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
     "date_added": "2026-03-14"
+  },
+  {
+    "full_name": "volcengine/OpenViking",
+    "url": "https://github.com/volcengine/OpenViking",
+    "description": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.",
+    "date_added": "2026-03-15"
+  },
+  {
+    "full_name": "dimensionalOS/dimos",
+    "url": "https://github.com/dimensionalOS/dimos",
+    "description": "Dimensional is the agentic operating system for physical space. Vibecode humanoids, quadrupeds, drones, and other hardware platforms in natural language and build multi-agent systems that work seamlessly with physical input (cameras, lidar, actuators).",
+    "date_added": "2026-03-15"
+  },
+  {
+    "full_name": "p-e-w/heretic",
+    "url": "https://github.com/p-e-w/heretic",
+    "description": "Fully automatic censorship removal for language models",
+    "date_added": "2026-03-15"
   }
 ]
