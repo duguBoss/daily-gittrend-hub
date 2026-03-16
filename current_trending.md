@@ -1,11 +1,17 @@
-# GitHub Trending (Added at: 2026-03-15)
+# GitHub Trending (Added at: 2026-03-16)
 
-### [volcengine/OpenViking](https://github.com/volcengine/OpenViking)
-- OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.
+### [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
+- Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
 
-### [dimensionalOS/dimos](https://github.com/dimensionalOS/dimos)
-- Dimensional is the agentic operating system for physical space. Vibecode humanoids, quadrupeds, drones, and other hardware platforms in natural language and build multi-agent systems that work seamlessly with physical input (cameras, lidar, actuators).
+### [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)
+- Bash is all you need - A nano Claude Code–like agent, built from 0 to 1
 
-### [p-e-w/heretic](https://github.com/p-e-w/heretic)
-- Fully automatic censorship removal for language models
+### [666ghj/MiroFish](https://github.com/666ghj/MiroFish)
+- A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
+
+### [sponsors/abhigyanpatwari](https://github.com/sponsors/abhigyanpatwari)
+- GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration
+
+### [sponsors/topoteretes](https://github.com/sponsors/topoteretes)
+- Knowledge Engine for AI Agent Memory in 6 lines of code
 
