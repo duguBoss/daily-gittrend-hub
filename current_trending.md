@@ -1,14 +1,14 @@
-# GitHub Trending (Added at: 2026-03-17)
+# GitHub Trending (Added at: 2026-03-18)
 
-### [sponsors/thedotmack](https://github.com/sponsors/thedotmack)
-- A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
+### [sponsors/obra](https://github.com/sponsors/obra)
+- An agentic skills framework & software development methodology that works.
 
-### [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents)
-- Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.
+### [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+- Master programming by recreating your favorite technologies from scratch.
 
-### [YishenTu/claudian](https://github.com/YishenTu/claudian)
-- An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault
+### [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud)
+- A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
 
-### [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus)
-- Vite+ is the unified toolchain and entry point for web development. It manages your runtime, package manager, and frontend toolchain in one place.
+### [cloudflare/workerd](https://github.com/cloudflare/workerd)
+- The JavaScript / Wasm runtime that powers Cloudflare Workers
 
