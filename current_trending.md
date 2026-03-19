@@ -1,14 +1,14 @@
-# GitHub Trending (Added at: 2026-03-18)
+# GitHub Trending (Added at: 2026-03-19)
 
-### [sponsors/obra](https://github.com/sponsors/obra)
-- An agentic skills framework & software development methodology that works.
+### [sponsors/unslothai](https://github.com/sponsors/unslothai)
+- Unified web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally.
 
-### [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
-- Master programming by recreating your favorite technologies from scratch.
+### [newton-physics/newton](https://github.com/newton-physics/newton)
+- An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.
 
-### [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud)
-- A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
+### [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4)
+- PlayStation 4 emulator for Windows, Linux and macOS written in C++
 
-### [cloudflare/workerd](https://github.com/cloudflare/workerd)
-- The JavaScript / Wasm runtime that powers Cloudflare Workers
+### [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe)
+- An Open-Source Asynchronous Coding Agent
 

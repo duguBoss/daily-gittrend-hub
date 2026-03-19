@@ -1,17 +1,5 @@
 [
   {
-    "full_name": "fishaudio/fish-speech",
-    "url": "https://github.com/fishaudio/fish-speech",
-    "description": "SOTA Open Source TTS",
-    "date_added": "2026-03-12"
-  },
-  {
-    "full_name": "AstrBotDevs/AstrBot",
-    "url": "https://github.com/AstrBotDevs/AstrBot",
-    "description": "Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
-    "date_added": "2026-03-12"
-  },
-  {
     "full_name": "microsoft/BitNet",
     "url": "https://github.com/microsoft/BitNet",
     "description": "Official inference framework for 1-bit LLMs",
@@ -166,5 +154,29 @@
     "url": "https://github.com/cloudflare/workerd",
     "description": "The JavaScript / Wasm runtime that powers Cloudflare Workers",
     "date_added": "2026-03-18"
+  },
+  {
+    "full_name": "sponsors/unslothai",
+    "url": "https://github.com/sponsors/unslothai",
+    "description": "Unified web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally.",
+    "date_added": "2026-03-19"
+  },
+  {
+    "full_name": "newton-physics/newton",
+    "url": "https://github.com/newton-physics/newton",
+    "description": "An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.",
+    "date_added": "2026-03-19"
+  },
+  {
+    "full_name": "shadps4-emu/shadPS4",
+    "url": "https://github.com/shadps4-emu/shadPS4",
+    "description": "PlayStation 4 emulator for Windows, Linux and macOS written in C++",
+    "date_added": "2026-03-19"
+  },
+  {
+    "full_name": "langchain-ai/open-swe",
+    "url": "https://github.com/langchain-ai/open-swe",
+    "description": "An Open-Source Asynchronous Coding Agent",
+    "date_added": "2026-03-19"
   }
 ]
