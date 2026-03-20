@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "microsoft/BitNet",
-    "url": "https://github.com/microsoft/BitNet",
-    "description": "Official inference framework for 1-bit LLMs",
-    "date_added": "2026-03-13"
-  },
-  {
-    "full_name": "langflow-ai/openrag",
-    "url": "https://github.com/langflow-ai/openrag",
-    "description": "OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch.",
-    "date_added": "2026-03-13"
-  },
-  {
-    "full_name": "sponsors/InsForge",
-    "url": "https://github.com/sponsors/InsForge",
-    "description": "Give agents everything they need to ship fullstack apps. The backend built for agentic development.",
-    "date_added": "2026-03-13"
-  },
-  {
-    "full_name": "vectorize-io/hindsight",
-    "url": "https://github.com/vectorize-io/hindsight",
-    "description": "Hindsight: Agent Memory That Learns",
-    "date_added": "2026-03-13"
-  },
-  {
-    "full_name": "google-ai-edge/LiteRT",
-    "url": "https://github.com/google-ai-edge/LiteRT",
-    "description": "LiteRT, successor to TensorFlow Lite. is Google's On-device framework for high-performance ML & GenAI deployment on edge platforms, via efficient conversion, runtime, and optimization",
-    "date_added": "2026-03-13"
-  },
-  {
     "full_name": "lightpanda-io/browser",
     "url": "https://github.com/lightpanda-io/browser",
     "description": "Lightpanda: the headless browser designed for AI and automation",
@@ -178,5 +148,35 @@
     "url": "https://github.com/langchain-ai/open-swe",
     "description": "An Open-Source Asynchronous Coding Agent",
     "date_added": "2026-03-19"
+  },
+  {
+    "full_name": "opendataloader-project/opendataloader-pdf",
+    "url": "https://github.com/opendataloader-project/opendataloader-pdf",
+    "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
+    "date_added": "2026-03-20"
+  },
+  {
+    "full_name": "mobile-dev-inc/Maestro",
+    "url": "https://github.com/mobile-dev-inc/Maestro",
+    "description": "Painless E2E Automation for Mobile and Web",
+    "date_added": "2026-03-20"
+  },
+  {
+    "full_name": "sponsors/tw93",
+    "url": "https://github.com/sponsors/tw93",
+    "description": "🐹 Deep clean and optimize your Mac.",
+    "date_added": "2026-03-20"
+  },
+  {
+    "full_name": "louis-e/arnis",
+    "url": "https://github.com/louis-e/arnis",
+    "description": "Generate any location from the real world in Minecraft with a high level of detail.",
+    "date_added": "2026-03-20"
+  },
+  {
+    "full_name": "sponsors/FujiwaraChoki",
+    "url": "https://github.com/sponsors/FujiwaraChoki",
+    "description": "Automate the process of making money online.",
+    "date_added": "2026-03-20"
   }
 ]

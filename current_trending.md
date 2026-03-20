@@ -1,14 +1,17 @@
-# GitHub Trending (Added at: 2026-03-19)
+# GitHub Trending (Added at: 2026-03-20)
 
-### [sponsors/unslothai](https://github.com/sponsors/unslothai)
-- Unified web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally.
+### [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)
+- PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 
-### [newton-physics/newton](https://github.com/newton-physics/newton)
-- An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.
+### [mobile-dev-inc/Maestro](https://github.com/mobile-dev-inc/Maestro)
+- Painless E2E Automation for Mobile and Web
 
-### [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4)
-- PlayStation 4 emulator for Windows, Linux and macOS written in C++
+### [sponsors/tw93](https://github.com/sponsors/tw93)
+- 🐹 Deep clean and optimize your Mac.
 
-### [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe)
-- An Open-Source Asynchronous Coding Agent
+### [louis-e/arnis](https://github.com/louis-e/arnis)
+- Generate any location from the real world in Minecraft with a high level of detail.
+
+### [sponsors/FujiwaraChoki](https://github.com/sponsors/FujiwaraChoki)
+- Automate the process of making money online.
 
