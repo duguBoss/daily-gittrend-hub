@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "lightpanda-io/browser",
-    "url": "https://github.com/lightpanda-io/browser",
-    "description": "Lightpanda: the headless browser designed for AI and automation",
-    "date_added": "2026-03-14"
-  },
-  {
-    "full_name": "public-apis/public-apis",
-    "url": "https://github.com/public-apis/public-apis",
-    "description": "A collective list of free APIs",
-    "date_added": "2026-03-14"
-  },
-  {
-    "full_name": "sponsors/dolthub",
-    "url": "https://github.com/sponsors/dolthub",
-    "description": "Dolt – Git for Data",
-    "date_added": "2026-03-14"
-  },
-  {
-    "full_name": "google/A2UI",
-    "url": "https://github.com/google/A2UI",
-    "description": "",
-    "date_added": "2026-03-14"
-  },
-  {
-    "full_name": "anthropics/claude-plugins-official",
-    "url": "https://github.com/anthropics/claude-plugins-official",
-    "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-    "date_added": "2026-03-14"
-  },
-  {
     "full_name": "volcengine/OpenViking",
     "url": "https://github.com/volcengine/OpenViking",
     "description": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.",
@@ -178,5 +148,23 @@
     "url": "https://github.com/sponsors/FujiwaraChoki",
     "description": "Automate the process of making money online.",
     "date_added": "2026-03-20"
+  },
+  {
+    "full_name": "sponsors/vas3k",
+    "url": "https://github.com/sponsors/vas3k",
+    "description": "Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories",
+    "date_added": "2026-03-21"
+  },
+  {
+    "full_name": "TauricResearch/TradingAgents",
+    "url": "https://github.com/TauricResearch/TradingAgents",
+    "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+    "date_added": "2026-03-21"
+  },
+  {
+    "full_name": "openrocket/openrocket",
+    "url": "https://github.com/openrocket/openrocket",
+    "description": "Model-rocketry aerodynamics and trajectory simulation software",
+    "date_added": "2026-03-21"
   }
 ]
