@@ -1,11 +1,14 @@
-# GitHub Trending (Added at: 2026-03-21)
+# GitHub Trending (Added at: 2026-03-22)
 
-### [sponsors/vas3k](https://github.com/sponsors/vas3k)
-- Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories
+### [systemd/systemd](https://github.com/systemd/systemd)
+- The systemd System and Service Manager
 
-### [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)
-- TradingAgents: Multi-Agents LLM Financial Trading Framework
+### [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
+- Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 
-### [openrocket/openrocket](https://github.com/openrocket/openrocket)
-- Model-rocketry aerodynamics and trajectory simulation software
+### [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf)
+- Protocol Buffers - Google's data interchange format
+
+### [sponsors/vllm-project](https://github.com/sponsors/vllm-project)
+- A framework for efficient model inference with omni-modality models
 
