@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "Crosstalk-Solutions/project-nomad",
-    "url": "https://github.com/Crosstalk-Solutions/project-nomad",
-    "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
-    "date_added": "2026-03-16"
-  },
-  {
-    "full_name": "shareAI-lab/learn-claude-code",
-    "url": "https://github.com/shareAI-lab/learn-claude-code",
-    "description": "Bash is all you need - A nano Claude Code–like agent, built from 0 to 1",
-    "date_added": "2026-03-16"
-  },
-  {
-    "full_name": "666ghj/MiroFish",
-    "url": "https://github.com/666ghj/MiroFish",
-    "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
-    "date_added": "2026-03-16"
-  },
-  {
-    "full_name": "sponsors/abhigyanpatwari",
-    "url": "https://github.com/sponsors/abhigyanpatwari",
-    "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
-    "date_added": "2026-03-16"
-  },
-  {
-    "full_name": "sponsors/topoteretes",
-    "url": "https://github.com/sponsors/topoteretes",
-    "description": "Knowledge Engine for AI Agent Memory in 6 lines of code",
-    "date_added": "2026-03-16"
-  },
-  {
     "full_name": "sponsors/thedotmack",
     "url": "https://github.com/sponsors/thedotmack",
     "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
@@ -172,5 +142,35 @@
     "url": "https://github.com/sponsors/vllm-project",
     "description": "A framework for efficient model inference with omni-modality models",
     "date_added": "2026-03-22"
+  },
+  {
+    "full_name": "vxcontrol/pentagi",
+    "url": "https://github.com/vxcontrol/pentagi",
+    "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+    "date_added": "2026-03-23"
+  },
+  {
+    "full_name": "jamwithai/production-agentic-rag-course",
+    "url": "https://github.com/jamwithai/production-agentic-rag-course",
+    "description": "",
+    "date_added": "2026-03-23"
+  },
+  {
+    "full_name": "sponsors/affaan-m",
+    "url": "https://github.com/sponsors/affaan-m",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "date_added": "2026-03-23"
+  },
+  {
+    "full_name": "Crosstalk-Solutions/project-nomad",
+    "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+    "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+    "date_added": "2026-03-23"
+  },
+  {
+    "full_name": "browser-use/browser-use",
+    "url": "https://github.com/browser-use/browser-use",
+    "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+    "date_added": "2026-03-23"
   }
 ]

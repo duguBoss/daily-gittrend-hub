@@ -1,14 +1,17 @@
-# GitHub Trending (Added at: 2026-03-22)
+# GitHub Trending (Added at: 2026-03-23)
 
-### [systemd/systemd](https://github.com/systemd/systemd)
-- The systemd System and Service Manager
+### [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi)
+- Fully autonomous AI Agents system capable of performing complex penetration testing tasks
 
-### [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
-- Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+### [jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course)
+- 
 
-### [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf)
-- Protocol Buffers - Google's data interchange format
+### [sponsors/affaan-m](https://github.com/sponsors/affaan-m)
+- The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
-### [sponsors/vllm-project](https://github.com/sponsors/vllm-project)
-- A framework for efficient model inference with omni-modality models
+### [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
+- Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
+
+### [browser-use/browser-use](https://github.com/browser-use/browser-use)
+- 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 
