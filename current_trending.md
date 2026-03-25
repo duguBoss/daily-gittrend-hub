@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-03-24)
+# GitHub Trending (Added at: 2026-03-25)
 
-### [bytedance/deer-flow](https://github.com/bytedance/deer-flow)
-- An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.
+### [pascalorg/editor](https://github.com/pascalorg/editor)
+- Create and share 3D architectural projects.
 
-### [sponsors/tinygrad](https://github.com/sponsors/tinygrad)
-- You like pytorch? You like micrograd? You love tinygrad! ❤️
+### [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory)
+- Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
 
-### [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
-- The agent that grows with you
+### [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
+- 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
 
-### [jingyaogong/minimind](https://github.com/jingyaogong/minimind)
-- 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
+### [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)
+- AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 
-### [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN)
-- 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
+### [ruvnet/ruflo](https://github.com/ruvnet/ruflo)
+- 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration
 
