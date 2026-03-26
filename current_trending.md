@@ -1,17 +1,14 @@
-# GitHub Trending (Added at: 2026-03-25)
+# GitHub Trending (Added at: 2026-03-26)
 
-### [pascalorg/editor](https://github.com/pascalorg/editor)
-- Create and share 3D architectural projects.
+### [sponsors/BerriAI](https://github.com/sponsors/BerriAI)
+- Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, VLLM, NVIDIA NIM]
 
-### [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory)
-- Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
+### [letta-ai/claude-subconscious](https://github.com/letta-ai/claude-subconscious)
+- Give Claude Code a subconscious
 
-### [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
-- 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
+### [ruvnet/RuView](https://github.com/ruvnet/RuView)
+- π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.
 
-### [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)
-- AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
-
-### [ruvnet/ruflo](https://github.com/ruvnet/ruflo)
-- 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration
+### [usestrix/strix](https://github.com/usestrix/strix)
+- Open-source AI hackers to find and fix your app’s vulnerabilities.
 

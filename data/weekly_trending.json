@@ -1,29 +1,5 @@
 [
   {
-    "full_name": "sponsors/unslothai",
-    "url": "https://github.com/sponsors/unslothai",
-    "description": "Unified web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally.",
-    "date_added": "2026-03-19"
-  },
-  {
-    "full_name": "newton-physics/newton",
-    "url": "https://github.com/newton-physics/newton",
-    "description": "An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.",
-    "date_added": "2026-03-19"
-  },
-  {
-    "full_name": "shadps4-emu/shadPS4",
-    "url": "https://github.com/shadps4-emu/shadPS4",
-    "description": "PlayStation 4 emulator for Windows, Linux and macOS written in C++",
-    "date_added": "2026-03-19"
-  },
-  {
-    "full_name": "langchain-ai/open-swe",
-    "url": "https://github.com/langchain-ai/open-swe",
-    "description": "An Open-Source Asynchronous Coding Agent",
-    "date_added": "2026-03-19"
-  },
-  {
     "full_name": "opendataloader-project/opendataloader-pdf",
     "url": "https://github.com/opendataloader-project/opendataloader-pdf",
     "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
@@ -184,5 +160,29 @@
     "url": "https://github.com/ruvnet/ruflo",
     "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
     "date_added": "2026-03-25"
+  },
+  {
+    "full_name": "sponsors/BerriAI",
+    "url": "https://github.com/sponsors/BerriAI",
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, VLLM, NVIDIA NIM]",
+    "date_added": "2026-03-26"
+  },
+  {
+    "full_name": "letta-ai/claude-subconscious",
+    "url": "https://github.com/letta-ai/claude-subconscious",
+    "description": "Give Claude Code a subconscious",
+    "date_added": "2026-03-26"
+  },
+  {
+    "full_name": "ruvnet/RuView",
+    "url": "https://github.com/ruvnet/RuView",
+    "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
+    "date_added": "2026-03-26"
+  },
+  {
+    "full_name": "usestrix/strix",
+    "url": "https://github.com/usestrix/strix",
+    "description": "Open-source AI hackers to find and fix your app’s vulnerabilities.",
+    "date_added": "2026-03-26"
   }
 ]
