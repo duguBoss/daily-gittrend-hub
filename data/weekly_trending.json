@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "opendataloader-project/opendataloader-pdf",
-    "url": "https://github.com/opendataloader-project/opendataloader-pdf",
-    "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
-    "date_added": "2026-03-20"
-  },
-  {
-    "full_name": "mobile-dev-inc/Maestro",
-    "url": "https://github.com/mobile-dev-inc/Maestro",
-    "description": "Painless E2E Automation for Mobile and Web",
-    "date_added": "2026-03-20"
-  },
-  {
-    "full_name": "sponsors/tw93",
-    "url": "https://github.com/sponsors/tw93",
-    "description": "🐹 Deep clean and optimize your Mac.",
-    "date_added": "2026-03-20"
-  },
-  {
-    "full_name": "louis-e/arnis",
-    "url": "https://github.com/louis-e/arnis",
-    "description": "Generate any location from the real world in Minecraft with a high level of detail.",
-    "date_added": "2026-03-20"
-  },
-  {
-    "full_name": "sponsors/FujiwaraChoki",
-    "url": "https://github.com/sponsors/FujiwaraChoki",
-    "description": "Automate the process of making money online.",
-    "date_added": "2026-03-20"
-  },
-  {
     "full_name": "sponsors/vas3k",
     "url": "https://github.com/sponsors/vas3k",
     "description": "Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories",
@@ -184,5 +154,35 @@
     "url": "https://github.com/usestrix/strix",
     "description": "Open-source AI hackers to find and fix your app’s vulnerabilities.",
     "date_added": "2026-03-26"
+  },
+  {
+    "full_name": "sponsors/Yeachan-Heo",
+    "url": "https://github.com/sponsors/Yeachan-Heo",
+    "description": "Teams-first Multi-agent orchestration for Claude Code",
+    "date_added": "2026-03-27"
+  },
+  {
+    "full_name": "virattt/dexter",
+    "url": "https://github.com/virattt/dexter",
+    "description": "An autonomous agent for deep financial research",
+    "date_added": "2026-03-27"
+  },
+  {
+    "full_name": "Vaibhavs10/insanely-fast-whisper",
+    "url": "https://github.com/Vaibhavs10/insanely-fast-whisper",
+    "description": "",
+    "date_added": "2026-03-27"
+  },
+  {
+    "full_name": "agentscope-ai/agentscope",
+    "url": "https://github.com/agentscope-ai/agentscope",
+    "description": "Build and run agents you can see, understand and trust.",
+    "date_added": "2026-03-27"
+  },
+  {
+    "full_name": "twentyhq/twenty",
+    "url": "https://github.com/twentyhq/twenty",
+    "description": "Building a modern alternative to Salesforce, powered by the community.",
+    "date_added": "2026-03-27"
   }
 ]
