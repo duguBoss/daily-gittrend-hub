@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-03-27)
+# GitHub Trending (Added at: 2026-03-28)
 
-### [sponsors/Yeachan-Heo](https://github.com/sponsors/Yeachan-Heo)
-- Teams-first Multi-agent orchestration for Claude Code
+### [sponsors/hacksider](https://github.com/sponsors/hacksider)
+- real time face swap and one-click video deepfake with only a single image
 
-### [virattt/dexter](https://github.com/virattt/dexter)
-- An autonomous agent for deep financial research
+### [SakanaAI/AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2)
+- The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search
 
-### [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper)
-- 
+### [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)
+- Open-Source Frontier Voice AI
 
-### [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope)
-- Build and run agents you can see, understand and trust.
+### [datalab-to/chandra](https://github.com/datalab-to/chandra)
+- OCR model that handles complex tables, forms, handwriting with full layout.
 
-### [twentyhq/twenty](https://github.com/twentyhq/twenty)
-- Building a modern alternative to Salesforce, powered by the community.
+### [sponsors/obra](https://github.com/sponsors/obra)
+- An agentic skills framework & software development methodology that works.
 
