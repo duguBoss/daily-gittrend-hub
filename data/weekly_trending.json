@@ -1,29 +1,5 @@
 [
   {
-    "full_name": "systemd/systemd",
-    "url": "https://github.com/systemd/systemd",
-    "description": "The systemd System and Service Manager",
-    "date_added": "2026-03-22"
-  },
-  {
-    "full_name": "aquasecurity/trivy",
-    "url": "https://github.com/aquasecurity/trivy",
-    "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
-    "date_added": "2026-03-22"
-  },
-  {
-    "full_name": "protocolbuffers/protobuf",
-    "url": "https://github.com/protocolbuffers/protobuf",
-    "description": "Protocol Buffers - Google's data interchange format",
-    "date_added": "2026-03-22"
-  },
-  {
-    "full_name": "sponsors/vllm-project",
-    "url": "https://github.com/sponsors/vllm-project",
-    "description": "A framework for efficient model inference with omni-modality models",
-    "date_added": "2026-03-22"
-  },
-  {
     "full_name": "vxcontrol/pentagi",
     "url": "https://github.com/vxcontrol/pentagi",
     "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
@@ -196,5 +172,17 @@
     "url": "https://github.com/sponsors/obra",
     "description": "An agentic skills framework & software development methodology that works.",
     "date_added": "2026-03-28"
+  },
+  {
+    "full_name": "onyx-dot-app/onyx",
+    "url": "https://github.com/onyx-dot-app/onyx",
+    "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+    "date_added": "2026-03-29"
+  },
+  {
+    "full_name": "apache/superset",
+    "url": "https://github.com/apache/superset",
+    "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
+    "date_added": "2026-03-29"
   }
 ]

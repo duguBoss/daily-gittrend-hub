@@ -1,17 +1,8 @@
-# GitHub Trending (Added at: 2026-03-28)
+# GitHub Trending (Added at: 2026-03-29)
 
-### [sponsors/hacksider](https://github.com/sponsors/hacksider)
-- real time face swap and one-click video deepfake with only a single image
+### [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)
+- Open Source AI Platform - AI Chat with advanced features that works with every LLM
 
-### [SakanaAI/AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2)
-- The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search
-
-### [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)
-- Open-Source Frontier Voice AI
-
-### [datalab-to/chandra](https://github.com/datalab-to/chandra)
-- OCR model that handles complex tables, forms, handwriting with full layout.
-
-### [sponsors/obra](https://github.com/sponsors/obra)
-- An agentic skills framework & software development methodology that works.
+### [apache/superset](https://github.com/apache/superset)
+- Apache Superset is a Data Visualization and Data Exploration Platform
 
