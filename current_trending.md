@@ -1,8 +1,17 @@
-# GitHub Trending (Added at: 2026-03-29)
+# GitHub Trending (Added at: 2026-03-30)
 
-### [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)
-- Open Source AI Platform - AI Chat with advanced features that works with every LLM
+### [sponsors/luongnv89](https://github.com/sponsors/luongnv89)
+- A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
 
-### [apache/superset](https://github.com/apache/superset)
-- Apache Superset is a Data Visualization and Data Exploration Platform
+### [sponsors/OpenBB-finance](https://github.com/sponsors/OpenBB-finance)
+- Financial data platform for analysts, quants and AI agents.
+
+### [sponsors/thedotmack](https://github.com/sponsors/thedotmack)
+- A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
+
+### [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)
+- Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1
+
+### [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch)
+- A maintained, feature-rich and performance oriented, neofetch like system information tool.
 

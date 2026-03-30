@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "vxcontrol/pentagi",
-    "url": "https://github.com/vxcontrol/pentagi",
-    "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
-    "date_added": "2026-03-23"
-  },
-  {
-    "full_name": "jamwithai/production-agentic-rag-course",
-    "url": "https://github.com/jamwithai/production-agentic-rag-course",
-    "description": "",
-    "date_added": "2026-03-23"
-  },
-  {
-    "full_name": "sponsors/affaan-m",
-    "url": "https://github.com/sponsors/affaan-m",
-    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-    "date_added": "2026-03-23"
-  },
-  {
-    "full_name": "Crosstalk-Solutions/project-nomad",
-    "url": "https://github.com/Crosstalk-Solutions/project-nomad",
-    "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
-    "date_added": "2026-03-23"
-  },
-  {
-    "full_name": "browser-use/browser-use",
-    "url": "https://github.com/browser-use/browser-use",
-    "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
-    "date_added": "2026-03-23"
-  },
-  {
     "full_name": "bytedance/deer-flow",
     "url": "https://github.com/bytedance/deer-flow",
     "description": "An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
@@ -184,5 +154,35 @@
     "url": "https://github.com/apache/superset",
     "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
     "date_added": "2026-03-29"
+  },
+  {
+    "full_name": "sponsors/luongnv89",
+    "url": "https://github.com/sponsors/luongnv89",
+    "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+    "date_added": "2026-03-30"
+  },
+  {
+    "full_name": "sponsors/OpenBB-finance",
+    "url": "https://github.com/sponsors/OpenBB-finance",
+    "description": "Financial data platform for analysts, quants and AI agents.",
+    "date_added": "2026-03-30"
+  },
+  {
+    "full_name": "sponsors/thedotmack",
+    "url": "https://github.com/sponsors/thedotmack",
+    "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+    "date_added": "2026-03-30"
+  },
+  {
+    "full_name": "shareAI-lab/learn-claude-code",
+    "url": "https://github.com/shareAI-lab/learn-claude-code",
+    "description": "Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1",
+    "date_added": "2026-03-30"
+  },
+  {
+    "full_name": "fastfetch-cli/fastfetch",
+    "url": "https://github.com/fastfetch-cli/fastfetch",
+    "description": "A maintained, feature-rich and performance oriented, neofetch like system information tool.",
+    "date_added": "2026-03-30"
   }
 ]
