@@ -1,14 +1,17 @@
-# GitHub Trending (Added at: 2026-03-31)
+# GitHub Trending (Added at: 2026-04-01)
 
-### [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice)
-- practice made claude perfect
+### [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
+- The absolute trainer to light up AI agents.
 
-### [sponsors/freeCodeCamp](https://github.com/sponsors/freeCodeCamp)
-- freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
+### [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
+- Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
 
-### [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)
-- Hunt down social media accounts by username across social networks
+### [sponsors/Dimillian](https://github.com/sponsors/Dimillian)
+- My Codex Skills
 
-### [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
-- The agent that grows with you
+### [sponsors/neovim](https://github.com/sponsors/neovim)
+- Vim-fork focused on extensibility and usability
+
+### [sponsors/vas3k](https://github.com/sponsors/vas3k)
+- Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories
 
