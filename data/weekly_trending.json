@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "sponsors/Yeachan-Heo",
-    "url": "https://github.com/sponsors/Yeachan-Heo",
-    "description": "Teams-first Multi-agent orchestration for Claude Code",
-    "date_added": "2026-03-27"
-  },
-  {
-    "full_name": "virattt/dexter",
-    "url": "https://github.com/virattt/dexter",
-    "description": "An autonomous agent for deep financial research",
-    "date_added": "2026-03-27"
-  },
-  {
-    "full_name": "Vaibhavs10/insanely-fast-whisper",
-    "url": "https://github.com/Vaibhavs10/insanely-fast-whisper",
-    "description": "",
-    "date_added": "2026-03-27"
-  },
-  {
-    "full_name": "agentscope-ai/agentscope",
-    "url": "https://github.com/agentscope-ai/agentscope",
-    "description": "Build and run agents you can see, understand and trust.",
-    "date_added": "2026-03-27"
-  },
-  {
-    "full_name": "twentyhq/twenty",
-    "url": "https://github.com/twentyhq/twenty",
-    "description": "Building a modern alternative to Salesforce, powered by the community.",
-    "date_added": "2026-03-27"
-  },
-  {
     "full_name": "sponsors/hacksider",
     "url": "https://github.com/sponsors/hacksider",
     "description": "real time face swap and one-click video deepfake with only a single image",
@@ -184,5 +154,23 @@
     "url": "https://github.com/sponsors/f",
     "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
     "date_added": "2026-04-02"
+  },
+  {
+    "full_name": "siddharthvaddem/openscreen",
+    "url": "https://github.com/siddharthvaddem/openscreen",
+    "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
+    "date_added": "2026-04-03"
+  },
+  {
+    "full_name": "sponsors/Yeachan-Heo",
+    "url": "https://github.com/sponsors/Yeachan-Heo",
+    "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
+    "date_added": "2026-04-03"
+  },
+  {
+    "full_name": "sponsors/asgeirtj",
+    "url": "https://github.com/sponsors/asgeirtj",
+    "description": "Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, CLI), Grok (4.2, 4), Perplexity, and more. Updated regularly.",
+    "date_added": "2026-04-03"
   }
 ]
