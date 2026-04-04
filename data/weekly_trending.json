@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "sponsors/hacksider",
-    "url": "https://github.com/sponsors/hacksider",
-    "description": "real time face swap and one-click video deepfake with only a single image",
-    "date_added": "2026-03-28"
-  },
-  {
-    "full_name": "SakanaAI/AI-Scientist-v2",
-    "url": "https://github.com/SakanaAI/AI-Scientist-v2",
-    "description": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search",
-    "date_added": "2026-03-28"
-  },
-  {
-    "full_name": "microsoft/VibeVoice",
-    "url": "https://github.com/microsoft/VibeVoice",
-    "description": "Open-Source Frontier Voice AI",
-    "date_added": "2026-03-28"
-  },
-  {
-    "full_name": "datalab-to/chandra",
-    "url": "https://github.com/datalab-to/chandra",
-    "description": "OCR model that handles complex tables, forms, handwriting with full layout.",
-    "date_added": "2026-03-28"
-  },
-  {
-    "full_name": "sponsors/obra",
-    "url": "https://github.com/sponsors/obra",
-    "description": "An agentic skills framework & software development methodology that works.",
-    "date_added": "2026-03-28"
-  },
-  {
     "full_name": "onyx-dot-app/onyx",
     "url": "https://github.com/onyx-dot-app/onyx",
     "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
@@ -172,5 +142,11 @@
     "url": "https://github.com/sponsors/asgeirtj",
     "description": "Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, CLI), Grok (4.2, 4), Perplexity, and more. Updated regularly.",
     "date_added": "2026-04-03"
+  },
+  {
+    "full_name": "sponsors/dmtrKovalenko",
+    "url": "https://github.com/sponsors/dmtrKovalenko",
+    "description": "The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS",
+    "date_added": "2026-04-04"
   }
 ]

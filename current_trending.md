@@ -1,11 +1,5 @@
-# GitHub Trending (Added at: 2026-04-03)
+# GitHub Trending (Added at: 2026-04-04)
 
-### [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen)
-- Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
-
-### [sponsors/Yeachan-Heo](https://github.com/sponsors/Yeachan-Heo)
-- OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
-
-### [sponsors/asgeirtj](https://github.com/sponsors/asgeirtj)
-- Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, CLI), Grok (4.2, 4), Perplexity, and more. Updated regularly.
+### [sponsors/dmtrKovalenko](https://github.com/sponsors/dmtrKovalenko)
+- The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS
 
