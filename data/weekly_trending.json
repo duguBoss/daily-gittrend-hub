@@ -1,17 +1,5 @@
 [
   {
-    "full_name": "onyx-dot-app/onyx",
-    "url": "https://github.com/onyx-dot-app/onyx",
-    "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
-    "date_added": "2026-03-29"
-  },
-  {
-    "full_name": "apache/superset",
-    "url": "https://github.com/apache/superset",
-    "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
-    "date_added": "2026-03-29"
-  },
-  {
     "full_name": "sponsors/luongnv89",
     "url": "https://github.com/sponsors/luongnv89",
     "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
@@ -148,5 +136,35 @@
     "url": "https://github.com/sponsors/dmtrKovalenko",
     "description": "The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS",
     "date_added": "2026-04-04"
+  },
+  {
+    "full_name": "sponsors/Blaizzy",
+    "url": "https://github.com/sponsors/Blaizzy",
+    "description": "MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.",
+    "date_added": "2026-04-05"
+  },
+  {
+    "full_name": "onyx-dot-app/onyx",
+    "url": "https://github.com/onyx-dot-app/onyx",
+    "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+    "date_added": "2026-04-05"
+  },
+  {
+    "full_name": "telegramdesktop/tdesktop",
+    "url": "https://github.com/telegramdesktop/tdesktop",
+    "description": "Telegram Desktop messaging app",
+    "date_added": "2026-04-05"
+  },
+  {
+    "full_name": "block/goose",
+    "url": "https://github.com/block/goose",
+    "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+    "date_added": "2026-04-05"
+  },
+  {
+    "full_name": "microsoft/agent-framework",
+    "url": "https://github.com/microsoft/agent-framework",
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.",
+    "date_added": "2026-04-05"
   }
 ]
