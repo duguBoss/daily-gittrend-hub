@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "sponsors/luongnv89",
-    "url": "https://github.com/sponsors/luongnv89",
-    "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
-    "date_added": "2026-03-30"
-  },
-  {
-    "full_name": "sponsors/OpenBB-finance",
-    "url": "https://github.com/sponsors/OpenBB-finance",
-    "description": "Financial data platform for analysts, quants and AI agents.",
-    "date_added": "2026-03-30"
-  },
-  {
-    "full_name": "sponsors/thedotmack",
-    "url": "https://github.com/sponsors/thedotmack",
-    "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
-    "date_added": "2026-03-30"
-  },
-  {
-    "full_name": "shareAI-lab/learn-claude-code",
-    "url": "https://github.com/shareAI-lab/learn-claude-code",
-    "description": "Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1",
-    "date_added": "2026-03-30"
-  },
-  {
-    "full_name": "fastfetch-cli/fastfetch",
-    "url": "https://github.com/fastfetch-cli/fastfetch",
-    "description": "A maintained, feature-rich and performance oriented, neofetch like system information tool.",
-    "date_added": "2026-03-30"
-  },
-  {
     "full_name": "shanraisshan/claude-code-best-practice",
     "url": "https://github.com/shanraisshan/claude-code-best-practice",
     "description": "practice made claude perfect",
@@ -166,5 +136,23 @@
     "url": "https://github.com/microsoft/agent-framework",
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.",
     "date_added": "2026-04-05"
+  },
+  {
+    "full_name": "google-ai-edge/gallery",
+    "url": "https://github.com/google-ai-edge/gallery",
+    "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
+    "date_added": "2026-04-06"
+  },
+  {
+    "full_name": "sponsors/badlogic",
+    "url": "https://github.com/sponsors/badlogic",
+    "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
+    "date_added": "2026-04-06"
+  },
+  {
+    "full_name": "google-ai-edge/LiteRT-LM",
+    "url": "https://github.com/google-ai-edge/LiteRT-LM",
+    "description": "",
+    "date_added": "2026-04-06"
   }
 ]
