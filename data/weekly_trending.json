@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "microsoft/agent-lightning",
-    "url": "https://github.com/microsoft/agent-lightning",
-    "description": "The absolute trainer to light up AI agents.",
-    "date_added": "2026-04-01"
-  },
-  {
-    "full_name": "PaddlePaddle/PaddleOCR",
-    "url": "https://github.com/PaddlePaddle/PaddleOCR",
-    "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
-    "date_added": "2026-04-01"
-  },
-  {
-    "full_name": "sponsors/Dimillian",
-    "url": "https://github.com/sponsors/Dimillian",
-    "description": "My Codex Skills",
-    "date_added": "2026-04-01"
-  },
-  {
-    "full_name": "sponsors/neovim",
-    "url": "https://github.com/sponsors/neovim",
-    "description": "Vim-fork focused on extensibility and usability",
-    "date_added": "2026-04-01"
-  },
-  {
-    "full_name": "sponsors/vas3k",
-    "url": "https://github.com/sponsors/vas3k",
-    "description": "Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories",
-    "date_added": "2026-04-01"
-  },
-  {
     "full_name": "anthropics/claude-code",
     "url": "https://github.com/anthropics/claude-code",
     "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
@@ -160,5 +130,35 @@
     "url": "https://github.com/NousResearch/hermes-agent",
     "description": "The agent that grows with you",
     "date_added": "2026-04-07"
+  },
+  {
+    "full_name": "NVIDIA/personaplex",
+    "url": "https://github.com/NVIDIA/personaplex",
+    "description": "PersonaPlex code.",
+    "date_added": "2026-04-08"
+  },
+  {
+    "full_name": "tobi/qmd",
+    "url": "https://github.com/tobi/qmd",
+    "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
+    "date_added": "2026-04-08"
+  },
+  {
+    "full_name": "forrestchang/andrej-karpathy-skills",
+    "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+    "description": "",
+    "date_added": "2026-04-08"
+  },
+  {
+    "full_name": "elebumm/RedditVideoMakerBot",
+    "url": "https://github.com/elebumm/RedditVideoMakerBot",
+    "description": "Create Reddit Videos with just✨ one command ✨",
+    "date_added": "2026-04-08"
+  },
+  {
+    "full_name": "HKUDS/DeepTutor",
+    "url": "https://github.com/HKUDS/DeepTutor",
+    "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
+    "date_added": "2026-04-08"
   }
 ]
