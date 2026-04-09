@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-04-08)
+# GitHub Trending (Added at: 2026-04-09)
 
-### [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex)
-- PersonaPlex code.
+### [TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine)
+- A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.
 
-### [tobi/qmd](https://github.com/tobi/qmd)
-- mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
+### [sponsors/obra](https://github.com/sponsors/obra)
+- An agentic skills framework & software development methodology that works.
 
-### [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
-- 
+### [newton-physics/newton](https://github.com/newton-physics/newton)
+- An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.
 
-### [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot)
-- Create Reddit Videos with just✨ one command ✨
+### [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)
+- An AI Hedge Fund Team
 
-### [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)
-- "DeepTutor: Agent-Native Personalized Learning Assistant"
+### [goharbor/harbor](https://github.com/goharbor/harbor)
+- An open source trusted cloud native registry project that stores, signs, and scans content.
 

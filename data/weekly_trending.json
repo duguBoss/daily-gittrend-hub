@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "anthropics/claude-code",
-    "url": "https://github.com/anthropics/claude-code",
-    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-    "date_added": "2026-04-02"
-  },
-  {
-    "full_name": "google-research/timesfm",
-    "url": "https://github.com/google-research/timesfm",
-    "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
-    "date_added": "2026-04-02"
-  },
-  {
-    "full_name": "sponsors/axios",
-    "url": "https://github.com/sponsors/axios",
-    "description": "Promise based HTTP client for the browser and node.js",
-    "date_added": "2026-04-02"
-  },
-  {
-    "full_name": "openai/codex",
-    "url": "https://github.com/openai/codex",
-    "description": "Lightweight coding agent that runs in your terminal",
-    "date_added": "2026-04-02"
-  },
-  {
-    "full_name": "sponsors/f",
-    "url": "https://github.com/sponsors/f",
-    "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-    "date_added": "2026-04-02"
-  },
-  {
     "full_name": "siddharthvaddem/openscreen",
     "url": "https://github.com/siddharthvaddem/openscreen",
     "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
@@ -160,5 +130,35 @@
     "url": "https://github.com/HKUDS/DeepTutor",
     "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
     "date_added": "2026-04-08"
+  },
+  {
+    "full_name": "TheCraigHewitt/seomachine",
+    "url": "https://github.com/TheCraigHewitt/seomachine",
+    "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.",
+    "date_added": "2026-04-09"
+  },
+  {
+    "full_name": "sponsors/obra",
+    "url": "https://github.com/sponsors/obra",
+    "description": "An agentic skills framework & software development methodology that works.",
+    "date_added": "2026-04-09"
+  },
+  {
+    "full_name": "newton-physics/newton",
+    "url": "https://github.com/newton-physics/newton",
+    "description": "An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.",
+    "date_added": "2026-04-09"
+  },
+  {
+    "full_name": "virattt/ai-hedge-fund",
+    "url": "https://github.com/virattt/ai-hedge-fund",
+    "description": "An AI Hedge Fund Team",
+    "date_added": "2026-04-09"
+  },
+  {
+    "full_name": "goharbor/harbor",
+    "url": "https://github.com/goharbor/harbor",
+    "description": "An open source trusted cloud native registry project that stores, signs, and scans content.",
+    "date_added": "2026-04-09"
   }
 ]
