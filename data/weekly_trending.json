@@ -1,23 +1,5 @@
 [
   {
-    "full_name": "siddharthvaddem/openscreen",
-    "url": "https://github.com/siddharthvaddem/openscreen",
-    "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
-    "date_added": "2026-04-03"
-  },
-  {
-    "full_name": "sponsors/Yeachan-Heo",
-    "url": "https://github.com/sponsors/Yeachan-Heo",
-    "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
-    "date_added": "2026-04-03"
-  },
-  {
-    "full_name": "sponsors/asgeirtj",
-    "url": "https://github.com/sponsors/asgeirtj",
-    "description": "Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, CLI), Grok (4.2, 4), Perplexity, and more. Updated regularly.",
-    "date_added": "2026-04-03"
-  },
-  {
     "full_name": "sponsors/dmtrKovalenko",
     "url": "https://github.com/sponsors/dmtrKovalenko",
     "description": "The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS",
@@ -160,5 +142,35 @@
     "url": "https://github.com/goharbor/harbor",
     "description": "An open source trusted cloud native registry project that stores, signs, and scans content.",
     "date_added": "2026-04-09"
+  },
+  {
+    "full_name": "OpenBMB/VoxCPM",
+    "url": "https://github.com/OpenBMB/VoxCPM",
+    "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+    "date_added": "2026-04-10"
+  },
+  {
+    "full_name": "opendataloader-project/opendataloader-pdf",
+    "url": "https://github.com/opendataloader-project/opendataloader-pdf",
+    "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
+    "date_added": "2026-04-10"
+  },
+  {
+    "full_name": "coleam00/Archon",
+    "url": "https://github.com/coleam00/Archon",
+    "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
+    "date_added": "2026-04-10"
+  },
+  {
+    "full_name": "shiyu-coder/Kronos",
+    "url": "https://github.com/shiyu-coder/Kronos",
+    "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+    "date_added": "2026-04-10"
+  },
+  {
+    "full_name": "YishenTu/claudian",
+    "url": "https://github.com/YishenTu/claudian",
+    "description": "An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault",
+    "date_added": "2026-04-10"
   }
 ]

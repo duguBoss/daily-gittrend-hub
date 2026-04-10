@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-04-09)
+# GitHub Trending (Added at: 2026-04-10)
 
-### [TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine)
-- A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.
+### [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM)
+- VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
 
-### [sponsors/obra](https://github.com/sponsors/obra)
-- An agentic skills framework & software development methodology that works.
+### [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)
+- PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 
-### [newton-physics/newton](https://github.com/newton-physics/newton)
-- An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.
+### [coleam00/Archon](https://github.com/coleam00/Archon)
+- The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.
 
-### [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)
-- An AI Hedge Fund Team
+### [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos)
+- Kronos: A Foundation Model for the Language of Financial Markets
 
-### [goharbor/harbor](https://github.com/goharbor/harbor)
-- An open source trusted cloud native registry project that stores, signs, and scans content.
+### [YishenTu/claudian](https://github.com/YishenTu/claudian)
+- An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault
 
