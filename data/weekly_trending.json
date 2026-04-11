@@ -1,11 +1,5 @@
 [
   {
-    "full_name": "sponsors/dmtrKovalenko",
-    "url": "https://github.com/sponsors/dmtrKovalenko",
-    "description": "The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS",
-    "date_added": "2026-04-04"
-  },
-  {
     "full_name": "sponsors/Blaizzy",
     "url": "https://github.com/sponsors/Blaizzy",
     "description": "MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.",
@@ -172,5 +166,35 @@
     "url": "https://github.com/YishenTu/claudian",
     "description": "An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault",
     "date_added": "2026-04-10"
+  },
+  {
+    "full_name": "microsoft/markitdown",
+    "url": "https://github.com/microsoft/markitdown",
+    "description": "Python tool for converting files and office documents to Markdown.",
+    "date_added": "2026-04-11"
+  },
+  {
+    "full_name": "rowboatlabs/rowboat",
+    "url": "https://github.com/rowboatlabs/rowboat",
+    "description": "Open-source AI coworker, with memory",
+    "date_added": "2026-04-11"
+  },
+  {
+    "full_name": "multica-ai/multica",
+    "url": "https://github.com/multica-ai/multica",
+    "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+    "date_added": "2026-04-11"
+  },
+  {
+    "full_name": "jqlang/jq",
+    "url": "https://github.com/jqlang/jq",
+    "description": "Command-line JSON processor",
+    "date_added": "2026-04-11"
+  },
+  {
+    "full_name": "shanraisshan/claude-code-best-practice",
+    "url": "https://github.com/shanraisshan/claude-code-best-practice",
+    "description": "practice made claude perfect",
+    "date_added": "2026-04-11"
   }
 ]
