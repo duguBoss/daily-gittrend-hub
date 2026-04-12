@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "sponsors/Blaizzy",
-    "url": "https://github.com/sponsors/Blaizzy",
-    "description": "MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.",
-    "date_added": "2026-04-05"
-  },
-  {
-    "full_name": "onyx-dot-app/onyx",
-    "url": "https://github.com/onyx-dot-app/onyx",
-    "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
-    "date_added": "2026-04-05"
-  },
-  {
-    "full_name": "telegramdesktop/tdesktop",
-    "url": "https://github.com/telegramdesktop/tdesktop",
-    "description": "Telegram Desktop messaging app",
-    "date_added": "2026-04-05"
-  },
-  {
-    "full_name": "block/goose",
-    "url": "https://github.com/block/goose",
-    "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
-    "date_added": "2026-04-05"
-  },
-  {
-    "full_name": "microsoft/agent-framework",
-    "url": "https://github.com/microsoft/agent-framework",
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.",
-    "date_added": "2026-04-05"
-  },
-  {
     "full_name": "google-ai-edge/gallery",
     "url": "https://github.com/google-ai-edge/gallery",
     "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
@@ -196,5 +166,17 @@
     "url": "https://github.com/shanraisshan/claude-code-best-practice",
     "description": "practice made claude perfect",
     "date_added": "2026-04-11"
+  },
+  {
+    "full_name": "TapXWorld/ChinaTextbook",
+    "url": "https://github.com/TapXWorld/ChinaTextbook",
+    "description": "所有小初高、大学PDF教材。",
+    "date_added": "2026-04-12"
+  },
+  {
+    "full_name": "alexpate/awesome-design-systems",
+    "url": "https://github.com/alexpate/awesome-design-systems",
+    "description": "💅🏻 ⚒ A collection of awesome design systems",
+    "date_added": "2026-04-12"
   }
 ]

@@ -1,17 +1,8 @@
-# GitHub Trending (Added at: 2026-04-11)
+# GitHub Trending (Added at: 2026-04-12)
 
-### [microsoft/markitdown](https://github.com/microsoft/markitdown)
-- Python tool for converting files and office documents to Markdown.
+### [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)
+- 所有小初高、大学PDF教材。
 
-### [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat)
-- Open-source AI coworker, with memory
-
-### [multica-ai/multica](https://github.com/multica-ai/multica)
-- The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
-
-### [jqlang/jq](https://github.com/jqlang/jq)
-- Command-line JSON processor
-
-### [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice)
-- practice made claude perfect
+### [alexpate/awesome-design-systems](https://github.com/alexpate/awesome-design-systems)
+- 💅🏻 ⚒ A collection of awesome design systems
 
