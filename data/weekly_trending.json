@@ -1,23 +1,5 @@
 [
   {
-    "full_name": "google-ai-edge/gallery",
-    "url": "https://github.com/google-ai-edge/gallery",
-    "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
-    "date_added": "2026-04-06"
-  },
-  {
-    "full_name": "sponsors/badlogic",
-    "url": "https://github.com/sponsors/badlogic",
-    "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
-    "date_added": "2026-04-06"
-  },
-  {
-    "full_name": "google-ai-edge/LiteRT-LM",
-    "url": "https://github.com/google-ai-edge/LiteRT-LM",
-    "description": "",
-    "date_added": "2026-04-06"
-  },
-  {
     "full_name": "sponsors/abhigyanpatwari",
     "url": "https://github.com/sponsors/abhigyanpatwari",
     "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
@@ -178,5 +160,35 @@
     "url": "https://github.com/alexpate/awesome-design-systems",
     "description": "💅🏻 ⚒ A collection of awesome design systems",
     "date_added": "2026-04-12"
+  },
+  {
+    "full_name": "sponsors/thedotmack",
+    "url": "https://github.com/sponsors/thedotmack",
+    "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+    "date_added": "2026-04-13"
+  },
+  {
+    "full_name": "snarktank/ralph",
+    "url": "https://github.com/snarktank/ralph",
+    "description": "Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete.",
+    "date_added": "2026-04-13"
+  },
+  {
+    "full_name": "anthropics/claude-cookbooks",
+    "url": "https://github.com/anthropics/claude-cookbooks",
+    "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+    "date_added": "2026-04-13"
+  },
+  {
+    "full_name": "jamiepine/voicebox",
+    "url": "https://github.com/jamiepine/voicebox",
+    "description": "The open-source voice synthesis studio",
+    "date_added": "2026-04-13"
+  },
+  {
+    "full_name": "sponsors/ahujasid",
+    "url": "https://github.com/sponsors/ahujasid",
+    "description": "",
+    "date_added": "2026-04-13"
   }
 ]
