@@ -1,17 +1,11 @@
-# GitHub Trending (Added at: 2026-04-13)
+# GitHub Trending (Added at: 2026-04-14)
 
-### [sponsors/thedotmack](https://github.com/sponsors/thedotmack)
-- A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
+### [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+- The agent that grows with you
 
-### [snarktank/ralph](https://github.com/snarktank/ralph)
-- Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete.
+### [sponsors/hacksider](https://github.com/sponsors/hacksider)
+- real time face swap and one-click video deepfake with only a single image
 
-### [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks)
-- A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
-
-### [jamiepine/voicebox](https://github.com/jamiepine/voicebox)
-- The open-source voice synthesis studio
-
-### [sponsors/ahujasid](https://github.com/sponsors/ahujasid)
-- 
+### [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done)
+- A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
 
