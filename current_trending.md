@@ -1,11 +1,11 @@
-# GitHub Trending (Added at: 2026-04-14)
+# GitHub Trending (Added at: 2026-04-15)
 
-### [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
-- The agent that grows with you
+### [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
+- A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 
-### [sponsors/hacksider](https://github.com/sponsors/hacksider)
-- real time face swap and one-click video deepfake with only a single image
+### [pascalorg/editor](https://github.com/pascalorg/editor)
+- Create and share 3D architectural projects.
 
-### [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done)
-- A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
+### [sponsors/chrislgarry](https://github.com/sponsors/chrislgarry)
+- Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
 

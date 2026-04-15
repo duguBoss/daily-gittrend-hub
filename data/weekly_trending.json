@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "NVIDIA/personaplex",
-    "url": "https://github.com/NVIDIA/personaplex",
-    "description": "PersonaPlex code.",
-    "date_added": "2026-04-08"
-  },
-  {
-    "full_name": "tobi/qmd",
-    "url": "https://github.com/tobi/qmd",
-    "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
-    "date_added": "2026-04-08"
-  },
-  {
-    "full_name": "forrestchang/andrej-karpathy-skills",
-    "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-    "description": "",
-    "date_added": "2026-04-08"
-  },
-  {
-    "full_name": "elebumm/RedditVideoMakerBot",
-    "url": "https://github.com/elebumm/RedditVideoMakerBot",
-    "description": "Create Reddit Videos with just✨ one command ✨",
-    "date_added": "2026-04-08"
-  },
-  {
-    "full_name": "HKUDS/DeepTutor",
-    "url": "https://github.com/HKUDS/DeepTutor",
-    "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
-    "date_added": "2026-04-08"
-  },
-  {
     "full_name": "TheCraigHewitt/seomachine",
     "url": "https://github.com/TheCraigHewitt/seomachine",
     "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.",
@@ -178,5 +148,23 @@
     "url": "https://github.com/gsd-build/get-shit-done",
     "description": "A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.",
     "date_added": "2026-04-14"
+  },
+  {
+    "full_name": "forrestchang/andrej-karpathy-skills",
+    "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+    "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "date_added": "2026-04-15"
+  },
+  {
+    "full_name": "pascalorg/editor",
+    "url": "https://github.com/pascalorg/editor",
+    "description": "Create and share 3D architectural projects.",
+    "date_added": "2026-04-15"
+  },
+  {
+    "full_name": "sponsors/chrislgarry",
+    "url": "https://github.com/sponsors/chrislgarry",
+    "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+    "date_added": "2026-04-15"
   }
 ]
