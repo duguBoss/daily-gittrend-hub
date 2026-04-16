@@ -1,11 +1,17 @@
-# GitHub Trending (Added at: 2026-04-15)
+# GitHub Trending (Added at: 2026-04-16)
 
-### [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
-- A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+### [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms)
+- 《动手学大模型Dive into LLMs》系列编程实践教程
 
-### [pascalorg/editor](https://github.com/pascalorg/editor)
-- Create and share 3D architectural projects.
+### [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)
+- An AI Hedge Fund Team
 
-### [sponsors/chrislgarry](https://github.com/sponsors/chrislgarry)
-- Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
+### [sponsors/obra](https://github.com/sponsors/obra)
+- An agentic skills framework & software development methodology that works.
+
+### [public-apis/public-apis](https://github.com/public-apis/public-apis)
+- A collective list of free APIs
+
+### [vercel-labs/open-agents](https://github.com/vercel-labs/open-agents)
+- An open source template for building cloud agents.
 

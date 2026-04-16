@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "TheCraigHewitt/seomachine",
-    "url": "https://github.com/TheCraigHewitt/seomachine",
-    "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.",
-    "date_added": "2026-04-09"
-  },
-  {
-    "full_name": "sponsors/obra",
-    "url": "https://github.com/sponsors/obra",
-    "description": "An agentic skills framework & software development methodology that works.",
-    "date_added": "2026-04-09"
-  },
-  {
-    "full_name": "newton-physics/newton",
-    "url": "https://github.com/newton-physics/newton",
-    "description": "An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.",
-    "date_added": "2026-04-09"
-  },
-  {
-    "full_name": "virattt/ai-hedge-fund",
-    "url": "https://github.com/virattt/ai-hedge-fund",
-    "description": "An AI Hedge Fund Team",
-    "date_added": "2026-04-09"
-  },
-  {
-    "full_name": "goharbor/harbor",
-    "url": "https://github.com/goharbor/harbor",
-    "description": "An open source trusted cloud native registry project that stores, signs, and scans content.",
-    "date_added": "2026-04-09"
-  },
-  {
     "full_name": "OpenBMB/VoxCPM",
     "url": "https://github.com/OpenBMB/VoxCPM",
     "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
@@ -166,5 +136,35 @@
     "url": "https://github.com/sponsors/chrislgarry",
     "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
     "date_added": "2026-04-15"
+  },
+  {
+    "full_name": "Lordog/dive-into-llms",
+    "url": "https://github.com/Lordog/dive-into-llms",
+    "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
+    "date_added": "2026-04-16"
+  },
+  {
+    "full_name": "virattt/ai-hedge-fund",
+    "url": "https://github.com/virattt/ai-hedge-fund",
+    "description": "An AI Hedge Fund Team",
+    "date_added": "2026-04-16"
+  },
+  {
+    "full_name": "sponsors/obra",
+    "url": "https://github.com/sponsors/obra",
+    "description": "An agentic skills framework & software development methodology that works.",
+    "date_added": "2026-04-16"
+  },
+  {
+    "full_name": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "description": "A collective list of free APIs",
+    "date_added": "2026-04-16"
+  },
+  {
+    "full_name": "vercel-labs/open-agents",
+    "url": "https://github.com/vercel-labs/open-agents",
+    "description": "An open source template for building cloud agents.",
+    "date_added": "2026-04-16"
   }
 ]
