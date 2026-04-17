@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-04-16)
+# GitHub Trending (Added at: 2026-04-17)
 
-### [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms)
-- 《动手学大模型Dive into LLMs》系列编程实践教程
+### [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent)
+- Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption
 
-### [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)
-- An AI Hedge Fund Team
+### [google/magika](https://github.com/google/magika)
+- Fast and accurate AI powered file content types detection
 
-### [sponsors/obra](https://github.com/sponsors/obra)
-- An agentic skills framework & software development methodology that works.
+### [sponsors/steipete](https://github.com/sponsors/steipete)
+- WhatsApp CLI
 
-### [public-apis/public-apis](https://github.com/public-apis/public-apis)
-- A collective list of free APIs
+### [sponsors/topoteretes](https://github.com/sponsors/topoteretes)
+- Knowledge Engine for AI Agent Memory in 6 lines of code
 
-### [vercel-labs/open-agents](https://github.com/vercel-labs/open-agents)
-- An open source template for building cloud agents.
+### [z-lab/dflash](https://github.com/z-lab/dflash)
+- DFlash: Block Diffusion for Flash Speculative Decoding
 

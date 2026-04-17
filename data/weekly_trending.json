@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "OpenBMB/VoxCPM",
-    "url": "https://github.com/OpenBMB/VoxCPM",
-    "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
-    "date_added": "2026-04-10"
-  },
-  {
-    "full_name": "opendataloader-project/opendataloader-pdf",
-    "url": "https://github.com/opendataloader-project/opendataloader-pdf",
-    "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
-    "date_added": "2026-04-10"
-  },
-  {
-    "full_name": "coleam00/Archon",
-    "url": "https://github.com/coleam00/Archon",
-    "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
-    "date_added": "2026-04-10"
-  },
-  {
-    "full_name": "shiyu-coder/Kronos",
-    "url": "https://github.com/shiyu-coder/Kronos",
-    "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-    "date_added": "2026-04-10"
-  },
-  {
-    "full_name": "YishenTu/claudian",
-    "url": "https://github.com/YishenTu/claudian",
-    "description": "An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault",
-    "date_added": "2026-04-10"
-  },
-  {
     "full_name": "microsoft/markitdown",
     "url": "https://github.com/microsoft/markitdown",
     "description": "Python tool for converting files and office documents to Markdown.",
@@ -166,5 +136,35 @@
     "url": "https://github.com/vercel-labs/open-agents",
     "description": "An open source template for building cloud agents.",
     "date_added": "2026-04-16"
+  },
+  {
+    "full_name": "lsdefine/GenericAgent",
+    "url": "https://github.com/lsdefine/GenericAgent",
+    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+    "date_added": "2026-04-17"
+  },
+  {
+    "full_name": "google/magika",
+    "url": "https://github.com/google/magika",
+    "description": "Fast and accurate AI powered file content types detection",
+    "date_added": "2026-04-17"
+  },
+  {
+    "full_name": "sponsors/steipete",
+    "url": "https://github.com/sponsors/steipete",
+    "description": "WhatsApp CLI",
+    "date_added": "2026-04-17"
+  },
+  {
+    "full_name": "sponsors/topoteretes",
+    "url": "https://github.com/sponsors/topoteretes",
+    "description": "Knowledge Engine for AI Agent Memory in 6 lines of code",
+    "date_added": "2026-04-17"
+  },
+  {
+    "full_name": "z-lab/dflash",
+    "url": "https://github.com/z-lab/dflash",
+    "description": "DFlash: Block Diffusion for Flash Speculative Decoding",
+    "date_added": "2026-04-17"
   }
 ]
