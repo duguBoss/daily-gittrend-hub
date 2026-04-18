@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "microsoft/markitdown",
-    "url": "https://github.com/microsoft/markitdown",
-    "description": "Python tool for converting files and office documents to Markdown.",
-    "date_added": "2026-04-11"
-  },
-  {
-    "full_name": "rowboatlabs/rowboat",
-    "url": "https://github.com/rowboatlabs/rowboat",
-    "description": "Open-source AI coworker, with memory",
-    "date_added": "2026-04-11"
-  },
-  {
-    "full_name": "multica-ai/multica",
-    "url": "https://github.com/multica-ai/multica",
-    "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
-    "date_added": "2026-04-11"
-  },
-  {
-    "full_name": "jqlang/jq",
-    "url": "https://github.com/jqlang/jq",
-    "description": "Command-line JSON processor",
-    "date_added": "2026-04-11"
-  },
-  {
-    "full_name": "shanraisshan/claude-code-best-practice",
-    "url": "https://github.com/shanraisshan/claude-code-best-practice",
-    "description": "practice made claude perfect",
-    "date_added": "2026-04-11"
-  },
-  {
     "full_name": "TapXWorld/ChinaTextbook",
     "url": "https://github.com/TapXWorld/ChinaTextbook",
     "description": "所有小初高、大学PDF教材。",
@@ -166,5 +136,35 @@
     "url": "https://github.com/z-lab/dflash",
     "description": "DFlash: Block Diffusion for Flash Speculative Decoding",
     "date_added": "2026-04-17"
+  },
+  {
+    "full_name": "EvoMap/evolver",
+    "url": "https://github.com/EvoMap/evolver",
+    "description": "The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai",
+    "date_added": "2026-04-18"
+  },
+  {
+    "full_name": "SimoneAvogadro/android-reverse-engineering-skill",
+    "url": "https://github.com/SimoneAvogadro/android-reverse-engineering-skill",
+    "description": "Claude Code skill to support Android app's reverse engineering",
+    "date_added": "2026-04-18"
+  },
+  {
+    "full_name": "sponsors/BasedHardware",
+    "url": "https://github.com/sponsors/BasedHardware",
+    "description": "AI that sees your screen, listens to your conversations and tells you what to do",
+    "date_added": "2026-04-18"
+  },
+  {
+    "full_name": "sponsors/Donchitos",
+    "url": "https://github.com/sponsors/Donchitos",
+    "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
+    "date_added": "2026-04-18"
+  },
+  {
+    "full_name": "lukilabs/craft-agents-oss",
+    "url": "https://github.com/lukilabs/craft-agents-oss",
+    "description": "",
+    "date_added": "2026-04-18"
   }
 ]

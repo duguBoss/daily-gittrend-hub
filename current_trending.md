@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-04-17)
+# GitHub Trending (Added at: 2026-04-18)
 
-### [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent)
-- Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption
+### [EvoMap/evolver](https://github.com/EvoMap/evolver)
+- The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai
 
-### [google/magika](https://github.com/google/magika)
-- Fast and accurate AI powered file content types detection
+### [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill)
+- Claude Code skill to support Android app's reverse engineering
 
-### [sponsors/steipete](https://github.com/sponsors/steipete)
-- WhatsApp CLI
+### [sponsors/BasedHardware](https://github.com/sponsors/BasedHardware)
+- AI that sees your screen, listens to your conversations and tells you what to do
 
-### [sponsors/topoteretes](https://github.com/sponsors/topoteretes)
-- Knowledge Engine for AI Agent Memory in 6 lines of code
+### [sponsors/Donchitos](https://github.com/sponsors/Donchitos)
+- Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.
 
-### [z-lab/dflash](https://github.com/z-lab/dflash)
-- DFlash: Block Diffusion for Flash Speculative Decoding
+### [lukilabs/craft-agents-oss](https://github.com/lukilabs/craft-agents-oss)
+- 
 
