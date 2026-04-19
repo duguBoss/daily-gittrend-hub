@@ -1,17 +1,5 @@
 [
   {
-    "full_name": "TapXWorld/ChinaTextbook",
-    "url": "https://github.com/TapXWorld/ChinaTextbook",
-    "description": "所有小初高、大学PDF教材。",
-    "date_added": "2026-04-12"
-  },
-  {
-    "full_name": "alexpate/awesome-design-systems",
-    "url": "https://github.com/alexpate/awesome-design-systems",
-    "description": "💅🏻 ⚒ A collection of awesome design systems",
-    "date_added": "2026-04-12"
-  },
-  {
     "full_name": "sponsors/thedotmack",
     "url": "https://github.com/sponsors/thedotmack",
     "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
@@ -166,5 +154,35 @@
     "url": "https://github.com/lukilabs/craft-agents-oss",
     "description": "",
     "date_added": "2026-04-18"
+  },
+  {
+    "full_name": "sponsors/thunderbird",
+    "url": "https://github.com/sponsors/thunderbird",
+    "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
+    "date_added": "2026-04-19"
+  },
+  {
+    "full_name": "openai/openai-agents-python",
+    "url": "https://github.com/openai/openai-agents-python",
+    "description": "A lightweight, powerful framework for multi-agent workflows",
+    "date_added": "2026-04-19"
+  },
+  {
+    "full_name": "deepseek-ai/DeepGEMM",
+    "url": "https://github.com/deepseek-ai/DeepGEMM",
+    "description": "DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling",
+    "date_added": "2026-04-19"
+  },
+  {
+    "full_name": "sponsors/aaddrick",
+    "url": "https://github.com/sponsors/aaddrick",
+    "description": "Claude Desktop for Debian-based Linux distributions",
+    "date_added": "2026-04-19"
+  },
+  {
+    "full_name": "sponsors/rustdesk",
+    "url": "https://github.com/sponsors/rustdesk",
+    "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+    "date_added": "2026-04-19"
   }
 ]

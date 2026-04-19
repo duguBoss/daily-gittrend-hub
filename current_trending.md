@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-04-18)
+# GitHub Trending (Added at: 2026-04-19)
 
-### [EvoMap/evolver](https://github.com/EvoMap/evolver)
-- The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai
+### [sponsors/thunderbird](https://github.com/sponsors/thunderbird)
+- AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.
 
-### [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill)
-- Claude Code skill to support Android app's reverse engineering
+### [openai/openai-agents-python](https://github.com/openai/openai-agents-python)
+- A lightweight, powerful framework for multi-agent workflows
 
-### [sponsors/BasedHardware](https://github.com/sponsors/BasedHardware)
-- AI that sees your screen, listens to your conversations and tells you what to do
+### [deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM)
+- DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling
 
-### [sponsors/Donchitos](https://github.com/sponsors/Donchitos)
-- Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.
+### [sponsors/aaddrick](https://github.com/sponsors/aaddrick)
+- Claude Desktop for Debian-based Linux distributions
 
-### [lukilabs/craft-agents-oss](https://github.com/lukilabs/craft-agents-oss)
-- 
+### [sponsors/rustdesk](https://github.com/sponsors/rustdesk)
+- An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 
