@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "sponsors/thedotmack",
-    "url": "https://github.com/sponsors/thedotmack",
-    "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
-    "date_added": "2026-04-13"
-  },
-  {
-    "full_name": "snarktank/ralph",
-    "url": "https://github.com/snarktank/ralph",
-    "description": "Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete.",
-    "date_added": "2026-04-13"
-  },
-  {
-    "full_name": "anthropics/claude-cookbooks",
-    "url": "https://github.com/anthropics/claude-cookbooks",
-    "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
-    "date_added": "2026-04-13"
-  },
-  {
-    "full_name": "jamiepine/voicebox",
-    "url": "https://github.com/jamiepine/voicebox",
-    "description": "The open-source voice synthesis studio",
-    "date_added": "2026-04-13"
-  },
-  {
-    "full_name": "sponsors/ahujasid",
-    "url": "https://github.com/sponsors/ahujasid",
-    "description": "",
-    "date_added": "2026-04-13"
-  },
-  {
     "full_name": "NousResearch/hermes-agent",
     "url": "https://github.com/NousResearch/hermes-agent",
     "description": "The agent that grows with you",
@@ -184,5 +154,35 @@
     "url": "https://github.com/sponsors/rustdesk",
     "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
     "date_added": "2026-04-19"
+  },
+  {
+    "full_name": "sponsors/Fincept-Corporation",
+    "url": "https://github.com/sponsors/Fincept-Corporation",
+    "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
+    "date_added": "2026-04-20"
+  },
+  {
+    "full_name": "tractorjuice/arc-kit",
+    "url": "https://github.com/tractorjuice/arc-kit",
+    "description": "Enterprise Architecture Governance & Vendor Procurement Toolkit",
+    "date_added": "2026-04-20"
+  },
+  {
+    "full_name": "pingdotgg/t3code",
+    "url": "https://github.com/pingdotgg/t3code",
+    "description": "",
+    "date_added": "2026-04-20"
+  },
+  {
+    "full_name": "paperless-ngx/paperless-ngx",
+    "url": "https://github.com/paperless-ngx/paperless-ngx",
+    "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
+    "date_added": "2026-04-20"
+  },
+  {
+    "full_name": "ruvnet/RuView",
+    "url": "https://github.com/ruvnet/RuView",
+    "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
+    "date_added": "2026-04-20"
   }
 ]

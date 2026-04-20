@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-04-19)
+# GitHub Trending (Added at: 2026-04-20)
 
-### [sponsors/thunderbird](https://github.com/sponsors/thunderbird)
-- AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.
+### [sponsors/Fincept-Corporation](https://github.com/sponsors/Fincept-Corporation)
+- FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.
 
-### [openai/openai-agents-python](https://github.com/openai/openai-agents-python)
-- A lightweight, powerful framework for multi-agent workflows
+### [tractorjuice/arc-kit](https://github.com/tractorjuice/arc-kit)
+- Enterprise Architecture Governance & Vendor Procurement Toolkit
 
-### [deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM)
-- DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling
+### [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
+- 
 
-### [sponsors/aaddrick](https://github.com/sponsors/aaddrick)
-- Claude Desktop for Debian-based Linux distributions
+### [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)
+- A community-supported supercharged document management system: scan, index and archive all your documents
 
-### [sponsors/rustdesk](https://github.com/sponsors/rustdesk)
-- An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+### [ruvnet/RuView](https://github.com/ruvnet/RuView)
+- π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.
 
