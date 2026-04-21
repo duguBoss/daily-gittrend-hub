@@ -1,23 +1,5 @@
 [
   {
-    "full_name": "NousResearch/hermes-agent",
-    "url": "https://github.com/NousResearch/hermes-agent",
-    "description": "The agent that grows with you",
-    "date_added": "2026-04-14"
-  },
-  {
-    "full_name": "sponsors/hacksider",
-    "url": "https://github.com/sponsors/hacksider",
-    "description": "real time face swap and one-click video deepfake with only a single image",
-    "date_added": "2026-04-14"
-  },
-  {
-    "full_name": "gsd-build/get-shit-done",
-    "url": "https://github.com/gsd-build/get-shit-done",
-    "description": "A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.",
-    "date_added": "2026-04-14"
-  },
-  {
     "full_name": "forrestchang/andrej-karpathy-skills",
     "url": "https://github.com/forrestchang/andrej-karpathy-skills",
     "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
@@ -184,5 +166,23 @@
     "url": "https://github.com/ruvnet/RuView",
     "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
     "date_added": "2026-04-20"
+  },
+  {
+    "full_name": "koala73/worldmonitor",
+    "url": "https://github.com/koala73/worldmonitor",
+    "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+    "date_added": "2026-04-21"
+  },
+  {
+    "full_name": "sponsors/pi-hole",
+    "url": "https://github.com/sponsors/pi-hole",
+    "description": "A black hole for Internet advertisements",
+    "date_added": "2026-04-21"
+  },
+  {
+    "full_name": "XTLS/Xray-core",
+    "url": "https://github.com/XTLS/Xray-core",
+    "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
+    "date_added": "2026-04-21"
   }
 ]

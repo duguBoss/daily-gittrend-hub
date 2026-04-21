@@ -1,17 +1,11 @@
-# GitHub Trending (Added at: 2026-04-20)
+# GitHub Trending (Added at: 2026-04-21)
 
-### [sponsors/Fincept-Corporation](https://github.com/sponsors/Fincept-Corporation)
-- FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.
+### [koala73/worldmonitor](https://github.com/koala73/worldmonitor)
+- Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
 
-### [tractorjuice/arc-kit](https://github.com/tractorjuice/arc-kit)
-- Enterprise Architecture Governance & Vendor Procurement Toolkit
+### [sponsors/pi-hole](https://github.com/sponsors/pi-hole)
+- A black hole for Internet advertisements
 
-### [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
-- 
-
-### [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)
-- A community-supported supercharged document management system: scan, index and archive all your documents
-
-### [ruvnet/RuView](https://github.com/ruvnet/RuView)
-- π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.
+### [XTLS/Xray-core](https://github.com/XTLS/Xray-core)
+- Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.
 
