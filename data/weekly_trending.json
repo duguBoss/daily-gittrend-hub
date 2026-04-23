@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "Lordog/dive-into-llms",
-    "url": "https://github.com/Lordog/dive-into-llms",
-    "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
-    "date_added": "2026-04-16"
-  },
-  {
-    "full_name": "virattt/ai-hedge-fund",
-    "url": "https://github.com/virattt/ai-hedge-fund",
-    "description": "An AI Hedge Fund Team",
-    "date_added": "2026-04-16"
-  },
-  {
-    "full_name": "sponsors/obra",
-    "url": "https://github.com/sponsors/obra",
-    "description": "An agentic skills framework & software development methodology that works.",
-    "date_added": "2026-04-16"
-  },
-  {
-    "full_name": "public-apis/public-apis",
-    "url": "https://github.com/public-apis/public-apis",
-    "description": "A collective list of free APIs",
-    "date_added": "2026-04-16"
-  },
-  {
-    "full_name": "vercel-labs/open-agents",
-    "url": "https://github.com/vercel-labs/open-agents",
-    "description": "An open source template for building cloud agents.",
-    "date_added": "2026-04-16"
-  },
-  {
     "full_name": "lsdefine/GenericAgent",
     "url": "https://github.com/lsdefine/GenericAgent",
     "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
@@ -196,5 +166,35 @@
     "url": "https://github.com/sansan0/TrendRadar",
     "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 + AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。",
     "date_added": "2026-04-22"
+  },
+  {
+    "full_name": "langfuse/langfuse",
+    "url": "https://github.com/langfuse/langfuse",
+    "description": "🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23",
+    "date_added": "2026-04-23"
+  },
+  {
+    "full_name": "KeygraphHQ/shannon",
+    "url": "https://github.com/KeygraphHQ/shannon",
+    "description": "Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.",
+    "date_added": "2026-04-23"
+  },
+  {
+    "full_name": "sponsors/open-metadata",
+    "url": "https://github.com/sponsors/open-metadata",
+    "description": "OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration.",
+    "date_added": "2026-04-23"
+  },
+  {
+    "full_name": "AIDC-AI/Pixelle-Video",
+    "url": "https://github.com/AIDC-AI/Pixelle-Video",
+    "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+    "date_added": "2026-04-23"
+  },
+  {
+    "full_name": "Z4nzu/hackingtool",
+    "url": "https://github.com/Z4nzu/hackingtool",
+    "description": "ALL IN ONE Hacking Tool For Hackers",
+    "date_added": "2026-04-23"
   }
 ]
