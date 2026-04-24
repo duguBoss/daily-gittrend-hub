@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-04-23)
+# GitHub Trending (Added at: 2026-04-24)
 
-### [langfuse/langfuse](https://github.com/langfuse/langfuse)
-- 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
+### [huggingface/ml-intern](https://github.com/huggingface/ml-intern)
+- 🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models
 
-### [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon)
-- Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.
+### [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)
+- Use claude-code for free in the terminal, VSCode extension or via discord like openclaw
 
-### [sponsors/open-metadata](https://github.com/sponsors/open-metadata)
-- OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration.
+### [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell)
+- PowerShell for every system!
 
-### [AIDC-AI/Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video)
-- 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
+### [cline/cline](https://github.com/cline/cline)
+- Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
 
-### [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool)
-- ALL IN ONE Hacking Tool For Hackers
+### [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime)
+- ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
 

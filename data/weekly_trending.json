@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "lsdefine/GenericAgent",
-    "url": "https://github.com/lsdefine/GenericAgent",
-    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
-    "date_added": "2026-04-17"
-  },
-  {
-    "full_name": "google/magika",
-    "url": "https://github.com/google/magika",
-    "description": "Fast and accurate AI powered file content types detection",
-    "date_added": "2026-04-17"
-  },
-  {
-    "full_name": "sponsors/steipete",
-    "url": "https://github.com/sponsors/steipete",
-    "description": "WhatsApp CLI",
-    "date_added": "2026-04-17"
-  },
-  {
-    "full_name": "sponsors/topoteretes",
-    "url": "https://github.com/sponsors/topoteretes",
-    "description": "Knowledge Engine for AI Agent Memory in 6 lines of code",
-    "date_added": "2026-04-17"
-  },
-  {
-    "full_name": "z-lab/dflash",
-    "url": "https://github.com/z-lab/dflash",
-    "description": "DFlash: Block Diffusion for Flash Speculative Decoding",
-    "date_added": "2026-04-17"
-  },
-  {
     "full_name": "EvoMap/evolver",
     "url": "https://github.com/EvoMap/evolver",
     "description": "The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai",
@@ -196,5 +166,35 @@
     "url": "https://github.com/Z4nzu/hackingtool",
     "description": "ALL IN ONE Hacking Tool For Hackers",
     "date_added": "2026-04-23"
+  },
+  {
+    "full_name": "huggingface/ml-intern",
+    "url": "https://github.com/huggingface/ml-intern",
+    "description": "🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models",
+    "date_added": "2026-04-24"
+  },
+  {
+    "full_name": "Alishahryar1/free-claude-code",
+    "url": "https://github.com/Alishahryar1/free-claude-code",
+    "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
+    "date_added": "2026-04-24"
+  },
+  {
+    "full_name": "PowerShell/PowerShell",
+    "url": "https://github.com/PowerShell/PowerShell",
+    "description": "PowerShell for every system!",
+    "date_added": "2026-04-24"
+  },
+  {
+    "full_name": "cline/cline",
+    "url": "https://github.com/cline/cline",
+    "description": "Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.",
+    "date_added": "2026-04-24"
+  },
+  {
+    "full_name": "microsoft/onnxruntime",
+    "url": "https://github.com/microsoft/onnxruntime",
+    "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
+    "date_added": "2026-04-24"
   }
 ]
