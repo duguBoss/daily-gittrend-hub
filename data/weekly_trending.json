@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "EvoMap/evolver",
-    "url": "https://github.com/EvoMap/evolver",
-    "description": "The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai",
-    "date_added": "2026-04-18"
-  },
-  {
-    "full_name": "SimoneAvogadro/android-reverse-engineering-skill",
-    "url": "https://github.com/SimoneAvogadro/android-reverse-engineering-skill",
-    "description": "Claude Code skill to support Android app's reverse engineering",
-    "date_added": "2026-04-18"
-  },
-  {
-    "full_name": "sponsors/BasedHardware",
-    "url": "https://github.com/sponsors/BasedHardware",
-    "description": "AI that sees your screen, listens to your conversations and tells you what to do",
-    "date_added": "2026-04-18"
-  },
-  {
-    "full_name": "sponsors/Donchitos",
-    "url": "https://github.com/sponsors/Donchitos",
-    "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
-    "date_added": "2026-04-18"
-  },
-  {
-    "full_name": "lukilabs/craft-agents-oss",
-    "url": "https://github.com/lukilabs/craft-agents-oss",
-    "description": "",
-    "date_added": "2026-04-18"
-  },
-  {
     "full_name": "sponsors/thunderbird",
     "url": "https://github.com/sponsors/thunderbird",
     "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
@@ -196,5 +166,35 @@
     "url": "https://github.com/microsoft/onnxruntime",
     "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
     "date_added": "2026-04-24"
+  },
+  {
+    "full_name": "google/osv-scanner",
+    "url": "https://github.com/google/osv-scanner",
+    "description": "Vulnerability scanner written in Go which uses the data provided by https://osv.dev",
+    "date_added": "2026-04-25"
+  },
+  {
+    "full_name": "PostHog/posthog",
+    "url": "https://github.com/PostHog/posthog",
+    "description": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.",
+    "date_added": "2026-04-25"
+  },
+  {
+    "full_name": "sponsors/dani-garcia",
+    "url": "https://github.com/sponsors/dani-garcia",
+    "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+    "date_added": "2026-04-25"
+  },
+  {
+    "full_name": "Anil-matcha/Open-Generative-AI",
+    "url": "https://github.com/Anil-matcha/Open-Generative-AI",
+    "description": "Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea AI, Openart AI — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+    "date_added": "2026-04-25"
+  },
+  {
+    "full_name": "codecrafters-io/build-your-own-x",
+    "url": "https://github.com/codecrafters-io/build-your-own-x",
+    "description": "Master programming by recreating your favorite technologies from scratch.",
+    "date_added": "2026-04-25"
   }
 ]

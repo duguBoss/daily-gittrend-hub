@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-04-24)
+# GitHub Trending (Added at: 2026-04-25)
 
-### [huggingface/ml-intern](https://github.com/huggingface/ml-intern)
-- 🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models
+### [google/osv-scanner](https://github.com/google/osv-scanner)
+- Vulnerability scanner written in Go which uses the data provided by https://osv.dev
 
-### [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)
-- Use claude-code for free in the terminal, VSCode extension or via discord like openclaw
+### [PostHog/posthog](https://github.com/PostHog/posthog)
+- 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.
 
-### [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell)
-- PowerShell for every system!
+### [sponsors/dani-garcia](https://github.com/sponsors/dani-garcia)
+- Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 
-### [cline/cline](https://github.com/cline/cline)
-- Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
+### [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)
+- Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea AI, Openart AI — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.
 
-### [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime)
-- ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
+### [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+- Master programming by recreating your favorite technologies from scratch.
 
