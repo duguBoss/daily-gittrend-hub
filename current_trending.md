@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-04-25)
+# GitHub Trending (Added at: 2026-04-26)
 
-### [google/osv-scanner](https://github.com/google/osv-scanner)
-- Vulnerability scanner written in Go which uses the data provided by https://osv.dev
+### [sponsors/mattpocock](https://github.com/sponsors/mattpocock)
+- My personal directory of skills, straight from my .claude directory.
 
-### [PostHog/posthog](https://github.com/PostHog/posthog)
-- 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.
+### [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates)
+- CLI tool for configuring and monitoring Claude Code
 
-### [sponsors/dani-garcia](https://github.com/sponsors/dani-garcia)
-- Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
+### [deepseek-ai/DeepEP](https://github.com/deepseek-ai/DeepEP)
+- DeepEP: an efficient expert-parallel communication library
 
-### [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)
-- Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea AI, Openart AI — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.
+### [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code)
+- Roo Code gives you a whole dev team of AI agents in your code editor.
 
-### [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
-- Master programming by recreating your favorite technologies from scratch.
+### [CJackHwang/ds2api](https://github.com/CJackHwang/ds2api)
+- Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats.
 

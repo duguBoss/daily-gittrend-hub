@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "sponsors/thunderbird",
-    "url": "https://github.com/sponsors/thunderbird",
-    "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
-    "date_added": "2026-04-19"
-  },
-  {
-    "full_name": "openai/openai-agents-python",
-    "url": "https://github.com/openai/openai-agents-python",
-    "description": "A lightweight, powerful framework for multi-agent workflows",
-    "date_added": "2026-04-19"
-  },
-  {
-    "full_name": "deepseek-ai/DeepGEMM",
-    "url": "https://github.com/deepseek-ai/DeepGEMM",
-    "description": "DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling",
-    "date_added": "2026-04-19"
-  },
-  {
-    "full_name": "sponsors/aaddrick",
-    "url": "https://github.com/sponsors/aaddrick",
-    "description": "Claude Desktop for Debian-based Linux distributions",
-    "date_added": "2026-04-19"
-  },
-  {
-    "full_name": "sponsors/rustdesk",
-    "url": "https://github.com/sponsors/rustdesk",
-    "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
-    "date_added": "2026-04-19"
-  },
-  {
     "full_name": "sponsors/Fincept-Corporation",
     "url": "https://github.com/sponsors/Fincept-Corporation",
     "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
@@ -196,5 +166,35 @@
     "url": "https://github.com/codecrafters-io/build-your-own-x",
     "description": "Master programming by recreating your favorite technologies from scratch.",
     "date_added": "2026-04-25"
+  },
+  {
+    "full_name": "sponsors/mattpocock",
+    "url": "https://github.com/sponsors/mattpocock",
+    "description": "My personal directory of skills, straight from my .claude directory.",
+    "date_added": "2026-04-26"
+  },
+  {
+    "full_name": "davila7/claude-code-templates",
+    "url": "https://github.com/davila7/claude-code-templates",
+    "description": "CLI tool for configuring and monitoring Claude Code",
+    "date_added": "2026-04-26"
+  },
+  {
+    "full_name": "deepseek-ai/DeepEP",
+    "url": "https://github.com/deepseek-ai/DeepEP",
+    "description": "DeepEP: an efficient expert-parallel communication library",
+    "date_added": "2026-04-26"
+  },
+  {
+    "full_name": "RooCodeInc/Roo-Code",
+    "url": "https://github.com/RooCodeInc/Roo-Code",
+    "description": "Roo Code gives you a whole dev team of AI agents in your code editor.",
+    "date_added": "2026-04-26"
+  },
+  {
+    "full_name": "CJackHwang/ds2api",
+    "url": "https://github.com/CJackHwang/ds2api",
+    "description": "Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats.",
+    "date_added": "2026-04-26"
   }
 ]
