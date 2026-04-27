@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-04-26)
+# GitHub Trending (Added at: 2026-04-27)
 
-### [sponsors/mattpocock](https://github.com/sponsors/mattpocock)
-- My personal directory of skills, straight from my .claude directory.
+### [sponsors/abhigyanpatwari](https://github.com/sponsors/abhigyanpatwari)
+- GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration
 
-### [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates)
-- CLI tool for configuring and monitoring Claude Code
+### [ComposioHQ/awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills)
+- A curated list of practical Codex skills for automating workflows across the Codex CLI and API.
 
-### [deepseek-ai/DeepEP](https://github.com/deepseek-ai/DeepEP)
-- DeepEP: an efficient expert-parallel communication library
+### [gastownhall/beads](https://github.com/gastownhall/beads)
+- Beads - A memory upgrade for your coding agent
 
-### [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code)
-- Roo Code gives you a whole dev team of AI agents in your code editor.
+### [penpot/penpot](https://github.com/penpot/penpot)
+- Penpot: The open-source design tool for design and code collaboration
 
-### [CJackHwang/ds2api](https://github.com/CJackHwang/ds2api)
-- Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats.
+### [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)
+- Open-Source Frontier Voice AI
 

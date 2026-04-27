@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "sponsors/Fincept-Corporation",
-    "url": "https://github.com/sponsors/Fincept-Corporation",
-    "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
-    "date_added": "2026-04-20"
-  },
-  {
-    "full_name": "tractorjuice/arc-kit",
-    "url": "https://github.com/tractorjuice/arc-kit",
-    "description": "Enterprise Architecture Governance & Vendor Procurement Toolkit",
-    "date_added": "2026-04-20"
-  },
-  {
-    "full_name": "pingdotgg/t3code",
-    "url": "https://github.com/pingdotgg/t3code",
-    "description": "",
-    "date_added": "2026-04-20"
-  },
-  {
-    "full_name": "paperless-ngx/paperless-ngx",
-    "url": "https://github.com/paperless-ngx/paperless-ngx",
-    "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
-    "date_added": "2026-04-20"
-  },
-  {
-    "full_name": "ruvnet/RuView",
-    "url": "https://github.com/ruvnet/RuView",
-    "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
-    "date_added": "2026-04-20"
-  },
-  {
     "full_name": "koala73/worldmonitor",
     "url": "https://github.com/koala73/worldmonitor",
     "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
@@ -196,5 +166,35 @@
     "url": "https://github.com/CJackHwang/ds2api",
     "description": "Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats.",
     "date_added": "2026-04-26"
+  },
+  {
+    "full_name": "sponsors/abhigyanpatwari",
+    "url": "https://github.com/sponsors/abhigyanpatwari",
+    "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+    "date_added": "2026-04-27"
+  },
+  {
+    "full_name": "ComposioHQ/awesome-codex-skills",
+    "url": "https://github.com/ComposioHQ/awesome-codex-skills",
+    "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
+    "date_added": "2026-04-27"
+  },
+  {
+    "full_name": "gastownhall/beads",
+    "url": "https://github.com/gastownhall/beads",
+    "description": "Beads - A memory upgrade for your coding agent",
+    "date_added": "2026-04-27"
+  },
+  {
+    "full_name": "penpot/penpot",
+    "url": "https://github.com/penpot/penpot",
+    "description": "Penpot: The open-source design tool for design and code collaboration",
+    "date_added": "2026-04-27"
+  },
+  {
+    "full_name": "microsoft/VibeVoice",
+    "url": "https://github.com/microsoft/VibeVoice",
+    "description": "Open-Source Frontier Voice AI",
+    "date_added": "2026-04-27"
   }
 ]
