@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-04-27)
+# GitHub Trending (Added at: 2026-04-28)
 
-### [sponsors/abhigyanpatwari](https://github.com/sponsors/abhigyanpatwari)
-- GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration
+### [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack)
+- Useful tool to track location or mobile number
 
-### [ComposioHQ/awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills)
-- A curated list of practical Codex skills for automating workflows across the Codex CLI and API.
+### [fspecii/ace-step-ui](https://github.com/fspecii/ace-step-ui)
+- 🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!
 
-### [gastownhall/beads](https://github.com/gastownhall/beads)
-- Beads - A memory upgrade for your coding agent
+### [public-apis/public-apis](https://github.com/public-apis/public-apis)
+- A collective list of free APIs
 
-### [penpot/penpot](https://github.com/penpot/penpot)
-- Penpot: The open-source design tool for design and code collaboration
+### [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
+- Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
 
-### [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)
-- Open-Source Frontier Voice AI
+### [sponsors/EbookFoundation](https://github.com/sponsors/EbookFoundation)
+- 📚 Freely available programming books
 

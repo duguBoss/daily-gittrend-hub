@@ -1,23 +1,5 @@
 [
   {
-    "full_name": "koala73/worldmonitor",
-    "url": "https://github.com/koala73/worldmonitor",
-    "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-    "date_added": "2026-04-21"
-  },
-  {
-    "full_name": "sponsors/pi-hole",
-    "url": "https://github.com/sponsors/pi-hole",
-    "description": "A black hole for Internet advertisements",
-    "date_added": "2026-04-21"
-  },
-  {
-    "full_name": "XTLS/Xray-core",
-    "url": "https://github.com/XTLS/Xray-core",
-    "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
-    "date_added": "2026-04-21"
-  },
-  {
     "full_name": "zilliztech/claude-context",
     "url": "https://github.com/zilliztech/claude-context",
     "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
@@ -196,5 +178,35 @@
     "url": "https://github.com/microsoft/VibeVoice",
     "description": "Open-Source Frontier Voice AI",
     "date_added": "2026-04-27"
+  },
+  {
+    "full_name": "HunxByts/GhostTrack",
+    "url": "https://github.com/HunxByts/GhostTrack",
+    "description": "Useful tool to track location or mobile number",
+    "date_added": "2026-04-28"
+  },
+  {
+    "full_name": "fspecii/ace-step-ui",
+    "url": "https://github.com/fspecii/ace-step-ui",
+    "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!",
+    "date_added": "2026-04-28"
+  },
+  {
+    "full_name": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "description": "A collective list of free APIs",
+    "date_added": "2026-04-28"
+  },
+  {
+    "full_name": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "date_added": "2026-04-28"
+  },
+  {
+    "full_name": "sponsors/EbookFoundation",
+    "url": "https://github.com/sponsors/EbookFoundation",
+    "description": "📚 Freely available programming books",
+    "date_added": "2026-04-28"
   }
 ]
