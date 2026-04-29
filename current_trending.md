@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-04-28)
+# GitHub Trending (Added at: 2026-04-29)
 
-### [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack)
-- Useful tool to track location or mobile number
+### [warpdotdev/warp](https://github.com/warpdotdev/warp)
+- Warp is an agentic development environment, born out of the terminal.
 
-### [fspecii/ace-step-ui](https://github.com/fspecii/ace-step-ui)
-- 🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!
+### [1jehuang/jcode](https://github.com/1jehuang/jcode)
+- Coding Agent Harness
 
-### [public-apis/public-apis](https://github.com/public-apis/public-apis)
-- A collective list of free APIs
+### [sponsors/obra](https://github.com/sponsors/obra)
+- An agentic skills framework & software development methodology that works.
 
-### [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
-- Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+### [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)
+- LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.
 
-### [sponsors/EbookFoundation](https://github.com/sponsors/EbookFoundation)
-- 📚 Freely available programming books
+### [lukilabs/craft-agents-oss](https://github.com/lukilabs/craft-agents-oss)
+- 
 
