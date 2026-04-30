@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-04-29)
+# GitHub Trending (Added at: 2026-04-30)
 
-### [warpdotdev/warp](https://github.com/warpdotdev/warp)
-- Warp is an agentic development environment, born out of the terminal.
+### [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)
+- TradingAgents: Multi-Agents LLM Financial Trading Framework
 
-### [1jehuang/jcode](https://github.com/1jehuang/jcode)
-- Coding Agent Harness
+### [sponsors/soxoj](https://github.com/sponsors/soxoj)
+- 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
 
-### [sponsors/obra](https://github.com/sponsors/obra)
-- An agentic skills framework & software development methodology that works.
+### [sponsors/iamgio](https://github.com/sponsors/iamgio)
+- 🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.
 
-### [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)
-- LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.
+### [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty)
+- 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 
-### [lukilabs/craft-agents-oss](https://github.com/lukilabs/craft-agents-oss)
-- 
+### [ForrestKnight/open-source-cs](https://github.com/ForrestKnight/open-source-cs)
+- Video discussing this curriculum:
 
