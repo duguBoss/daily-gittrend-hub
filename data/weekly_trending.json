@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "huggingface/ml-intern",
-    "url": "https://github.com/huggingface/ml-intern",
-    "description": "🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models",
-    "date_added": "2026-04-24"
-  },
-  {
-    "full_name": "Alishahryar1/free-claude-code",
-    "url": "https://github.com/Alishahryar1/free-claude-code",
-    "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
-    "date_added": "2026-04-24"
-  },
-  {
-    "full_name": "PowerShell/PowerShell",
-    "url": "https://github.com/PowerShell/PowerShell",
-    "description": "PowerShell for every system!",
-    "date_added": "2026-04-24"
-  },
-  {
-    "full_name": "cline/cline",
-    "url": "https://github.com/cline/cline",
-    "description": "Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.",
-    "date_added": "2026-04-24"
-  },
-  {
-    "full_name": "microsoft/onnxruntime",
-    "url": "https://github.com/microsoft/onnxruntime",
-    "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
-    "date_added": "2026-04-24"
-  },
-  {
     "full_name": "google/osv-scanner",
     "url": "https://github.com/google/osv-scanner",
     "description": "Vulnerability scanner written in Go which uses the data provided by https://osv.dev",
@@ -208,5 +178,11 @@
     "url": "https://github.com/ForrestKnight/open-source-cs",
     "description": "Video discussing this curriculum:",
     "date_added": "2026-04-30"
+  },
+  {
+    "full_name": "browserbase/skills",
+    "url": "https://github.com/browserbase/skills",
+    "description": "Claude Agent SDK with a web browsing tool",
+    "date_added": "2026-05-01"
   }
 ]
