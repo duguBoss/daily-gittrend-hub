@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "google/osv-scanner",
-    "url": "https://github.com/google/osv-scanner",
-    "description": "Vulnerability scanner written in Go which uses the data provided by https://osv.dev",
-    "date_added": "2026-04-25"
-  },
-  {
-    "full_name": "PostHog/posthog",
-    "url": "https://github.com/PostHog/posthog",
-    "description": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.",
-    "date_added": "2026-04-25"
-  },
-  {
-    "full_name": "sponsors/dani-garcia",
-    "url": "https://github.com/sponsors/dani-garcia",
-    "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
-    "date_added": "2026-04-25"
-  },
-  {
-    "full_name": "Anil-matcha/Open-Generative-AI",
-    "url": "https://github.com/Anil-matcha/Open-Generative-AI",
-    "description": "Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea AI, Openart AI — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
-    "date_added": "2026-04-25"
-  },
-  {
-    "full_name": "codecrafters-io/build-your-own-x",
-    "url": "https://github.com/codecrafters-io/build-your-own-x",
-    "description": "Master programming by recreating your favorite technologies from scratch.",
-    "date_added": "2026-04-25"
-  },
-  {
     "full_name": "sponsors/mattpocock",
     "url": "https://github.com/sponsors/mattpocock",
     "description": "My personal directory of skills, straight from my .claude directory.",
@@ -184,5 +154,17 @@
     "url": "https://github.com/browserbase/skills",
     "description": "Claude Agent SDK with a web browsing tool",
     "date_added": "2026-05-01"
+  },
+  {
+    "full_name": "simstudioai/sim",
+    "url": "https://github.com/simstudioai/sim",
+    "description": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",
+    "date_added": "2026-05-02"
+  },
+  {
+    "full_name": "Flowseal/zapret-discord-youtube",
+    "url": "https://github.com/Flowseal/zapret-discord-youtube",
+    "description": "",
+    "date_added": "2026-05-02"
   }
 ]

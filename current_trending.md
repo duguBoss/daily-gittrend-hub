@@ -1,5 +1,8 @@
-# GitHub Trending (Added at: 2026-05-01)
+# GitHub Trending (Added at: 2026-05-02)
 
-### [browserbase/skills](https://github.com/browserbase/skills)
-- Claude Agent SDK with a web browsing tool
+### [simstudioai/sim](https://github.com/simstudioai/sim)
+- Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
+
+### [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube)
+- 
 
