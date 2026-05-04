@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "sponsors/abhigyanpatwari",
-    "url": "https://github.com/sponsors/abhigyanpatwari",
-    "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
-    "date_added": "2026-04-27"
-  },
-  {
-    "full_name": "ComposioHQ/awesome-codex-skills",
-    "url": "https://github.com/ComposioHQ/awesome-codex-skills",
-    "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
-    "date_added": "2026-04-27"
-  },
-  {
-    "full_name": "gastownhall/beads",
-    "url": "https://github.com/gastownhall/beads",
-    "description": "Beads - A memory upgrade for your coding agent",
-    "date_added": "2026-04-27"
-  },
-  {
-    "full_name": "penpot/penpot",
-    "url": "https://github.com/penpot/penpot",
-    "description": "Penpot: The open-source design tool for design and code collaboration",
-    "date_added": "2026-04-27"
-  },
-  {
-    "full_name": "microsoft/VibeVoice",
-    "url": "https://github.com/microsoft/VibeVoice",
-    "description": "Open-Source Frontier Voice AI",
-    "date_added": "2026-04-27"
-  },
-  {
     "full_name": "HunxByts/GhostTrack",
     "url": "https://github.com/HunxByts/GhostTrack",
     "description": "Useful tool to track location or mobile number",
@@ -154,5 +124,35 @@
     "url": "https://github.com/jwasham/coding-interview-university",
     "description": "A complete computer science study plan to become a software engineer.",
     "date_added": "2026-05-03"
+  },
+  {
+    "full_name": "Hmbown/DeepSeek-TUI",
+    "url": "https://github.com/Hmbown/DeepSeek-TUI",
+    "description": "Coding agent for DeepSeek models that runs in your terminal",
+    "date_added": "2026-05-04"
+  },
+  {
+    "full_name": "qbittorrent/qBittorrent",
+    "url": "https://github.com/qbittorrent/qBittorrent",
+    "description": "qBittorrent BitTorrent client",
+    "date_added": "2026-05-04"
+  },
+  {
+    "full_name": "sponsors/czlonkowski",
+    "url": "https://github.com/sponsors/czlonkowski",
+    "description": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you",
+    "date_added": "2026-05-04"
+  },
+  {
+    "full_name": "sponsors/msitarzewski",
+    "url": "https://github.com/sponsors/msitarzewski",
+    "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+    "date_added": "2026-05-04"
+  },
+  {
+    "full_name": "virattt/dexter",
+    "url": "https://github.com/virattt/dexter",
+    "description": "An autonomous agent for deep financial research",
+    "date_added": "2026-05-04"
   }
 ]

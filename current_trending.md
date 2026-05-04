@@ -1,11 +1,17 @@
-# GitHub Trending (Added at: 2026-05-03)
+# GitHub Trending (Added at: 2026-05-04)
 
-### [ruvnet/ruflo](https://github.com/ruvnet/ruflo)
-- 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration
+### [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI)
+- Coding agent for DeepSeek models that runs in your terminal
 
-### [ShareX/ShareX](https://github.com/ShareX/ShareX)
-- ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.
+### [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent)
+- qBittorrent BitTorrent client
 
-### [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)
-- A complete computer science study plan to become a software engineer.
+### [sponsors/czlonkowski](https://github.com/sponsors/czlonkowski)
+- A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you
+
+### [sponsors/msitarzewski](https://github.com/sponsors/msitarzewski)
+- A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
+
+### [virattt/dexter](https://github.com/virattt/dexter)
+- An autonomous agent for deep financial research
 
