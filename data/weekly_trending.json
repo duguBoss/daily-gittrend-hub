@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "HunxByts/GhostTrack",
-    "url": "https://github.com/HunxByts/GhostTrack",
-    "description": "Useful tool to track location or mobile number",
-    "date_added": "2026-04-28"
-  },
-  {
-    "full_name": "fspecii/ace-step-ui",
-    "url": "https://github.com/fspecii/ace-step-ui",
-    "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!",
-    "date_added": "2026-04-28"
-  },
-  {
-    "full_name": "public-apis/public-apis",
-    "url": "https://github.com/public-apis/public-apis",
-    "description": "A collective list of free APIs",
-    "date_added": "2026-04-28"
-  },
-  {
-    "full_name": "donnemartin/system-design-primer",
-    "url": "https://github.com/donnemartin/system-design-primer",
-    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
-    "date_added": "2026-04-28"
-  },
-  {
-    "full_name": "sponsors/EbookFoundation",
-    "url": "https://github.com/sponsors/EbookFoundation",
-    "description": "📚 Freely available programming books",
-    "date_added": "2026-04-28"
-  },
-  {
     "full_name": "warpdotdev/warp",
     "url": "https://github.com/warpdotdev/warp",
     "description": "Warp is an agentic development environment, born out of the terminal.",
@@ -154,5 +124,29 @@
     "url": "https://github.com/virattt/dexter",
     "description": "An autonomous agent for deep financial research",
     "date_added": "2026-05-04"
+  },
+  {
+    "full_name": "fspecii/ace-step-ui",
+    "url": "https://github.com/fspecii/ace-step-ui",
+    "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!",
+    "date_added": "2026-05-05"
+  },
+  {
+    "full_name": "jellyfin/jellyfin",
+    "url": "https://github.com/jellyfin/jellyfin",
+    "description": "The Free Software Media System - Server Backend & API",
+    "date_added": "2026-05-05"
+  },
+  {
+    "full_name": "cocoindex-io/cocoindex",
+    "url": "https://github.com/cocoindex-io/cocoindex",
+    "description": "Incremental engine for long horizon agents 🌟 Star if you like it!",
+    "date_added": "2026-05-05"
+  },
+  {
+    "full_name": "docusealco/docuseal",
+    "url": "https://github.com/docusealco/docuseal",
+    "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
+    "date_added": "2026-05-05"
   }
 ]
