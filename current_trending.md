@@ -1,14 +1,17 @@
-# GitHub Trending (Added at: 2026-05-05)
+# GitHub Trending (Added at: 2026-05-06)
 
-### [fspecii/ace-step-ui](https://github.com/fspecii/ace-step-ui)
-- 🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!
+### [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
+- Production-grade engineering skills for AI coding agents.
 
-### [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
-- The Free Software Media System - Server Backend & API
+### [PriorLabs/TabPFN](https://github.com/PriorLabs/TabPFN)
+- ⚡ TabPFN: Foundation Model for Tabular Data ⚡
 
-### [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex)
-- Incremental engine for long horizon agents 🌟 Star if you like it!
+### [sponsors/LearningCircuit](https://github.com/sponsors/LearningCircuit)
+- ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.
 
-### [docusealco/docuseal](https://github.com/docusealco/docuseal)
-- Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
+### [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird)
+- Truly independent web browser
+
+### [sponsors/InsForge](https://github.com/sponsors/InsForge)
+- InsForge is a Postgres-based backend with auth, storage, compute, hosting, and AI gateway. Built for coding agents.
 
