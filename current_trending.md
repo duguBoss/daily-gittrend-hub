@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-05-06)
+# GitHub Trending (Added at: 2026-05-07)
 
-### [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
-- Production-grade engineering skills for AI coding agents.
+### [anthropics/financial-services](https://github.com/anthropics/financial-services)
+- 
 
-### [PriorLabs/TabPFN](https://github.com/PriorLabs/TabPFN)
-- ⚡ TabPFN: Foundation Model for Tabular Data ⚡
+### [z-lab/dflash](https://github.com/z-lab/dflash)
+- DFlash: Block Diffusion for Flash Speculative Decoding
 
-### [sponsors/LearningCircuit](https://github.com/sponsors/LearningCircuit)
-- ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.
+### [sponsors/VectifyAI](https://github.com/sponsors/VectifyAI)
+- 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
 
-### [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird)
-- Truly independent web browser
+### [vercel-labs/open-agents](https://github.com/vercel-labs/open-agents)
+- An open source template for building cloud agents.
 
-### [sponsors/InsForge](https://github.com/sponsors/InsForge)
-- InsForge is a Postgres-based backend with auth, storage, compute, hosting, and AI gateway. Built for coding agents.
+### [decolua/9router](https://github.com/decolua/9router)
+- 🆓 Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
 
