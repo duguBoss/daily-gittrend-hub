@@ -1,11 +1,5 @@
 [
   {
-    "full_name": "browserbase/skills",
-    "url": "https://github.com/browserbase/skills",
-    "description": "Claude Agent SDK with a web browsing tool",
-    "date_added": "2026-05-01"
-  },
-  {
     "full_name": "simstudioai/sim",
     "url": "https://github.com/simstudioai/sim",
     "description": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",
@@ -148,5 +142,11 @@
     "url": "https://github.com/decolua/9router",
     "description": "🆓 Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
     "date_added": "2026-05-07"
+  },
+  {
+    "full_name": "aaif-goose/goose",
+    "url": "https://github.com/aaif-goose/goose",
+    "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+    "date_added": "2026-05-08"
   }
 ]
