@@ -1,23 +1,5 @@
 [
   {
-    "full_name": "ruvnet/ruflo",
-    "url": "https://github.com/ruvnet/ruflo",
-    "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
-    "date_added": "2026-05-03"
-  },
-  {
-    "full_name": "ShareX/ShareX",
-    "url": "https://github.com/ShareX/ShareX",
-    "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
-    "date_added": "2026-05-03"
-  },
-  {
-    "full_name": "jwasham/coding-interview-university",
-    "url": "https://github.com/jwasham/coding-interview-university",
-    "description": "A complete computer science study plan to become a software engineer.",
-    "date_added": "2026-05-03"
-  },
-  {
     "full_name": "Hmbown/DeepSeek-TUI",
     "url": "https://github.com/Hmbown/DeepSeek-TUI",
     "description": "Coding agent for DeepSeek models that runs in your terminal",
@@ -166,5 +148,35 @@
     "url": "https://github.com/datawhalechina/hello-agents",
     "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
     "date_added": "2026-05-09"
+  },
+  {
+    "full_name": "bytedance/UI-TARS-desktop",
+    "url": "https://github.com/bytedance/UI-TARS-desktop",
+    "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+    "date_added": "2026-05-10"
+  },
+  {
+    "full_name": "sponsors/rohitg00",
+    "url": "https://github.com/sponsors/rohitg00",
+    "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+    "date_added": "2026-05-10"
+  },
+  {
+    "full_name": "datawhalechina/easy-vibe",
+    "url": "https://github.com/datawhalechina/easy-vibe",
+    "description": "💻 vibe coding 2026 | Your first modern programming course for beginners to master step by step.",
+    "date_added": "2026-05-10"
+  },
+  {
+    "full_name": "rowboatlabs/rowboat",
+    "url": "https://github.com/rowboatlabs/rowboat",
+    "description": "Open-source AI coworker, with memory",
+    "date_added": "2026-05-10"
+  },
+  {
+    "full_name": "ChromeDevTools/chrome-devtools-mcp",
+    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+    "description": "Chrome DevTools for coding agents",
+    "date_added": "2026-05-10"
   }
 ]

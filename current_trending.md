@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-05-09)
+# GitHub Trending (Added at: 2026-05-10)
 
-### [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser)
-- Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
+### [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)
+- The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
 
-### [awslabs/aidlc-workflows](https://github.com/awslabs/aidlc-workflows)
-- AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents
+### [sponsors/rohitg00](https://github.com/sponsors/rohitg00)
+- #1 Persistent memory for AI coding agents based on real-world benchmarks
 
-### [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)
-- "AI-Trader: 100% Fully-Automated Agent-Native Trading"
+### [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe)
+- 💻 vibe coding 2026 | Your first modern programming course for beginners to master step by step.
 
-### [sponsors/lobehub](https://github.com/sponsors/lobehub)
-- The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.
+### [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat)
+- Open-source AI coworker, with memory
 
-### [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents)
-- 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
+### [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
+- Chrome DevTools for coding agents
 
