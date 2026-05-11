@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-05-10)
+# GitHub Trending (Added at: 2026-05-11)
 
-### [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)
-- The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
+### [yikart/AiToEarn](https://github.com/yikart/AiToEarn)
+- Let's use AI to Earn!
 
-### [sponsors/rohitg00](https://github.com/sponsors/rohitg00)
-- #1 Persistent memory for AI coding agents based on real-world benchmarks
+### [playcanvas/supersplat](https://github.com/playcanvas/supersplat)
+- 3D Gaussian Splat Editor
 
-### [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe)
-- 💻 vibe coding 2026 | Your first modern programming course for beginners to master step by step.
+### [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman)
+- Your Personal AI super intelligence. Private, Simple and extremely powerful.
 
-### [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat)
-- Open-source AI coworker, with memory
+### [millionco/react-doctor](https://github.com/millionco/react-doctor)
+- Your agent writes bad React. This catches it
 
-### [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
-- Chrome DevTools for coding agents
+### [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms)
+- 《动手学大模型Dive into LLMs》系列编程实践教程
 
