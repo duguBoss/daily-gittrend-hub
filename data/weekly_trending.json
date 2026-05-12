@@ -1,29 +1,5 @@
 [
   {
-    "full_name": "fspecii/ace-step-ui",
-    "url": "https://github.com/fspecii/ace-step-ui",
-    "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!",
-    "date_added": "2026-05-05"
-  },
-  {
-    "full_name": "jellyfin/jellyfin",
-    "url": "https://github.com/jellyfin/jellyfin",
-    "description": "The Free Software Media System - Server Backend & API",
-    "date_added": "2026-05-05"
-  },
-  {
-    "full_name": "cocoindex-io/cocoindex",
-    "url": "https://github.com/cocoindex-io/cocoindex",
-    "description": "Incremental engine for long horizon agents 🌟 Star if you like it!",
-    "date_added": "2026-05-05"
-  },
-  {
-    "full_name": "docusealco/docuseal",
-    "url": "https://github.com/docusealco/docuseal",
-    "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
-    "date_added": "2026-05-05"
-  },
-  {
     "full_name": "addyosmani/agent-skills",
     "url": "https://github.com/addyosmani/agent-skills",
     "description": "Production-grade engineering skills for AI coding agents.",
@@ -178,5 +154,29 @@
     "url": "https://github.com/Lordog/dive-into-llms",
     "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
     "date_added": "2026-05-11"
+  },
+  {
+    "full_name": "apernet/hysteria",
+    "url": "https://github.com/apernet/hysteria",
+    "description": "Hysteria is a powerful, lightning fast and censorship resistant proxy.",
+    "date_added": "2026-05-12"
+  },
+  {
+    "full_name": "sponsors/mattpocock",
+    "url": "https://github.com/sponsors/mattpocock",
+    "description": "Skills for Real Engineers. Straight from my .claude directory.",
+    "date_added": "2026-05-12"
+  },
+  {
+    "full_name": "anonfaded/FadCam",
+    "url": "https://github.com/anonfaded/FadCam",
+    "description": "Open-source, ad-free Android multimedia recorder with background video recording, screen recording, live streaming, and remote camera control",
+    "date_added": "2026-05-12"
+  },
+  {
+    "full_name": "rasbt/LLMs-from-scratch",
+    "url": "https://github.com/rasbt/LLMs-from-scratch",
+    "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+    "date_added": "2026-05-12"
   }
 ]

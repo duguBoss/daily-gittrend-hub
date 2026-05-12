@@ -1,17 +1,14 @@
-# GitHub Trending (Added at: 2026-05-11)
+# GitHub Trending (Added at: 2026-05-12)
 
-### [yikart/AiToEarn](https://github.com/yikart/AiToEarn)
-- Let's use AI to Earn!
+### [apernet/hysteria](https://github.com/apernet/hysteria)
+- Hysteria is a powerful, lightning fast and censorship resistant proxy.
 
-### [playcanvas/supersplat](https://github.com/playcanvas/supersplat)
-- 3D Gaussian Splat Editor
+### [sponsors/mattpocock](https://github.com/sponsors/mattpocock)
+- Skills for Real Engineers. Straight from my .claude directory.
 
-### [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman)
-- Your Personal AI super intelligence. Private, Simple and extremely powerful.
+### [anonfaded/FadCam](https://github.com/anonfaded/FadCam)
+- Open-source, ad-free Android multimedia recorder with background video recording, screen recording, live streaming, and remote camera control
 
-### [millionco/react-doctor](https://github.com/millionco/react-doctor)
-- Your agent writes bad React. This catches it
-
-### [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms)
-- 《动手学大模型Dive into LLMs》系列编程实践教程
+### [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
+- Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 
