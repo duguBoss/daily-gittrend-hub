@@ -1,14 +1,17 @@
-# GitHub Trending (Added at: 2026-05-12)
+# GitHub Trending (Added at: 2026-05-13)
 
-### [apernet/hysteria](https://github.com/apernet/hysteria)
-- Hysteria is a powerful, lightning fast and censorship resistant proxy.
+### [sponsors/obra](https://github.com/sponsors/obra)
+- An agentic skills framework & software development methodology that works.
 
-### [sponsors/mattpocock](https://github.com/sponsors/mattpocock)
-- Skills for Real Engineers. Straight from my .claude directory.
+### [influxdata/telegraf](https://github.com/influxdata/telegraf)
+- Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
 
-### [anonfaded/FadCam](https://github.com/anonfaded/FadCam)
-- Open-source, ad-free Android multimedia recorder with background video recording, screen recording, live streaming, and remote camera control
+### [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)
+- A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.
 
-### [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
-- Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
+### [sponsors/danielmiessler](https://github.com/sponsors/danielmiessler)
+- Agentic AI Infrastructure for magnifying HUMAN capabilities.
+
+### [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic)
+- Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
 

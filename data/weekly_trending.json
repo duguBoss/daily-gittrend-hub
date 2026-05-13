@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "addyosmani/agent-skills",
-    "url": "https://github.com/addyosmani/agent-skills",
-    "description": "Production-grade engineering skills for AI coding agents.",
-    "date_added": "2026-05-06"
-  },
-  {
-    "full_name": "PriorLabs/TabPFN",
-    "url": "https://github.com/PriorLabs/TabPFN",
-    "description": "⚡ TabPFN: Foundation Model for Tabular Data ⚡",
-    "date_added": "2026-05-06"
-  },
-  {
-    "full_name": "sponsors/LearningCircuit",
-    "url": "https://github.com/sponsors/LearningCircuit",
-    "description": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.",
-    "date_added": "2026-05-06"
-  },
-  {
-    "full_name": "LadybirdBrowser/ladybird",
-    "url": "https://github.com/LadybirdBrowser/ladybird",
-    "description": "Truly independent web browser",
-    "date_added": "2026-05-06"
-  },
-  {
-    "full_name": "sponsors/InsForge",
-    "url": "https://github.com/sponsors/InsForge",
-    "description": "InsForge is a Postgres-based backend with auth, storage, compute, hosting, and AI gateway. Built for coding agents.",
-    "date_added": "2026-05-06"
-  },
-  {
     "full_name": "anthropics/financial-services",
     "url": "https://github.com/anthropics/financial-services",
     "description": "",
@@ -178,5 +148,35 @@
     "url": "https://github.com/rasbt/LLMs-from-scratch",
     "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
     "date_added": "2026-05-12"
+  },
+  {
+    "full_name": "sponsors/obra",
+    "url": "https://github.com/sponsors/obra",
+    "description": "An agentic skills framework & software development methodology that works.",
+    "date_added": "2026-05-13"
+  },
+  {
+    "full_name": "influxdata/telegraf",
+    "url": "https://github.com/influxdata/telegraf",
+    "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+    "date_added": "2026-05-13"
+  },
+  {
+    "full_name": "K-Dense-AI/scientific-agent-skills",
+    "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+    "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+    "date_added": "2026-05-13"
+  },
+  {
+    "full_name": "sponsors/danielmiessler",
+    "url": "https://github.com/sponsors/danielmiessler",
+    "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
+    "date_added": "2026-05-13"
+  },
+  {
+    "full_name": "supertone-inc/supertonic",
+    "url": "https://github.com/supertone-inc/supertonic",
+    "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
+    "date_added": "2026-05-13"
   }
 ]
