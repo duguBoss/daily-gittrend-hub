@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "anthropics/financial-services",
-    "url": "https://github.com/anthropics/financial-services",
-    "description": "",
-    "date_added": "2026-05-07"
-  },
-  {
-    "full_name": "z-lab/dflash",
-    "url": "https://github.com/z-lab/dflash",
-    "description": "DFlash: Block Diffusion for Flash Speculative Decoding",
-    "date_added": "2026-05-07"
-  },
-  {
-    "full_name": "sponsors/VectifyAI",
-    "url": "https://github.com/sponsors/VectifyAI",
-    "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "date_added": "2026-05-07"
-  },
-  {
-    "full_name": "vercel-labs/open-agents",
-    "url": "https://github.com/vercel-labs/open-agents",
-    "description": "An open source template for building cloud agents.",
-    "date_added": "2026-05-07"
-  },
-  {
-    "full_name": "decolua/9router",
-    "url": "https://github.com/decolua/9router",
-    "description": "🆓 Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
-    "date_added": "2026-05-07"
-  },
-  {
     "full_name": "aaif-goose/goose",
     "url": "https://github.com/aaif-goose/goose",
     "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
@@ -178,5 +148,35 @@
     "url": "https://github.com/supertone-inc/supertonic",
     "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
     "date_added": "2026-05-13"
+  },
+  {
+    "full_name": "ruvnet/RuView",
+    "url": "https://github.com/ruvnet/RuView",
+    "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+    "date_added": "2026-05-14"
+  },
+  {
+    "full_name": "shiyu-coder/Kronos",
+    "url": "https://github.com/shiyu-coder/Kronos",
+    "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+    "date_added": "2026-05-14"
+  },
+  {
+    "full_name": "roboflow/supervision",
+    "url": "https://github.com/roboflow/supervision",
+    "description": "We write your reusable computer vision tools. 💜",
+    "date_added": "2026-05-14"
+  },
+  {
+    "full_name": "Genymobile/scrcpy",
+    "url": "https://github.com/Genymobile/scrcpy",
+    "description": "Display and control your Android device",
+    "date_added": "2026-05-14"
+  },
+  {
+    "full_name": "NVIDIA-AI-Blueprints/video-search-and-summarization",
+    "url": "https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization",
+    "description": "Suite of reference architectures for building GPU-accelerated vision agents and AI-powered video analytics applications.",
+    "date_added": "2026-05-14"
   }
 ]
