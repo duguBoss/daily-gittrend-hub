@@ -1,17 +1,14 @@
-# GitHub Trending (Added at: 2026-05-14)
+# GitHub Trending (Added at: 2026-05-15)
 
-### [ruvnet/RuView](https://github.com/ruvnet/RuView)
-- π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
+### [anthropics/skills](https://github.com/anthropics/skills)
+- Public repository for Agent Skills
 
-### [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos)
-- Kronos: A Foundation Model for the Language of Financial Markets
+### [sponsors/czlonkowski](https://github.com/sponsors/czlonkowski)
+- A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you
 
-### [roboflow/supervision](https://github.com/roboflow/supervision)
-- We write your reusable computer vision tools. 💜
+### [oven-sh/bun](https://github.com/oven-sh/bun)
+- Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
-### [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy)
-- Display and control your Android device
-
-### [NVIDIA-AI-Blueprints/video-search-and-summarization](https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization)
-- Suite of reference architectures for building GPU-accelerated vision agents and AI-powered video analytics applications.
+### [joeseesun/qiaomu-anything-to-notebooklm](https://github.com/joeseesun/qiaomu-anything-to-notebooklm)
+- Claude Skill: Multi-source content processor for NotebookLM. Supports WeChat articles, web pages, YouTube, PDF, Markdown, search queries → Podcast/PPT/MindMap/Quiz etc.
 

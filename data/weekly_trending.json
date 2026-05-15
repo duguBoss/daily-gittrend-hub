@@ -1,11 +1,5 @@
 [
   {
-    "full_name": "aaif-goose/goose",
-    "url": "https://github.com/aaif-goose/goose",
-    "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
-    "date_added": "2026-05-08"
-  },
-  {
     "full_name": "CloakHQ/CloakBrowser",
     "url": "https://github.com/CloakHQ/CloakBrowser",
     "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
@@ -178,5 +172,29 @@
     "url": "https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization",
     "description": "Suite of reference architectures for building GPU-accelerated vision agents and AI-powered video analytics applications.",
     "date_added": "2026-05-14"
+  },
+  {
+    "full_name": "anthropics/skills",
+    "url": "https://github.com/anthropics/skills",
+    "description": "Public repository for Agent Skills",
+    "date_added": "2026-05-15"
+  },
+  {
+    "full_name": "sponsors/czlonkowski",
+    "url": "https://github.com/sponsors/czlonkowski",
+    "description": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you",
+    "date_added": "2026-05-15"
+  },
+  {
+    "full_name": "oven-sh/bun",
+    "url": "https://github.com/oven-sh/bun",
+    "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+    "date_added": "2026-05-15"
+  },
+  {
+    "full_name": "joeseesun/qiaomu-anything-to-notebooklm",
+    "url": "https://github.com/joeseesun/qiaomu-anything-to-notebooklm",
+    "description": "Claude Skill: Multi-source content processor for NotebookLM. Supports WeChat articles, web pages, YouTube, PDF, Markdown, search queries → Podcast/PPT/MindMap/Quiz etc.",
+    "date_added": "2026-05-15"
   }
 ]
