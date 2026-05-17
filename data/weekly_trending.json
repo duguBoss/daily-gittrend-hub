@@ -1,65 +1,5 @@
 [
   {
-    "full_name": "CloakHQ/CloakBrowser",
-    "url": "https://github.com/CloakHQ/CloakBrowser",
-    "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
-    "date_added": "2026-05-09"
-  },
-  {
-    "full_name": "awslabs/aidlc-workflows",
-    "url": "https://github.com/awslabs/aidlc-workflows",
-    "description": "AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents",
-    "date_added": "2026-05-09"
-  },
-  {
-    "full_name": "HKUDS/AI-Trader",
-    "url": "https://github.com/HKUDS/AI-Trader",
-    "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
-    "date_added": "2026-05-09"
-  },
-  {
-    "full_name": "sponsors/lobehub",
-    "url": "https://github.com/sponsors/lobehub",
-    "description": "The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.",
-    "date_added": "2026-05-09"
-  },
-  {
-    "full_name": "datawhalechina/hello-agents",
-    "url": "https://github.com/datawhalechina/hello-agents",
-    "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
-    "date_added": "2026-05-09"
-  },
-  {
-    "full_name": "bytedance/UI-TARS-desktop",
-    "url": "https://github.com/bytedance/UI-TARS-desktop",
-    "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
-    "date_added": "2026-05-10"
-  },
-  {
-    "full_name": "sponsors/rohitg00",
-    "url": "https://github.com/sponsors/rohitg00",
-    "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
-    "date_added": "2026-05-10"
-  },
-  {
-    "full_name": "datawhalechina/easy-vibe",
-    "url": "https://github.com/datawhalechina/easy-vibe",
-    "description": "💻 vibe coding 2026 | Your first modern programming course for beginners to master step by step.",
-    "date_added": "2026-05-10"
-  },
-  {
-    "full_name": "rowboatlabs/rowboat",
-    "url": "https://github.com/rowboatlabs/rowboat",
-    "description": "Open-source AI coworker, with memory",
-    "date_added": "2026-05-10"
-  },
-  {
-    "full_name": "ChromeDevTools/chrome-devtools-mcp",
-    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-    "description": "Chrome DevTools for coding agents",
-    "date_added": "2026-05-10"
-  },
-  {
     "full_name": "yikart/AiToEarn",
     "url": "https://github.com/yikart/AiToEarn",
     "description": "Let's use AI to Earn!",
@@ -196,5 +136,17 @@
     "url": "https://github.com/joeseesun/qiaomu-anything-to-notebooklm",
     "description": "Claude Skill: Multi-source content processor for NotebookLM. Supports WeChat articles, web pages, YouTube, PDF, Markdown, search queries → Podcast/PPT/MindMap/Quiz etc.",
     "date_added": "2026-05-15"
+  },
+  {
+    "full_name": "Anil-matcha/Open-Generative-AI",
+    "url": "https://github.com/Anil-matcha/Open-Generative-AI",
+    "description": "Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+    "date_added": "2026-05-17"
+  },
+  {
+    "full_name": "colbymchenry/codegraph",
+    "url": "https://github.com/colbymchenry/codegraph",
+    "description": "Pre-indexed code knowledge graph for Claude Code — fewer tokens, fewer tool calls, 100% local",
+    "date_added": "2026-05-17"
   }
 ]
