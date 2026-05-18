@@ -1,8 +1,17 @@
-# GitHub Trending (Added at: 2026-05-17)
+# GitHub Trending (Added at: 2026-05-18)
 
-### [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)
-- Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.
+### [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman)
+- Your Personal AI super intelligence. Private, Simple and extremely powerful.
 
-### [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)
-- Pre-indexed code knowledge graph for Claude Code — fewer tokens, fewer tool calls, 100% local
+### [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills)
+- Academic Research Skills for Claude Code: research → write → review → revise → finalize
+
+### [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
+- "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
+
+### [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp)
+- LLM inference in C/C++
+
+### [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser)
+- Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
 
