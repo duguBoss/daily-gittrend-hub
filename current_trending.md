@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-05-18)
+# GitHub Trending (Added at: 2026-05-19)
 
-### [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman)
-- Your Personal AI super intelligence. Private, Simple and extremely powerful.
+### [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
+- Official, Anthropic-managed directory of high quality Claude Code Plugins.
 
-### [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills)
-- Academic Research Skills for Claude Code: research → write → review → revise → finalize
+### [sponsors/rohitg00](https://github.com/sponsors/rohitg00)
+- #1 Persistent memory for AI coding agents based on real-world benchmarks
 
-### [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
-- "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
+### [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
+- CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 
-### [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp)
-- LLM inference in C/C++
+### [sponsors/msitarzewski](https://github.com/sponsors/msitarzewski)
+- A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
 
-### [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser)
-- Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
+### [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)
+- A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 
