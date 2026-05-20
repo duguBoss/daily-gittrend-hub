@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "sponsors/obra",
-    "url": "https://github.com/sponsors/obra",
-    "description": "An agentic skills framework & software development methodology that works.",
-    "date_added": "2026-05-13"
-  },
-  {
-    "full_name": "influxdata/telegraf",
-    "url": "https://github.com/influxdata/telegraf",
-    "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
-    "date_added": "2026-05-13"
-  },
-  {
-    "full_name": "K-Dense-AI/scientific-agent-skills",
-    "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-    "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
-    "date_added": "2026-05-13"
-  },
-  {
-    "full_name": "sponsors/danielmiessler",
-    "url": "https://github.com/sponsors/danielmiessler",
-    "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
-    "date_added": "2026-05-13"
-  },
-  {
-    "full_name": "supertone-inc/supertonic",
-    "url": "https://github.com/supertone-inc/supertonic",
-    "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
-    "date_added": "2026-05-13"
-  },
-  {
     "full_name": "ruvnet/RuView",
     "url": "https://github.com/ruvnet/RuView",
     "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
@@ -154,5 +124,35 @@
     "url": "https://github.com/multica-ai/andrej-karpathy-skills",
     "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
     "date_added": "2026-05-19"
+  },
+  {
+    "full_name": "can1357/oh-my-pi",
+    "url": "https://github.com/can1357/oh-my-pi",
+    "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+    "date_added": "2026-05-20"
+  },
+  {
+    "full_name": "sponsors/obra",
+    "url": "https://github.com/sponsors/obra",
+    "description": "An agentic skills framework & software development methodology that works.",
+    "date_added": "2026-05-20"
+  },
+  {
+    "full_name": "rmyndharis/OpenWA",
+    "url": "https://github.com/rmyndharis/OpenWA",
+    "description": "Free, Open Source, Self-Hosted WhatsApp API Gateway",
+    "date_added": "2026-05-20"
+  },
+  {
+    "full_name": "truelockmc/streambert",
+    "url": "https://github.com/truelockmc/streambert",
+    "description": "A cross-platform Electron Desktop App to stream and download any Movie, TV Series or Anime in the World. Zero Ads and Tracking",
+    "date_added": "2026-05-20"
+  },
+  {
+    "full_name": "opentoonz/opentoonz",
+    "url": "https://github.com/opentoonz/opentoonz",
+    "description": "OpenToonz - An open-source full-featured 2D animation creation software",
+    "date_added": "2026-05-20"
   }
 ]

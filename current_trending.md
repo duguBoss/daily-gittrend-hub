@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-05-19)
+# GitHub Trending (Added at: 2026-05-20)
 
-### [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
-- Official, Anthropic-managed directory of high quality Claude Code Plugins.
+### [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
+- ⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
 
-### [sponsors/rohitg00](https://github.com/sponsors/rohitg00)
-- #1 Persistent memory for AI coding agents based on real-world benchmarks
+### [sponsors/obra](https://github.com/sponsors/obra)
+- An agentic skills framework & software development methodology that works.
 
-### [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
-- CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
+### [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA)
+- Free, Open Source, Self-Hosted WhatsApp API Gateway
 
-### [sponsors/msitarzewski](https://github.com/sponsors/msitarzewski)
-- A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
+### [truelockmc/streambert](https://github.com/truelockmc/streambert)
+- A cross-platform Electron Desktop App to stream and download any Movie, TV Series or Anime in the World. Zero Ads and Tracking
 
-### [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)
-- A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+### [opentoonz/opentoonz](https://github.com/opentoonz/opentoonz)
+- OpenToonz - An open-source full-featured 2D animation creation software
 
