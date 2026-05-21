@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "ruvnet/RuView",
-    "url": "https://github.com/ruvnet/RuView",
-    "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-    "date_added": "2026-05-14"
-  },
-  {
-    "full_name": "shiyu-coder/Kronos",
-    "url": "https://github.com/shiyu-coder/Kronos",
-    "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-    "date_added": "2026-05-14"
-  },
-  {
-    "full_name": "roboflow/supervision",
-    "url": "https://github.com/roboflow/supervision",
-    "description": "We write your reusable computer vision tools. 💜",
-    "date_added": "2026-05-14"
-  },
-  {
-    "full_name": "Genymobile/scrcpy",
-    "url": "https://github.com/Genymobile/scrcpy",
-    "description": "Display and control your Android device",
-    "date_added": "2026-05-14"
-  },
-  {
-    "full_name": "NVIDIA-AI-Blueprints/video-search-and-summarization",
-    "url": "https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization",
-    "description": "Suite of reference architectures for building GPU-accelerated vision agents and AI-powered video analytics applications.",
-    "date_added": "2026-05-14"
-  },
-  {
     "full_name": "anthropics/skills",
     "url": "https://github.com/anthropics/skills",
     "description": "Public repository for Agent Skills",
@@ -154,5 +124,35 @@
     "url": "https://github.com/opentoonz/opentoonz",
     "description": "OpenToonz - An open-source full-featured 2D animation creation software",
     "date_added": "2026-05-20"
+  },
+  {
+    "full_name": "dotnet/skills",
+    "url": "https://github.com/dotnet/skills",
+    "description": "Repository for skills to assist AI coding agents with .NET and C#",
+    "date_added": "2026-05-21"
+  },
+  {
+    "full_name": "ChromeDevTools/chrome-devtools-mcp",
+    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+    "description": "Chrome DevTools for coding agents",
+    "date_added": "2026-05-21"
+  },
+  {
+    "full_name": "teng-lin/notebooklm-py",
+    "url": "https://github.com/teng-lin/notebooklm-py",
+    "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.",
+    "date_added": "2026-05-21"
+  },
+  {
+    "full_name": "antoinezambelli/forge",
+    "url": "https://github.com/antoinezambelli/forge",
+    "description": "A Python framework for self-hosted LLM tool-calling and multi-step agentic workflows",
+    "date_added": "2026-05-21"
+  },
+  {
+    "full_name": "multica-ai/multica",
+    "url": "https://github.com/multica-ai/multica",
+    "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+    "date_added": "2026-05-21"
   }
 ]

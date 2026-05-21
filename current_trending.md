@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-05-20)
+# GitHub Trending (Added at: 2026-05-21)
 
-### [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
-- ⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
+### [dotnet/skills](https://github.com/dotnet/skills)
+- Repository for skills to assist AI coding agents with .NET and C#
 
-### [sponsors/obra](https://github.com/sponsors/obra)
-- An agentic skills framework & software development methodology that works.
+### [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
+- Chrome DevTools for coding agents
 
-### [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA)
-- Free, Open Source, Self-Hosted WhatsApp API Gateway
+### [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py)
+- Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.
 
-### [truelockmc/streambert](https://github.com/truelockmc/streambert)
-- A cross-platform Electron Desktop App to stream and download any Movie, TV Series or Anime in the World. Zero Ads and Tracking
+### [antoinezambelli/forge](https://github.com/antoinezambelli/forge)
+- A Python framework for self-hosted LLM tool-calling and multi-step agentic workflows
 
-### [opentoonz/opentoonz](https://github.com/opentoonz/opentoonz)
-- OpenToonz - An open-source full-featured 2D animation creation software
+### [multica-ai/multica](https://github.com/multica-ai/multica)
+- The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
 
