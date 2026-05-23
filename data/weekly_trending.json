@@ -160,5 +160,23 @@
     "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
     "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
     "date_added": "2026-05-22"
+  },
+  {
+    "full_name": "sponsors/Fincept-Corporation",
+    "url": "https://github.com/sponsors/Fincept-Corporation",
+    "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
+    "date_added": "2026-05-23"
+  },
+  {
+    "full_name": "yt-dlp/yt-dlp",
+    "url": "https://github.com/yt-dlp/yt-dlp",
+    "description": "A feature-rich command-line audio/video downloader",
+    "date_added": "2026-05-23"
+  },
+  {
+    "full_name": "karpathy/nn-zero-to-hero",
+    "url": "https://github.com/karpathy/nn-zero-to-hero",
+    "description": "Neural Networks: Zero to Hero",
+    "date_added": "2026-05-23"
   }
 ]

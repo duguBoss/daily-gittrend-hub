@@ -1,17 +1,11 @@
-# GitHub Trending (Added at: 2026-05-22)
+# GitHub Trending (Added at: 2026-05-23)
 
-### [ruvnet/RuView](https://github.com/ruvnet/RuView)
-- π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
+### [sponsors/Fincept-Corporation](https://github.com/sponsors/Fincept-Corporation)
+- FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.
 
-### [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything)
-- Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
+### [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
+- A feature-rich command-line audio/video downloader
 
-### [odoo/odoo](https://github.com/odoo/odoo)
-- Odoo. Open Source Apps To Grow Your Business.
-
-### [byJoey/cfnew](https://github.com/byJoey/cfnew)
-- 
-
-### [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
-- A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+### [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero)
+- Neural Networks: Zero to Hero
 
