@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "tinyhumansai/openhuman",
-    "url": "https://github.com/tinyhumansai/openhuman",
-    "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
-    "date_added": "2026-05-18"
-  },
-  {
-    "full_name": "Imbad0202/academic-research-skills",
-    "url": "https://github.com/Imbad0202/academic-research-skills",
-    "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
-    "date_added": "2026-05-18"
-  },
-  {
-    "full_name": "HKUDS/CLI-Anything",
-    "url": "https://github.com/HKUDS/CLI-Anything",
-    "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-    "date_added": "2026-05-18"
-  },
-  {
-    "full_name": "ggml-org/llama.cpp",
-    "url": "https://github.com/ggml-org/llama.cpp",
-    "description": "LLM inference in C/C++",
-    "date_added": "2026-05-18"
-  },
-  {
-    "full_name": "CloakHQ/CloakBrowser",
-    "url": "https://github.com/CloakHQ/CloakBrowser",
-    "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
-    "date_added": "2026-05-18"
-  },
-  {
     "full_name": "anthropics/claude-plugins-official",
     "url": "https://github.com/anthropics/claude-plugins-official",
     "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
@@ -196,5 +166,35 @@
     "url": "https://github.com/janestreet/magic-trace",
     "description": "magic-trace collects and displays high-resolution traces of what a process is doing",
     "date_added": "2026-05-24"
+  },
+  {
+    "full_name": "anthropics/knowledge-work-plugins",
+    "url": "https://github.com/anthropics/knowledge-work-plugins",
+    "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+    "date_added": "2026-05-25"
+  },
+  {
+    "full_name": "sponsors/affaan-m",
+    "url": "https://github.com/sponsors/affaan-m",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "date_added": "2026-05-25"
+  },
+  {
+    "full_name": "manaflow-ai/cmux",
+    "url": "https://github.com/manaflow-ai/cmux",
+    "description": "Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents",
+    "date_added": "2026-05-25"
+  },
+  {
+    "full_name": "paperless-ngx/paperless-ngx",
+    "url": "https://github.com/paperless-ngx/paperless-ngx",
+    "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
+    "date_added": "2026-05-25"
+  },
+  {
+    "full_name": "anthropics/claude-cookbooks",
+    "url": "https://github.com/anthropics/claude-cookbooks",
+    "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+    "date_added": "2026-05-25"
   }
 ]
