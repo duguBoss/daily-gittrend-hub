@@ -1,65 +1,5 @@
 [
   {
-    "full_name": "anthropics/claude-plugins-official",
-    "url": "https://github.com/anthropics/claude-plugins-official",
-    "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-    "date_added": "2026-05-19"
-  },
-  {
-    "full_name": "sponsors/rohitg00",
-    "url": "https://github.com/sponsors/rohitg00",
-    "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
-    "date_added": "2026-05-19"
-  },
-  {
-    "full_name": "rtk-ai/rtk",
-    "url": "https://github.com/rtk-ai/rtk",
-    "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-    "date_added": "2026-05-19"
-  },
-  {
-    "full_name": "sponsors/msitarzewski",
-    "url": "https://github.com/sponsors/msitarzewski",
-    "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-    "date_added": "2026-05-19"
-  },
-  {
-    "full_name": "multica-ai/andrej-karpathy-skills",
-    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-    "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-    "date_added": "2026-05-19"
-  },
-  {
-    "full_name": "can1357/oh-my-pi",
-    "url": "https://github.com/can1357/oh-my-pi",
-    "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-    "date_added": "2026-05-20"
-  },
-  {
-    "full_name": "sponsors/obra",
-    "url": "https://github.com/sponsors/obra",
-    "description": "An agentic skills framework & software development methodology that works.",
-    "date_added": "2026-05-20"
-  },
-  {
-    "full_name": "rmyndharis/OpenWA",
-    "url": "https://github.com/rmyndharis/OpenWA",
-    "description": "Free, Open Source, Self-Hosted WhatsApp API Gateway",
-    "date_added": "2026-05-20"
-  },
-  {
-    "full_name": "truelockmc/streambert",
-    "url": "https://github.com/truelockmc/streambert",
-    "description": "A cross-platform Electron Desktop App to stream and download any Movie, TV Series or Anime in the World. Zero Ads and Tracking",
-    "date_added": "2026-05-20"
-  },
-  {
-    "full_name": "opentoonz/opentoonz",
-    "url": "https://github.com/opentoonz/opentoonz",
-    "description": "OpenToonz - An open-source full-featured 2D animation creation software",
-    "date_added": "2026-05-20"
-  },
-  {
     "full_name": "dotnet/skills",
     "url": "https://github.com/dotnet/skills",
     "description": "Repository for skills to assist AI coding agents with .NET and C#",
@@ -196,5 +136,35 @@
     "url": "https://github.com/anthropics/claude-cookbooks",
     "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
     "date_added": "2026-05-25"
+  },
+  {
+    "full_name": "hardikpandya/stop-slop",
+    "url": "https://github.com/hardikpandya/stop-slop",
+    "description": "A skill file for removing AI tells from prose",
+    "date_added": "2026-05-27"
+  },
+  {
+    "full_name": "sponsors/Leonxlnx",
+    "url": "https://github.com/sponsors/Leonxlnx",
+    "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+    "date_added": "2026-05-27"
+  },
+  {
+    "full_name": "p-e-w/heretic",
+    "url": "https://github.com/p-e-w/heretic",
+    "description": "Fully automatic censorship removal for language models",
+    "date_added": "2026-05-27"
+  },
+  {
+    "full_name": "shiyu-coder/Kronos",
+    "url": "https://github.com/shiyu-coder/Kronos",
+    "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+    "date_added": "2026-05-27"
+  },
+  {
+    "full_name": "twentyhq/twenty",
+    "url": "https://github.com/twentyhq/twenty",
+    "description": "The open alternative to Salesforce, designed for AI.",
+    "date_added": "2026-05-27"
   }
 ]
