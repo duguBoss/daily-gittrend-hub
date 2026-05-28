@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "dotnet/skills",
-    "url": "https://github.com/dotnet/skills",
-    "description": "Repository for skills to assist AI coding agents with .NET and C#",
-    "date_added": "2026-05-21"
-  },
-  {
-    "full_name": "ChromeDevTools/chrome-devtools-mcp",
-    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-    "description": "Chrome DevTools for coding agents",
-    "date_added": "2026-05-21"
-  },
-  {
-    "full_name": "teng-lin/notebooklm-py",
-    "url": "https://github.com/teng-lin/notebooklm-py",
-    "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.",
-    "date_added": "2026-05-21"
-  },
-  {
-    "full_name": "antoinezambelli/forge",
-    "url": "https://github.com/antoinezambelli/forge",
-    "description": "A Python framework for self-hosted LLM tool-calling and multi-step agentic workflows",
-    "date_added": "2026-05-21"
-  },
-  {
-    "full_name": "multica-ai/multica",
-    "url": "https://github.com/multica-ai/multica",
-    "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
-    "date_added": "2026-05-21"
-  },
-  {
     "full_name": "ruvnet/RuView",
     "url": "https://github.com/ruvnet/RuView",
     "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
@@ -166,5 +136,35 @@
     "url": "https://github.com/twentyhq/twenty",
     "description": "The open alternative to Salesforce, designed for AI.",
     "date_added": "2026-05-27"
+  },
+  {
+    "full_name": "harry0703/MoneyPrinterTurbo",
+    "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+    "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+    "date_added": "2026-05-28"
+  },
+  {
+    "full_name": "DigitalPlatDev/FreeDomain",
+    "url": "https://github.com/DigitalPlatDev/FreeDomain",
+    "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
+    "date_added": "2026-05-28"
+  },
+  {
+    "full_name": "byoungd/English-level-up-tips",
+    "url": "https://github.com/byoungd/English-level-up-tips",
+    "description": "An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英语学习教程/英语学习/学英语",
+    "date_added": "2026-05-28"
+  },
+  {
+    "full_name": "microsoft/markitdown",
+    "url": "https://github.com/microsoft/markitdown",
+    "description": "Python tool for converting files and office documents to Markdown.",
+    "date_added": "2026-05-28"
+  },
+  {
+    "full_name": "sponsors/obra",
+    "url": "https://github.com/sponsors/obra",
+    "description": "An agentic skills framework & software development methodology that works.",
+    "date_added": "2026-05-28"
   }
 ]
