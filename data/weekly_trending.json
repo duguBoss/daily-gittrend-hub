@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "ruvnet/RuView",
-    "url": "https://github.com/ruvnet/RuView",
-    "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-    "date_added": "2026-05-22"
-  },
-  {
-    "full_name": "Lum1104/Understand-Anything",
-    "url": "https://github.com/Lum1104/Understand-Anything",
-    "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
-    "date_added": "2026-05-22"
-  },
-  {
-    "full_name": "odoo/odoo",
-    "url": "https://github.com/odoo/odoo",
-    "description": "Odoo. Open Source Apps To Grow Your Business.",
-    "date_added": "2026-05-22"
-  },
-  {
-    "full_name": "byJoey/cfnew",
-    "url": "https://github.com/byJoey/cfnew",
-    "description": "",
-    "date_added": "2026-05-22"
-  },
-  {
-    "full_name": "trimstray/the-book-of-secret-knowledge",
-    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
-    "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
-    "date_added": "2026-05-22"
-  },
-  {
     "full_name": "sponsors/Fincept-Corporation",
     "url": "https://github.com/sponsors/Fincept-Corporation",
     "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
@@ -166,5 +136,35 @@
     "url": "https://github.com/sponsors/obra",
     "description": "An agentic skills framework & software development methodology that works.",
     "date_added": "2026-05-28"
+  },
+  {
+    "full_name": "EveryInc/compound-engineering-plugin",
+    "url": "https://github.com/EveryInc/compound-engineering-plugin",
+    "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
+    "date_added": "2026-05-29"
+  },
+  {
+    "full_name": "anthropics/claude-code",
+    "url": "https://github.com/anthropics/claude-code",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+    "date_added": "2026-05-29"
+  },
+  {
+    "full_name": "cursor/plugins",
+    "url": "https://github.com/cursor/plugins",
+    "description": "Cursor plugin specification and official plugins",
+    "date_added": "2026-05-29"
+  },
+  {
+    "full_name": "run-llama/liteparse",
+    "url": "https://github.com/run-llama/liteparse",
+    "description": "A fast, helpful, and open-source document parser",
+    "date_added": "2026-05-29"
+  },
+  {
+    "full_name": "galilai-group/stable-worldmodel",
+    "url": "https://github.com/galilai-group/stable-worldmodel",
+    "description": "A platform for reproducible world model research and evaluation",
+    "date_added": "2026-05-29"
   }
 ]

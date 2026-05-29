@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-05-28)
+# GitHub Trending (Added at: 2026-05-29)
 
-### [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
-- 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
+### [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin)
+- Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more
 
-### [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain)
-- DigitalPlat FreeDomain: Free Domain For Everyone
+### [anthropics/claude-code](https://github.com/anthropics/claude-code)
+- Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
 
-### [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips)
-- An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英语学习教程/英语学习/学英语
+### [cursor/plugins](https://github.com/cursor/plugins)
+- Cursor plugin specification and official plugins
 
-### [microsoft/markitdown](https://github.com/microsoft/markitdown)
-- Python tool for converting files and office documents to Markdown.
+### [run-llama/liteparse](https://github.com/run-llama/liteparse)
+- A fast, helpful, and open-source document parser
 
-### [sponsors/obra](https://github.com/sponsors/obra)
-- An agentic skills framework & software development methodology that works.
+### [galilai-group/stable-worldmodel](https://github.com/galilai-group/stable-worldmodel)
+- A platform for reproducible world model research and evaluation
 
