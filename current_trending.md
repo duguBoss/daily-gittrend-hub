@@ -1,17 +1,14 @@
-# GitHub Trending (Added at: 2026-05-29)
+# GitHub Trending (Added at: 2026-05-30)
 
-### [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin)
-- Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more
+### [Biohub/esm](https://github.com/Biohub/esm)
+- 
 
-### [anthropics/claude-code](https://github.com/anthropics/claude-code)
-- Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+### [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
+- Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
 
-### [cursor/plugins](https://github.com/cursor/plugins)
-- Cursor plugin specification and official plugins
+### [DataTalksClub/data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp)
+- Data Engineering Zoomcamp is a free 9-week course on building production-ready data pipelines. The next cohort starts in January 2026. Join the course here 👇🏼
 
-### [run-llama/liteparse](https://github.com/run-llama/liteparse)
-- A fast, helpful, and open-source document parser
-
-### [galilai-group/stable-worldmodel](https://github.com/galilai-group/stable-worldmodel)
-- A platform for reproducible world model research and evaluation
+### [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+- Master programming by recreating your favorite technologies from scratch.
 
