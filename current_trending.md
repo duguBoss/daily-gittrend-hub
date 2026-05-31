@@ -1,14 +1,17 @@
-# GitHub Trending (Added at: 2026-05-30)
+# GitHub Trending (Added at: 2026-05-31)
 
-### [Biohub/esm](https://github.com/Biohub/esm)
-- 
+### [revfactory/harness](https://github.com/revfactory/harness)
+- A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.
 
-### [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
-- Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
+### [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM)
+- VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
 
-### [DataTalksClub/data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp)
-- Data Engineering Zoomcamp is a free 9-week course on building production-ready data pipelines. The next cohort starts in January 2026. Join the course here 👇🏼
+### [chen08209/FlClash](https://github.com/chen08209/FlClash)
+- A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
 
-### [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
-- Master programming by recreating your favorite technologies from scratch.
+### [FareedKhan-dev/train-llm-from-scratch](https://github.com/FareedKhan-dev/train-llm-from-scratch)
+- A straightforward method for training your LLM, from downloading data to generating text.
+
+### [ruvnet/RuView](https://github.com/ruvnet/RuView)
+- π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 

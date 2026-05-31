@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "colbymchenry/codegraph",
-    "url": "https://github.com/colbymchenry/codegraph",
-    "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
-    "date_added": "2026-05-24"
-  },
-  {
-    "full_name": "sponsors/mukul975",
-    "url": "https://github.com/sponsors/mukul975",
-    "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
-    "date_added": "2026-05-24"
-  },
-  {
-    "full_name": "sponsors/presenton",
-    "url": "https://github.com/sponsors/presenton",
-    "description": "Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)",
-    "date_added": "2026-05-24"
-  },
-  {
-    "full_name": "NVlabs/LongLive",
-    "url": "https://github.com/NVlabs/LongLive",
-    "description": "LongLive 2.0: Infra - Long Video Gen",
-    "date_added": "2026-05-24"
-  },
-  {
-    "full_name": "janestreet/magic-trace",
-    "url": "https://github.com/janestreet/magic-trace",
-    "description": "magic-trace collects and displays high-resolution traces of what a process is doing",
-    "date_added": "2026-05-24"
-  },
-  {
     "full_name": "anthropics/knowledge-work-plugins",
     "url": "https://github.com/anthropics/knowledge-work-plugins",
     "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
@@ -172,5 +142,35 @@
     "url": "https://github.com/codecrafters-io/build-your-own-x",
     "description": "Master programming by recreating your favorite technologies from scratch.",
     "date_added": "2026-05-30"
+  },
+  {
+    "full_name": "revfactory/harness",
+    "url": "https://github.com/revfactory/harness",
+    "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+    "date_added": "2026-05-31"
+  },
+  {
+    "full_name": "OpenBMB/VoxCPM",
+    "url": "https://github.com/OpenBMB/VoxCPM",
+    "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+    "date_added": "2026-05-31"
+  },
+  {
+    "full_name": "chen08209/FlClash",
+    "url": "https://github.com/chen08209/FlClash",
+    "description": "A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.",
+    "date_added": "2026-05-31"
+  },
+  {
+    "full_name": "FareedKhan-dev/train-llm-from-scratch",
+    "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
+    "description": "A straightforward method for training your LLM, from downloading data to generating text.",
+    "date_added": "2026-05-31"
+  },
+  {
+    "full_name": "ruvnet/RuView",
+    "url": "https://github.com/ruvnet/RuView",
+    "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+    "date_added": "2026-05-31"
   }
 ]
