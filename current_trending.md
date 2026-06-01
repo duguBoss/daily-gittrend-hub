@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-05-31)
+# GitHub Trending (Added at: 2026-06-01)
 
-### [revfactory/harness](https://github.com/revfactory/harness)
-- A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.
+### [sponsors/nesquena](https://github.com/sponsors/nesquena)
+- Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
 
-### [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM)
-- VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
+### [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory)
+- Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
 
-### [chen08209/FlClash](https://github.com/chen08209/FlClash)
-- A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
+### [sponsors/D4Vinci](https://github.com/sponsors/D4Vinci)
+- 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
 
-### [FareedKhan-dev/train-llm-from-scratch](https://github.com/FareedKhan-dev/train-llm-from-scratch)
-- A straightforward method for training your LLM, from downloading data to generating text.
+### [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
+- The design language that makes your AI harness better at design.
 
-### [ruvnet/RuView](https://github.com/ruvnet/RuView)
-- π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
+### [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)
+- TradingAgents: Multi-Agents LLM Financial Trading Framework
 

@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "anthropics/knowledge-work-plugins",
-    "url": "https://github.com/anthropics/knowledge-work-plugins",
-    "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-    "date_added": "2026-05-25"
-  },
-  {
-    "full_name": "sponsors/affaan-m",
-    "url": "https://github.com/sponsors/affaan-m",
-    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-    "date_added": "2026-05-25"
-  },
-  {
-    "full_name": "manaflow-ai/cmux",
-    "url": "https://github.com/manaflow-ai/cmux",
-    "description": "Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents",
-    "date_added": "2026-05-25"
-  },
-  {
-    "full_name": "paperless-ngx/paperless-ngx",
-    "url": "https://github.com/paperless-ngx/paperless-ngx",
-    "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
-    "date_added": "2026-05-25"
-  },
-  {
-    "full_name": "anthropics/claude-cookbooks",
-    "url": "https://github.com/anthropics/claude-cookbooks",
-    "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
-    "date_added": "2026-05-25"
-  },
-  {
     "full_name": "hardikpandya/stop-slop",
     "url": "https://github.com/hardikpandya/stop-slop",
     "description": "A skill file for removing AI tells from prose",
@@ -172,5 +142,35 @@
     "url": "https://github.com/ruvnet/RuView",
     "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
     "date_added": "2026-05-31"
+  },
+  {
+    "full_name": "sponsors/nesquena",
+    "url": "https://github.com/sponsors/nesquena",
+    "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
+    "date_added": "2026-06-01"
+  },
+  {
+    "full_name": "supermemoryai/supermemory",
+    "url": "https://github.com/supermemoryai/supermemory",
+    "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+    "date_added": "2026-06-01"
+  },
+  {
+    "full_name": "sponsors/D4Vinci",
+    "url": "https://github.com/sponsors/D4Vinci",
+    "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
+    "date_added": "2026-06-01"
+  },
+  {
+    "full_name": "pbakaus/impeccable",
+    "url": "https://github.com/pbakaus/impeccable",
+    "description": "The design language that makes your AI harness better at design.",
+    "date_added": "2026-06-01"
+  },
+  {
+    "full_name": "TauricResearch/TradingAgents",
+    "url": "https://github.com/TauricResearch/TradingAgents",
+    "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+    "date_added": "2026-06-01"
   }
 ]
