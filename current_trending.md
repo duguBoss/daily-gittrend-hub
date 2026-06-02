@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-06-01)
+# GitHub Trending (Added at: 2026-06-02)
 
-### [sponsors/nesquena](https://github.com/sponsors/nesquena)
-- Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
+### [sponsors/chopratejas](https://github.com/sponsors/chopratejas)
+- Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
 
-### [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory)
-- Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
+### [sponsors/affaan-m](https://github.com/sponsors/affaan-m)
+- The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
-### [sponsors/D4Vinci](https://github.com/sponsors/D4Vinci)
-- 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
+### [reconurge/flowsint](https://github.com/reconurge/flowsint)
+- A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.
 
-### [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
-- The design language that makes your AI harness better at design.
+### [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading)
+- Code for Machine Learning for Algorithmic Trading, 2nd edition.
 
-### [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)
-- TradingAgents: Multi-Agents LLM Financial Trading Framework
+### [jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course)
+- 
 
