@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "hardikpandya/stop-slop",
-    "url": "https://github.com/hardikpandya/stop-slop",
-    "description": "A skill file for removing AI tells from prose",
-    "date_added": "2026-05-27"
-  },
-  {
-    "full_name": "sponsors/Leonxlnx",
-    "url": "https://github.com/sponsors/Leonxlnx",
-    "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
-    "date_added": "2026-05-27"
-  },
-  {
-    "full_name": "p-e-w/heretic",
-    "url": "https://github.com/p-e-w/heretic",
-    "description": "Fully automatic censorship removal for language models",
-    "date_added": "2026-05-27"
-  },
-  {
-    "full_name": "shiyu-coder/Kronos",
-    "url": "https://github.com/shiyu-coder/Kronos",
-    "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-    "date_added": "2026-05-27"
-  },
-  {
-    "full_name": "twentyhq/twenty",
-    "url": "https://github.com/twentyhq/twenty",
-    "description": "The open alternative to Salesforce, designed for AI.",
-    "date_added": "2026-05-27"
-  },
-  {
     "full_name": "harry0703/MoneyPrinterTurbo",
     "url": "https://github.com/harry0703/MoneyPrinterTurbo",
     "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
@@ -202,5 +172,11 @@
     "url": "https://github.com/jamwithai/production-agentic-rag-course",
     "description": "",
     "date_added": "2026-06-02"
+  },
+  {
+    "full_name": "Open-LLM-VTuber/Open-LLM-VTuber",
+    "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
+    "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
+    "date_added": "2026-06-03"
   }
 ]
