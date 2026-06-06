@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-06-05)
+# GitHub Trending (Added at: 2026-06-06)
 
-### [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit)
-- The Frontend Stack for Agents & Generative UI. React + Angular. Makers of the AG-UI Protocol
+### [MemPalace/mempalace](https://github.com/MemPalace/mempalace)
+- The best-benchmarked open-source AI memory system. And it's free.
 
-### [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
-- Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
+### [sponsors/withastro](https://github.com/sponsors/withastro)
+- The sandbox agent framework.
 
-### [666ghj/MiroFish](https://github.com/666ghj/MiroFish)
-- A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
+### [sponsors/openclaw](https://github.com/sponsors/openclaw)
+- Windows companion suite for OpenClaw - System Tray app, Shared library, Node, and PowerToys Command Palette extension
 
-### [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)
-- AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
+### [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
+- Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 
-### [openai/plugins](https://github.com/openai/plugins)
-- OpenAI Plugins
+### [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)
+- A complete computer science study plan to become a software engineer.
 

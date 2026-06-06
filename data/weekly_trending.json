@@ -1,29 +1,5 @@
 [
   {
-    "full_name": "Biohub/esm",
-    "url": "https://github.com/Biohub/esm",
-    "description": "",
-    "date_added": "2026-05-30"
-  },
-  {
-    "full_name": "Crosstalk-Solutions/project-nomad",
-    "url": "https://github.com/Crosstalk-Solutions/project-nomad",
-    "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
-    "date_added": "2026-05-30"
-  },
-  {
-    "full_name": "DataTalksClub/data-engineering-zoomcamp",
-    "url": "https://github.com/DataTalksClub/data-engineering-zoomcamp",
-    "description": "Data Engineering Zoomcamp is a free 9-week course on building production-ready data pipelines. The next cohort starts in January 2026. Join the course here 👇🏼",
-    "date_added": "2026-05-30"
-  },
-  {
-    "full_name": "codecrafters-io/build-your-own-x",
-    "url": "https://github.com/codecrafters-io/build-your-own-x",
-    "description": "Master programming by recreating your favorite technologies from scratch.",
-    "date_added": "2026-05-30"
-  },
-  {
     "full_name": "revfactory/harness",
     "url": "https://github.com/revfactory/harness",
     "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
@@ -178,5 +154,35 @@
     "url": "https://github.com/openai/plugins",
     "description": "OpenAI Plugins",
     "date_added": "2026-06-05"
+  },
+  {
+    "full_name": "MemPalace/mempalace",
+    "url": "https://github.com/MemPalace/mempalace",
+    "description": "The best-benchmarked open-source AI memory system. And it's free.",
+    "date_added": "2026-06-06"
+  },
+  {
+    "full_name": "sponsors/withastro",
+    "url": "https://github.com/sponsors/withastro",
+    "description": "The sandbox agent framework.",
+    "date_added": "2026-06-06"
+  },
+  {
+    "full_name": "sponsors/openclaw",
+    "url": "https://github.com/sponsors/openclaw",
+    "description": "Windows companion suite for OpenClaw - System Tray app, Shared library, Node, and PowerToys Command Palette extension",
+    "date_added": "2026-06-06"
+  },
+  {
+    "full_name": "aquasecurity/trivy",
+    "url": "https://github.com/aquasecurity/trivy",
+    "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "date_added": "2026-06-06"
+  },
+  {
+    "full_name": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "description": "A complete computer science study plan to become a software engineer.",
+    "date_added": "2026-06-06"
   }
 ]
