@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "revfactory/harness",
-    "url": "https://github.com/revfactory/harness",
-    "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
-    "date_added": "2026-05-31"
-  },
-  {
-    "full_name": "OpenBMB/VoxCPM",
-    "url": "https://github.com/OpenBMB/VoxCPM",
-    "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
-    "date_added": "2026-05-31"
-  },
-  {
-    "full_name": "chen08209/FlClash",
-    "url": "https://github.com/chen08209/FlClash",
-    "description": "A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.",
-    "date_added": "2026-05-31"
-  },
-  {
-    "full_name": "FareedKhan-dev/train-llm-from-scratch",
-    "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
-    "description": "A straightforward method for training your LLM, from downloading data to generating text.",
-    "date_added": "2026-05-31"
-  },
-  {
-    "full_name": "ruvnet/RuView",
-    "url": "https://github.com/ruvnet/RuView",
-    "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-    "date_added": "2026-05-31"
-  },
-  {
     "full_name": "sponsors/nesquena",
     "url": "https://github.com/sponsors/nesquena",
     "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
@@ -184,5 +154,35 @@
     "url": "https://github.com/jwasham/coding-interview-university",
     "description": "A complete computer science study plan to become a software engineer.",
     "date_added": "2026-06-06"
+  },
+  {
+    "full_name": "sponsors/danielmiessler",
+    "url": "https://github.com/sponsors/danielmiessler",
+    "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
+    "date_added": "2026-06-07"
+  },
+  {
+    "full_name": "sponsors/sveltejs",
+    "url": "https://github.com/sponsors/sveltejs",
+    "description": "web development for the rest of us",
+    "date_added": "2026-06-07"
+  },
+  {
+    "full_name": "nginx/nginx",
+    "url": "https://github.com/nginx/nginx",
+    "description": "The official NGINX Open Source repository.",
+    "date_added": "2026-06-07"
+  },
+  {
+    "full_name": "golang/go",
+    "url": "https://github.com/golang/go",
+    "description": "The Go programming language",
+    "date_added": "2026-06-07"
+  },
+  {
+    "full_name": "sponsors/obra",
+    "url": "https://github.com/sponsors/obra",
+    "description": "An agentic skills framework & software development methodology that works.",
+    "date_added": "2026-06-07"
   }
 ]

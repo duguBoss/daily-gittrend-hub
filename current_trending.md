@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-06-06)
+# GitHub Trending (Added at: 2026-06-07)
 
-### [MemPalace/mempalace](https://github.com/MemPalace/mempalace)
-- The best-benchmarked open-source AI memory system. And it's free.
+### [sponsors/danielmiessler](https://github.com/sponsors/danielmiessler)
+- Agentic AI Infrastructure for magnifying HUMAN capabilities.
 
-### [sponsors/withastro](https://github.com/sponsors/withastro)
-- The sandbox agent framework.
+### [sponsors/sveltejs](https://github.com/sponsors/sveltejs)
+- web development for the rest of us
 
-### [sponsors/openclaw](https://github.com/sponsors/openclaw)
-- Windows companion suite for OpenClaw - System Tray app, Shared library, Node, and PowerToys Command Palette extension
+### [nginx/nginx](https://github.com/nginx/nginx)
+- The official NGINX Open Source repository.
 
-### [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
-- Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+### [golang/go](https://github.com/golang/go)
+- The Go programming language
 
-### [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)
-- A complete computer science study plan to become a software engineer.
+### [sponsors/obra](https://github.com/sponsors/obra)
+- An agentic skills framework & software development methodology that works.
 
