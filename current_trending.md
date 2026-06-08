@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-06-07)
+# GitHub Trending (Added at: 2026-06-08)
 
-### [sponsors/danielmiessler](https://github.com/sponsors/danielmiessler)
-- Agentic AI Infrastructure for magnifying HUMAN capabilities.
+### [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec)
+- A vector index built on TurboQuant, written in Rust with Python bindings
 
-### [sponsors/sveltejs](https://github.com/sponsors/sveltejs)
-- web development for the rest of us
+### [google/skills](https://github.com/google/skills)
+- Agent Skills for Google products and technologies
 
-### [nginx/nginx](https://github.com/nginx/nginx)
-- The official NGINX Open Source repository.
+### [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria)
+- Desktop app to manage markdown knowledge bases
 
-### [golang/go](https://github.com/golang/go)
-- The Go programming language
+### [sponsors/santifer](https://github.com/sponsors/santifer)
+- AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
 
-### [sponsors/obra](https://github.com/sponsors/obra)
-- An agentic skills framework & software development methodology that works.
+### [phuryn/pm-skills](https://github.com/phuryn/pm-skills)
+- PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.
 

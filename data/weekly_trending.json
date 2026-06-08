@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "sponsors/nesquena",
-    "url": "https://github.com/sponsors/nesquena",
-    "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
-    "date_added": "2026-06-01"
-  },
-  {
-    "full_name": "supermemoryai/supermemory",
-    "url": "https://github.com/supermemoryai/supermemory",
-    "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
-    "date_added": "2026-06-01"
-  },
-  {
-    "full_name": "sponsors/D4Vinci",
-    "url": "https://github.com/sponsors/D4Vinci",
-    "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
-    "date_added": "2026-06-01"
-  },
-  {
-    "full_name": "pbakaus/impeccable",
-    "url": "https://github.com/pbakaus/impeccable",
-    "description": "The design language that makes your AI harness better at design.",
-    "date_added": "2026-06-01"
-  },
-  {
-    "full_name": "TauricResearch/TradingAgents",
-    "url": "https://github.com/TauricResearch/TradingAgents",
-    "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-    "date_added": "2026-06-01"
-  },
-  {
     "full_name": "sponsors/chopratejas",
     "url": "https://github.com/sponsors/chopratejas",
     "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
@@ -184,5 +154,35 @@
     "url": "https://github.com/sponsors/obra",
     "description": "An agentic skills framework & software development methodology that works.",
     "date_added": "2026-06-07"
+  },
+  {
+    "full_name": "RyanCodrai/turbovec",
+    "url": "https://github.com/RyanCodrai/turbovec",
+    "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+    "date_added": "2026-06-08"
+  },
+  {
+    "full_name": "google/skills",
+    "url": "https://github.com/google/skills",
+    "description": "Agent Skills for Google products and technologies",
+    "date_added": "2026-06-08"
+  },
+  {
+    "full_name": "refactoringhq/tolaria",
+    "url": "https://github.com/refactoringhq/tolaria",
+    "description": "Desktop app to manage markdown knowledge bases",
+    "date_added": "2026-06-08"
+  },
+  {
+    "full_name": "sponsors/santifer",
+    "url": "https://github.com/sponsors/santifer",
+    "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+    "date_added": "2026-06-08"
+  },
+  {
+    "full_name": "phuryn/pm-skills",
+    "url": "https://github.com/phuryn/pm-skills",
+    "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+    "date_added": "2026-06-08"
   }
 ]
