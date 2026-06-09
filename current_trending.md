@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-06-08)
+# GitHub Trending (Added at: 2026-06-09)
 
-### [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec)
-- A vector index built on TurboQuant, written in Rust with Python bindings
+### [roboflow/supervision](https://github.com/roboflow/supervision)
+- We write your reusable computer vision tools. 💜
 
-### [google/skills](https://github.com/google/skills)
-- Agent Skills for Google products and technologies
+### [sponsors/opencv](https://github.com/sponsors/opencv)
+- Open Source Computer Vision Library
 
-### [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria)
-- Desktop app to manage markdown knowledge bases
+### [aaif-goose/goose](https://github.com/aaif-goose/goose)
+- an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 
-### [sponsors/santifer](https://github.com/sponsors/santifer)
-- AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
+### [Andyyyy64/whichllm](https://github.com/Andyyyy64/whichllm)
+- Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.
 
-### [phuryn/pm-skills](https://github.com/phuryn/pm-skills)
-- PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.
+### [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)
+- 所有小初高、大学PDF教材。
 
