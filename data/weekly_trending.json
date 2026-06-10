@@ -1,11 +1,5 @@
 [
   {
-    "full_name": "Open-LLM-VTuber/Open-LLM-VTuber",
-    "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
-    "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
-    "date_added": "2026-06-03"
-  },
-  {
     "full_name": "NousResearch/hermes-agent",
     "url": "https://github.com/NousResearch/hermes-agent",
     "description": "The agent that grows with you",
@@ -184,5 +178,35 @@
     "url": "https://github.com/TapXWorld/ChinaTextbook",
     "description": "所有小初高、大学PDF教材。",
     "date_added": "2026-06-09"
+  },
+  {
+    "full_name": "addyosmani/agent-skills",
+    "url": "https://github.com/addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "date_added": "2026-06-10"
+  },
+  {
+    "full_name": "sponsors/soxoj",
+    "url": "https://github.com/sponsors/soxoj",
+    "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+    "date_added": "2026-06-10"
+  },
+  {
+    "full_name": "sponsors/x1xhlol",
+    "url": "https://github.com/sponsors/x1xhlol",
+    "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+    "date_added": "2026-06-10"
+  },
+  {
+    "full_name": "sponsors/masterking32",
+    "url": "https://github.com/sponsors/masterking32",
+    "description": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
+    "date_added": "2026-06-10"
+  },
+  {
+    "full_name": "harry0703/MoneyPrinterTurbo",
+    "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+    "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+    "date_added": "2026-06-10"
   }
 ]
