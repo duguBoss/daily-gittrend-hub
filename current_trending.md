@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-06-10)
+# GitHub Trending (Added at: 2026-06-11)
 
-### [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
-- Production-grade engineering skills for AI coding agents.
+### [apple/container](https://github.com/apple/container)
+- A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
 
-### [sponsors/soxoj](https://github.com/sponsors/soxoj)
-- 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
+### [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed)
+- open-source healthcare ai
 
-### [sponsors/x1xhlol](https://github.com/sponsors/x1xhlol)
-- FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
+### [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector)
+- Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.
 
-### [sponsors/masterking32](https://github.com/sponsors/masterking32)
-- Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.
+### [restic/restic](https://github.com/restic/restic)
+- Fast, secure, efficient backup program
 
-### [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
-- 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
+### [sponsors/msitarzewski](https://github.com/sponsors/msitarzewski)
+- A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
 

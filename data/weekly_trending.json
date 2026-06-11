@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "NousResearch/hermes-agent",
-    "url": "https://github.com/NousResearch/hermes-agent",
-    "description": "The agent that grows with you",
-    "date_added": "2026-06-04"
-  },
-  {
-    "full_name": "PaddlePaddle/PaddleOCR",
-    "url": "https://github.com/PaddlePaddle/PaddleOCR",
-    "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
-    "date_added": "2026-06-04"
-  },
-  {
-    "full_name": "github/spec-kit",
-    "url": "https://github.com/github/spec-kit",
-    "description": "💫 Toolkit to help you get started with Spec-Driven Development",
-    "date_added": "2026-06-04"
-  },
-  {
-    "full_name": "NVIDIA/cosmos",
-    "url": "https://github.com/NVIDIA/cosmos",
-    "description": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.",
-    "date_added": "2026-06-04"
-  },
-  {
-    "full_name": "lfnovo/open-notebook",
-    "url": "https://github.com/lfnovo/open-notebook",
-    "description": "An Open Source implementation of Notebook LM with more flexibility and features",
-    "date_added": "2026-06-04"
-  },
-  {
     "full_name": "CopilotKit/CopilotKit",
     "url": "https://github.com/CopilotKit/CopilotKit",
     "description": "The Frontend Stack for Agents & Generative UI. React + Angular. Makers of the AG-UI Protocol",
@@ -208,5 +178,35 @@
     "url": "https://github.com/harry0703/MoneyPrinterTurbo",
     "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
     "date_added": "2026-06-10"
+  },
+  {
+    "full_name": "apple/container",
+    "url": "https://github.com/apple/container",
+    "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+    "date_added": "2026-06-11"
+  },
+  {
+    "full_name": "maziyarpanahi/openmed",
+    "url": "https://github.com/maziyarpanahi/openmed",
+    "description": "open-source healthcare ai",
+    "date_added": "2026-06-11"
+  },
+  {
+    "full_name": "NVIDIA/SkillSpector",
+    "url": "https://github.com/NVIDIA/SkillSpector",
+    "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+    "date_added": "2026-06-11"
+  },
+  {
+    "full_name": "restic/restic",
+    "url": "https://github.com/restic/restic",
+    "description": "Fast, secure, efficient backup program",
+    "date_added": "2026-06-11"
+  },
+  {
+    "full_name": "sponsors/msitarzewski",
+    "url": "https://github.com/sponsors/msitarzewski",
+    "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+    "date_added": "2026-06-11"
   }
 ]
