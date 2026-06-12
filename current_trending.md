@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-06-11)
+# GitHub Trending (Added at: 2026-06-12)
 
-### [apple/container](https://github.com/apple/container)
-- A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
+### [sponsors/chatwoot](https://github.com/sponsors/chatwoot)
+- Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 
-### [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed)
-- open-source healthcare ai
+### [kenn-io/agentsview](https://github.com/kenn-io/agentsview)
+- Local-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. Also: 100x faster replacement for ccusage!
 
-### [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector)
-- Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.
+### [alchaincyf/zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill)
+- 张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。
 
-### [restic/restic](https://github.com/restic/restic)
-- Fast, secure, efficient backup program
+### [hexo-ai/sia](https://github.com/hexo-ai/sia)
+- SIA is a Self Improving AI framework to autonomously improve the performance of any AI system (Model / Agent) on a benchmark task.
 
-### [sponsors/msitarzewski](https://github.com/sponsors/msitarzewski)
-- A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
+### [mattermost/mattermost](https://github.com/mattermost/mattermost)
+- Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
 

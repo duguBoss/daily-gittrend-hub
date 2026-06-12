@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "CopilotKit/CopilotKit",
-    "url": "https://github.com/CopilotKit/CopilotKit",
-    "description": "The Frontend Stack for Agents & Generative UI. React + Angular. Makers of the AG-UI Protocol",
-    "date_added": "2026-06-05"
-  },
-  {
-    "full_name": "Panniantong/Agent-Reach",
-    "url": "https://github.com/Panniantong/Agent-Reach",
-    "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-    "date_added": "2026-06-05"
-  },
-  {
-    "full_name": "666ghj/MiroFish",
-    "url": "https://github.com/666ghj/MiroFish",
-    "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
-    "date_added": "2026-06-05"
-  },
-  {
-    "full_name": "mvanhorn/last30days-skill",
-    "url": "https://github.com/mvanhorn/last30days-skill",
-    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-    "date_added": "2026-06-05"
-  },
-  {
-    "full_name": "openai/plugins",
-    "url": "https://github.com/openai/plugins",
-    "description": "OpenAI Plugins",
-    "date_added": "2026-06-05"
-  },
-  {
     "full_name": "MemPalace/mempalace",
     "url": "https://github.com/MemPalace/mempalace",
     "description": "The best-benchmarked open-source AI memory system. And it's free.",
@@ -208,5 +178,35 @@
     "url": "https://github.com/sponsors/msitarzewski",
     "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
     "date_added": "2026-06-11"
+  },
+  {
+    "full_name": "sponsors/chatwoot",
+    "url": "https://github.com/sponsors/chatwoot",
+    "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+    "date_added": "2026-06-12"
+  },
+  {
+    "full_name": "kenn-io/agentsview",
+    "url": "https://github.com/kenn-io/agentsview",
+    "description": "Local-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. Also: 100x faster replacement for ccusage!",
+    "date_added": "2026-06-12"
+  },
+  {
+    "full_name": "alchaincyf/zhangxuefeng-skill",
+    "url": "https://github.com/alchaincyf/zhangxuefeng-skill",
+    "description": "张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。",
+    "date_added": "2026-06-12"
+  },
+  {
+    "full_name": "hexo-ai/sia",
+    "url": "https://github.com/hexo-ai/sia",
+    "description": "SIA is a Self Improving AI framework to autonomously improve the performance of any AI system (Model / Agent) on a benchmark task.",
+    "date_added": "2026-06-12"
+  },
+  {
+    "full_name": "mattermost/mattermost",
+    "url": "https://github.com/mattermost/mattermost",
+    "description": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..",
+    "date_added": "2026-06-12"
   }
 ]
