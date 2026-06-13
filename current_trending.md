@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-06-12)
+# GitHub Trending (Added at: 2026-06-13)
 
-### [sponsors/chatwoot](https://github.com/sponsors/chatwoot)
-- Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
+### [iptv-org/iptv](https://github.com/iptv-org/iptv)
+- Collection of publicly available IPTV channels from all over the world
 
-### [kenn-io/agentsview](https://github.com/kenn-io/agentsview)
-- Local-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. Also: 100x faster replacement for ccusage!
+### [sponsors/music-assistant](https://github.com/sponsors/music-assistant)
+- Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.
 
-### [alchaincyf/zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill)
-- 张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。
+### [LMCache/LMCache](https://github.com/LMCache/LMCache)
+- LMCache: Supercharge Your LLM with the Fastest KV Cache Layer
 
-### [hexo-ai/sia](https://github.com/hexo-ai/sia)
-- SIA is a Self Improving AI framework to autonomously improve the performance of any AI system (Model / Agent) on a benchmark task.
+### [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
+- Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 
-### [mattermost/mattermost](https://github.com/mattermost/mattermost)
-- Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
+### [andrewyng/aisuite](https://github.com/andrewyng/aisuite)
+- Simple, unified interface to multiple Generative AI providers
 
