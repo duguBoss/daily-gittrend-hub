@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "sponsors/danielmiessler",
-    "url": "https://github.com/sponsors/danielmiessler",
-    "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
-    "date_added": "2026-06-07"
-  },
-  {
-    "full_name": "sponsors/sveltejs",
-    "url": "https://github.com/sponsors/sveltejs",
-    "description": "web development for the rest of us",
-    "date_added": "2026-06-07"
-  },
-  {
-    "full_name": "nginx/nginx",
-    "url": "https://github.com/nginx/nginx",
-    "description": "The official NGINX Open Source repository.",
-    "date_added": "2026-06-07"
-  },
-  {
-    "full_name": "golang/go",
-    "url": "https://github.com/golang/go",
-    "description": "The Go programming language",
-    "date_added": "2026-06-07"
-  },
-  {
-    "full_name": "sponsors/obra",
-    "url": "https://github.com/sponsors/obra",
-    "description": "An agentic skills framework & software development methodology that works.",
-    "date_added": "2026-06-07"
-  },
-  {
     "full_name": "RyanCodrai/turbovec",
     "url": "https://github.com/RyanCodrai/turbovec",
     "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
@@ -208,5 +178,35 @@
     "url": "https://github.com/andrewyng/aisuite",
     "description": "Simple, unified interface to multiple Generative AI providers",
     "date_added": "2026-06-13"
+  },
+  {
+    "full_name": "sponsors/freeCodeCamp",
+    "url": "https://github.com/sponsors/freeCodeCamp",
+    "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+    "date_added": "2026-06-14"
+  },
+  {
+    "full_name": "sponsors/pytest-dev",
+    "url": "https://github.com/sponsors/pytest-dev",
+    "description": "The pytest framework makes it easy to write small tests, yet scales to support complex functional testing",
+    "date_added": "2026-06-14"
+  },
+  {
+    "full_name": "sponsors/swc-project",
+    "url": "https://github.com/sponsors/swc-project",
+    "description": "Rust-based platform for the Web",
+    "date_added": "2026-06-14"
+  },
+  {
+    "full_name": "meshery/meshery",
+    "url": "https://github.com/meshery/meshery",
+    "description": "Meshery, the cloud native manager",
+    "date_added": "2026-06-14"
+  },
+  {
+    "full_name": "cypress-io/cypress",
+    "url": "https://github.com/cypress-io/cypress",
+    "description": "Fast, easy and reliable testing for anything that runs in a browser.",
+    "date_added": "2026-06-14"
   }
 ]
