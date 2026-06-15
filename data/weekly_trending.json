@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "RyanCodrai/turbovec",
-    "url": "https://github.com/RyanCodrai/turbovec",
-    "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
-    "date_added": "2026-06-08"
-  },
-  {
-    "full_name": "google/skills",
-    "url": "https://github.com/google/skills",
-    "description": "Agent Skills for Google products and technologies",
-    "date_added": "2026-06-08"
-  },
-  {
-    "full_name": "refactoringhq/tolaria",
-    "url": "https://github.com/refactoringhq/tolaria",
-    "description": "Desktop app to manage markdown knowledge bases",
-    "date_added": "2026-06-08"
-  },
-  {
-    "full_name": "sponsors/santifer",
-    "url": "https://github.com/sponsors/santifer",
-    "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
-    "date_added": "2026-06-08"
-  },
-  {
-    "full_name": "phuryn/pm-skills",
-    "url": "https://github.com/phuryn/pm-skills",
-    "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
-    "date_added": "2026-06-08"
-  },
-  {
     "full_name": "roboflow/supervision",
     "url": "https://github.com/roboflow/supervision",
     "description": "We write your reusable computer vision tools. 💜",
@@ -208,5 +178,35 @@
     "url": "https://github.com/cypress-io/cypress",
     "description": "Fast, easy and reliable testing for anything that runs in a browser.",
     "date_added": "2026-06-14"
+  },
+  {
+    "full_name": "teslamate-org/teslamate",
+    "url": "https://github.com/teslamate-org/teslamate",
+    "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
+    "date_added": "2026-06-15"
+  },
+  {
+    "full_name": "Panniantong/Agent-Reach",
+    "url": "https://github.com/Panniantong/Agent-Reach",
+    "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+    "date_added": "2026-06-15"
+  },
+  {
+    "full_name": "krahets/hello-algo",
+    "url": "https://github.com/krahets/hello-algo",
+    "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现",
+    "date_added": "2026-06-15"
+  },
+  {
+    "full_name": "sponsors/trycua",
+    "url": "https://github.com/sponsors/trycua",
+    "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
+    "date_added": "2026-06-15"
+  },
+  {
+    "full_name": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "description": "A complete computer science study plan to become a software engineer.",
+    "date_added": "2026-06-15"
   }
 ]
