@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-06-15)
+# GitHub Trending (Added at: 2026-06-16)
 
-### [teslamate-org/teslamate](https://github.com/teslamate-org/teslamate)
-- A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]
+### [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer)
+- JavaScript API for Chrome and Firefox
 
-### [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
-- Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
+### [Universal-Debloater-Alliance/universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation)
+- Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.
 
-### [krahets/hello-algo](https://github.com/krahets/hello-algo)
-- 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现
+### [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM)
+- VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
 
-### [sponsors/trycua](https://github.com/sponsors/trycua)
-- Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
+### [alibaba/zvec](https://github.com/alibaba/zvec)
+- A lightweight, lightning-fast, in-process vector database
 
-### [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)
-- A complete computer science study plan to become a software engineer.
+### [n0-computer/iroh](https://github.com/n0-computer/iroh)
+- IP addresses break, dial keys instead. Modular networking stack in Rust.
 

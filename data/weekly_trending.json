@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "roboflow/supervision",
-    "url": "https://github.com/roboflow/supervision",
-    "description": "We write your reusable computer vision tools. 💜",
-    "date_added": "2026-06-09"
-  },
-  {
-    "full_name": "sponsors/opencv",
-    "url": "https://github.com/sponsors/opencv",
-    "description": "Open Source Computer Vision Library",
-    "date_added": "2026-06-09"
-  },
-  {
-    "full_name": "aaif-goose/goose",
-    "url": "https://github.com/aaif-goose/goose",
-    "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
-    "date_added": "2026-06-09"
-  },
-  {
-    "full_name": "Andyyyy64/whichllm",
-    "url": "https://github.com/Andyyyy64/whichllm",
-    "description": "Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.",
-    "date_added": "2026-06-09"
-  },
-  {
-    "full_name": "TapXWorld/ChinaTextbook",
-    "url": "https://github.com/TapXWorld/ChinaTextbook",
-    "description": "所有小初高、大学PDF教材。",
-    "date_added": "2026-06-09"
-  },
-  {
     "full_name": "addyosmani/agent-skills",
     "url": "https://github.com/addyosmani/agent-skills",
     "description": "Production-grade engineering skills for AI coding agents.",
@@ -208,5 +178,35 @@
     "url": "https://github.com/jwasham/coding-interview-university",
     "description": "A complete computer science study plan to become a software engineer.",
     "date_added": "2026-06-15"
+  },
+  {
+    "full_name": "puppeteer/puppeteer",
+    "url": "https://github.com/puppeteer/puppeteer",
+    "description": "JavaScript API for Chrome and Firefox",
+    "date_added": "2026-06-16"
+  },
+  {
+    "full_name": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+    "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+    "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
+    "date_added": "2026-06-16"
+  },
+  {
+    "full_name": "OpenBMB/VoxCPM",
+    "url": "https://github.com/OpenBMB/VoxCPM",
+    "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+    "date_added": "2026-06-16"
+  },
+  {
+    "full_name": "alibaba/zvec",
+    "url": "https://github.com/alibaba/zvec",
+    "description": "A lightweight, lightning-fast, in-process vector database",
+    "date_added": "2026-06-16"
+  },
+  {
+    "full_name": "n0-computer/iroh",
+    "url": "https://github.com/n0-computer/iroh",
+    "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
+    "date_added": "2026-06-16"
   }
 ]
