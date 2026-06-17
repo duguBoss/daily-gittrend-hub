@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-06-16)
+# GitHub Trending (Added at: 2026-06-17)
 
-### [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer)
-- JavaScript API for Chrome and Firefox
+### [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
+- High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
 
-### [Universal-Debloater-Alliance/universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation)
-- Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.
+### [sponsors/obra](https://github.com/sponsors/obra)
+- An agentic skills framework & software development methodology that works.
 
-### [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM)
-- VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
+### [google-research/timesfm](https://github.com/google-research/timesfm)
+- TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
 
-### [alibaba/zvec](https://github.com/alibaba/zvec)
-- A lightweight, lightning-fast, in-process vector database
+### [sponsors/RocketChat](https://github.com/sponsors/RocketChat)
+- The Secure CommsOS™ for mission-critical operations
 
-### [n0-computer/iroh](https://github.com/n0-computer/iroh)
-- IP addresses break, dial keys instead. Modular networking stack in Rust.
+### [continuedev/continue](https://github.com/continuedev/continue)
+- open-source coding agent
 

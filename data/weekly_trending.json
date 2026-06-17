@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "addyosmani/agent-skills",
-    "url": "https://github.com/addyosmani/agent-skills",
-    "description": "Production-grade engineering skills for AI coding agents.",
-    "date_added": "2026-06-10"
-  },
-  {
-    "full_name": "sponsors/soxoj",
-    "url": "https://github.com/sponsors/soxoj",
-    "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
-    "date_added": "2026-06-10"
-  },
-  {
-    "full_name": "sponsors/x1xhlol",
-    "url": "https://github.com/sponsors/x1xhlol",
-    "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-    "date_added": "2026-06-10"
-  },
-  {
-    "full_name": "sponsors/masterking32",
-    "url": "https://github.com/sponsors/masterking32",
-    "description": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
-    "date_added": "2026-06-10"
-  },
-  {
-    "full_name": "harry0703/MoneyPrinterTurbo",
-    "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-    "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
-    "date_added": "2026-06-10"
-  },
-  {
     "full_name": "apple/container",
     "url": "https://github.com/apple/container",
     "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
@@ -208,5 +178,35 @@
     "url": "https://github.com/n0-computer/iroh",
     "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
     "date_added": "2026-06-16"
+  },
+  {
+    "full_name": "DeusData/codebase-memory-mcp",
+    "url": "https://github.com/DeusData/codebase-memory-mcp",
+    "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+    "date_added": "2026-06-17"
+  },
+  {
+    "full_name": "sponsors/obra",
+    "url": "https://github.com/sponsors/obra",
+    "description": "An agentic skills framework & software development methodology that works.",
+    "date_added": "2026-06-17"
+  },
+  {
+    "full_name": "google-research/timesfm",
+    "url": "https://github.com/google-research/timesfm",
+    "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+    "date_added": "2026-06-17"
+  },
+  {
+    "full_name": "sponsors/RocketChat",
+    "url": "https://github.com/sponsors/RocketChat",
+    "description": "The Secure CommsOS™ for mission-critical operations",
+    "date_added": "2026-06-17"
+  },
+  {
+    "full_name": "continuedev/continue",
+    "url": "https://github.com/continuedev/continue",
+    "description": "open-source coding agent",
+    "date_added": "2026-06-17"
   }
 ]
