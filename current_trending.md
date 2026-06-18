@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-06-17)
+# GitHub Trending (Added at: 2026-06-18)
 
-### [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
-- High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
+### [zai-org/GLM-5](https://github.com/zai-org/GLM-5)
+- GLM-5: From Vibe Coding to Agentic Engineering
 
-### [sponsors/obra](https://github.com/sponsors/obra)
-- An agentic skills framework & software development methodology that works.
+### [sponsors/withastro](https://github.com/sponsors/withastro)
+- The sandbox agent framework.
 
-### [google-research/timesfm](https://github.com/google-research/timesfm)
-- TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
+### [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode)
+- Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.
 
-### [sponsors/RocketChat](https://github.com/sponsors/RocketChat)
-- The Secure CommsOS™ for mission-critical operations
+### [makeplane/plane](https://github.com/makeplane/plane)
+- 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
 
-### [continuedev/continue](https://github.com/continuedev/continue)
-- open-source coding agent
+### [Kong/insomnia](https://github.com/Kong/insomnia)
+- The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
 
