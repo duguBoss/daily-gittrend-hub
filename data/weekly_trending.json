@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "sponsors/chatwoot",
-    "url": "https://github.com/sponsors/chatwoot",
-    "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
-    "date_added": "2026-06-12"
-  },
-  {
-    "full_name": "kenn-io/agentsview",
-    "url": "https://github.com/kenn-io/agentsview",
-    "description": "Local-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. Also: 100x faster replacement for ccusage!",
-    "date_added": "2026-06-12"
-  },
-  {
-    "full_name": "alchaincyf/zhangxuefeng-skill",
-    "url": "https://github.com/alchaincyf/zhangxuefeng-skill",
-    "description": "张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。",
-    "date_added": "2026-06-12"
-  },
-  {
-    "full_name": "hexo-ai/sia",
-    "url": "https://github.com/hexo-ai/sia",
-    "description": "SIA is a Self Improving AI framework to autonomously improve the performance of any AI system (Model / Agent) on a benchmark task.",
-    "date_added": "2026-06-12"
-  },
-  {
-    "full_name": "mattermost/mattermost",
-    "url": "https://github.com/mattermost/mattermost",
-    "description": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..",
-    "date_added": "2026-06-12"
-  },
-  {
     "full_name": "iptv-org/iptv",
     "url": "https://github.com/iptv-org/iptv",
     "description": "Collection of publicly available IPTV channels from all over the world",
@@ -208,5 +178,35 @@
     "url": "https://github.com/Kong/insomnia",
     "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
     "date_added": "2026-06-18"
+  },
+  {
+    "full_name": "palmier-io/palmier-pro",
+    "url": "https://github.com/palmier-io/palmier-pro",
+    "description": "macOS video editor built for AI",
+    "date_added": "2026-06-19"
+  },
+  {
+    "full_name": "koala73/worldmonitor",
+    "url": "https://github.com/koala73/worldmonitor",
+    "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+    "date_added": "2026-06-19"
+  },
+  {
+    "full_name": "aishwaryanr/awesome-generative-ai-guide",
+    "url": "https://github.com/aishwaryanr/awesome-generative-ai-guide",
+    "description": "A one stop repository for generative AI research updates, interview resources, notebooks and much more!",
+    "date_added": "2026-06-19"
+  },
+  {
+    "full_name": "BuilderIO/agent-native",
+    "url": "https://github.com/BuilderIO/agent-native",
+    "description": "A framework for building agent-native applications.",
+    "date_added": "2026-06-19"
+  },
+  {
+    "full_name": "sponsors/chopratejas",
+    "url": "https://github.com/sponsors/chopratejas",
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+    "date_added": "2026-06-19"
   }
 ]

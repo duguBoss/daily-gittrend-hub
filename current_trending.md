@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-06-18)
+# GitHub Trending (Added at: 2026-06-19)
 
-### [zai-org/GLM-5](https://github.com/zai-org/GLM-5)
-- GLM-5: From Vibe Coding to Agentic Engineering
+### [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro)
+- macOS video editor built for AI
 
-### [sponsors/withastro](https://github.com/sponsors/withastro)
-- The sandbox agent framework.
+### [koala73/worldmonitor](https://github.com/koala73/worldmonitor)
+- Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
 
-### [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode)
-- Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.
+### [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide)
+- A one stop repository for generative AI research updates, interview resources, notebooks and much more!
 
-### [makeplane/plane](https://github.com/makeplane/plane)
-- 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
+### [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native)
+- A framework for building agent-native applications.
 
-### [Kong/insomnia](https://github.com/Kong/insomnia)
-- The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
+### [sponsors/chopratejas](https://github.com/sponsors/chopratejas)
+- Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
 
