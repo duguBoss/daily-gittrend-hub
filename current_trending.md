@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-06-19)
+# GitHub Trending (Added at: 2026-06-20)
 
-### [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro)
-- macOS video editor built for AI
+### [penpot/penpot](https://github.com/penpot/penpot)
+- Penpot: The open-source design tool for design and code collaboration
 
-### [koala73/worldmonitor](https://github.com/koala73/worldmonitor)
-- Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
+### [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)
+- World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
 
-### [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide)
-- A one stop repository for generative AI research updates, interview resources, notebooks and much more!
+### [tursodatabase/turso](https://github.com/tursodatabase/turso)
+- Turso is an in-process SQL database, compatible with SQLite.
 
-### [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native)
-- A framework for building agent-native applications.
+### [twentyhq/twenty](https://github.com/twentyhq/twenty)
+- The open alternative to Salesforce, designed for AI.
 
-### [sponsors/chopratejas](https://github.com/sponsors/chopratejas)
-- Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
+### [sponsors/tw93](https://github.com/sponsors/tw93)
+- 🤱🏻 Turn any webpage into a desktop app with one command.
 
