@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "sponsors/freeCodeCamp",
-    "url": "https://github.com/sponsors/freeCodeCamp",
-    "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
-    "date_added": "2026-06-14"
-  },
-  {
-    "full_name": "sponsors/pytest-dev",
-    "url": "https://github.com/sponsors/pytest-dev",
-    "description": "The pytest framework makes it easy to write small tests, yet scales to support complex functional testing",
-    "date_added": "2026-06-14"
-  },
-  {
-    "full_name": "sponsors/swc-project",
-    "url": "https://github.com/sponsors/swc-project",
-    "description": "Rust-based platform for the Web",
-    "date_added": "2026-06-14"
-  },
-  {
-    "full_name": "meshery/meshery",
-    "url": "https://github.com/meshery/meshery",
-    "description": "Meshery, the cloud native manager",
-    "date_added": "2026-06-14"
-  },
-  {
-    "full_name": "cypress-io/cypress",
-    "url": "https://github.com/cypress-io/cypress",
-    "description": "Fast, easy and reliable testing for anything that runs in a browser.",
-    "date_added": "2026-06-14"
-  },
-  {
     "full_name": "teslamate-org/teslamate",
     "url": "https://github.com/teslamate-org/teslamate",
     "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
@@ -208,5 +178,35 @@
     "url": "https://github.com/sponsors/tw93",
     "description": "🤱🏻 Turn any webpage into a desktop app with one command.",
     "date_added": "2026-06-20"
+  },
+  {
+    "full_name": "ZhuLinsen/daily_stock_analysis",
+    "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+    "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+    "date_added": "2026-06-21"
+  },
+  {
+    "full_name": "bytedance/deer-flow",
+    "url": "https://github.com/bytedance/deer-flow",
+    "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+    "date_added": "2026-06-21"
+  },
+  {
+    "full_name": "sponsors/mukul975",
+    "url": "https://github.com/sponsors/mukul975",
+    "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
+    "date_added": "2026-06-21"
+  },
+  {
+    "full_name": "mikumifa/biliTickerBuy",
+    "url": "https://github.com/mikumifa/biliTickerBuy",
+    "description": "b站会员购购票辅助工具",
+    "date_added": "2026-06-21"
+  },
+  {
+    "full_name": "smicallef/spiderfoot",
+    "url": "https://github.com/smicallef/spiderfoot",
+    "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
+    "date_added": "2026-06-21"
   }
 ]

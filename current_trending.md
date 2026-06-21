@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-06-20)
+# GitHub Trending (Added at: 2026-06-21)
 
-### [penpot/penpot](https://github.com/penpot/penpot)
-- Penpot: The open-source design tool for design and code collaboration
+### [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)
+- LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.
 
-### [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)
-- World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
+### [bytedance/deer-flow](https://github.com/bytedance/deer-flow)
+- An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.
 
-### [tursodatabase/turso](https://github.com/tursodatabase/turso)
-- Turso is an in-process SQL database, compatible with SQLite.
+### [sponsors/mukul975](https://github.com/sponsors/mukul975)
+- 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0
 
-### [twentyhq/twenty](https://github.com/twentyhq/twenty)
-- The open alternative to Salesforce, designed for AI.
+### [mikumifa/biliTickerBuy](https://github.com/mikumifa/biliTickerBuy)
+- b站会员购购票辅助工具
 
-### [sponsors/tw93](https://github.com/sponsors/tw93)
-- 🤱🏻 Turn any webpage into a desktop app with one command.
+### [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot)
+- SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
 
