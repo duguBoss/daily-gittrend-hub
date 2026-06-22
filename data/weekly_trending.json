@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "teslamate-org/teslamate",
-    "url": "https://github.com/teslamate-org/teslamate",
-    "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
-    "date_added": "2026-06-15"
-  },
-  {
-    "full_name": "Panniantong/Agent-Reach",
-    "url": "https://github.com/Panniantong/Agent-Reach",
-    "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-    "date_added": "2026-06-15"
-  },
-  {
-    "full_name": "krahets/hello-algo",
-    "url": "https://github.com/krahets/hello-algo",
-    "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现",
-    "date_added": "2026-06-15"
-  },
-  {
-    "full_name": "sponsors/trycua",
-    "url": "https://github.com/sponsors/trycua",
-    "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
-    "date_added": "2026-06-15"
-  },
-  {
-    "full_name": "jwasham/coding-interview-university",
-    "url": "https://github.com/jwasham/coding-interview-university",
-    "description": "A complete computer science study plan to become a software engineer.",
-    "date_added": "2026-06-15"
-  },
-  {
     "full_name": "puppeteer/puppeteer",
     "url": "https://github.com/puppeteer/puppeteer",
     "description": "JavaScript API for Chrome and Firefox",
@@ -208,5 +178,35 @@
     "url": "https://github.com/smicallef/spiderfoot",
     "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
     "date_added": "2026-06-21"
+  },
+  {
+    "full_name": "jamiepine/voicebox",
+    "url": "https://github.com/jamiepine/voicebox",
+    "description": "The open-source AI voice studio. Clone, dictate, create.",
+    "date_added": "2026-06-22"
+  },
+  {
+    "full_name": "sponsors/Stirling-Tools",
+    "url": "https://github.com/sponsors/Stirling-Tools",
+    "description": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere",
+    "date_added": "2026-06-22"
+  },
+  {
+    "full_name": "garrytan/gstack",
+    "url": "https://github.com/garrytan/gstack",
+    "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+    "date_added": "2026-06-22"
+  },
+  {
+    "full_name": "heygen-com/hyperframes",
+    "url": "https://github.com/heygen-com/hyperframes",
+    "description": "Write HTML. Render video. Built for agents.",
+    "date_added": "2026-06-22"
+  },
+  {
+    "full_name": "firecrawl/firecrawl",
+    "url": "https://github.com/firecrawl/firecrawl",
+    "description": "The API to search, scrape, and interact with the web at scale. 🔥",
+    "date_added": "2026-06-22"
   }
 ]
