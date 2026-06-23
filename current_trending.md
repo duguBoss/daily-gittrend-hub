@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-06-22)
+# GitHub Trending (Added at: 2026-06-23)
 
-### [jamiepine/voicebox](https://github.com/jamiepine/voicebox)
-- The open-source AI voice studio. Clone, dictate, create.
+### [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
+- Official, Anthropic-managed directory of high quality Claude Code Plugins.
 
-### [sponsors/Stirling-Tools](https://github.com/sponsors/Stirling-Tools)
-- #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
+### [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice)
+- from vibe coding to agentic engineering - practice makes claude perfect
 
-### [garrytan/gstack](https://github.com/garrytan/gstack)
-- Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
+### [revfactory/harness](https://github.com/revfactory/harness)
+- A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.
 
-### [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)
-- Write HTML. Render video. Built for agents.
+### [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template)
+- Clone any website with one command using AI coding agents
 
-### [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)
-- The API to search, scrape, and interact with the web at scale. 🔥
+### [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips)
+- An advanced guide to learn English which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南/英语学习教程/英语学习/学英语
 

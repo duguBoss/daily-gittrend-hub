@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "puppeteer/puppeteer",
-    "url": "https://github.com/puppeteer/puppeteer",
-    "description": "JavaScript API for Chrome and Firefox",
-    "date_added": "2026-06-16"
-  },
-  {
-    "full_name": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
-    "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
-    "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
-    "date_added": "2026-06-16"
-  },
-  {
-    "full_name": "OpenBMB/VoxCPM",
-    "url": "https://github.com/OpenBMB/VoxCPM",
-    "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
-    "date_added": "2026-06-16"
-  },
-  {
-    "full_name": "alibaba/zvec",
-    "url": "https://github.com/alibaba/zvec",
-    "description": "A lightweight, lightning-fast, in-process vector database",
-    "date_added": "2026-06-16"
-  },
-  {
-    "full_name": "n0-computer/iroh",
-    "url": "https://github.com/n0-computer/iroh",
-    "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
-    "date_added": "2026-06-16"
-  },
-  {
     "full_name": "DeusData/codebase-memory-mcp",
     "url": "https://github.com/DeusData/codebase-memory-mcp",
     "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
@@ -208,5 +178,35 @@
     "url": "https://github.com/firecrawl/firecrawl",
     "description": "The API to search, scrape, and interact with the web at scale. 🔥",
     "date_added": "2026-06-22"
+  },
+  {
+    "full_name": "anthropics/claude-plugins-official",
+    "url": "https://github.com/anthropics/claude-plugins-official",
+    "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+    "date_added": "2026-06-23"
+  },
+  {
+    "full_name": "shanraisshan/claude-code-best-practice",
+    "url": "https://github.com/shanraisshan/claude-code-best-practice",
+    "description": "from vibe coding to agentic engineering - practice makes claude perfect",
+    "date_added": "2026-06-23"
+  },
+  {
+    "full_name": "revfactory/harness",
+    "url": "https://github.com/revfactory/harness",
+    "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+    "date_added": "2026-06-23"
+  },
+  {
+    "full_name": "JCodesMore/ai-website-cloner-template",
+    "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+    "description": "Clone any website with one command using AI coding agents",
+    "date_added": "2026-06-23"
+  },
+  {
+    "full_name": "byoungd/English-level-up-tips",
+    "url": "https://github.com/byoungd/English-level-up-tips",
+    "description": "An advanced guide to learn English which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南/英语学习教程/英语学习/学英语",
+    "date_added": "2026-06-23"
   }
 ]
