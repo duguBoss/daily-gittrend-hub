@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-06-23)
+# GitHub Trending (Added at: 2026-06-24)
 
-### [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
-- Official, Anthropic-managed directory of high quality Claude Code Plugins.
+### [sponsors/calesthio](https://github.com/sponsors/calesthio)
+- World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
 
-### [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice)
-- from vibe coding to agentic engineering - practice makes claude perfect
+### [apple/container](https://github.com/apple/container)
+- A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
 
-### [revfactory/harness](https://github.com/revfactory/harness)
-- A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.
+### [interviewstreet/hiring-agent](https://github.com/interviewstreet/hiring-agent)
+- AI agent to evaluate and score resumes.
 
-### [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template)
-- Clone any website with one command using AI coding agents
+### [flutter/flutter](https://github.com/flutter/flutter)
+- Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
-### [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips)
-- An advanced guide to learn English which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南/英语学习教程/英语学习/学英语
+### [andreknieriem/headunit-revived](https://github.com/andreknieriem/headunit-revived)
+- Headunit App for displaying Android Auto
 

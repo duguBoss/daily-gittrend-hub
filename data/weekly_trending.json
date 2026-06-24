@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "DeusData/codebase-memory-mcp",
-    "url": "https://github.com/DeusData/codebase-memory-mcp",
-    "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
-    "date_added": "2026-06-17"
-  },
-  {
-    "full_name": "sponsors/obra",
-    "url": "https://github.com/sponsors/obra",
-    "description": "An agentic skills framework & software development methodology that works.",
-    "date_added": "2026-06-17"
-  },
-  {
-    "full_name": "google-research/timesfm",
-    "url": "https://github.com/google-research/timesfm",
-    "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
-    "date_added": "2026-06-17"
-  },
-  {
-    "full_name": "sponsors/RocketChat",
-    "url": "https://github.com/sponsors/RocketChat",
-    "description": "The Secure CommsOS™ for mission-critical operations",
-    "date_added": "2026-06-17"
-  },
-  {
-    "full_name": "continuedev/continue",
-    "url": "https://github.com/continuedev/continue",
-    "description": "open-source coding agent",
-    "date_added": "2026-06-17"
-  },
-  {
     "full_name": "zai-org/GLM-5",
     "url": "https://github.com/zai-org/GLM-5",
     "description": "GLM-5: From Vibe Coding to Agentic Engineering",
@@ -208,5 +178,35 @@
     "url": "https://github.com/byoungd/English-level-up-tips",
     "description": "An advanced guide to learn English which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南/英语学习教程/英语学习/学英语",
     "date_added": "2026-06-23"
+  },
+  {
+    "full_name": "sponsors/calesthio",
+    "url": "https://github.com/sponsors/calesthio",
+    "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+    "date_added": "2026-06-24"
+  },
+  {
+    "full_name": "apple/container",
+    "url": "https://github.com/apple/container",
+    "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+    "date_added": "2026-06-24"
+  },
+  {
+    "full_name": "interviewstreet/hiring-agent",
+    "url": "https://github.com/interviewstreet/hiring-agent",
+    "description": "AI agent to evaluate and score resumes.",
+    "date_added": "2026-06-24"
+  },
+  {
+    "full_name": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+    "date_added": "2026-06-24"
+  },
+  {
+    "full_name": "andreknieriem/headunit-revived",
+    "url": "https://github.com/andreknieriem/headunit-revived",
+    "description": "Headunit App for displaying Android Auto",
+    "date_added": "2026-06-24"
   }
 ]
