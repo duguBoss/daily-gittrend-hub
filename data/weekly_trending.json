@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "zai-org/GLM-5",
-    "url": "https://github.com/zai-org/GLM-5",
-    "description": "GLM-5: From Vibe Coding to Agentic Engineering",
-    "date_added": "2026-06-18"
-  },
-  {
-    "full_name": "sponsors/withastro",
-    "url": "https://github.com/sponsors/withastro",
-    "description": "The sandbox agent framework.",
-    "date_added": "2026-06-18"
-  },
-  {
-    "full_name": "Kilo-Org/kilocode",
-    "url": "https://github.com/Kilo-Org/kilocode",
-    "description": "Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.",
-    "date_added": "2026-06-18"
-  },
-  {
-    "full_name": "makeplane/plane",
-    "url": "https://github.com/makeplane/plane",
-    "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
-    "date_added": "2026-06-18"
-  },
-  {
-    "full_name": "Kong/insomnia",
-    "url": "https://github.com/Kong/insomnia",
-    "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
-    "date_added": "2026-06-18"
-  },
-  {
     "full_name": "palmier-io/palmier-pro",
     "url": "https://github.com/palmier-io/palmier-pro",
     "description": "macOS video editor built for AI",
@@ -208,5 +178,35 @@
     "url": "https://github.com/andreknieriem/headunit-revived",
     "description": "Headunit App for displaying Android Auto",
     "date_added": "2026-06-24"
+  },
+  {
+    "full_name": "google-labs-code/design.md",
+    "url": "https://github.com/google-labs-code/design.md",
+    "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
+    "date_added": "2026-06-25"
+  },
+  {
+    "full_name": "xbtlin/ai-berkshire",
+    "url": "https://github.com/xbtlin/ai-berkshire",
+    "description": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.",
+    "date_added": "2026-06-25"
+  },
+  {
+    "full_name": "mauriceboe/TREK",
+    "url": "https://github.com/mauriceboe/TREK",
+    "description": "A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.",
+    "date_added": "2026-06-25"
+  },
+  {
+    "full_name": "aws/agent-toolkit-for-aws",
+    "url": "https://github.com/aws/agent-toolkit-for-aws",
+    "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+    "date_added": "2026-06-25"
+  },
+  {
+    "full_name": "alibaba/page-agent",
+    "url": "https://github.com/alibaba/page-agent",
+    "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+    "date_added": "2026-06-25"
   }
 ]
