@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "penpot/penpot",
-    "url": "https://github.com/penpot/penpot",
-    "description": "Penpot: The open-source design tool for design and code collaboration",
-    "date_added": "2026-06-20"
-  },
-  {
-    "full_name": "calesthio/OpenMontage",
-    "url": "https://github.com/calesthio/OpenMontage",
-    "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
-    "date_added": "2026-06-20"
-  },
-  {
-    "full_name": "tursodatabase/turso",
-    "url": "https://github.com/tursodatabase/turso",
-    "description": "Turso is an in-process SQL database, compatible with SQLite.",
-    "date_added": "2026-06-20"
-  },
-  {
-    "full_name": "twentyhq/twenty",
-    "url": "https://github.com/twentyhq/twenty",
-    "description": "The open alternative to Salesforce, designed for AI.",
-    "date_added": "2026-06-20"
-  },
-  {
-    "full_name": "sponsors/tw93",
-    "url": "https://github.com/sponsors/tw93",
-    "description": "🤱🏻 Turn any webpage into a desktop app with one command.",
-    "date_added": "2026-06-20"
-  },
-  {
     "full_name": "ZhuLinsen/daily_stock_analysis",
     "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
     "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
@@ -208,5 +178,35 @@
     "url": "https://github.com/ripienaar/free-for-dev",
     "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
     "date_added": "2026-06-26"
+  },
+  {
+    "full_name": "opendatalab/MinerU",
+    "url": "https://github.com/opendatalab/MinerU",
+    "description": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
+    "date_added": "2026-06-27"
+  },
+  {
+    "full_name": "alchaincyf/zhangxuefeng-skill",
+    "url": "https://github.com/alchaincyf/zhangxuefeng-skill",
+    "description": "张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。",
+    "date_added": "2026-06-27"
+  },
+  {
+    "full_name": "sponsors/NanmiCoder",
+    "url": "https://github.com/sponsors/NanmiCoder",
+    "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+    "date_added": "2026-06-27"
+  },
+  {
+    "full_name": "IceWhaleTech/CasaOS",
+    "url": "https://github.com/IceWhaleTech/CasaOS",
+    "description": "CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",
+    "date_added": "2026-06-27"
+  },
+  {
+    "full_name": "Panniantong/Agent-Reach",
+    "url": "https://github.com/Panniantong/Agent-Reach",
+    "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+    "date_added": "2026-06-27"
   }
 ]

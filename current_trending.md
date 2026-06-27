@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-06-26)
+# GitHub Trending (Added at: 2026-06-27)
 
-### [sponsors/simplex-chat](https://github.com/sponsors/simplex-chat)
-- SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
+### [opendatalab/MinerU](https://github.com/opendatalab/MinerU)
+- Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.
 
-### [commaai/openpilot](https://github.com/commaai/openpilot)
-- openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
+### [alchaincyf/zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill)
+- 张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。
 
-### [kunchenguid/no-mistakes](https://github.com/kunchenguid/no-mistakes)
-- git push no-mistakes
+### [sponsors/NanmiCoder](https://github.com/sponsors/NanmiCoder)
+- 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫
 
-### [grafana/grafana](https://github.com/grafana/grafana)
-- The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
+### [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS)
+- CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 
-### [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
-- A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+### [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
+- Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
 
