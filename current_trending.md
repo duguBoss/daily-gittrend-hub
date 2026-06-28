@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-06-27)
+# GitHub Trending (Added at: 2026-06-28)
 
-### [opendatalab/MinerU](https://github.com/opendatalab/MinerU)
-- Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.
+### [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map)
+- A feed-forward 3D foundation model for reconstructing scenes from streaming data
 
-### [alchaincyf/zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill)
-- 张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。
+### [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
+- High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
 
-### [sponsors/NanmiCoder](https://github.com/sponsors/NanmiCoder)
-- 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫
+### [sponsors/cupy](https://github.com/sponsors/cupy)
+- NumPy & SciPy for GPU
 
-### [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS)
-- CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
+### [sponsors/altic-dev](https://github.com/sponsors/altic-dev)
+- FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :))
 
-### [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
-- Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
+### [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading)
+- "Vibe-Trading: Your Personal Trading Agent"
 
