@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-06-28)
+# GitHub Trending (Added at: 2026-06-29)
 
-### [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map)
-- A feed-forward 3D foundation model for reconstructing scenes from streaming data
+### [sponsors/msitarzewski](https://github.com/sponsors/msitarzewski)
+- A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
 
-### [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
-- High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
+### [sponsors/soxoj](https://github.com/sponsors/soxoj)
+- 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
 
-### [sponsors/cupy](https://github.com/sponsors/cupy)
-- NumPy & SciPy for GPU
+### [sponsors/logto-io](https://github.com/sponsors/logto-io)
+- 🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.
 
-### [sponsors/altic-dev](https://github.com/sponsors/altic-dev)
-- FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :))
+### [browser-use/video-use](https://github.com/browser-use/video-use)
+- Edit videos with coding agents
 
-### [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading)
-- "Vibe-Trading: Your Personal Trading Agent"
+### [Unclecheng-li/VulnClaw](https://github.com/Unclecheng-li/VulnClaw)
+- 基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。
 

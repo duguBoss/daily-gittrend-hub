@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "jamiepine/voicebox",
-    "url": "https://github.com/jamiepine/voicebox",
-    "description": "The open-source AI voice studio. Clone, dictate, create.",
-    "date_added": "2026-06-22"
-  },
-  {
-    "full_name": "sponsors/Stirling-Tools",
-    "url": "https://github.com/sponsors/Stirling-Tools",
-    "description": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere",
-    "date_added": "2026-06-22"
-  },
-  {
-    "full_name": "garrytan/gstack",
-    "url": "https://github.com/garrytan/gstack",
-    "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
-    "date_added": "2026-06-22"
-  },
-  {
-    "full_name": "heygen-com/hyperframes",
-    "url": "https://github.com/heygen-com/hyperframes",
-    "description": "Write HTML. Render video. Built for agents.",
-    "date_added": "2026-06-22"
-  },
-  {
-    "full_name": "firecrawl/firecrawl",
-    "url": "https://github.com/firecrawl/firecrawl",
-    "description": "The API to search, scrape, and interact with the web at scale. 🔥",
-    "date_added": "2026-06-22"
-  },
-  {
     "full_name": "anthropics/claude-plugins-official",
     "url": "https://github.com/anthropics/claude-plugins-official",
     "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
@@ -208,5 +178,35 @@
     "url": "https://github.com/HKUDS/Vibe-Trading",
     "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
     "date_added": "2026-06-28"
+  },
+  {
+    "full_name": "sponsors/msitarzewski",
+    "url": "https://github.com/sponsors/msitarzewski",
+    "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+    "date_added": "2026-06-29"
+  },
+  {
+    "full_name": "sponsors/soxoj",
+    "url": "https://github.com/sponsors/soxoj",
+    "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+    "date_added": "2026-06-29"
+  },
+  {
+    "full_name": "sponsors/logto-io",
+    "url": "https://github.com/sponsors/logto-io",
+    "description": "🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.",
+    "date_added": "2026-06-29"
+  },
+  {
+    "full_name": "browser-use/video-use",
+    "url": "https://github.com/browser-use/video-use",
+    "description": "Edit videos with coding agents",
+    "date_added": "2026-06-29"
+  },
+  {
+    "full_name": "Unclecheng-li/VulnClaw",
+    "url": "https://github.com/Unclecheng-li/VulnClaw",
+    "description": "基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。",
+    "date_added": "2026-06-29"
   }
 ]
