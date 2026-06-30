@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-06-29)
+# GitHub Trending (Added at: 2026-06-30)
 
-### [sponsors/msitarzewski](https://github.com/sponsors/msitarzewski)
-- A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
+### [usestrix/strix](https://github.com/usestrix/strix)
+- Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
 
-### [sponsors/soxoj](https://github.com/sponsors/soxoj)
-- 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
+### [sponsors/diegosouzapw](https://github.com/sponsors/diegosouzapw)
+- Never stop coding. Free AI gateway: one endpoint, 160+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.
 
-### [sponsors/logto-io](https://github.com/sponsors/logto-io)
-- 🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.
+### [Mebus/cupp](https://github.com/Mebus/cupp)
+- Common User Passwords Profiler (CUPP)
 
-### [browser-use/video-use](https://github.com/browser-use/video-use)
-- Edit videos with coding agents
+### [google/agents-cli](https://github.com/google/agents-cli)
+- The CLI and skills that turn any coding assistant into an expert at creating, evaluating, and deploying AI agents on Google Cloud.
 
-### [Unclecheng-li/VulnClaw](https://github.com/Unclecheng-li/VulnClaw)
-- 基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。
+### [roboflow/supervision](https://github.com/roboflow/supervision)
+- We write your reusable computer vision tools. 💜
 

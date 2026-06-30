@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "anthropics/claude-plugins-official",
-    "url": "https://github.com/anthropics/claude-plugins-official",
-    "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-    "date_added": "2026-06-23"
-  },
-  {
-    "full_name": "shanraisshan/claude-code-best-practice",
-    "url": "https://github.com/shanraisshan/claude-code-best-practice",
-    "description": "from vibe coding to agentic engineering - practice makes claude perfect",
-    "date_added": "2026-06-23"
-  },
-  {
-    "full_name": "revfactory/harness",
-    "url": "https://github.com/revfactory/harness",
-    "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
-    "date_added": "2026-06-23"
-  },
-  {
-    "full_name": "JCodesMore/ai-website-cloner-template",
-    "url": "https://github.com/JCodesMore/ai-website-cloner-template",
-    "description": "Clone any website with one command using AI coding agents",
-    "date_added": "2026-06-23"
-  },
-  {
-    "full_name": "byoungd/English-level-up-tips",
-    "url": "https://github.com/byoungd/English-level-up-tips",
-    "description": "An advanced guide to learn English which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南/英语学习教程/英语学习/学英语",
-    "date_added": "2026-06-23"
-  },
-  {
     "full_name": "sponsors/calesthio",
     "url": "https://github.com/sponsors/calesthio",
     "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
@@ -208,5 +178,35 @@
     "url": "https://github.com/Unclecheng-li/VulnClaw",
     "description": "基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。",
     "date_added": "2026-06-29"
+  },
+  {
+    "full_name": "usestrix/strix",
+    "url": "https://github.com/usestrix/strix",
+    "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+    "date_added": "2026-06-30"
+  },
+  {
+    "full_name": "sponsors/diegosouzapw",
+    "url": "https://github.com/sponsors/diegosouzapw",
+    "description": "Never stop coding. Free AI gateway: one endpoint, 160+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
+    "date_added": "2026-06-30"
+  },
+  {
+    "full_name": "Mebus/cupp",
+    "url": "https://github.com/Mebus/cupp",
+    "description": "Common User Passwords Profiler (CUPP)",
+    "date_added": "2026-06-30"
+  },
+  {
+    "full_name": "google/agents-cli",
+    "url": "https://github.com/google/agents-cli",
+    "description": "The CLI and skills that turn any coding assistant into an expert at creating, evaluating, and deploying AI agents on Google Cloud.",
+    "date_added": "2026-06-30"
+  },
+  {
+    "full_name": "roboflow/supervision",
+    "url": "https://github.com/roboflow/supervision",
+    "description": "We write your reusable computer vision tools. 💜",
+    "date_added": "2026-06-30"
   }
 ]
