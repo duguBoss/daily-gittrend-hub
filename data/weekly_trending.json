@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "sponsors/calesthio",
-    "url": "https://github.com/sponsors/calesthio",
-    "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
-    "date_added": "2026-06-24"
-  },
-  {
-    "full_name": "apple/container",
-    "url": "https://github.com/apple/container",
-    "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
-    "date_added": "2026-06-24"
-  },
-  {
-    "full_name": "interviewstreet/hiring-agent",
-    "url": "https://github.com/interviewstreet/hiring-agent",
-    "description": "AI agent to evaluate and score resumes.",
-    "date_added": "2026-06-24"
-  },
-  {
-    "full_name": "flutter/flutter",
-    "url": "https://github.com/flutter/flutter",
-    "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
-    "date_added": "2026-06-24"
-  },
-  {
-    "full_name": "andreknieriem/headunit-revived",
-    "url": "https://github.com/andreknieriem/headunit-revived",
-    "description": "Headunit App for displaying Android Auto",
-    "date_added": "2026-06-24"
-  },
-  {
     "full_name": "google-labs-code/design.md",
     "url": "https://github.com/google-labs-code/design.md",
     "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
@@ -208,5 +178,35 @@
     "url": "https://github.com/roboflow/supervision",
     "description": "We write your reusable computer vision tools. 💜",
     "date_added": "2026-06-30"
+  },
+  {
+    "full_name": "hasaneyldrm/exercises-dataset",
+    "url": "https://github.com/hasaneyldrm/exercises-dataset",
+    "description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
+    "date_added": "2026-07-01"
+  },
+  {
+    "full_name": "facebook/astryx",
+    "url": "https://github.com/facebook/astryx",
+    "description": "An open source design system that's fully customizable and agent ready",
+    "date_added": "2026-07-01"
+  },
+  {
+    "full_name": "allenai/olmocr",
+    "url": "https://github.com/allenai/olmocr",
+    "description": "Toolkit for linearizing PDFs for LLM datasets/training",
+    "date_added": "2026-07-01"
+  },
+  {
+    "full_name": "togatoga/karukan",
+    "url": "https://github.com/togatoga/karukan",
+    "description": "Japanese Input Method System for Linux, macOS, Neural Kana-Kanji Conversion Engine",
+    "date_added": "2026-07-01"
+  },
+  {
+    "full_name": "microsoft/AI-For-Beginners",
+    "url": "https://github.com/microsoft/AI-For-Beginners",
+    "description": "12 Weeks, 24 Lessons, AI for All!",
+    "date_added": "2026-07-01"
   }
 ]

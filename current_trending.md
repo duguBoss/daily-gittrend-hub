@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-06-30)
+# GitHub Trending (Added at: 2026-07-01)
 
-### [usestrix/strix](https://github.com/usestrix/strix)
-- Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
+### [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset)
+- A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.
 
-### [sponsors/diegosouzapw](https://github.com/sponsors/diegosouzapw)
-- Never stop coding. Free AI gateway: one endpoint, 160+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.
+### [facebook/astryx](https://github.com/facebook/astryx)
+- An open source design system that's fully customizable and agent ready
 
-### [Mebus/cupp](https://github.com/Mebus/cupp)
-- Common User Passwords Profiler (CUPP)
+### [allenai/olmocr](https://github.com/allenai/olmocr)
+- Toolkit for linearizing PDFs for LLM datasets/training
 
-### [google/agents-cli](https://github.com/google/agents-cli)
-- The CLI and skills that turn any coding assistant into an expert at creating, evaluating, and deploying AI agents on Google Cloud.
+### [togatoga/karukan](https://github.com/togatoga/karukan)
+- Japanese Input Method System for Linux, macOS, Neural Kana-Kanji Conversion Engine
 
-### [roboflow/supervision](https://github.com/roboflow/supervision)
-- We write your reusable computer vision tools. 💜
+### [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)
+- 12 Weeks, 24 Lessons, AI for All!
 
