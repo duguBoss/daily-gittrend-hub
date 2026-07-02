@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-07-01)
+# GitHub Trending (Added at: 2026-07-02)
 
-### [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset)
-- A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.
+### [sponsors/JuliusBrussee](https://github.com/sponsors/JuliusBrussee)
+- 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 
-### [facebook/astryx](https://github.com/facebook/astryx)
-- An open source design system that's fully customizable and agent ready
+### [sponsors/santifer](https://github.com/sponsors/santifer)
+- AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
 
-### [allenai/olmocr](https://github.com/allenai/olmocr)
-- Toolkit for linearizing PDFs for LLM datasets/training
+### [sponsors/obra](https://github.com/sponsors/obra)
+- An agentic skills framework & software development methodology that works.
 
-### [togatoga/karukan](https://github.com/togatoga/karukan)
-- Japanese Input Method System for Linux, macOS, Neural Kana-Kanji Conversion Engine
+### [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
+- Chrome DevTools for coding agents
 
-### [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)
-- 12 Weeks, 24 Lessons, AI for All!
+### [actions/checkout](https://github.com/actions/checkout)
+- Action for checking out a repo
 

@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "google-labs-code/design.md",
-    "url": "https://github.com/google-labs-code/design.md",
-    "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
-    "date_added": "2026-06-25"
-  },
-  {
-    "full_name": "xbtlin/ai-berkshire",
-    "url": "https://github.com/xbtlin/ai-berkshire",
-    "description": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.",
-    "date_added": "2026-06-25"
-  },
-  {
-    "full_name": "mauriceboe/TREK",
-    "url": "https://github.com/mauriceboe/TREK",
-    "description": "A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.",
-    "date_added": "2026-06-25"
-  },
-  {
-    "full_name": "aws/agent-toolkit-for-aws",
-    "url": "https://github.com/aws/agent-toolkit-for-aws",
-    "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
-    "date_added": "2026-06-25"
-  },
-  {
-    "full_name": "alibaba/page-agent",
-    "url": "https://github.com/alibaba/page-agent",
-    "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
-    "date_added": "2026-06-25"
-  },
-  {
     "full_name": "sponsors/simplex-chat",
     "url": "https://github.com/sponsors/simplex-chat",
     "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
@@ -208,5 +178,35 @@
     "url": "https://github.com/microsoft/AI-For-Beginners",
     "description": "12 Weeks, 24 Lessons, AI for All!",
     "date_added": "2026-07-01"
+  },
+  {
+    "full_name": "sponsors/JuliusBrussee",
+    "url": "https://github.com/sponsors/JuliusBrussee",
+    "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+    "date_added": "2026-07-02"
+  },
+  {
+    "full_name": "sponsors/santifer",
+    "url": "https://github.com/sponsors/santifer",
+    "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+    "date_added": "2026-07-02"
+  },
+  {
+    "full_name": "sponsors/obra",
+    "url": "https://github.com/sponsors/obra",
+    "description": "An agentic skills framework & software development methodology that works.",
+    "date_added": "2026-07-02"
+  },
+  {
+    "full_name": "ChromeDevTools/chrome-devtools-mcp",
+    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+    "description": "Chrome DevTools for coding agents",
+    "date_added": "2026-07-02"
+  },
+  {
+    "full_name": "actions/checkout",
+    "url": "https://github.com/actions/checkout",
+    "description": "Action for checking out a repo",
+    "date_added": "2026-07-02"
   }
 ]
