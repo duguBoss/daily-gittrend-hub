@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "opendatalab/MinerU",
-    "url": "https://github.com/opendatalab/MinerU",
-    "description": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
-    "date_added": "2026-06-27"
-  },
-  {
-    "full_name": "alchaincyf/zhangxuefeng-skill",
-    "url": "https://github.com/alchaincyf/zhangxuefeng-skill",
-    "description": "张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。",
-    "date_added": "2026-06-27"
-  },
-  {
-    "full_name": "sponsors/NanmiCoder",
-    "url": "https://github.com/sponsors/NanmiCoder",
-    "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
-    "date_added": "2026-06-27"
-  },
-  {
-    "full_name": "IceWhaleTech/CasaOS",
-    "url": "https://github.com/IceWhaleTech/CasaOS",
-    "description": "CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",
-    "date_added": "2026-06-27"
-  },
-  {
-    "full_name": "Panniantong/Agent-Reach",
-    "url": "https://github.com/Panniantong/Agent-Reach",
-    "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-    "date_added": "2026-06-27"
-  },
-  {
     "full_name": "Robbyant/lingbot-map",
     "url": "https://github.com/Robbyant/lingbot-map",
     "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
@@ -208,5 +178,35 @@
     "url": "https://github.com/harvard-edge/cs249r_book",
     "description": "Machine Learning Systems",
     "date_added": "2026-07-03"
+  },
+  {
+    "full_name": "alibaba/page-agent",
+    "url": "https://github.com/alibaba/page-agent",
+    "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+    "date_added": "2026-07-04"
+  },
+  {
+    "full_name": "sponsors/Zackriya-Solutions",
+    "url": "https://github.com/sponsors/Zackriya-Solutions",
+    "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
+    "date_added": "2026-07-04"
+  },
+  {
+    "full_name": "sponsors/asgeirtj",
+    "url": "https://github.com/sponsors/asgeirtj",
+    "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+    "date_added": "2026-07-04"
+  },
+  {
+    "full_name": "sponsors/ogulcancelik",
+    "url": "https://github.com/sponsors/ogulcancelik",
+    "description": "agent multiplexer that lives in your terminal.",
+    "date_added": "2026-07-04"
+  },
+  {
+    "full_name": "dotnet/skills",
+    "url": "https://github.com/dotnet/skills",
+    "description": "Repository for skills to assist AI coding agents with .NET and C#",
+    "date_added": "2026-07-04"
   }
 ]
