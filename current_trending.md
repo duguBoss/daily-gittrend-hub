@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-07-04)
+# GitHub Trending (Added at: 2026-07-05)
 
-### [alibaba/page-agent](https://github.com/alibaba/page-agent)
-- JavaScript in-page GUI agent. Control web interfaces with natural language.
+### [agentskills/agentskills](https://github.com/agentskills/agentskills)
+- Specification and documentation for Agent Skills
 
-### [sponsors/Zackriya-Solutions](https://github.com/sponsors/Zackriya-Solutions)
-- Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.
+### [immich-app/immich](https://github.com/immich-app/immich)
+- High performance self-hosted photo and video management solution.
 
-### [sponsors/asgeirtj](https://github.com/sponsors/asgeirtj)
-- Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.
+### [chthollyphile/folia-major](https://github.com/chthollyphile/folia-major)
+- 专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方网易云播放器
 
-### [sponsors/ogulcancelik](https://github.com/sponsors/ogulcancelik)
-- agent multiplexer that lives in your terminal.
+### [sponsors/mattpocock](https://github.com/sponsors/mattpocock)
+- Skills for Real Engineers. Straight from my .claude directory.
 
-### [dotnet/skills](https://github.com/dotnet/skills)
-- Repository for skills to assist AI coding agents with .NET and C#
+### [sponsors/CoplayDev](https://github.com/sponsors/CoplayDev)
+- Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity.
 

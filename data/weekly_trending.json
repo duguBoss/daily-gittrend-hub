@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "Robbyant/lingbot-map",
-    "url": "https://github.com/Robbyant/lingbot-map",
-    "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
-    "date_added": "2026-06-28"
-  },
-  {
-    "full_name": "DeusData/codebase-memory-mcp",
-    "url": "https://github.com/DeusData/codebase-memory-mcp",
-    "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
-    "date_added": "2026-06-28"
-  },
-  {
-    "full_name": "sponsors/cupy",
-    "url": "https://github.com/sponsors/cupy",
-    "description": "NumPy & SciPy for GPU",
-    "date_added": "2026-06-28"
-  },
-  {
-    "full_name": "sponsors/altic-dev",
-    "url": "https://github.com/sponsors/altic-dev",
-    "description": "FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :))",
-    "date_added": "2026-06-28"
-  },
-  {
-    "full_name": "HKUDS/Vibe-Trading",
-    "url": "https://github.com/HKUDS/Vibe-Trading",
-    "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
-    "date_added": "2026-06-28"
-  },
-  {
     "full_name": "sponsors/msitarzewski",
     "url": "https://github.com/sponsors/msitarzewski",
     "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
@@ -208,5 +178,35 @@
     "url": "https://github.com/dotnet/skills",
     "description": "Repository for skills to assist AI coding agents with .NET and C#",
     "date_added": "2026-07-04"
+  },
+  {
+    "full_name": "agentskills/agentskills",
+    "url": "https://github.com/agentskills/agentskills",
+    "description": "Specification and documentation for Agent Skills",
+    "date_added": "2026-07-05"
+  },
+  {
+    "full_name": "immich-app/immich",
+    "url": "https://github.com/immich-app/immich",
+    "description": "High performance self-hosted photo and video management solution.",
+    "date_added": "2026-07-05"
+  },
+  {
+    "full_name": "chthollyphile/folia-major",
+    "url": "https://github.com/chthollyphile/folia-major",
+    "description": "专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方网易云播放器",
+    "date_added": "2026-07-05"
+  },
+  {
+    "full_name": "sponsors/mattpocock",
+    "url": "https://github.com/sponsors/mattpocock",
+    "description": "Skills for Real Engineers. Straight from my .claude directory.",
+    "date_added": "2026-07-05"
+  },
+  {
+    "full_name": "sponsors/CoplayDev",
+    "url": "https://github.com/sponsors/CoplayDev",
+    "description": "Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity.",
+    "date_added": "2026-07-05"
   }
 ]
