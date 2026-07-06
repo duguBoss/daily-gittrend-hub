@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-07-05)
+# GitHub Trending (Added at: 2026-07-06)
 
-### [agentskills/agentskills](https://github.com/agentskills/agentskills)
-- Specification and documentation for Agent Skills
+### [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
+- Production-grade engineering skills for AI coding agents.
 
-### [immich-app/immich](https://github.com/immich-app/immich)
-- High performance self-hosted photo and video management solution.
+### [ruvnet/RuView](https://github.com/ruvnet/RuView)
+- π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 
-### [chthollyphile/folia-major](https://github.com/chthollyphile/folia-major)
-- 专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方网易云播放器
+### [sponsors/Leonxlnx](https://github.com/sponsors/Leonxlnx)
+- Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
 
-### [sponsors/mattpocock](https://github.com/sponsors/mattpocock)
-- Skills for Real Engineers. Straight from my .claude directory.
+### [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills)
+- 337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.
 
-### [sponsors/CoplayDev](https://github.com/sponsors/CoplayDev)
-- Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity.
+### [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)
+- AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 

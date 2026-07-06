@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "sponsors/msitarzewski",
-    "url": "https://github.com/sponsors/msitarzewski",
-    "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-    "date_added": "2026-06-29"
-  },
-  {
-    "full_name": "sponsors/soxoj",
-    "url": "https://github.com/sponsors/soxoj",
-    "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
-    "date_added": "2026-06-29"
-  },
-  {
-    "full_name": "sponsors/logto-io",
-    "url": "https://github.com/sponsors/logto-io",
-    "description": "🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.",
-    "date_added": "2026-06-29"
-  },
-  {
-    "full_name": "browser-use/video-use",
-    "url": "https://github.com/browser-use/video-use",
-    "description": "Edit videos with coding agents",
-    "date_added": "2026-06-29"
-  },
-  {
-    "full_name": "Unclecheng-li/VulnClaw",
-    "url": "https://github.com/Unclecheng-li/VulnClaw",
-    "description": "基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。",
-    "date_added": "2026-06-29"
-  },
-  {
     "full_name": "usestrix/strix",
     "url": "https://github.com/usestrix/strix",
     "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
@@ -208,5 +178,35 @@
     "url": "https://github.com/sponsors/CoplayDev",
     "description": "Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity.",
     "date_added": "2026-07-05"
+  },
+  {
+    "full_name": "addyosmani/agent-skills",
+    "url": "https://github.com/addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "date_added": "2026-07-06"
+  },
+  {
+    "full_name": "ruvnet/RuView",
+    "url": "https://github.com/ruvnet/RuView",
+    "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+    "date_added": "2026-07-06"
+  },
+  {
+    "full_name": "sponsors/Leonxlnx",
+    "url": "https://github.com/sponsors/Leonxlnx",
+    "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+    "date_added": "2026-07-06"
+  },
+  {
+    "full_name": "alirezarezvani/claude-skills",
+    "url": "https://github.com/alirezarezvani/claude-skills",
+    "description": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
+    "date_added": "2026-07-06"
+  },
+  {
+    "full_name": "mvanhorn/last30days-skill",
+    "url": "https://github.com/mvanhorn/last30days-skill",
+    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+    "date_added": "2026-07-06"
   }
 ]
