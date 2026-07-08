@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-07-07)
+# GitHub Trending (Added at: 2026-07-08)
 
-### [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)
-- AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.
+### [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)
+- TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.
 
-### [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox)
-- Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
+### [prisma/prisma](https://github.com/prisma/prisma)
+- Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 
-### [sponsors/AhmadIbrahiim](https://github.com/sponsors/AhmadIbrahiim)
-- 💡 Download the complete source code of any website (including all assets). [ Javascripts, Stylesheets, Images ] using Node.js
+### [argoproj/argo-cd](https://github.com/argoproj/argo-cd)
+- Declarative Continuous Deployment for Kubernetes
 
-### [sponsors/steipete](https://github.com/sponsors/steipete)
-- Show usage stats for OpenAI Codex and Claude Code, without having to login.
+### [alibaba/zvec](https://github.com/alibaba/zvec)
+- A lightweight, lightning-fast, in-process vector database
 
-### [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI)
-- OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.
+### [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP)
+- A Patch for GIMP 3+ for Photoshop Users
 
