@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "sponsors/JuliusBrussee",
-    "url": "https://github.com/sponsors/JuliusBrussee",
-    "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
-    "date_added": "2026-07-02"
-  },
-  {
-    "full_name": "sponsors/santifer",
-    "url": "https://github.com/sponsors/santifer",
-    "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
-    "date_added": "2026-07-02"
-  },
-  {
-    "full_name": "sponsors/obra",
-    "url": "https://github.com/sponsors/obra",
-    "description": "An agentic skills framework & software development methodology that works.",
-    "date_added": "2026-07-02"
-  },
-  {
-    "full_name": "ChromeDevTools/chrome-devtools-mcp",
-    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-    "description": "Chrome DevTools for coding agents",
-    "date_added": "2026-07-02"
-  },
-  {
-    "full_name": "actions/checkout",
-    "url": "https://github.com/actions/checkout",
-    "description": "Action for checking out a repo",
-    "date_added": "2026-07-02"
-  },
-  {
     "full_name": "openai/codex-plugin-cc",
     "url": "https://github.com/openai/codex-plugin-cc",
     "description": "Use Codex from Claude Code to review code or delegate tasks.",
@@ -208,5 +178,35 @@
     "url": "https://github.com/Diolinux/PhotoGIMP",
     "description": "A Patch for GIMP 3+ for Photoshop Users",
     "date_added": "2026-07-08"
+  },
+  {
+    "full_name": "SmartlyDressedGames/U3-SDK",
+    "url": "https://github.com/SmartlyDressedGames/U3-SDK",
+    "description": "Source code for Unturned, a free open-world zombie survival sandbox game.",
+    "date_added": "2026-07-09"
+  },
+  {
+    "full_name": "sponsors/VoltAgent",
+    "url": "https://github.com/sponsors/VoltAgent",
+    "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+    "date_added": "2026-07-09"
+  },
+  {
+    "full_name": "sponsors/wonderwhy-er",
+    "url": "https://github.com/sponsors/wonderwhy-er",
+    "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+    "date_added": "2026-07-09"
+  },
+  {
+    "full_name": "anthropics/claude-cookbooks",
+    "url": "https://github.com/anthropics/claude-cookbooks",
+    "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+    "date_added": "2026-07-09"
+  },
+  {
+    "full_name": "vxcontrol/pentagi",
+    "url": "https://github.com/vxcontrol/pentagi",
+    "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+    "date_added": "2026-07-09"
   }
 ]

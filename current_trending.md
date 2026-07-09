@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-07-08)
+# GitHub Trending (Added at: 2026-07-09)
 
-### [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)
-- TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.
+### [SmartlyDressedGames/U3-SDK](https://github.com/SmartlyDressedGames/U3-SDK)
+- Source code for Unturned, a free open-world zombie survival sandbox game.
 
-### [prisma/prisma](https://github.com/prisma/prisma)
-- Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
+### [sponsors/VoltAgent](https://github.com/sponsors/VoltAgent)
+- A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
 
-### [argoproj/argo-cd](https://github.com/argoproj/argo-cd)
-- Declarative Continuous Deployment for Kubernetes
+### [sponsors/wonderwhy-er](https://github.com/sponsors/wonderwhy-er)
+- This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
 
-### [alibaba/zvec](https://github.com/alibaba/zvec)
-- A lightweight, lightning-fast, in-process vector database
+### [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks)
+- A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
 
-### [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP)
-- A Patch for GIMP 3+ for Photoshop Users
+### [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi)
+- Fully autonomous AI Agents system capable of performing complex penetration testing tasks
 
