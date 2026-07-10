@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-07-09)
+# GitHub Trending (Added at: 2026-07-10)
 
-### [SmartlyDressedGames/U3-SDK](https://github.com/SmartlyDressedGames/U3-SDK)
-- Source code for Unturned, a free open-world zombie survival sandbox game.
+### [oven-sh/bun](https://github.com/oven-sh/bun)
+- Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
-### [sponsors/VoltAgent](https://github.com/sponsors/VoltAgent)
-- A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
+### [abseil/abseil-cpp](https://github.com/abseil/abseil-cpp)
+- Abseil Common Libraries (C++)
 
-### [sponsors/wonderwhy-er](https://github.com/sponsors/wonderwhy-er)
-- This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
+### [jbeder/yaml-cpp](https://github.com/jbeder/yaml-cpp)
+- A YAML parser and emitter in C++
 
-### [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks)
-- A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
+### [sponsors/obra](https://github.com/sponsors/obra)
+- An agentic skills framework & software development methodology that works.
 
-### [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi)
-- Fully autonomous AI Agents system capable of performing complex penetration testing tasks
+### [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
+- TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 
