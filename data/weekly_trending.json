@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "alibaba/page-agent",
-    "url": "https://github.com/alibaba/page-agent",
-    "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
-    "date_added": "2026-07-04"
-  },
-  {
-    "full_name": "sponsors/Zackriya-Solutions",
-    "url": "https://github.com/sponsors/Zackriya-Solutions",
-    "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
-    "date_added": "2026-07-04"
-  },
-  {
-    "full_name": "sponsors/asgeirtj",
-    "url": "https://github.com/sponsors/asgeirtj",
-    "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
-    "date_added": "2026-07-04"
-  },
-  {
-    "full_name": "sponsors/ogulcancelik",
-    "url": "https://github.com/sponsors/ogulcancelik",
-    "description": "agent multiplexer that lives in your terminal.",
-    "date_added": "2026-07-04"
-  },
-  {
-    "full_name": "dotnet/skills",
-    "url": "https://github.com/dotnet/skills",
-    "description": "Repository for skills to assist AI coding agents with .NET and C#",
-    "date_added": "2026-07-04"
-  },
-  {
     "full_name": "agentskills/agentskills",
     "url": "https://github.com/agentskills/agentskills",
     "description": "Specification and documentation for Agent Skills",
@@ -208,5 +178,35 @@
     "url": "https://github.com/microsoft/TypeScript",
     "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
     "date_added": "2026-07-10"
+  },
+  {
+    "full_name": "catchorg/Catch2",
+    "url": "https://github.com/catchorg/Catch2",
+    "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+    "date_added": "2026-07-11"
+  },
+  {
+    "full_name": "chriskohlhoff/asio",
+    "url": "https://github.com/chriskohlhoff/asio",
+    "description": "Asio C++ Library",
+    "date_added": "2026-07-11"
+  },
+  {
+    "full_name": "davila7/claude-code-templates",
+    "url": "https://github.com/davila7/claude-code-templates",
+    "description": "CLI tool for configuring and monitoring Claude Code",
+    "date_added": "2026-07-11"
+  },
+  {
+    "full_name": "zeux/meshoptimizer",
+    "url": "https://github.com/zeux/meshoptimizer",
+    "description": "Mesh optimization library that makes meshes smaller and faster to render",
+    "date_added": "2026-07-11"
+  },
+  {
+    "full_name": "tailscale/tailscale",
+    "url": "https://github.com/tailscale/tailscale",
+    "description": "The easiest, most secure way to use WireGuard and 2FA.",
+    "date_added": "2026-07-11"
   }
 ]
