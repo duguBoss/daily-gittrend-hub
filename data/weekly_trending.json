@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "agentskills/agentskills",
-    "url": "https://github.com/agentskills/agentskills",
-    "description": "Specification and documentation for Agent Skills",
-    "date_added": "2026-07-05"
-  },
-  {
-    "full_name": "immich-app/immich",
-    "url": "https://github.com/immich-app/immich",
-    "description": "High performance self-hosted photo and video management solution.",
-    "date_added": "2026-07-05"
-  },
-  {
-    "full_name": "chthollyphile/folia-major",
-    "url": "https://github.com/chthollyphile/folia-major",
-    "description": "专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方网易云播放器",
-    "date_added": "2026-07-05"
-  },
-  {
-    "full_name": "sponsors/mattpocock",
-    "url": "https://github.com/sponsors/mattpocock",
-    "description": "Skills for Real Engineers. Straight from my .claude directory.",
-    "date_added": "2026-07-05"
-  },
-  {
-    "full_name": "sponsors/CoplayDev",
-    "url": "https://github.com/sponsors/CoplayDev",
-    "description": "Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity.",
-    "date_added": "2026-07-05"
-  },
-  {
     "full_name": "addyosmani/agent-skills",
     "url": "https://github.com/addyosmani/agent-skills",
     "description": "Production-grade engineering skills for AI coding agents.",
@@ -208,5 +178,35 @@
     "url": "https://github.com/tailscale/tailscale",
     "description": "The easiest, most secure way to use WireGuard and 2FA.",
     "date_added": "2026-07-11"
+  },
+  {
+    "full_name": "google-labs-code/stitch-skills",
+    "url": "https://github.com/google-labs-code/stitch-skills",
+    "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+    "date_added": "2026-07-12"
+  },
+  {
+    "full_name": "hashicorp/terraform",
+    "url": "https://github.com/hashicorp/terraform",
+    "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+    "date_added": "2026-07-12"
+  },
+  {
+    "full_name": "openai/plugins",
+    "url": "https://github.com/openai/plugins",
+    "description": "OpenAI Plugins",
+    "date_added": "2026-07-12"
+  },
+  {
+    "full_name": "actions/checkout",
+    "url": "https://github.com/actions/checkout",
+    "description": "Action for checking out a repo",
+    "date_added": "2026-07-12"
+  },
+  {
+    "full_name": "home-assistant/core",
+    "url": "https://github.com/home-assistant/core",
+    "description": "🏡 Open source home automation that puts local control and privacy first.",
+    "date_added": "2026-07-12"
   }
 ]

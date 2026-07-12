@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-07-11)
+# GitHub Trending (Added at: 2026-07-12)
 
-### [catchorg/Catch2](https://github.com/catchorg/Catch2)
-- A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)
+### [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills)
+- A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.
 
-### [chriskohlhoff/asio](https://github.com/chriskohlhoff/asio)
-- Asio C++ Library
+### [hashicorp/terraform](https://github.com/hashicorp/terraform)
+- Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 
-### [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates)
-- CLI tool for configuring and monitoring Claude Code
+### [openai/plugins](https://github.com/openai/plugins)
+- OpenAI Plugins
 
-### [zeux/meshoptimizer](https://github.com/zeux/meshoptimizer)
-- Mesh optimization library that makes meshes smaller and faster to render
+### [actions/checkout](https://github.com/actions/checkout)
+- Action for checking out a repo
 
-### [tailscale/tailscale](https://github.com/tailscale/tailscale)
-- The easiest, most secure way to use WireGuard and 2FA.
+### [home-assistant/core](https://github.com/home-assistant/core)
+- 🏡 Open source home automation that puts local control and privacy first.
 
