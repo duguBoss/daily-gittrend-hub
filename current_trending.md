@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-07-12)
+# GitHub Trending (Added at: 2026-07-13)
 
-### [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills)
-- A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.
+### [sponsors/OpenCut-app](https://github.com/sponsors/OpenCut-app)
+- The open-source CapCut alternative
 
-### [hashicorp/terraform](https://github.com/hashicorp/terraform)
-- Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+### [sponsors/Dicklesworthstone](https://github.com/sponsors/Dicklesworthstone)
+- The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.
 
-### [openai/plugins](https://github.com/openai/plugins)
-- OpenAI Plugins
+### [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading)
+- "Vibe-Trading: Your Personal Trading Agent"
 
-### [actions/checkout](https://github.com/actions/checkout)
-- Action for checking out a repo
+### [moeru-ai/airi](https://github.com/moeru-ai/airi)
+- 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
 
-### [home-assistant/core](https://github.com/home-assistant/core)
-- 🏡 Open source home automation that puts local control and privacy first.
+### [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
+- 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
 

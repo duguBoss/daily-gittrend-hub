@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "addyosmani/agent-skills",
-    "url": "https://github.com/addyosmani/agent-skills",
-    "description": "Production-grade engineering skills for AI coding agents.",
-    "date_added": "2026-07-06"
-  },
-  {
-    "full_name": "ruvnet/RuView",
-    "url": "https://github.com/ruvnet/RuView",
-    "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-    "date_added": "2026-07-06"
-  },
-  {
-    "full_name": "sponsors/Leonxlnx",
-    "url": "https://github.com/sponsors/Leonxlnx",
-    "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
-    "date_added": "2026-07-06"
-  },
-  {
-    "full_name": "alirezarezvani/claude-skills",
-    "url": "https://github.com/alirezarezvani/claude-skills",
-    "description": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
-    "date_added": "2026-07-06"
-  },
-  {
-    "full_name": "mvanhorn/last30days-skill",
-    "url": "https://github.com/mvanhorn/last30days-skill",
-    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-    "date_added": "2026-07-06"
-  },
-  {
     "full_name": "MadsLorentzen/ai-job-search",
     "url": "https://github.com/MadsLorentzen/ai-job-search",
     "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
@@ -208,5 +178,35 @@
     "url": "https://github.com/home-assistant/core",
     "description": "🏡 Open source home automation that puts local control and privacy first.",
     "date_added": "2026-07-12"
+  },
+  {
+    "full_name": "sponsors/OpenCut-app",
+    "url": "https://github.com/sponsors/OpenCut-app",
+    "description": "The open-source CapCut alternative",
+    "date_added": "2026-07-13"
+  },
+  {
+    "full_name": "sponsors/Dicklesworthstone",
+    "url": "https://github.com/sponsors/Dicklesworthstone",
+    "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
+    "date_added": "2026-07-13"
+  },
+  {
+    "full_name": "HKUDS/Vibe-Trading",
+    "url": "https://github.com/HKUDS/Vibe-Trading",
+    "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+    "date_added": "2026-07-13"
+  },
+  {
+    "full_name": "moeru-ai/airi",
+    "url": "https://github.com/moeru-ai/airi",
+    "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+    "date_added": "2026-07-13"
+  },
+  {
+    "full_name": "Shubhamsaboo/awesome-llm-apps",
+    "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+    "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+    "date_added": "2026-07-13"
   }
 ]
