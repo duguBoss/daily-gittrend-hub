@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-07-13)
+# GitHub Trending (Added at: 2026-07-14)
 
-### [sponsors/OpenCut-app](https://github.com/sponsors/OpenCut-app)
-- The open-source CapCut alternative
+### [Nutlope/hallmark](https://github.com/Nutlope/hallmark)
+- Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
 
-### [sponsors/Dicklesworthstone](https://github.com/sponsors/Dicklesworthstone)
-- The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.
+### [sponsors/Raphire](https://github.com/sponsors/Raphire)
+- A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
 
-### [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading)
-- "Vibe-Trading: Your Personal Trading Agent"
+### [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)
+- AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.
 
-### [moeru-ai/airi](https://github.com/moeru-ai/airi)
-- 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
+### [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset)
+- 1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.
 
-### [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
-- 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
+### [github/spec-kit](https://github.com/github/spec-kit)
+- 💫 Toolkit to help you get started with Spec-Driven Development
 
