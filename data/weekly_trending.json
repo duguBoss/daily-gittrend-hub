@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "TencentCloud/TencentDB-Agent-Memory",
-    "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-    "description": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
-    "date_added": "2026-07-08"
-  },
-  {
-    "full_name": "prisma/prisma",
-    "url": "https://github.com/prisma/prisma",
-    "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
-    "date_added": "2026-07-08"
-  },
-  {
-    "full_name": "argoproj/argo-cd",
-    "url": "https://github.com/argoproj/argo-cd",
-    "description": "Declarative Continuous Deployment for Kubernetes",
-    "date_added": "2026-07-08"
-  },
-  {
-    "full_name": "alibaba/zvec",
-    "url": "https://github.com/alibaba/zvec",
-    "description": "A lightweight, lightning-fast, in-process vector database",
-    "date_added": "2026-07-08"
-  },
-  {
-    "full_name": "Diolinux/PhotoGIMP",
-    "url": "https://github.com/Diolinux/PhotoGIMP",
-    "description": "A Patch for GIMP 3+ for Photoshop Users",
-    "date_added": "2026-07-08"
-  },
-  {
     "full_name": "SmartlyDressedGames/U3-SDK",
     "url": "https://github.com/SmartlyDressedGames/U3-SDK",
     "description": "Source code for Unturned, a free open-world zombie survival sandbox game.",
@@ -208,5 +178,35 @@
     "url": "https://github.com/github/spec-kit",
     "description": "💫 Toolkit to help you get started with Spec-Driven Development",
     "date_added": "2026-07-14"
+  },
+  {
+    "full_name": "1c7/chinese-independent-developer",
+    "url": "https://github.com/1c7/chinese-independent-developer",
+    "description": "👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么",
+    "date_added": "2026-07-15"
+  },
+  {
+    "full_name": "sponsors/mattpocock",
+    "url": "https://github.com/sponsors/mattpocock",
+    "description": "Skills for Real Engineers. Straight from my .claude directory.",
+    "date_added": "2026-07-15"
+  },
+  {
+    "full_name": "virattt/ai-hedge-fund",
+    "url": "https://github.com/virattt/ai-hedge-fund",
+    "description": "An AI Hedge Fund Team",
+    "date_added": "2026-07-15"
+  },
+  {
+    "full_name": "penpot/penpot",
+    "url": "https://github.com/penpot/penpot",
+    "description": "Penpot: The open-source design platform for Product teams that need scalable collaboration.",
+    "date_added": "2026-07-15"
+  },
+  {
+    "full_name": "AIEraDev/Clypra",
+    "url": "https://github.com/AIEraDev/Clypra",
+    "description": "A modern video editor built with Tauri, React, and TypeScript. Focus on building free capabilities of premium capcut functionalities",
+    "date_added": "2026-07-15"
   }
 ]
