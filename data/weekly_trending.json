@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "SmartlyDressedGames/U3-SDK",
-    "url": "https://github.com/SmartlyDressedGames/U3-SDK",
-    "description": "Source code for Unturned, a free open-world zombie survival sandbox game.",
-    "date_added": "2026-07-09"
-  },
-  {
-    "full_name": "sponsors/VoltAgent",
-    "url": "https://github.com/sponsors/VoltAgent",
-    "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
-    "date_added": "2026-07-09"
-  },
-  {
-    "full_name": "sponsors/wonderwhy-er",
-    "url": "https://github.com/sponsors/wonderwhy-er",
-    "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
-    "date_added": "2026-07-09"
-  },
-  {
-    "full_name": "anthropics/claude-cookbooks",
-    "url": "https://github.com/anthropics/claude-cookbooks",
-    "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
-    "date_added": "2026-07-09"
-  },
-  {
-    "full_name": "vxcontrol/pentagi",
-    "url": "https://github.com/vxcontrol/pentagi",
-    "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
-    "date_added": "2026-07-09"
-  },
-  {
     "full_name": "oven-sh/bun",
     "url": "https://github.com/oven-sh/bun",
     "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
@@ -208,5 +178,35 @@
     "url": "https://github.com/AIEraDev/Clypra",
     "description": "A modern video editor built with Tauri, React, and TypeScript. Focus on building free capabilities of premium capcut functionalities",
     "date_added": "2026-07-15"
+  },
+  {
+    "full_name": "apache/ossie",
+    "url": "https://github.com/apache/ossie",
+    "description": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data",
+    "date_added": "2026-07-16"
+  },
+  {
+    "full_name": "PostHog/posthog",
+    "url": "https://github.com/PostHog/posthog",
+    "description": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.",
+    "date_added": "2026-07-16"
+  },
+  {
+    "full_name": "openinterpreter/openinterpreter",
+    "url": "https://github.com/openinterpreter/openinterpreter",
+    "description": "A coding agent for low-cost models",
+    "date_added": "2026-07-16"
+  },
+  {
+    "full_name": "PrismML-Eng/Bonsai-demo",
+    "url": "https://github.com/PrismML-Eng/Bonsai-demo",
+    "description": "Bonsai Demo",
+    "date_added": "2026-07-16"
+  },
+  {
+    "full_name": "sponsors/lobehub",
+    "url": "https://github.com/sponsors/lobehub",
+    "description": "🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.",
+    "date_added": "2026-07-16"
   }
 ]

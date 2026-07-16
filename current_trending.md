@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-07-15)
+# GitHub Trending (Added at: 2026-07-16)
 
-### [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer)
-- 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
+### [apache/ossie](https://github.com/apache/ossie)
+- Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data
 
-### [sponsors/mattpocock](https://github.com/sponsors/mattpocock)
-- Skills for Real Engineers. Straight from my .claude directory.
+### [PostHog/posthog](https://github.com/PostHog/posthog)
+- 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.
 
-### [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)
-- An AI Hedge Fund Team
+### [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter)
+- A coding agent for low-cost models
 
-### [penpot/penpot](https://github.com/penpot/penpot)
-- Penpot: The open-source design platform for Product teams that need scalable collaboration.
+### [PrismML-Eng/Bonsai-demo](https://github.com/PrismML-Eng/Bonsai-demo)
+- Bonsai Demo
 
-### [AIEraDev/Clypra](https://github.com/AIEraDev/Clypra)
-- A modern video editor built with Tauri, React, and TypeScript. Focus on building free capabilities of premium capcut functionalities
+### [sponsors/lobehub](https://github.com/sponsors/lobehub)
+- 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 
