@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "oven-sh/bun",
-    "url": "https://github.com/oven-sh/bun",
-    "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
-    "date_added": "2026-07-10"
-  },
-  {
-    "full_name": "abseil/abseil-cpp",
-    "url": "https://github.com/abseil/abseil-cpp",
-    "description": "Abseil Common Libraries (C++)",
-    "date_added": "2026-07-10"
-  },
-  {
-    "full_name": "jbeder/yaml-cpp",
-    "url": "https://github.com/jbeder/yaml-cpp",
-    "description": "A YAML parser and emitter in C++",
-    "date_added": "2026-07-10"
-  },
-  {
-    "full_name": "sponsors/obra",
-    "url": "https://github.com/sponsors/obra",
-    "description": "An agentic skills framework & software development methodology that works.",
-    "date_added": "2026-07-10"
-  },
-  {
-    "full_name": "microsoft/TypeScript",
-    "url": "https://github.com/microsoft/TypeScript",
-    "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
-    "date_added": "2026-07-10"
-  },
-  {
     "full_name": "catchorg/Catch2",
     "url": "https://github.com/catchorg/Catch2",
     "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
@@ -208,5 +178,35 @@
     "url": "https://github.com/sponsors/lobehub",
     "description": "🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.",
     "date_added": "2026-07-16"
+  },
+  {
+    "full_name": "YimMenu/YimMenuV2",
+    "url": "https://github.com/YimMenu/YimMenuV2",
+    "description": "Experimental menu for GTA 5: Enhanced",
+    "date_added": "2026-07-17"
+  },
+  {
+    "full_name": "HKUDS/DeepTutor",
+    "url": "https://github.com/HKUDS/DeepTutor",
+    "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+    "date_added": "2026-07-17"
+  },
+  {
+    "full_name": "github/copilot-sdk",
+    "url": "https://github.com/github/copilot-sdk",
+    "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+    "date_added": "2026-07-17"
+  },
+  {
+    "full_name": "sponsors/ibelick",
+    "url": "https://github.com/sponsors/ibelick",
+    "description": "Skills for Design Engineers",
+    "date_added": "2026-07-17"
+  },
+  {
+    "full_name": "codecrafters-io/build-your-own-x",
+    "url": "https://github.com/codecrafters-io/build-your-own-x",
+    "description": "Master programming by recreating your favorite technologies from scratch.",
+    "date_added": "2026-07-17"
   }
 ]
