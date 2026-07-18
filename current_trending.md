@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-07-17)
+# GitHub Trending (Added at: 2026-07-18)
 
-### [YimMenu/YimMenuV2](https://github.com/YimMenu/YimMenuV2)
-- Experimental menu for GTA 5: Enhanced
+### [sponsors/HenryNdubuaku](https://github.com/sponsors/HenryNdubuaku)
+- Become a cracked AI/ML Research Engineer
 
-### [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)
-- DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
+### [anthropics/cwc-workshops](https://github.com/anthropics/cwc-workshops)
+- 
 
-### [github/copilot-sdk](https://github.com/github/copilot-sdk)
-- Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
+### [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf)
+- Protocol Buffers - Google's data interchange format
 
-### [sponsors/ibelick](https://github.com/sponsors/ibelick)
-- Skills for Design Engineers
+### [sponsors/tirth8205](https://github.com/sponsors/tirth8205)
+- Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.
 
-### [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
-- Master programming by recreating your favorite technologies from scratch.
+### [docusealco/docuseal](https://github.com/docusealco/docuseal)
+- Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
 

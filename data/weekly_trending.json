@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "catchorg/Catch2",
-    "url": "https://github.com/catchorg/Catch2",
-    "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
-    "date_added": "2026-07-11"
-  },
-  {
-    "full_name": "chriskohlhoff/asio",
-    "url": "https://github.com/chriskohlhoff/asio",
-    "description": "Asio C++ Library",
-    "date_added": "2026-07-11"
-  },
-  {
-    "full_name": "davila7/claude-code-templates",
-    "url": "https://github.com/davila7/claude-code-templates",
-    "description": "CLI tool for configuring and monitoring Claude Code",
-    "date_added": "2026-07-11"
-  },
-  {
-    "full_name": "zeux/meshoptimizer",
-    "url": "https://github.com/zeux/meshoptimizer",
-    "description": "Mesh optimization library that makes meshes smaller and faster to render",
-    "date_added": "2026-07-11"
-  },
-  {
-    "full_name": "tailscale/tailscale",
-    "url": "https://github.com/tailscale/tailscale",
-    "description": "The easiest, most secure way to use WireGuard and 2FA.",
-    "date_added": "2026-07-11"
-  },
-  {
     "full_name": "google-labs-code/stitch-skills",
     "url": "https://github.com/google-labs-code/stitch-skills",
     "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
@@ -208,5 +178,35 @@
     "url": "https://github.com/codecrafters-io/build-your-own-x",
     "description": "Master programming by recreating your favorite technologies from scratch.",
     "date_added": "2026-07-17"
+  },
+  {
+    "full_name": "sponsors/HenryNdubuaku",
+    "url": "https://github.com/sponsors/HenryNdubuaku",
+    "description": "Become a cracked AI/ML Research Engineer",
+    "date_added": "2026-07-18"
+  },
+  {
+    "full_name": "anthropics/cwc-workshops",
+    "url": "https://github.com/anthropics/cwc-workshops",
+    "description": "",
+    "date_added": "2026-07-18"
+  },
+  {
+    "full_name": "protocolbuffers/protobuf",
+    "url": "https://github.com/protocolbuffers/protobuf",
+    "description": "Protocol Buffers - Google's data interchange format",
+    "date_added": "2026-07-18"
+  },
+  {
+    "full_name": "sponsors/tirth8205",
+    "url": "https://github.com/sponsors/tirth8205",
+    "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+    "date_added": "2026-07-18"
+  },
+  {
+    "full_name": "docusealco/docuseal",
+    "url": "https://github.com/docusealco/docuseal",
+    "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
+    "date_added": "2026-07-18"
   }
 ]
