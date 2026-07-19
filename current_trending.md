@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-07-18)
+# GitHub Trending (Added at: 2026-07-19)
 
-### [sponsors/HenryNdubuaku](https://github.com/sponsors/HenryNdubuaku)
-- Become a cracked AI/ML Research Engineer
+### [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map)
+- A feed-forward 3D foundation model for reconstructing scenes from streaming data
 
-### [anthropics/cwc-workshops](https://github.com/anthropics/cwc-workshops)
-- 
+### [sponsors/rohitg00](https://github.com/sponsors/rohitg00)
+- Learn it. Build it. Ship it for others.
 
-### [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf)
-- Protocol Buffers - Google's data interchange format
+### [elder-plinius/G0DM0D3](https://github.com/elder-plinius/G0DM0D3)
+- LIBERATED AI CHAT
 
-### [sponsors/tirth8205](https://github.com/sponsors/tirth8205)
-- Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.
+### [sponsors/lyogavin](https://github.com/sponsors/lyogavin)
+- AirLLM 70B inference with single 4GB GPU
 
-### [docusealco/docuseal](https://github.com/docusealco/docuseal)
-- Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
+### [KnockOutEZ/wigolo](https://github.com/KnockOutEZ/wigolo)
+- The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.
 

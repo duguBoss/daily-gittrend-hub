@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "google-labs-code/stitch-skills",
-    "url": "https://github.com/google-labs-code/stitch-skills",
-    "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
-    "date_added": "2026-07-12"
-  },
-  {
-    "full_name": "hashicorp/terraform",
-    "url": "https://github.com/hashicorp/terraform",
-    "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
-    "date_added": "2026-07-12"
-  },
-  {
-    "full_name": "openai/plugins",
-    "url": "https://github.com/openai/plugins",
-    "description": "OpenAI Plugins",
-    "date_added": "2026-07-12"
-  },
-  {
-    "full_name": "actions/checkout",
-    "url": "https://github.com/actions/checkout",
-    "description": "Action for checking out a repo",
-    "date_added": "2026-07-12"
-  },
-  {
-    "full_name": "home-assistant/core",
-    "url": "https://github.com/home-assistant/core",
-    "description": "🏡 Open source home automation that puts local control and privacy first.",
-    "date_added": "2026-07-12"
-  },
-  {
     "full_name": "sponsors/OpenCut-app",
     "url": "https://github.com/sponsors/OpenCut-app",
     "description": "The open-source CapCut alternative",
@@ -208,5 +178,35 @@
     "url": "https://github.com/docusealco/docuseal",
     "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
     "date_added": "2026-07-18"
+  },
+  {
+    "full_name": "Robbyant/lingbot-map",
+    "url": "https://github.com/Robbyant/lingbot-map",
+    "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+    "date_added": "2026-07-19"
+  },
+  {
+    "full_name": "sponsors/rohitg00",
+    "url": "https://github.com/sponsors/rohitg00",
+    "description": "Learn it. Build it. Ship it for others.",
+    "date_added": "2026-07-19"
+  },
+  {
+    "full_name": "elder-plinius/G0DM0D3",
+    "url": "https://github.com/elder-plinius/G0DM0D3",
+    "description": "LIBERATED AI CHAT",
+    "date_added": "2026-07-19"
+  },
+  {
+    "full_name": "sponsors/lyogavin",
+    "url": "https://github.com/sponsors/lyogavin",
+    "description": "AirLLM 70B inference with single 4GB GPU",
+    "date_added": "2026-07-19"
+  },
+  {
+    "full_name": "KnockOutEZ/wigolo",
+    "url": "https://github.com/KnockOutEZ/wigolo",
+    "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
+    "date_added": "2026-07-19"
   }
 ]
