@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-07-20)
+# GitHub Trending (Added at: 2026-07-21)
 
-### [1jehuang/jcode](https://github.com/1jehuang/jcode)
-- The most intelligent agent harness for code
+### [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book)
+- 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
 
-### [sponsors/diegosouzapw](https://github.com/sponsors/diegosouzapw)
-- Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Claude, GPT, Gemini, Kimi K3, GLM, DeepSeek. Works with Claude Code, Codex, Cursor, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, multimodal, Desktop/PWA. Built by 500+ contributors.
+### [sponsors/topoteretes](https://github.com/sponsors/topoteretes)
+- Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.
 
-### [sponsors/msitarzewski](https://github.com/sponsors/msitarzewski)
-- A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
+### [every-app/open-seo](https://github.com/every-app/open-seo)
+- Open source alternative to Semrush and Ahrefs
 
-### [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers)
-- A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations
+### [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli)
+- Kimi Code CLI is your next CLI agent.
 
-### [jamiepine/voicebox](https://github.com/jamiepine/voicebox)
-- The open-source AI voice studio. Clone, dictate, create.
+### [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot)
+- AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
 
