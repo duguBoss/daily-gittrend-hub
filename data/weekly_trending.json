@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "1c7/chinese-independent-developer",
-    "url": "https://github.com/1c7/chinese-independent-developer",
-    "description": "👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么",
-    "date_added": "2026-07-15"
-  },
-  {
-    "full_name": "sponsors/mattpocock",
-    "url": "https://github.com/sponsors/mattpocock",
-    "description": "Skills for Real Engineers. Straight from my .claude directory.",
-    "date_added": "2026-07-15"
-  },
-  {
-    "full_name": "virattt/ai-hedge-fund",
-    "url": "https://github.com/virattt/ai-hedge-fund",
-    "description": "An AI Hedge Fund Team",
-    "date_added": "2026-07-15"
-  },
-  {
-    "full_name": "penpot/penpot",
-    "url": "https://github.com/penpot/penpot",
-    "description": "Penpot: The open-source design platform for Product teams that need scalable collaboration.",
-    "date_added": "2026-07-15"
-  },
-  {
-    "full_name": "AIEraDev/Clypra",
-    "url": "https://github.com/AIEraDev/Clypra",
-    "description": "A modern video editor built with Tauri, React, and TypeScript. Focus on building free capabilities of premium capcut functionalities",
-    "date_added": "2026-07-15"
-  },
-  {
     "full_name": "apache/ossie",
     "url": "https://github.com/apache/ossie",
     "description": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data",
@@ -208,5 +178,35 @@
     "url": "https://github.com/AstrBotDevs/AstrBot",
     "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
     "date_added": "2026-07-21"
+  },
+  {
+    "full_name": "koala73/worldmonitor",
+    "url": "https://github.com/koala73/worldmonitor",
+    "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+    "date_added": "2026-07-22"
+  },
+  {
+    "full_name": "ruvnet/RuView",
+    "url": "https://github.com/ruvnet/RuView",
+    "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+    "date_added": "2026-07-22"
+  },
+  {
+    "full_name": "ayghri/i-have-adhd",
+    "url": "https://github.com/ayghri/i-have-adhd",
+    "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
+    "date_added": "2026-07-22"
+  },
+  {
+    "full_name": "sponsors/schollz",
+    "url": "https://github.com/sponsors/schollz",
+    "description": "Easily and securely send things from one computer to another 🐊 📦",
+    "date_added": "2026-07-22"
+  },
+  {
+    "full_name": "sponsors/likec4",
+    "url": "https://github.com/sponsors/likec4",
+    "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
+    "date_added": "2026-07-22"
   }
 ]

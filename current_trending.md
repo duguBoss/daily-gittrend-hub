@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-07-21)
+# GitHub Trending (Added at: 2026-07-22)
 
-### [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book)
-- 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
+### [koala73/worldmonitor](https://github.com/koala73/worldmonitor)
+- Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
 
-### [sponsors/topoteretes](https://github.com/sponsors/topoteretes)
-- Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.
+### [ruvnet/RuView](https://github.com/ruvnet/RuView)
+- π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 
-### [every-app/open-seo](https://github.com/every-app/open-seo)
-- Open source alternative to Semrush and Ahrefs
+### [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)
+- A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.
 
-### [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli)
-- Kimi Code CLI is your next CLI agent.
+### [sponsors/schollz](https://github.com/sponsors/schollz)
+- Easily and securely send things from one computer to another 🐊 📦
 
-### [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot)
-- AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
+### [sponsors/likec4](https://github.com/sponsors/likec4)
+- Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code
 
