@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-07-23)
+# GitHub Trending (Added at: 2026-07-24)
 
-### [block/buzz](https://github.com/block/buzz)
-- A hive mind communication platform
+### [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)
+- A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 
-### [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos)
-- Kronos: A Foundation Model for the Language of Financial Markets
-
-### [sponsors/Pumpkin-MC](https://github.com/sponsors/Pumpkin-MC)
+### [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin)
 - Empowering everyone to host fast and efficient Minecraft servers.
 
-### [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite)
-- The best browser for both you and your AI agents work in parallel.
+### [Automattic/harper](https://github.com/Automattic/harper)
+- Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 
-### [sponsors/chrislgarry](https://github.com/sponsors/chrislgarry)
-- Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
+### [yorukot/superfile](https://github.com/yorukot/superfile)
+- Pretty fancy and modern terminal file manager
+
+### [sponsors/CoreBunch](https://github.com/sponsors/CoreBunch)
+- Instatic is a modern self-hosted visual CMS - get it running in 1 minute
 

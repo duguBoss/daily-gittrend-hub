@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "YimMenu/YimMenuV2",
-    "url": "https://github.com/YimMenu/YimMenuV2",
-    "description": "Experimental menu for GTA 5: Enhanced",
-    "date_added": "2026-07-17"
-  },
-  {
-    "full_name": "HKUDS/DeepTutor",
-    "url": "https://github.com/HKUDS/DeepTutor",
-    "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
-    "date_added": "2026-07-17"
-  },
-  {
-    "full_name": "github/copilot-sdk",
-    "url": "https://github.com/github/copilot-sdk",
-    "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
-    "date_added": "2026-07-17"
-  },
-  {
-    "full_name": "sponsors/ibelick",
-    "url": "https://github.com/sponsors/ibelick",
-    "description": "Skills for Design Engineers",
-    "date_added": "2026-07-17"
-  },
-  {
-    "full_name": "codecrafters-io/build-your-own-x",
-    "url": "https://github.com/codecrafters-io/build-your-own-x",
-    "description": "Master programming by recreating your favorite technologies from scratch.",
-    "date_added": "2026-07-17"
-  },
-  {
     "full_name": "sponsors/HenryNdubuaku",
     "url": "https://github.com/sponsors/HenryNdubuaku",
     "description": "Become a cracked AI/ML Research Engineer",
@@ -208,5 +178,35 @@
     "url": "https://github.com/sponsors/chrislgarry",
     "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
     "date_added": "2026-07-23"
+  },
+  {
+    "full_name": "ComposioHQ/awesome-claude-skills",
+    "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+    "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+    "date_added": "2026-07-24"
+  },
+  {
+    "full_name": "Pumpkin-MC/Pumpkin",
+    "url": "https://github.com/Pumpkin-MC/Pumpkin",
+    "description": "Empowering everyone to host fast and efficient Minecraft servers.",
+    "date_added": "2026-07-24"
+  },
+  {
+    "full_name": "Automattic/harper",
+    "url": "https://github.com/Automattic/harper",
+    "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
+    "date_added": "2026-07-24"
+  },
+  {
+    "full_name": "yorukot/superfile",
+    "url": "https://github.com/yorukot/superfile",
+    "description": "Pretty fancy and modern terminal file manager",
+    "date_added": "2026-07-24"
+  },
+  {
+    "full_name": "sponsors/CoreBunch",
+    "url": "https://github.com/sponsors/CoreBunch",
+    "description": "Instatic is a modern self-hosted visual CMS - get it running in 1 minute",
+    "date_added": "2026-07-24"
   }
 ]
