@@ -1,17 +1,11 @@
-# GitHub Trending (Added at: 2026-07-24)
+# GitHub Trending (Added at: 2026-07-25)
 
-### [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)
-- A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
+### [sponsors/mattpocock](https://github.com/sponsors/mattpocock)
+- Skills for Real Engineers. Straight from my .agents directory.
 
-### [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin)
-- Empowering everyone to host fast and efficient Minecraft servers.
+### [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms)
+- 《动手学大模型Dive into LLMs》系列编程实践教程
 
-### [Automattic/harper](https://github.com/Automattic/harper)
-- Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
-
-### [yorukot/superfile](https://github.com/yorukot/superfile)
-- Pretty fancy and modern terminal file manager
-
-### [sponsors/CoreBunch](https://github.com/sponsors/CoreBunch)
-- Instatic is a modern self-hosted visual CMS - get it running in 1 minute
+### [OtterMind/Chat2DB](https://github.com/OtterMind/Chat2DB)
+- 🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
 
