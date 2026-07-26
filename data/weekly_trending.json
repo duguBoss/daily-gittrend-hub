@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "Robbyant/lingbot-map",
-    "url": "https://github.com/Robbyant/lingbot-map",
-    "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
-    "date_added": "2026-07-19"
-  },
-  {
-    "full_name": "sponsors/rohitg00",
-    "url": "https://github.com/sponsors/rohitg00",
-    "description": "Learn it. Build it. Ship it for others.",
-    "date_added": "2026-07-19"
-  },
-  {
-    "full_name": "elder-plinius/G0DM0D3",
-    "url": "https://github.com/elder-plinius/G0DM0D3",
-    "description": "LIBERATED AI CHAT",
-    "date_added": "2026-07-19"
-  },
-  {
-    "full_name": "sponsors/lyogavin",
-    "url": "https://github.com/sponsors/lyogavin",
-    "description": "AirLLM 70B inference with single 4GB GPU",
-    "date_added": "2026-07-19"
-  },
-  {
-    "full_name": "KnockOutEZ/wigolo",
-    "url": "https://github.com/KnockOutEZ/wigolo",
-    "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
-    "date_added": "2026-07-19"
-  },
-  {
     "full_name": "1jehuang/jcode",
     "url": "https://github.com/1jehuang/jcode",
     "description": "The most intelligent agent harness for code",
@@ -196,5 +166,35 @@
     "url": "https://github.com/OtterMind/Chat2DB",
     "description": "🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
     "date_added": "2026-07-25"
+  },
+  {
+    "full_name": "alibaba/open-code-review",
+    "url": "https://github.com/alibaba/open-code-review",
+    "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+    "date_added": "2026-07-26"
+  },
+  {
+    "full_name": "anthropics/claude-cookbooks",
+    "url": "https://github.com/anthropics/claude-cookbooks",
+    "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+    "date_added": "2026-07-26"
+  },
+  {
+    "full_name": "sponsors/obra",
+    "url": "https://github.com/sponsors/obra",
+    "description": "An agentic skills framework & software development methodology that works.",
+    "date_added": "2026-07-26"
+  },
+  {
+    "full_name": "permissionlesstech/bitchat",
+    "url": "https://github.com/permissionlesstech/bitchat",
+    "description": "bluetooth mesh chat, IRC vibes",
+    "date_added": "2026-07-26"
+  },
+  {
+    "full_name": "palmier-io/palmier-pro",
+    "url": "https://github.com/palmier-io/palmier-pro",
+    "description": "macOS video editor built for AI",
+    "date_added": "2026-07-26"
   }
 ]

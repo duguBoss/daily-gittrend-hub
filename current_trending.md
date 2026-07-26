@@ -1,11 +1,17 @@
-# GitHub Trending (Added at: 2026-07-25)
+# GitHub Trending (Added at: 2026-07-26)
 
-### [sponsors/mattpocock](https://github.com/sponsors/mattpocock)
-- Skills for Real Engineers. Straight from my .agents directory.
+### [alibaba/open-code-review](https://github.com/alibaba/open-code-review)
+- Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
 
-### [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms)
-- 《动手学大模型Dive into LLMs》系列编程实践教程
+### [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks)
+- A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
 
-### [OtterMind/Chat2DB](https://github.com/OtterMind/Chat2DB)
-- 🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
+### [sponsors/obra](https://github.com/sponsors/obra)
+- An agentic skills framework & software development methodology that works.
+
+### [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat)
+- bluetooth mesh chat, IRC vibes
+
+### [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro)
+- macOS video editor built for AI
 
