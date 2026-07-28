@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-07-27)
+# GitHub Trending (Added at: 2026-07-28)
 
-### [amnezia-vpn/amnezia-client](https://github.com/amnezia-vpn/amnezia-client)
-- Amnezia VPN Client (Desktop+Mobile)
+### [pascalorg/editor](https://github.com/pascalorg/editor)
+- Create and share 3D architectural projects.
 
-### [moeru-ai/airi](https://github.com/moeru-ai/airi)
-- 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
+### [andrewyng/aisuite](https://github.com/andrewyng/aisuite)
+- Simple, unified interface to multiple Generative AI providers
 
-### [sponsors/NanmiCoder](https://github.com/sponsors/NanmiCoder)
-- 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫
+### [sponsors/affaan-m](https://github.com/sponsors/affaan-m)
+- The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
-### [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
-- The design language that makes your AI harness better at design.
+### [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech)
+- Build local voice agents with open-source models
 
-### [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins)
-- Jenkins automation server
+### [sponsors/virgiliojr94](https://github.com/sponsors/virgiliojr94)
+- Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
 

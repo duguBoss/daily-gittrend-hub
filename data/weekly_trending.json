@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "bojieli/ai-agent-book",
-    "url": "https://github.com/bojieli/ai-agent-book",
-    "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
-    "date_added": "2026-07-21"
-  },
-  {
-    "full_name": "sponsors/topoteretes",
-    "url": "https://github.com/sponsors/topoteretes",
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
-    "date_added": "2026-07-21"
-  },
-  {
-    "full_name": "every-app/open-seo",
-    "url": "https://github.com/every-app/open-seo",
-    "description": "Open source alternative to Semrush and Ahrefs",
-    "date_added": "2026-07-21"
-  },
-  {
-    "full_name": "MoonshotAI/kimi-cli",
-    "url": "https://github.com/MoonshotAI/kimi-cli",
-    "description": "Kimi Code CLI is your next CLI agent.",
-    "date_added": "2026-07-21"
-  },
-  {
-    "full_name": "AstrBotDevs/AstrBot",
-    "url": "https://github.com/AstrBotDevs/AstrBot",
-    "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
-    "date_added": "2026-07-21"
-  },
-  {
     "full_name": "koala73/worldmonitor",
     "url": "https://github.com/koala73/worldmonitor",
     "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
@@ -196,5 +166,35 @@
     "url": "https://github.com/jenkinsci/jenkins",
     "description": "Jenkins automation server",
     "date_added": "2026-07-27"
+  },
+  {
+    "full_name": "pascalorg/editor",
+    "url": "https://github.com/pascalorg/editor",
+    "description": "Create and share 3D architectural projects.",
+    "date_added": "2026-07-28"
+  },
+  {
+    "full_name": "andrewyng/aisuite",
+    "url": "https://github.com/andrewyng/aisuite",
+    "description": "Simple, unified interface to multiple Generative AI providers",
+    "date_added": "2026-07-28"
+  },
+  {
+    "full_name": "sponsors/affaan-m",
+    "url": "https://github.com/sponsors/affaan-m",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "date_added": "2026-07-28"
+  },
+  {
+    "full_name": "huggingface/speech-to-speech",
+    "url": "https://github.com/huggingface/speech-to-speech",
+    "description": "Build local voice agents with open-source models",
+    "date_added": "2026-07-28"
+  },
+  {
+    "full_name": "sponsors/virgiliojr94",
+    "url": "https://github.com/sponsors/virgiliojr94",
+    "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+    "date_added": "2026-07-28"
   }
 ]
