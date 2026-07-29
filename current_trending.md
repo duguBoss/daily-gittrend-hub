@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-07-28)
+# GitHub Trending (Added at: 2026-07-29)
 
-### [pascalorg/editor](https://github.com/pascalorg/editor)
-- Create and share 3D architectural projects.
+### [sponsors/opengeos](https://github.com/sponsors/opengeos)
+- A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.
 
-### [andrewyng/aisuite](https://github.com/andrewyng/aisuite)
-- Simple, unified interface to multiple Generative AI providers
+### [1jehuang/jcode](https://github.com/1jehuang/jcode)
+- The most RAM effiecent harness
 
-### [sponsors/affaan-m](https://github.com/sponsors/affaan-m)
-- The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+### [grokability/snipe-it](https://github.com/grokability/snipe-it)
+- A free open source IT asset/license management system
 
-### [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech)
-- Build local voice agents with open-source models
+### [sponsors/deepfakes](https://github.com/sponsors/deepfakes)
+- Deepfakes Software For All
 
-### [sponsors/virgiliojr94](https://github.com/sponsors/virgiliojr94)
-- Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
+### [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)
+- Open-Source Frontier Voice AI
 

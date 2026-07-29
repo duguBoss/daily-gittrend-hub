@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "koala73/worldmonitor",
-    "url": "https://github.com/koala73/worldmonitor",
-    "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-    "date_added": "2026-07-22"
-  },
-  {
-    "full_name": "ruvnet/RuView",
-    "url": "https://github.com/ruvnet/RuView",
-    "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-    "date_added": "2026-07-22"
-  },
-  {
-    "full_name": "ayghri/i-have-adhd",
-    "url": "https://github.com/ayghri/i-have-adhd",
-    "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
-    "date_added": "2026-07-22"
-  },
-  {
-    "full_name": "sponsors/schollz",
-    "url": "https://github.com/sponsors/schollz",
-    "description": "Easily and securely send things from one computer to another 🐊 📦",
-    "date_added": "2026-07-22"
-  },
-  {
-    "full_name": "sponsors/likec4",
-    "url": "https://github.com/sponsors/likec4",
-    "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
-    "date_added": "2026-07-22"
-  },
-  {
     "full_name": "block/buzz",
     "url": "https://github.com/block/buzz",
     "description": "A hive mind communication platform",
@@ -196,5 +166,35 @@
     "url": "https://github.com/sponsors/virgiliojr94",
     "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
     "date_added": "2026-07-28"
+  },
+  {
+    "full_name": "sponsors/opengeos",
+    "url": "https://github.com/sponsors/opengeos",
+    "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
+    "date_added": "2026-07-29"
+  },
+  {
+    "full_name": "1jehuang/jcode",
+    "url": "https://github.com/1jehuang/jcode",
+    "description": "The most RAM effiecent harness",
+    "date_added": "2026-07-29"
+  },
+  {
+    "full_name": "grokability/snipe-it",
+    "url": "https://github.com/grokability/snipe-it",
+    "description": "A free open source IT asset/license management system",
+    "date_added": "2026-07-29"
+  },
+  {
+    "full_name": "sponsors/deepfakes",
+    "url": "https://github.com/sponsors/deepfakes",
+    "description": "Deepfakes Software For All",
+    "date_added": "2026-07-29"
+  },
+  {
+    "full_name": "microsoft/VibeVoice",
+    "url": "https://github.com/microsoft/VibeVoice",
+    "description": "Open-Source Frontier Voice AI",
+    "date_added": "2026-07-29"
   }
 ]
