@@ -1,17 +1,14 @@
-# GitHub Trending (Added at: 2026-07-29)
+# GitHub Trending (Added at: 2026-07-30)
 
-### [sponsors/opengeos](https://github.com/sponsors/opengeos)
-- A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.
+### [different-ai/openwork](https://github.com/different-ai/openwork)
+- The open-source alternative to Claude Cowork (powered by opencode)
 
-### [1jehuang/jcode](https://github.com/1jehuang/jcode)
-- The most RAM effiecent harness
+### [MoonshotAI/FlashKDA](https://github.com/MoonshotAI/FlashKDA)
+- FlashKDA: high-performance Kimi Delta Attention kernels
 
-### [grokability/snipe-it](https://github.com/grokability/snipe-it)
-- A free open source IT asset/license management system
+### [paperswithbacktest/awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading)
+- A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.
 
-### [sponsors/deepfakes](https://github.com/sponsors/deepfakes)
-- Deepfakes Software For All
-
-### [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)
-- Open-Source Frontier Voice AI
+### [maderix/ANE](https://github.com/maderix/ANE)
+- Training neural networks on Apple Neural Engine via reverse-engineered private APIs
 

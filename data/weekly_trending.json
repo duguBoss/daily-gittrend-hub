@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "block/buzz",
-    "url": "https://github.com/block/buzz",
-    "description": "A hive mind communication platform",
-    "date_added": "2026-07-23"
-  },
-  {
-    "full_name": "shiyu-coder/Kronos",
-    "url": "https://github.com/shiyu-coder/Kronos",
-    "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-    "date_added": "2026-07-23"
-  },
-  {
-    "full_name": "sponsors/Pumpkin-MC",
-    "url": "https://github.com/sponsors/Pumpkin-MC",
-    "description": "Empowering everyone to host fast and efficient Minecraft servers.",
-    "date_added": "2026-07-23"
-  },
-  {
-    "full_name": "citrolabs/ego-lite",
-    "url": "https://github.com/citrolabs/ego-lite",
-    "description": "The best browser for both you and your AI agents work in parallel.",
-    "date_added": "2026-07-23"
-  },
-  {
-    "full_name": "sponsors/chrislgarry",
-    "url": "https://github.com/sponsors/chrislgarry",
-    "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
-    "date_added": "2026-07-23"
-  },
-  {
     "full_name": "ComposioHQ/awesome-claude-skills",
     "url": "https://github.com/ComposioHQ/awesome-claude-skills",
     "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
@@ -196,5 +166,29 @@
     "url": "https://github.com/microsoft/VibeVoice",
     "description": "Open-Source Frontier Voice AI",
     "date_added": "2026-07-29"
+  },
+  {
+    "full_name": "different-ai/openwork",
+    "url": "https://github.com/different-ai/openwork",
+    "description": "The open-source alternative to Claude Cowork (powered by opencode)",
+    "date_added": "2026-07-30"
+  },
+  {
+    "full_name": "MoonshotAI/FlashKDA",
+    "url": "https://github.com/MoonshotAI/FlashKDA",
+    "description": "FlashKDA: high-performance Kimi Delta Attention kernels",
+    "date_added": "2026-07-30"
+  },
+  {
+    "full_name": "paperswithbacktest/awesome-systematic-trading",
+    "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
+    "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
+    "date_added": "2026-07-30"
+  },
+  {
+    "full_name": "maderix/ANE",
+    "url": "https://github.com/maderix/ANE",
+    "description": "Training neural networks on Apple Neural Engine via reverse-engineered private APIs",
+    "date_added": "2026-07-30"
   }
 ]
