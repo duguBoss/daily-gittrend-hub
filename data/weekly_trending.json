@@ -1,23 +1,5 @@
 [
   {
-    "full_name": "sponsors/mattpocock",
-    "url": "https://github.com/sponsors/mattpocock",
-    "description": "Skills for Real Engineers. Straight from my .agents directory.",
-    "date_added": "2026-07-25"
-  },
-  {
-    "full_name": "Lordog/dive-into-llms",
-    "url": "https://github.com/Lordog/dive-into-llms",
-    "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
-    "date_added": "2026-07-25"
-  },
-  {
-    "full_name": "OtterMind/Chat2DB",
-    "url": "https://github.com/OtterMind/Chat2DB",
-    "description": "🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
-    "date_added": "2026-07-25"
-  },
-  {
     "full_name": "alibaba/open-code-review",
     "url": "https://github.com/alibaba/open-code-review",
     "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
@@ -190,5 +172,23 @@
     "url": "https://github.com/sponsors/chatwoot",
     "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
     "date_added": "2026-07-31"
+  },
+  {
+    "full_name": "sponsors/agavra",
+    "url": "https://github.com/sponsors/agavra",
+    "description": "a code review TUI with vim keybindings",
+    "date_added": "2026-08-01"
+  },
+  {
+    "full_name": "sponsors/usekaneo",
+    "url": "https://github.com/sponsors/usekaneo",
+    "description": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.",
+    "date_added": "2026-08-01"
+  },
+  {
+    "full_name": "geo-tp/ESP32-Bit-Pirate",
+    "url": "https://github.com/geo-tp/ESP32-Bit-Pirate",
+    "description": "A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol",
+    "date_added": "2026-08-01"
   }
 ]
