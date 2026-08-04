@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "pascalorg/editor",
-    "url": "https://github.com/pascalorg/editor",
-    "description": "Create and share 3D architectural projects.",
-    "date_added": "2026-07-28"
-  },
-  {
-    "full_name": "andrewyng/aisuite",
-    "url": "https://github.com/andrewyng/aisuite",
-    "description": "Simple, unified interface to multiple Generative AI providers",
-    "date_added": "2026-07-28"
-  },
-  {
-    "full_name": "sponsors/affaan-m",
-    "url": "https://github.com/sponsors/affaan-m",
-    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-    "date_added": "2026-07-28"
-  },
-  {
-    "full_name": "huggingface/speech-to-speech",
-    "url": "https://github.com/huggingface/speech-to-speech",
-    "description": "Build local voice agents with open-source models",
-    "date_added": "2026-07-28"
-  },
-  {
-    "full_name": "sponsors/virgiliojr94",
-    "url": "https://github.com/sponsors/virgiliojr94",
-    "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
-    "date_added": "2026-07-28"
-  },
-  {
     "full_name": "sponsors/opengeos",
     "url": "https://github.com/sponsors/opengeos",
     "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
@@ -190,5 +160,35 @@
     "url": "https://github.com/donnemartin/system-design-primer",
     "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
     "date_added": "2026-08-03"
+  },
+  {
+    "full_name": "uber/ADR",
+    "url": "https://github.com/uber/ADR",
+    "description": "ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.",
+    "date_added": "2026-08-04"
+  },
+  {
+    "full_name": "sponsors/obra",
+    "url": "https://github.com/sponsors/obra",
+    "description": "An agentic skills framework & software development methodology that works.",
+    "date_added": "2026-08-04"
+  },
+  {
+    "full_name": "cypress-io/cypress",
+    "url": "https://github.com/cypress-io/cypress",
+    "description": "Fast, easy and reliable testing for anything that runs in a browser.",
+    "date_added": "2026-08-04"
+  },
+  {
+    "full_name": "webpack/webpack",
+    "url": "https://github.com/webpack/webpack",
+    "description": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through \"loaders\", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.",
+    "date_added": "2026-08-04"
+  },
+  {
+    "full_name": "gabime/spdlog",
+    "url": "https://github.com/gabime/spdlog",
+    "description": "Fast C++ logging library.",
+    "date_added": "2026-08-04"
   }
 ]

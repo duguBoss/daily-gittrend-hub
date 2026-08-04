@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-08-03)
+# GitHub Trending (Added at: 2026-08-04)
 
-### [sponsors/lyogavin](https://github.com/sponsors/lyogavin)
-- AirLLM 70B inference with single 4GB GPU
+### [uber/ADR](https://github.com/uber/ADR)
+- ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.
 
-### [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector)
-- Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.
+### [sponsors/obra](https://github.com/sponsors/obra)
+- An agentic skills framework & software development methodology that works.
 
-### [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix)
-- DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
+### [cypress-io/cypress](https://github.com/cypress-io/cypress)
+- Fast, easy and reliable testing for anything that runs in a browser.
 
-### [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)
-- TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.
+### [webpack/webpack](https://github.com/webpack/webpack)
+- A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
 
-### [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
-- Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+### [gabime/spdlog](https://github.com/gabime/spdlog)
+- Fast C++ logging library.
 
