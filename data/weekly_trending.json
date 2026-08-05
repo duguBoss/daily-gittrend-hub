@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "sponsors/opengeos",
-    "url": "https://github.com/sponsors/opengeos",
-    "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
-    "date_added": "2026-07-29"
-  },
-  {
-    "full_name": "1jehuang/jcode",
-    "url": "https://github.com/1jehuang/jcode",
-    "description": "The most RAM effiecent harness",
-    "date_added": "2026-07-29"
-  },
-  {
-    "full_name": "grokability/snipe-it",
-    "url": "https://github.com/grokability/snipe-it",
-    "description": "A free open source IT asset/license management system",
-    "date_added": "2026-07-29"
-  },
-  {
-    "full_name": "sponsors/deepfakes",
-    "url": "https://github.com/sponsors/deepfakes",
-    "description": "Deepfakes Software For All",
-    "date_added": "2026-07-29"
-  },
-  {
-    "full_name": "microsoft/VibeVoice",
-    "url": "https://github.com/microsoft/VibeVoice",
-    "description": "Open-Source Frontier Voice AI",
-    "date_added": "2026-07-29"
-  },
-  {
     "full_name": "different-ai/openwork",
     "url": "https://github.com/different-ai/openwork",
     "description": "The open-source alternative to Claude Cowork (powered by opencode)",
@@ -190,5 +160,35 @@
     "url": "https://github.com/gabime/spdlog",
     "description": "Fast C++ logging library.",
     "date_added": "2026-08-04"
+  },
+  {
+    "full_name": "huangruiteng/loopx",
+    "url": "https://github.com/huangruiteng/loopx",
+    "description": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.",
+    "date_added": "2026-08-05"
+  },
+  {
+    "full_name": "addyosmani/agent-skills",
+    "url": "https://github.com/addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "date_added": "2026-08-05"
+  },
+  {
+    "full_name": "roboflow/supervision",
+    "url": "https://github.com/roboflow/supervision",
+    "description": "We write your reusable computer vision tools. 💜",
+    "date_added": "2026-08-05"
+  },
+  {
+    "full_name": "vercel/next.js",
+    "url": "https://github.com/vercel/next.js",
+    "description": "The React Framework",
+    "date_added": "2026-08-05"
+  },
+  {
+    "full_name": "tailwindlabs/tailwindcss",
+    "url": "https://github.com/tailwindlabs/tailwindcss",
+    "description": "A utility-first CSS framework for rapid UI development.",
+    "date_added": "2026-08-05"
   }
 ]

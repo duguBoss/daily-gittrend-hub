@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-08-04)
+# GitHub Trending (Added at: 2026-08-05)
 
-### [uber/ADR](https://github.com/uber/ADR)
-- ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.
+### [huangruiteng/loopx](https://github.com/huangruiteng/loopx)
+- Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.
 
-### [sponsors/obra](https://github.com/sponsors/obra)
-- An agentic skills framework & software development methodology that works.
+### [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
+- Production-grade engineering skills for AI coding agents.
 
-### [cypress-io/cypress](https://github.com/cypress-io/cypress)
-- Fast, easy and reliable testing for anything that runs in a browser.
+### [roboflow/supervision](https://github.com/roboflow/supervision)
+- We write your reusable computer vision tools. 💜
 
-### [webpack/webpack](https://github.com/webpack/webpack)
-- A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
+### [vercel/next.js](https://github.com/vercel/next.js)
+- The React Framework
 
-### [gabime/spdlog](https://github.com/gabime/spdlog)
-- Fast C++ logging library.
+### [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)
+- A utility-first CSS framework for rapid UI development.
 
