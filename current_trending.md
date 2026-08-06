@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-08-05)
+# GitHub Trending (Added at: 2026-08-06)
 
-### [huangruiteng/loopx](https://github.com/huangruiteng/loopx)
-- Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.
+### [cloudflare/computer](https://github.com/cloudflare/computer)
+- Give your agent a computer 👾
 
-### [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
-- Production-grade engineering skills for AI coding agents.
+### [sponsors/mattpocock](https://github.com/sponsors/mattpocock)
+- Skills for Real Engineers. Straight from my .agents directory.
 
-### [roboflow/supervision](https://github.com/roboflow/supervision)
-- We write your reusable computer vision tools. 💜
+### [sponsors/goauthentik](https://github.com/sponsors/goauthentik)
+- The authentication glue you need.
 
-### [vercel/next.js](https://github.com/vercel/next.js)
-- The React Framework
+### [google/guava](https://github.com/google/guava)
+- Google core libraries for Java
 
-### [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)
-- A utility-first CSS framework for rapid UI development.
+### [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)
+- 所有小初高、大学PDF教材。
 
