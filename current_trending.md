@@ -1,17 +1,8 @@
-# GitHub Trending (Added at: 2026-08-06)
+# GitHub Trending (Added at: 2026-08-07)
 
-### [cloudflare/computer](https://github.com/cloudflare/computer)
-- Give your agent a computer 👾
+### [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
+- AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 
-### [sponsors/mattpocock](https://github.com/sponsors/mattpocock)
-- Skills for Real Engineers. Straight from my .agents directory.
-
-### [sponsors/goauthentik](https://github.com/sponsors/goauthentik)
-- The authentication glue you need.
-
-### [google/guava](https://github.com/google/guava)
-- Google core libraries for Java
-
-### [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)
-- 所有小初高、大学PDF教材。
+### [sponsors/tirth8205](https://github.com/sponsors/tirth8205)
+- Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.
 
