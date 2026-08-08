@@ -1,23 +1,5 @@
 [
   {
-    "full_name": "sponsors/agavra",
-    "url": "https://github.com/sponsors/agavra",
-    "description": "a code review TUI with vim keybindings",
-    "date_added": "2026-08-01"
-  },
-  {
-    "full_name": "sponsors/usekaneo",
-    "url": "https://github.com/sponsors/usekaneo",
-    "description": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.",
-    "date_added": "2026-08-01"
-  },
-  {
-    "full_name": "geo-tp/ESP32-Bit-Pirate",
-    "url": "https://github.com/geo-tp/ESP32-Bit-Pirate",
-    "description": "A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol",
-    "date_added": "2026-08-01"
-  },
-  {
     "full_name": "microsoft/generative-ai-for-beginners",
     "url": "https://github.com/microsoft/generative-ai-for-beginners",
     "description": "21 Lessons, Get Started Building with Generative AI",
@@ -178,5 +160,35 @@
     "url": "https://github.com/sponsors/tirth8205",
     "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
     "date_added": "2026-08-07"
+  },
+  {
+    "full_name": "PrimeIntellect-ai/prime-agent",
+    "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+    "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+    "date_added": "2026-08-08"
+  },
+  {
+    "full_name": "sponsors/semantica-agi",
+    "url": "https://github.com/sponsors/semantica-agi",
+    "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+    "date_added": "2026-08-08"
+  },
+  {
+    "full_name": "666ghj/MiroFish",
+    "url": "https://github.com/666ghj/MiroFish",
+    "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+    "date_added": "2026-08-08"
+  },
+  {
+    "full_name": "chenyme/grok2api",
+    "url": "https://github.com/chenyme/grok2api",
+    "description": "Multi-account API gateway for Grok Build, Grok Web, and Grok Console",
+    "date_added": "2026-08-08"
+  },
+  {
+    "full_name": "sponsors/jdx",
+    "url": "https://github.com/sponsors/jdx",
+    "description": "dev tools, env vars, task runner",
+    "date_added": "2026-08-08"
   }
 ]

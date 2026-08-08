@@ -1,8 +1,17 @@
-# GitHub Trending (Added at: 2026-08-07)
+# GitHub Trending (Added at: 2026-08-08)
 
-### [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
-- AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
+### [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent)
+- A self-improving RLM agent for coding workflows and long-running autonomous tasks.
 
-### [sponsors/tirth8205](https://github.com/sponsors/tirth8205)
-- Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.
+### [sponsors/semantica-agi](https://github.com/sponsors/semantica-agi)
+- Graph-Native Infrastructure for Context and Accountable AI Systems
+
+### [666ghj/MiroFish](https://github.com/666ghj/MiroFish)
+- A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
+
+### [chenyme/grok2api](https://github.com/chenyme/grok2api)
+- Multi-account API gateway for Grok Build, Grok Web, and Grok Console
+
+### [sponsors/jdx](https://github.com/sponsors/jdx)
+- dev tools, env vars, task runner
 
