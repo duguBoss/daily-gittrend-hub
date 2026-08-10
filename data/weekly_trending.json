@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "sponsors/lyogavin",
-    "url": "https://github.com/sponsors/lyogavin",
-    "description": "AirLLM 70B inference with single 4GB GPU",
-    "date_added": "2026-08-03"
-  },
-  {
-    "full_name": "firecrawl/pdf-inspector",
-    "url": "https://github.com/firecrawl/pdf-inspector",
-    "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
-    "date_added": "2026-08-03"
-  },
-  {
-    "full_name": "esengine/DeepSeek-Reasonix",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix",
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-    "date_added": "2026-08-03"
-  },
-  {
-    "full_name": "TencentCloud/TencentDB-Agent-Memory",
-    "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-    "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
-    "date_added": "2026-08-03"
-  },
-  {
-    "full_name": "donnemartin/system-design-primer",
-    "url": "https://github.com/donnemartin/system-design-primer",
-    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
-    "date_added": "2026-08-03"
-  },
-  {
     "full_name": "uber/ADR",
     "url": "https://github.com/uber/ADR",
     "description": "ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.",
@@ -190,5 +160,35 @@
     "url": "https://github.com/litu54/DevOps-Interview-Guide",
     "description": "DevOps Interview Guide",
     "date_added": "2026-08-09"
+  },
+  {
+    "full_name": "sponsors/vitali87",
+    "url": "https://github.com/sponsors/vitali87",
+    "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+    "date_added": "2026-08-10"
+  },
+  {
+    "full_name": "sponsors/msitarzewski",
+    "url": "https://github.com/sponsors/msitarzewski",
+    "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+    "date_added": "2026-08-10"
+  },
+  {
+    "full_name": "sponsors/pranshuparmar",
+    "url": "https://github.com/sponsors/pranshuparmar",
+    "description": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
+    "date_added": "2026-08-10"
+  },
+  {
+    "full_name": "google-deepmind/weathernext",
+    "url": "https://github.com/google-deepmind/weathernext",
+    "description": "",
+    "date_added": "2026-08-10"
+  },
+  {
+    "full_name": "ZhuLinsen/daily_stock_analysis",
+    "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+    "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+    "date_added": "2026-08-10"
   }
 ]
