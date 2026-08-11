@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-08-10)
+# GitHub Trending (Added at: 2026-08-11)
 
-### [sponsors/vitali87](https://github.com/sponsors/vitali87)
-- The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs
+### [sponsors/NanmiCoder](https://github.com/sponsors/NanmiCoder)
+- 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫
 
-### [sponsors/msitarzewski](https://github.com/sponsors/msitarzewski)
-- A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
+### [paperclipai/paperclip](https://github.com/paperclipai/paperclip)
+- The open-source app everyone uses to manage agents at work
 
-### [sponsors/pranshuparmar](https://github.com/sponsors/pranshuparmar)
-- Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
+### [ruvnet/RuView](https://github.com/ruvnet/RuView)
+- π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 
-### [google-deepmind/weathernext](https://github.com/google-deepmind/weathernext)
-- 
+### [sponsors/danielmiessler](https://github.com/sponsors/danielmiessler)
+- ⛰️A General Hill-climbing AI harness that helps you move from Current State to Ideal State in both Life and Work.
 
-### [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)
-- LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.
+### [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)
+- The context API to search, scrape, and interact with the web at scale. 🔥
 
