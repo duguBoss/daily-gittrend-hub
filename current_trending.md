@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-08-11)
+# GitHub Trending (Added at: 2026-08-12)
 
-### [sponsors/NanmiCoder](https://github.com/sponsors/NanmiCoder)
-- 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫
+### [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)
+- 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.
 
-### [paperclipai/paperclip](https://github.com/paperclipai/paperclip)
-- The open-source app everyone uses to manage agents at work
+### [nvm-sh/nvm](https://github.com/nvm-sh/nvm)
+- Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 
-### [ruvnet/RuView](https://github.com/ruvnet/RuView)
-- π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
+### [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
+- Production-grade engineering skills for AI coding agents.
 
-### [sponsors/danielmiessler](https://github.com/sponsors/danielmiessler)
-- ⛰️A General Hill-climbing AI harness that helps you move from Current State to Ideal State in both Life and Work.
+### [anthropics/skills](https://github.com/anthropics/skills)
+- Public repository for Agent Skills
 
-### [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)
-- The context API to search, scrape, and interact with the web at scale. 🔥
+### [3b1b/manim](https://github.com/3b1b/manim)
+- Animation engine for explanatory math videos
 
