@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-08-12)
+# GitHub Trending (Added at: 2026-08-13)
 
-### [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)
-- 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.
+### [macro-inc/macro](https://github.com/macro-inc/macro)
+- Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.
 
-### [nvm-sh/nvm](https://github.com/nvm-sh/nvm)
-- Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+### [stablyai/orca](https://github.com/stablyai/orca)
+- Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.
 
-### [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
-- Production-grade engineering skills for AI coding agents.
+### [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos)
+- Kronos: A Foundation Model for the Language of Financial Markets
 
-### [anthropics/skills](https://github.com/anthropics/skills)
-- Public repository for Agent Skills
+### [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master)
+- AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He
 
-### [3b1b/manim](https://github.com/3b1b/manim)
-- Animation engine for explanatory math videos
+### [infiniflow/ragflow](https://github.com/infiniflow/ragflow)
+- RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 

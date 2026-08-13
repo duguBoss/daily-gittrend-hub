@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "cloudflare/computer",
-    "url": "https://github.com/cloudflare/computer",
-    "description": "Give your agent a computer 👾",
-    "date_added": "2026-08-06"
-  },
-  {
-    "full_name": "sponsors/mattpocock",
-    "url": "https://github.com/sponsors/mattpocock",
-    "description": "Skills for Real Engineers. Straight from my .agents directory.",
-    "date_added": "2026-08-06"
-  },
-  {
-    "full_name": "sponsors/goauthentik",
-    "url": "https://github.com/sponsors/goauthentik",
-    "description": "The authentication glue you need.",
-    "date_added": "2026-08-06"
-  },
-  {
-    "full_name": "google/guava",
-    "url": "https://github.com/google/guava",
-    "description": "Google core libraries for Java",
-    "date_added": "2026-08-06"
-  },
-  {
-    "full_name": "TapXWorld/ChinaTextbook",
-    "url": "https://github.com/TapXWorld/ChinaTextbook",
-    "description": "所有小初高、大学PDF教材。",
-    "date_added": "2026-08-06"
-  },
-  {
     "full_name": "Significant-Gravitas/AutoGPT",
     "url": "https://github.com/Significant-Gravitas/AutoGPT",
     "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
@@ -190,5 +160,35 @@
     "url": "https://github.com/3b1b/manim",
     "description": "Animation engine for explanatory math videos",
     "date_added": "2026-08-12"
+  },
+  {
+    "full_name": "macro-inc/macro",
+    "url": "https://github.com/macro-inc/macro",
+    "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+    "date_added": "2026-08-13"
+  },
+  {
+    "full_name": "stablyai/orca",
+    "url": "https://github.com/stablyai/orca",
+    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
+    "date_added": "2026-08-13"
+  },
+  {
+    "full_name": "shiyu-coder/Kronos",
+    "url": "https://github.com/shiyu-coder/Kronos",
+    "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+    "date_added": "2026-08-13"
+  },
+  {
+    "full_name": "hugohe3/ppt-master",
+    "url": "https://github.com/hugohe3/ppt-master",
+    "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
+    "date_added": "2026-08-13"
+  },
+  {
+    "full_name": "infiniflow/ragflow",
+    "url": "https://github.com/infiniflow/ragflow",
+    "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+    "date_added": "2026-08-13"
   }
 ]
