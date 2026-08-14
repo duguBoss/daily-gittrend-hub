@@ -1,17 +1,5 @@
 [
   {
-    "full_name": "Significant-Gravitas/AutoGPT",
-    "url": "https://github.com/Significant-Gravitas/AutoGPT",
-    "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-    "date_added": "2026-08-07"
-  },
-  {
-    "full_name": "sponsors/tirth8205",
-    "url": "https://github.com/sponsors/tirth8205",
-    "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
-    "date_added": "2026-08-07"
-  },
-  {
     "full_name": "PrimeIntellect-ai/prime-agent",
     "url": "https://github.com/PrimeIntellect-ai/prime-agent",
     "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
@@ -190,5 +178,35 @@
     "url": "https://github.com/infiniflow/ragflow",
     "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
     "date_added": "2026-08-13"
+  },
+  {
+    "full_name": "cactus-compute/needle",
+    "url": "https://github.com/cactus-compute/needle",
+    "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+    "date_added": "2026-08-14"
+  },
+  {
+    "full_name": "sponsors/altic-dev",
+    "url": "https://github.com/sponsors/altic-dev",
+    "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows & iOS waitlist open. Linux soon.",
+    "date_added": "2026-08-14"
+  },
+  {
+    "full_name": "sponsors/unslothai",
+    "url": "https://github.com/sponsors/unslothai",
+    "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
+    "date_added": "2026-08-14"
+  },
+  {
+    "full_name": "megadose/holehe",
+    "url": "https://github.com/megadose/holehe",
+    "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
+    "date_added": "2026-08-14"
+  },
+  {
+    "full_name": "smicallef/spiderfoot",
+    "url": "https://github.com/smicallef/spiderfoot",
+    "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
+    "date_added": "2026-08-14"
   }
 ]
