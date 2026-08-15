@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-08-14)
+# GitHub Trending (Added at: 2026-08-15)
 
-### [cactus-compute/needle](https://github.com/cactus-compute/needle)
-- 14MB foundation model for tiny devices; phones, wearables, smart home, and robots.
+### [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite)
+- The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.
 
-### [sponsors/altic-dev](https://github.com/sponsors/altic-dev)
-- Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows & iOS waitlist open. Linux soon.
+### [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS)
+- Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + MCP), apps, browser, and files, with shared memory. Built-in models or BYOK.
 
-### [sponsors/unslothai](https://github.com/sponsors/unslothai)
-- Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
+### [github/spec-kit](https://github.com/github/spec-kit)
+- 💫 Toolkit to help you get started with Spec-Driven Development
 
-### [megadose/holehe](https://github.com/megadose/holehe)
-- holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
+### [sponsors/lightningpixel](https://github.com/sponsors/lightningpixel)
+- Desktop app to generate 3D models from images or prompt using local AI — runs entirely on your GPU
 
-### [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot)
-- SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
+### [cursor/plugins](https://github.com/cursor/plugins)
+- Cursor plugin specification and official plugins
 
