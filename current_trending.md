@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-08-15)
+# GitHub Trending (Added at: 2026-08-16)
 
-### [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite)
-- The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.
+### [cordiverse/cordis](https://github.com/cordiverse/cordis)
+- Meta-Framework of Spatiotemporal Composability
 
-### [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS)
-- Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + MCP), apps, browser, and files, with shared memory. Built-in models or BYOK.
+### [public-apis/public-apis](https://github.com/public-apis/public-apis)
+- A collective list of free APIs
 
-### [github/spec-kit](https://github.com/github/spec-kit)
-- 💫 Toolkit to help you get started with Spec-Driven Development
+### [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup)
+- Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.
 
-### [sponsors/lightningpixel](https://github.com/sponsors/lightningpixel)
-- Desktop app to generate 3D models from images or prompt using local AI — runs entirely on your GPU
+### [sponsors/ToolJet](https://github.com/sponsors/ToolJet)
+- ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 
-### [cursor/plugins](https://github.com/cursor/plugins)
-- Cursor plugin specification and official plugins
+### [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
+- "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
 
