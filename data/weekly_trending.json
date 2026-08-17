@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "sponsors/vitali87",
-    "url": "https://github.com/sponsors/vitali87",
-    "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
-    "date_added": "2026-08-10"
-  },
-  {
-    "full_name": "sponsors/msitarzewski",
-    "url": "https://github.com/sponsors/msitarzewski",
-    "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-    "date_added": "2026-08-10"
-  },
-  {
-    "full_name": "sponsors/pranshuparmar",
-    "url": "https://github.com/sponsors/pranshuparmar",
-    "description": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
-    "date_added": "2026-08-10"
-  },
-  {
-    "full_name": "google-deepmind/weathernext",
-    "url": "https://github.com/google-deepmind/weathernext",
-    "description": "",
-    "date_added": "2026-08-10"
-  },
-  {
-    "full_name": "ZhuLinsen/daily_stock_analysis",
-    "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-    "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-    "date_added": "2026-08-10"
-  },
-  {
     "full_name": "sponsors/NanmiCoder",
     "url": "https://github.com/sponsors/NanmiCoder",
     "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
@@ -208,5 +178,17 @@
     "url": "https://github.com/HKUDS/CLI-Anything",
     "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
     "date_added": "2026-08-16"
+  },
+  {
+    "full_name": "basecamp/omarchy",
+    "url": "https://github.com/basecamp/omarchy",
+    "description": "Beautiful, Modern & Opinionated Linux",
+    "date_added": "2026-08-17"
+  },
+  {
+    "full_name": "sponsors/OpenCut-app",
+    "url": "https://github.com/sponsors/OpenCut-app",
+    "description": "The open-source CapCut alternative",
+    "date_added": "2026-08-17"
   }
 ]
