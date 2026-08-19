@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-08-18)
+# GitHub Trending (Added at: 2026-08-19)
 
-### [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
-- 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
+### [chaitanyagiri/munder-difflin](https://github.com/chaitanyagiri/munder-difflin)
+- local multi-agent harness
 
-### [usestrix/strix](https://github.com/usestrix/strix)
-- Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
+### [volcengine/OpenViking](https://github.com/volcengine/OpenViking)
+- Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
 
-### [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader)
-- Production-grade Rust-native trading engine with deterministic event-driven architecture
+### [agalwood/Motrix](https://github.com/agalwood/Motrix)
+- A full-featured download manager.
 
-### [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory)
-- Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
+### [NawfalMotii79/PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR)
+- Open-source, low-cost 10.5 GHz PLFM phased array RADAR system
 
-### [sponsors/mukul975](https://github.com/sponsors/mukul975)
-- 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0
+### [jundot/omlx](https://github.com/jundot/omlx)
+- LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar
 
