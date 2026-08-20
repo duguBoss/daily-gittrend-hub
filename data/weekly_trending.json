@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "macro-inc/macro",
-    "url": "https://github.com/macro-inc/macro",
-    "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-    "date_added": "2026-08-13"
-  },
-  {
-    "full_name": "stablyai/orca",
-    "url": "https://github.com/stablyai/orca",
-    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
-    "date_added": "2026-08-13"
-  },
-  {
-    "full_name": "shiyu-coder/Kronos",
-    "url": "https://github.com/shiyu-coder/Kronos",
-    "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-    "date_added": "2026-08-13"
-  },
-  {
-    "full_name": "hugohe3/ppt-master",
-    "url": "https://github.com/hugohe3/ppt-master",
-    "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
-    "date_added": "2026-08-13"
-  },
-  {
-    "full_name": "infiniflow/ragflow",
-    "url": "https://github.com/infiniflow/ragflow",
-    "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
-    "date_added": "2026-08-13"
-  },
-  {
     "full_name": "cactus-compute/needle",
     "url": "https://github.com/cactus-compute/needle",
     "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
@@ -190,5 +160,35 @@
     "url": "https://github.com/jundot/omlx",
     "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
     "date_added": "2026-08-19"
+  },
+  {
+    "full_name": "sponsors/mattpocock",
+    "url": "https://github.com/sponsors/mattpocock",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "date_added": "2026-08-20"
+  },
+  {
+    "full_name": "sponsors/obra",
+    "url": "https://github.com/sponsors/obra",
+    "description": "An agentic skills framework & software development methodology that works.",
+    "date_added": "2026-08-20"
+  },
+  {
+    "full_name": "sponsors/santifer",
+    "url": "https://github.com/sponsors/santifer",
+    "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
+    "date_added": "2026-08-20"
+  },
+  {
+    "full_name": "immich-app/immich",
+    "url": "https://github.com/immich-app/immich",
+    "description": "High performance self-hosted photo and video management solution.",
+    "date_added": "2026-08-20"
+  },
+  {
+    "full_name": "amadeusprotocol/node",
+    "url": "https://github.com/amadeusprotocol/node",
+    "description": "",
+    "date_added": "2026-08-20"
   }
 ]

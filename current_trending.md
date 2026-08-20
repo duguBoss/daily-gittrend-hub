@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-08-19)
+# GitHub Trending (Added at: 2026-08-20)
 
-### [chaitanyagiri/munder-difflin](https://github.com/chaitanyagiri/munder-difflin)
-- local multi-agent harness
+### [sponsors/mattpocock](https://github.com/sponsors/mattpocock)
+- Skills for Real Engineers. Straight from my .agents directory.
 
-### [volcengine/OpenViking](https://github.com/volcengine/OpenViking)
-- Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
+### [sponsors/obra](https://github.com/sponsors/obra)
+- An agentic skills framework & software development methodology that works.
 
-### [agalwood/Motrix](https://github.com/agalwood/Motrix)
-- A full-featured download manager.
+### [sponsors/santifer](https://github.com/sponsors/santifer)
+- Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)
 
-### [NawfalMotii79/PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR)
-- Open-source, low-cost 10.5 GHz PLFM phased array RADAR system
+### [immich-app/immich](https://github.com/immich-app/immich)
+- High performance self-hosted photo and video management solution.
 
-### [jundot/omlx](https://github.com/jundot/omlx)
-- LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar
+### [amadeusprotocol/node](https://github.com/amadeusprotocol/node)
+- 
 
