@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-08-20)
+# GitHub Trending (Added at: 2026-08-21)
 
-### [sponsors/mattpocock](https://github.com/sponsors/mattpocock)
-- Skills for Real Engineers. Straight from my .agents directory.
+### [modular/modular](https://github.com/modular/modular)
+- The Modular Platform (includes MAX & Mojo)
 
-### [sponsors/obra](https://github.com/sponsors/obra)
-- An agentic skills framework & software development methodology that works.
+### [sponsors/AprilNEA](https://github.com/sponsors/AprilNEA)
+- ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
 
-### [sponsors/santifer](https://github.com/sponsors/santifer)
-- Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)
+### [agent-substrate/substrate](https://github.com/agent-substrate/substrate)
+- Agent Substrate: the core system
 
-### [immich-app/immich](https://github.com/immich-app/immich)
-- High performance self-hosted photo and video management solution.
+### [PostHog/posthog](https://github.com/PostHog/posthog)
+- 🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.
 
-### [amadeusprotocol/node](https://github.com/amadeusprotocol/node)
-- 
+### [mahlernim/google-timeline-visualizer](https://github.com/mahlernim/google-timeline-visualizer)
+- Visualize your year in travel using your Google Location History (Timeline) data
 
