@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-08-21)
+# GitHub Trending (Added at: 2026-08-22)
 
-### [modular/modular](https://github.com/modular/modular)
-- The Modular Platform (includes MAX & Mojo)
+### [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
+- TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 
-### [sponsors/AprilNEA](https://github.com/sponsors/AprilNEA)
-- ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
+### [cursor/plugins](https://github.com/cursor/plugins)
+- Cursor plugin specification and official plugins
 
-### [agent-substrate/substrate](https://github.com/agent-substrate/substrate)
-- Agent Substrate: the core system
+### [sponsors/affaan-m](https://github.com/sponsors/affaan-m)
+- The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
-### [PostHog/posthog](https://github.com/PostHog/posthog)
-- 🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.
+### [sponsors/TryGhost](https://github.com/sponsors/TryGhost)
+- Independent technology for modern publishing, memberships, subscriptions and newsletters.
 
-### [mahlernim/google-timeline-visualizer](https://github.com/mahlernim/google-timeline-visualizer)
-- Visualize your year in travel using your Google Location History (Timeline) data
+### [ruvnet/ruflo](https://github.com/ruvnet/ruflo)
+- 🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated
 
