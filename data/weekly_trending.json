@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "cordiverse/cordis",
-    "url": "https://github.com/cordiverse/cordis",
-    "description": "Meta-Framework of Spatiotemporal Composability",
-    "date_added": "2026-08-16"
-  },
-  {
-    "full_name": "public-apis/public-apis",
-    "url": "https://github.com/public-apis/public-apis",
-    "description": "A collective list of free APIs",
-    "date_added": "2026-08-16"
-  },
-  {
-    "full_name": "MakazhanAlpamys/Soup",
-    "url": "https://github.com/MakazhanAlpamys/Soup",
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "date_added": "2026-08-16"
-  },
-  {
-    "full_name": "sponsors/ToolJet",
-    "url": "https://github.com/sponsors/ToolJet",
-    "description": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
-    "date_added": "2026-08-16"
-  },
-  {
-    "full_name": "HKUDS/CLI-Anything",
-    "url": "https://github.com/HKUDS/CLI-Anything",
-    "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-    "date_added": "2026-08-16"
-  },
-  {
     "full_name": "basecamp/omarchy",
     "url": "https://github.com/basecamp/omarchy",
     "description": "Beautiful, Modern & Opinionated Linux",
@@ -190,5 +160,35 @@
     "url": "https://github.com/ruvnet/ruflo",
     "description": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
     "date_added": "2026-08-22"
+  },
+  {
+    "full_name": "openai/codex",
+    "url": "https://github.com/openai/codex",
+    "description": "Lightweight coding agent that runs in your terminal",
+    "date_added": "2026-08-23"
+  },
+  {
+    "full_name": "Wei-Shaw/sub2api",
+    "url": "https://github.com/Wei-Shaw/sub2api",
+    "description": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
+    "date_added": "2026-08-23"
+  },
+  {
+    "full_name": "makeplane/plane",
+    "url": "https://github.com/makeplane/plane",
+    "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+    "date_added": "2026-08-23"
+  },
+  {
+    "full_name": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "date_added": "2026-08-23"
+  },
+  {
+    "full_name": "anthropics/claude-code",
+    "url": "https://github.com/anthropics/claude-code",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+    "date_added": "2026-08-23"
   }
 ]

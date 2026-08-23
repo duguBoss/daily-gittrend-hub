@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-08-22)
+# GitHub Trending (Added at: 2026-08-23)
 
-### [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
-- TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+### [openai/codex](https://github.com/openai/codex)
+- Lightweight coding agent that runs in your terminal
 
-### [cursor/plugins](https://github.com/cursor/plugins)
-- Cursor plugin specification and official plugins
+### [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api)
+- Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
 
-### [sponsors/affaan-m](https://github.com/sponsors/affaan-m)
-- The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+### [makeplane/plane](https://github.com/makeplane/plane)
+- 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
 
-### [sponsors/TryGhost](https://github.com/sponsors/TryGhost)
-- Independent technology for modern publishing, memberships, subscriptions and newsletters.
+### [n8n-io/n8n](https://github.com/n8n-io/n8n)
+- Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 
-### [ruvnet/ruflo](https://github.com/ruvnet/ruflo)
-- 🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated
+### [anthropics/claude-code](https://github.com/anthropics/claude-code)
+- Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
 
