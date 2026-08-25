@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-08-24)
+# GitHub Trending (Added at: 2026-08-25)
 
-### [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
-- Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
+### [sponsors/MadsLorentzen](https://github.com/sponsors/MadsLorentzen)
+- The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
 
-### [basecamp/omarchy](https://github.com/basecamp/omarchy)
-- Beautiful, Modern & Opinionated Linux
+### [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)
+- A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 
-### [block/buzz](https://github.com/block/buzz)
-- A hive mind communication platform
+### [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+- The agent that grows with you
 
-### [apache/maka](https://github.com/apache/maka)
-- Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.
+### [anthropics/claude-plugins-community](https://github.com/anthropics/claude-plugins-community)
+- Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.
 
-### [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)
-- Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)
+### [sponsors/openclaw](https://github.com/sponsors/openclaw)
+- Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 

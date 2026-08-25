@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "harry0703/MoneyPrinterTurbo",
-    "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-    "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-    "date_added": "2026-08-18"
-  },
-  {
-    "full_name": "usestrix/strix",
-    "url": "https://github.com/usestrix/strix",
-    "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-    "date_added": "2026-08-18"
-  },
-  {
-    "full_name": "nautechsystems/nautilus_trader",
-    "url": "https://github.com/nautechsystems/nautilus_trader",
-    "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
-    "date_added": "2026-08-18"
-  },
-  {
-    "full_name": "akitaonrails/ai-memory",
-    "url": "https://github.com/akitaonrails/ai-memory",
-    "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-    "date_added": "2026-08-18"
-  },
-  {
-    "full_name": "sponsors/mukul975",
-    "url": "https://github.com/sponsors/mukul975",
-    "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
-    "date_added": "2026-08-18"
-  },
-  {
     "full_name": "chaitanyagiri/munder-difflin",
     "url": "https://github.com/chaitanyagiri/munder-difflin",
     "description": "local multi-agent harness",
@@ -208,5 +178,35 @@
     "url": "https://github.com/Alishahryar1/free-claude-code",
     "description": "Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
     "date_added": "2026-08-24"
+  },
+  {
+    "full_name": "sponsors/MadsLorentzen",
+    "url": "https://github.com/sponsors/MadsLorentzen",
+    "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+    "date_added": "2026-08-25"
+  },
+  {
+    "full_name": "multica-ai/andrej-karpathy-skills",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "date_added": "2026-08-25"
+  },
+  {
+    "full_name": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "description": "The agent that grows with you",
+    "date_added": "2026-08-25"
+  },
+  {
+    "full_name": "anthropics/claude-plugins-community",
+    "url": "https://github.com/anthropics/claude-plugins-community",
+    "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
+    "date_added": "2026-08-25"
+  },
+  {
+    "full_name": "sponsors/openclaw",
+    "url": "https://github.com/sponsors/openclaw",
+    "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+    "date_added": "2026-08-25"
   }
 ]
