@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "chaitanyagiri/munder-difflin",
-    "url": "https://github.com/chaitanyagiri/munder-difflin",
-    "description": "local multi-agent harness",
-    "date_added": "2026-08-19"
-  },
-  {
-    "full_name": "volcengine/OpenViking",
-    "url": "https://github.com/volcengine/OpenViking",
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "date_added": "2026-08-19"
-  },
-  {
-    "full_name": "agalwood/Motrix",
-    "url": "https://github.com/agalwood/Motrix",
-    "description": "A full-featured download manager.",
-    "date_added": "2026-08-19"
-  },
-  {
-    "full_name": "NawfalMotii79/PLFM_RADAR",
-    "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
-    "description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
-    "date_added": "2026-08-19"
-  },
-  {
-    "full_name": "jundot/omlx",
-    "url": "https://github.com/jundot/omlx",
-    "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
-    "date_added": "2026-08-19"
-  },
-  {
     "full_name": "sponsors/mattpocock",
     "url": "https://github.com/sponsors/mattpocock",
     "description": "Skills for Real Engineers. Straight from my .agents directory.",
@@ -208,5 +178,35 @@
     "url": "https://github.com/sponsors/openclaw",
     "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
     "date_added": "2026-08-25"
+  },
+  {
+    "full_name": "TauricResearch/TradingAgents",
+    "url": "https://github.com/TauricResearch/TradingAgents",
+    "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+    "date_added": "2026-08-26"
+  },
+  {
+    "full_name": "AgriciDaniel/claude-obsidian",
+    "url": "https://github.com/AgriciDaniel/claude-obsidian",
+    "description": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.",
+    "date_added": "2026-08-26"
+  },
+  {
+    "full_name": "sponsors/rohitg00",
+    "url": "https://github.com/sponsors/rohitg00",
+    "description": "Learn it. Build it. Ship it for others.",
+    "date_added": "2026-08-26"
+  },
+  {
+    "full_name": "tinyhumansai/openhuman",
+    "url": "https://github.com/tinyhumansai/openhuman",
+    "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
+    "date_added": "2026-08-26"
+  },
+  {
+    "full_name": "Shubhamsaboo/awesome-llm-apps",
+    "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+    "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+    "date_added": "2026-08-26"
   }
 ]

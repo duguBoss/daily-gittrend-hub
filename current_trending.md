@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-08-25)
+# GitHub Trending (Added at: 2026-08-26)
 
-### [sponsors/MadsLorentzen](https://github.com/sponsors/MadsLorentzen)
-- The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
+### [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)
+- TradingAgents: Multi-Agents LLM Financial Trading Framework
 
-### [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)
-- A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+### [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian)
+- Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.
 
-### [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
-- The agent that grows with you
+### [sponsors/rohitg00](https://github.com/sponsors/rohitg00)
+- Learn it. Build it. Ship it for others.
 
-### [anthropics/claude-plugins-community](https://github.com/anthropics/claude-plugins-community)
-- Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.
+### [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman)
+- Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.
 
-### [sponsors/openclaw](https://github.com/sponsors/openclaw)
-- Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
+### [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
+- 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
 
