@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-08-26)
+# GitHub Trending (Added at: 2026-08-27)
 
-### [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)
-- TradingAgents: Multi-Agents LLM Financial Trading Framework
+### [sponsors/zedeus](https://github.com/sponsors/zedeus)
+- Alternative Twitter front-end
 
-### [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian)
-- Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.
+### [tt-a1i/archify](https://github.com/tt-a1i/archify)
+- Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
 
-### [sponsors/rohitg00](https://github.com/sponsors/rohitg00)
-- Learn it. Build it. Ship it for others.
+### [JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines)
+- Help AI coding agents write modern Go
 
-### [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman)
-- Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.
+### [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
+- Official, Anthropic-managed directory of high quality Claude Code Plugins.
 
-### [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
-- 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
+### [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)
+- Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+ scientists worldwide. 163 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.
 

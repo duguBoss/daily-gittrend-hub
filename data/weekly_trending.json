@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "sponsors/mattpocock",
-    "url": "https://github.com/sponsors/mattpocock",
-    "description": "Skills for Real Engineers. Straight from my .agents directory.",
-    "date_added": "2026-08-20"
-  },
-  {
-    "full_name": "sponsors/obra",
-    "url": "https://github.com/sponsors/obra",
-    "description": "An agentic skills framework & software development methodology that works.",
-    "date_added": "2026-08-20"
-  },
-  {
-    "full_name": "sponsors/santifer",
-    "url": "https://github.com/sponsors/santifer",
-    "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
-    "date_added": "2026-08-20"
-  },
-  {
-    "full_name": "immich-app/immich",
-    "url": "https://github.com/immich-app/immich",
-    "description": "High performance self-hosted photo and video management solution.",
-    "date_added": "2026-08-20"
-  },
-  {
-    "full_name": "amadeusprotocol/node",
-    "url": "https://github.com/amadeusprotocol/node",
-    "description": "",
-    "date_added": "2026-08-20"
-  },
-  {
     "full_name": "modular/modular",
     "url": "https://github.com/modular/modular",
     "description": "The Modular Platform (includes MAX & Mojo)",
@@ -208,5 +178,35 @@
     "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
     "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
     "date_added": "2026-08-26"
+  },
+  {
+    "full_name": "sponsors/zedeus",
+    "url": "https://github.com/sponsors/zedeus",
+    "description": "Alternative Twitter front-end",
+    "date_added": "2026-08-27"
+  },
+  {
+    "full_name": "tt-a1i/archify",
+    "url": "https://github.com/tt-a1i/archify",
+    "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+    "date_added": "2026-08-27"
+  },
+  {
+    "full_name": "JetBrains/go-modern-guidelines",
+    "url": "https://github.com/JetBrains/go-modern-guidelines",
+    "description": "Help AI coding agents write modern Go",
+    "date_added": "2026-08-27"
+  },
+  {
+    "full_name": "anthropics/claude-plugins-official",
+    "url": "https://github.com/anthropics/claude-plugins-official",
+    "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+    "date_added": "2026-08-27"
+  },
+  {
+    "full_name": "K-Dense-AI/scientific-agent-skills",
+    "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+    "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+ scientists worldwide. 163 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+    "date_added": "2026-08-27"
   }
 ]
