@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-08-27)
+# GitHub Trending (Added at: 2026-08-28)
 
-### [sponsors/zedeus](https://github.com/sponsors/zedeus)
-- Alternative Twitter front-end
+### [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)
+- A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
 
-### [tt-a1i/archify](https://github.com/tt-a1i/archify)
-- Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
+### [sponsors/abhigyanpatwari](https://github.com/sponsors/abhigyanpatwari)
+- GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local) or ZIP file, and get an interactive knowledge graph with a built in Graph RAG Agent. Perfect for code exploration
 
-### [JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines)
-- Help AI coding agents write modern Go
+### [sponsors/calesthio](https://github.com/sponsors/calesthio)
+- World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.
 
-### [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
-- Official, Anthropic-managed directory of high quality Claude Code Plugins.
+### [sponsors/abi](https://github.com/sponsors/abi)
+- Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 
-### [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)
-- Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+ scientists worldwide. 163 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.
+### [tailscale/tailcat](https://github.com/tailscale/tailcat)
+- like netcat, but over Tailscale's data plane, without Tailscale's control plane
 
