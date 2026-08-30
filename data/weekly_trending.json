@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "openai/codex",
-    "url": "https://github.com/openai/codex",
-    "description": "Lightweight coding agent that runs in your terminal",
-    "date_added": "2026-08-23"
-  },
-  {
-    "full_name": "Wei-Shaw/sub2api",
-    "url": "https://github.com/Wei-Shaw/sub2api",
-    "description": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
-    "date_added": "2026-08-23"
-  },
-  {
-    "full_name": "makeplane/plane",
-    "url": "https://github.com/makeplane/plane",
-    "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
-    "date_added": "2026-08-23"
-  },
-  {
-    "full_name": "n8n-io/n8n",
-    "url": "https://github.com/n8n-io/n8n",
-    "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-    "date_added": "2026-08-23"
-  },
-  {
-    "full_name": "anthropics/claude-code",
-    "url": "https://github.com/anthropics/claude-code",
-    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-    "date_added": "2026-08-23"
-  },
-  {
     "full_name": "freestylefly/awesome-gpt-image-2",
     "url": "https://github.com/freestylefly/awesome-gpt-image-2",
     "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
@@ -208,5 +178,35 @@
     "url": "https://github.com/tashfeenahmed/freellmapi",
     "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
     "date_added": "2026-08-29"
+  },
+  {
+    "full_name": "THU-MAIC/OpenMAIC",
+    "url": "https://github.com/THU-MAIC/OpenMAIC",
+    "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+    "date_added": "2026-08-30"
+  },
+  {
+    "full_name": "sponsors/Lakr233",
+    "url": "https://github.com/sponsors/Lakr233",
+    "description": "",
+    "date_added": "2026-08-30"
+  },
+  {
+    "full_name": "p-e-w/heretic",
+    "url": "https://github.com/p-e-w/heretic",
+    "description": "Fully automatic censorship removal for language models",
+    "date_added": "2026-08-30"
+  },
+  {
+    "full_name": "sponsors/unclecode",
+    "url": "https://github.com/sponsors/unclecode",
+    "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
+    "date_added": "2026-08-30"
+  },
+  {
+    "full_name": "mvanhorn/last30days-skill",
+    "url": "https://github.com/mvanhorn/last30days-skill",
+    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+    "date_added": "2026-08-30"
   }
 ]

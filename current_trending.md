@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-08-29)
+# GitHub Trending (Added at: 2026-08-30)
 
-### [cursor/plugins](https://github.com/cursor/plugins)
-- Cursor plugin specification and official plugins
+### [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)
+- Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
 
-### [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)
-- Ghidra is a software reverse engineering (SRE) framework
+### [sponsors/Lakr233](https://github.com/sponsors/Lakr233)
+- 
 
-### [sponsors/swoole](https://github.com/sponsors/swoole)
-- Compile PHP to Native Binaries
+### [p-e-w/heretic](https://github.com/p-e-w/heretic)
+- Fully automatic censorship removal for language models
 
-### [marin-community/marin](https://github.com/marin-community/marin)
-- Open-source framework for the research and development of foundation models.
+### [sponsors/unclecode](https://github.com/sponsors/unclecode)
+- 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
 
-### [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi)
-- 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
+### [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)
+- AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 
