@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "freestylefly/awesome-gpt-image-2",
-    "url": "https://github.com/freestylefly/awesome-gpt-image-2",
-    "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
-    "date_added": "2026-08-24"
-  },
-  {
-    "full_name": "basecamp/omarchy",
-    "url": "https://github.com/basecamp/omarchy",
-    "description": "Beautiful, Modern & Opinionated Linux",
-    "date_added": "2026-08-24"
-  },
-  {
-    "full_name": "block/buzz",
-    "url": "https://github.com/block/buzz",
-    "description": "A hive mind communication platform",
-    "date_added": "2026-08-24"
-  },
-  {
-    "full_name": "apache/maka",
-    "url": "https://github.com/apache/maka",
-    "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
-    "date_added": "2026-08-24"
-  },
-  {
-    "full_name": "Alishahryar1/free-claude-code",
-    "url": "https://github.com/Alishahryar1/free-claude-code",
-    "description": "Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
-    "date_added": "2026-08-24"
-  },
-  {
     "full_name": "sponsors/MadsLorentzen",
     "url": "https://github.com/sponsors/MadsLorentzen",
     "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
@@ -208,5 +178,35 @@
     "url": "https://github.com/mvanhorn/last30days-skill",
     "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
     "date_added": "2026-08-30"
+  },
+  {
+    "full_name": "k1tbyte/Wand-Enhancer",
+    "url": "https://github.com/k1tbyte/Wand-Enhancer",
+    "description": "Advanced UX and interoperability extension for Wand (WeMod) app",
+    "date_added": "2026-08-31"
+  },
+  {
+    "full_name": "majd/ipatool",
+    "url": "https://github.com/majd/ipatool",
+    "description": "Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.",
+    "date_added": "2026-08-31"
+  },
+  {
+    "full_name": "jingyaogong/minimind",
+    "url": "https://github.com/jingyaogong/minimind",
+    "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+    "date_added": "2026-08-31"
+  },
+  {
+    "full_name": "Osmantic/ODS",
+    "url": "https://github.com/Osmantic/ODS",
+    "description": "Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.",
+    "date_added": "2026-08-31"
+  },
+  {
+    "full_name": "checkstyle/checkstyle",
+    "url": "https://github.com/checkstyle/checkstyle",
+    "description": "Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.",
+    "date_added": "2026-08-31"
   }
 ]

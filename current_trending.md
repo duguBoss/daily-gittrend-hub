@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-08-30)
+# GitHub Trending (Added at: 2026-08-31)
 
-### [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)
-- Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
+### [k1tbyte/Wand-Enhancer](https://github.com/k1tbyte/Wand-Enhancer)
+- Advanced UX and interoperability extension for Wand (WeMod) app
 
-### [sponsors/Lakr233](https://github.com/sponsors/Lakr233)
-- 
+### [majd/ipatool](https://github.com/majd/ipatool)
+- Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.
 
-### [p-e-w/heretic](https://github.com/p-e-w/heretic)
-- Fully automatic censorship removal for language models
+### [jingyaogong/minimind](https://github.com/jingyaogong/minimind)
+- 🧠 Train a 64M-parameter LLM from scratch in just 2h!
 
-### [sponsors/unclecode](https://github.com/sponsors/unclecode)
-- 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
+### [Osmantic/ODS](https://github.com/Osmantic/ODS)
+- Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.
 
-### [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)
-- AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
+### [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+- Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.
 
