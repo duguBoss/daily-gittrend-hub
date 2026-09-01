@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "sponsors/MadsLorentzen",
-    "url": "https://github.com/sponsors/MadsLorentzen",
-    "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
-    "date_added": "2026-08-25"
-  },
-  {
-    "full_name": "multica-ai/andrej-karpathy-skills",
-    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-    "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-    "date_added": "2026-08-25"
-  },
-  {
-    "full_name": "NousResearch/hermes-agent",
-    "url": "https://github.com/NousResearch/hermes-agent",
-    "description": "The agent that grows with you",
-    "date_added": "2026-08-25"
-  },
-  {
-    "full_name": "anthropics/claude-plugins-community",
-    "url": "https://github.com/anthropics/claude-plugins-community",
-    "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
-    "date_added": "2026-08-25"
-  },
-  {
-    "full_name": "sponsors/openclaw",
-    "url": "https://github.com/sponsors/openclaw",
-    "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
-    "date_added": "2026-08-25"
-  },
-  {
     "full_name": "TauricResearch/TradingAgents",
     "url": "https://github.com/TauricResearch/TradingAgents",
     "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
@@ -208,5 +178,35 @@
     "url": "https://github.com/checkstyle/checkstyle",
     "description": "Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.",
     "date_added": "2026-08-31"
+  },
+  {
+    "full_name": "Gitlawb/openclaude",
+    "url": "https://github.com/Gitlawb/openclaude",
+    "description": "runs anywhere. uses anything",
+    "date_added": "2026-09-01"
+  },
+  {
+    "full_name": "Imbad0202/academic-research-skills",
+    "url": "https://github.com/Imbad0202/academic-research-skills",
+    "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+    "date_added": "2026-09-01"
+  },
+  {
+    "full_name": "iv-org/invidious",
+    "url": "https://github.com/iv-org/invidious",
+    "description": "Invidious is an alternative front-end to YouTube",
+    "date_added": "2026-09-01"
+  },
+  {
+    "full_name": "debpalash/VoiceStudio",
+    "url": "https://github.com/debpalash/VoiceStudio",
+    "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+    "date_added": "2026-09-01"
+  },
+  {
+    "full_name": "3b1b/manim",
+    "url": "https://github.com/3b1b/manim",
+    "description": "Animation engine for explanatory math videos",
+    "date_added": "2026-09-01"
   }
 ]

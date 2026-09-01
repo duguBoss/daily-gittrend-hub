@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-08-31)
+# GitHub Trending (Added at: 2026-09-01)
 
-### [k1tbyte/Wand-Enhancer](https://github.com/k1tbyte/Wand-Enhancer)
-- Advanced UX and interoperability extension for Wand (WeMod) app
+### [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)
+- runs anywhere. uses anything
 
-### [majd/ipatool](https://github.com/majd/ipatool)
-- Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.
+### [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills)
+- Academic Research Skills for Claude Code: research → write → review → revise → finalize
 
-### [jingyaogong/minimind](https://github.com/jingyaogong/minimind)
-- 🧠 Train a 64M-parameter LLM from scratch in just 2h!
+### [iv-org/invidious](https://github.com/iv-org/invidious)
+- Invidious is an alternative front-end to YouTube
 
-### [Osmantic/ODS](https://github.com/Osmantic/ODS)
-- Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.
+### [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)
+- VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
 
-### [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-- Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.
+### [3b1b/manim](https://github.com/3b1b/manim)
+- Animation engine for explanatory math videos
 
