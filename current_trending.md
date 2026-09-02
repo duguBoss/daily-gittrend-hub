@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-09-01)
+# GitHub Trending (Added at: 2026-09-02)
 
-### [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)
-- runs anywhere. uses anything
+### [fmtlib/fmt](https://github.com/fmtlib/fmt)
+- A modern formatting library
 
-### [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills)
-- Academic Research Skills for Claude Code: research → write → review → revise → finalize
+### [google-research/timesfm](https://github.com/google-research/timesfm)
+- TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
 
-### [iv-org/invidious](https://github.com/iv-org/invidious)
-- Invidious is an alternative front-end to YouTube
+### [sponsors/DietrichGebert](https://github.com/sponsors/DietrichGebert)
+- Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 
-### [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)
-- VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
+### [sngyai/Sequoia-X](https://github.com/sngyai/Sequoia-X)
+- A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书
 
-### [3b1b/manim](https://github.com/3b1b/manim)
-- Animation engine for explanatory math videos
+### [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
+- Chrome DevTools for coding agents
 

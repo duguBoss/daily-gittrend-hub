@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "TauricResearch/TradingAgents",
-    "url": "https://github.com/TauricResearch/TradingAgents",
-    "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-    "date_added": "2026-08-26"
-  },
-  {
-    "full_name": "AgriciDaniel/claude-obsidian",
-    "url": "https://github.com/AgriciDaniel/claude-obsidian",
-    "description": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.",
-    "date_added": "2026-08-26"
-  },
-  {
-    "full_name": "sponsors/rohitg00",
-    "url": "https://github.com/sponsors/rohitg00",
-    "description": "Learn it. Build it. Ship it for others.",
-    "date_added": "2026-08-26"
-  },
-  {
-    "full_name": "tinyhumansai/openhuman",
-    "url": "https://github.com/tinyhumansai/openhuman",
-    "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
-    "date_added": "2026-08-26"
-  },
-  {
-    "full_name": "Shubhamsaboo/awesome-llm-apps",
-    "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-    "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
-    "date_added": "2026-08-26"
-  },
-  {
     "full_name": "sponsors/zedeus",
     "url": "https://github.com/sponsors/zedeus",
     "description": "Alternative Twitter front-end",
@@ -208,5 +178,35 @@
     "url": "https://github.com/3b1b/manim",
     "description": "Animation engine for explanatory math videos",
     "date_added": "2026-09-01"
+  },
+  {
+    "full_name": "fmtlib/fmt",
+    "url": "https://github.com/fmtlib/fmt",
+    "description": "A modern formatting library",
+    "date_added": "2026-09-02"
+  },
+  {
+    "full_name": "google-research/timesfm",
+    "url": "https://github.com/google-research/timesfm",
+    "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+    "date_added": "2026-09-02"
+  },
+  {
+    "full_name": "sponsors/DietrichGebert",
+    "url": "https://github.com/sponsors/DietrichGebert",
+    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "date_added": "2026-09-02"
+  },
+  {
+    "full_name": "sngyai/Sequoia-X",
+    "url": "https://github.com/sngyai/Sequoia-X",
+    "description": "A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书",
+    "date_added": "2026-09-02"
+  },
+  {
+    "full_name": "ChromeDevTools/chrome-devtools-mcp",
+    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+    "description": "Chrome DevTools for coding agents",
+    "date_added": "2026-09-02"
   }
 ]
