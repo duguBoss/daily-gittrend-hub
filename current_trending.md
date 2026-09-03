@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-09-02)
+# GitHub Trending (Added at: 2026-09-03)
 
-### [fmtlib/fmt](https://github.com/fmtlib/fmt)
-- A modern formatting library
+### [sponsors/mattpocock](https://github.com/sponsors/mattpocock)
+- Skills for Real Engineers. Straight from my .agents directory.
 
-### [google-research/timesfm](https://github.com/google-research/timesfm)
-- TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
+### [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+- The agent that grows with you
 
-### [sponsors/DietrichGebert](https://github.com/sponsors/DietrichGebert)
-- Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+### [anthropics/skills](https://github.com/anthropics/skills)
+- Public repository for Agent Skills
 
-### [sngyai/Sequoia-X](https://github.com/sngyai/Sequoia-X)
-- A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书
+### [sponsors/affaan-m](https://github.com/sponsors/affaan-m)
+- The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
-### [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
-- Chrome DevTools for coding agents
+### [sponsors/JuliusBrussee](https://github.com/sponsors/JuliusBrussee)
+- 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 

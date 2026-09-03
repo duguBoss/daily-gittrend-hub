@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "sponsors/zedeus",
-    "url": "https://github.com/sponsors/zedeus",
-    "description": "Alternative Twitter front-end",
-    "date_added": "2026-08-27"
-  },
-  {
-    "full_name": "tt-a1i/archify",
-    "url": "https://github.com/tt-a1i/archify",
-    "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
-    "date_added": "2026-08-27"
-  },
-  {
-    "full_name": "JetBrains/go-modern-guidelines",
-    "url": "https://github.com/JetBrains/go-modern-guidelines",
-    "description": "Help AI coding agents write modern Go",
-    "date_added": "2026-08-27"
-  },
-  {
-    "full_name": "anthropics/claude-plugins-official",
-    "url": "https://github.com/anthropics/claude-plugins-official",
-    "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-    "date_added": "2026-08-27"
-  },
-  {
-    "full_name": "K-Dense-AI/scientific-agent-skills",
-    "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-    "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+ scientists worldwide. 163 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-    "date_added": "2026-08-27"
-  },
-  {
     "full_name": "bilawalsidhu/gods-eye-view",
     "url": "https://github.com/bilawalsidhu/gods-eye-view",
     "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
@@ -208,5 +178,35 @@
     "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
     "description": "Chrome DevTools for coding agents",
     "date_added": "2026-09-02"
+  },
+  {
+    "full_name": "sponsors/mattpocock",
+    "url": "https://github.com/sponsors/mattpocock",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "date_added": "2026-09-03"
+  },
+  {
+    "full_name": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "description": "The agent that grows with you",
+    "date_added": "2026-09-03"
+  },
+  {
+    "full_name": "anthropics/skills",
+    "url": "https://github.com/anthropics/skills",
+    "description": "Public repository for Agent Skills",
+    "date_added": "2026-09-03"
+  },
+  {
+    "full_name": "sponsors/affaan-m",
+    "url": "https://github.com/sponsors/affaan-m",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "date_added": "2026-09-03"
+  },
+  {
+    "full_name": "sponsors/JuliusBrussee",
+    "url": "https://github.com/sponsors/JuliusBrussee",
+    "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+    "date_added": "2026-09-03"
   }
 ]
