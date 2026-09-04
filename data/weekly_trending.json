@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "bilawalsidhu/gods-eye-view",
-    "url": "https://github.com/bilawalsidhu/gods-eye-view",
-    "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-    "date_added": "2026-08-28"
-  },
-  {
-    "full_name": "sponsors/abhigyanpatwari",
-    "url": "https://github.com/sponsors/abhigyanpatwari",
-    "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local) or ZIP file, and get an interactive knowledge graph with a built in Graph RAG Agent. Perfect for code exploration",
-    "date_added": "2026-08-28"
-  },
-  {
-    "full_name": "sponsors/calesthio",
-    "url": "https://github.com/sponsors/calesthio",
-    "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
-    "date_added": "2026-08-28"
-  },
-  {
-    "full_name": "sponsors/abi",
-    "url": "https://github.com/sponsors/abi",
-    "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
-    "date_added": "2026-08-28"
-  },
-  {
-    "full_name": "tailscale/tailcat",
-    "url": "https://github.com/tailscale/tailcat",
-    "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
-    "date_added": "2026-08-28"
-  },
-  {
     "full_name": "cursor/plugins",
     "url": "https://github.com/cursor/plugins",
     "description": "Cursor plugin specification and official plugins",
@@ -208,5 +178,35 @@
     "url": "https://github.com/sponsors/JuliusBrussee",
     "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
     "date_added": "2026-09-03"
+  },
+  {
+    "full_name": "blader/humanizer",
+    "url": "https://github.com/blader/humanizer",
+    "description": "Agent skill that removes signs of AI-generated writing from text",
+    "date_added": "2026-09-04"
+  },
+  {
+    "full_name": "magnitudedev/magnitude",
+    "url": "https://github.com/magnitudedev/magnitude",
+    "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
+    "date_added": "2026-09-04"
+  },
+  {
+    "full_name": "bikini/exploitarium",
+    "url": "https://github.com/bikini/exploitarium",
+    "description": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.",
+    "date_added": "2026-09-04"
+  },
+  {
+    "full_name": "bannedbook/fanqiang",
+    "url": "https://github.com/bannedbook/fanqiang",
+    "description": "翻墙-科学上网",
+    "date_added": "2026-09-04"
+  },
+  {
+    "full_name": "radixark/miles",
+    "url": "https://github.com/radixark/miles",
+    "description": "Miles is an enterprise-facing reinforcement learning framework for LLM and VLM post-training, forked from and co-evolving with slime.",
+    "date_added": "2026-09-04"
   }
 ]
