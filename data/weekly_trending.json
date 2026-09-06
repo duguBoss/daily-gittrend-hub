@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "THU-MAIC/OpenMAIC",
-    "url": "https://github.com/THU-MAIC/OpenMAIC",
-    "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
-    "date_added": "2026-08-30"
-  },
-  {
-    "full_name": "sponsors/Lakr233",
-    "url": "https://github.com/sponsors/Lakr233",
-    "description": "",
-    "date_added": "2026-08-30"
-  },
-  {
-    "full_name": "p-e-w/heretic",
-    "url": "https://github.com/p-e-w/heretic",
-    "description": "Fully automatic censorship removal for language models",
-    "date_added": "2026-08-30"
-  },
-  {
-    "full_name": "sponsors/unclecode",
-    "url": "https://github.com/sponsors/unclecode",
-    "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
-    "date_added": "2026-08-30"
-  },
-  {
-    "full_name": "mvanhorn/last30days-skill",
-    "url": "https://github.com/mvanhorn/last30days-skill",
-    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-    "date_added": "2026-08-30"
-  },
-  {
     "full_name": "k1tbyte/Wand-Enhancer",
     "url": "https://github.com/k1tbyte/Wand-Enhancer",
     "description": "Advanced UX and interoperability extension for Wand (WeMod) app",
@@ -208,5 +178,17 @@
     "url": "https://github.com/BraveOPotato/FckSignups",
     "description": "A list of tools that are open-source, in-browser, and require no-signups!",
     "date_added": "2026-09-05"
+  },
+  {
+    "full_name": "WorldFlowAI/everything-claude-code",
+    "url": "https://github.com/WorldFlowAI/everything-claude-code",
+    "description": "Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development",
+    "date_added": "2026-09-06"
+  },
+  {
+    "full_name": "nvm-sh/nvm",
+    "url": "https://github.com/nvm-sh/nvm",
+    "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump",
+    "date_added": "2026-09-06"
   }
 ]
