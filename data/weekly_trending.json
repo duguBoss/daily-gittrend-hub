@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "k1tbyte/Wand-Enhancer",
-    "url": "https://github.com/k1tbyte/Wand-Enhancer",
-    "description": "Advanced UX and interoperability extension for Wand (WeMod) app",
-    "date_added": "2026-08-31"
-  },
-  {
-    "full_name": "majd/ipatool",
-    "url": "https://github.com/majd/ipatool",
-    "description": "Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.",
-    "date_added": "2026-08-31"
-  },
-  {
-    "full_name": "jingyaogong/minimind",
-    "url": "https://github.com/jingyaogong/minimind",
-    "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
-    "date_added": "2026-08-31"
-  },
-  {
-    "full_name": "Osmantic/ODS",
-    "url": "https://github.com/Osmantic/ODS",
-    "description": "Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.",
-    "date_added": "2026-08-31"
-  },
-  {
-    "full_name": "checkstyle/checkstyle",
-    "url": "https://github.com/checkstyle/checkstyle",
-    "description": "Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.",
-    "date_added": "2026-08-31"
-  },
-  {
     "full_name": "Gitlawb/openclaude",
     "url": "https://github.com/Gitlawb/openclaude",
     "description": "runs anywhere. uses anything",
@@ -190,5 +160,35 @@
     "url": "https://github.com/nvm-sh/nvm",
     "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump",
     "date_added": "2026-09-06"
+  },
+  {
+    "full_name": "heygen-com/hyperframes",
+    "url": "https://github.com/heygen-com/hyperframes",
+    "description": "Write HTML. Render video. Built for agents.",
+    "date_added": "2026-09-07"
+  },
+  {
+    "full_name": "microsoft/markitdown",
+    "url": "https://github.com/microsoft/markitdown",
+    "description": "Python tool for converting files and office documents to Markdown.",
+    "date_added": "2026-09-07"
+  },
+  {
+    "full_name": "sponsors/mksglu",
+    "url": "https://github.com/sponsors/mksglu",
+    "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+    "date_added": "2026-09-07"
+  },
+  {
+    "full_name": "jo-inc/camofox-browser",
+    "url": "https://github.com/jo-inc/camofox-browser",
+    "description": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
+    "date_added": "2026-09-07"
+  },
+  {
+    "full_name": "MoonTechLab/LunaTV",
+    "url": "https://github.com/MoonTechLab/LunaTV",
+    "description": "本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源",
+    "date_added": "2026-09-07"
   }
 ]
