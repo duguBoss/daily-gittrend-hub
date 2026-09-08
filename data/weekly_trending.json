@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "Gitlawb/openclaude",
-    "url": "https://github.com/Gitlawb/openclaude",
-    "description": "runs anywhere. uses anything",
-    "date_added": "2026-09-01"
-  },
-  {
-    "full_name": "Imbad0202/academic-research-skills",
-    "url": "https://github.com/Imbad0202/academic-research-skills",
-    "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
-    "date_added": "2026-09-01"
-  },
-  {
-    "full_name": "iv-org/invidious",
-    "url": "https://github.com/iv-org/invidious",
-    "description": "Invidious is an alternative front-end to YouTube",
-    "date_added": "2026-09-01"
-  },
-  {
-    "full_name": "debpalash/VoiceStudio",
-    "url": "https://github.com/debpalash/VoiceStudio",
-    "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-    "date_added": "2026-09-01"
-  },
-  {
-    "full_name": "3b1b/manim",
-    "url": "https://github.com/3b1b/manim",
-    "description": "Animation engine for explanatory math videos",
-    "date_added": "2026-09-01"
-  },
-  {
     "full_name": "fmtlib/fmt",
     "url": "https://github.com/fmtlib/fmt",
     "description": "A modern formatting library",
@@ -190,5 +160,35 @@
     "url": "https://github.com/MoonTechLab/LunaTV",
     "description": "本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源",
     "date_added": "2026-09-07"
+  },
+  {
+    "full_name": "ayghri/i-have-adhd",
+    "url": "https://github.com/ayghri/i-have-adhd",
+    "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+    "date_added": "2026-09-08"
+  },
+  {
+    "full_name": "openai/skills",
+    "url": "https://github.com/openai/skills",
+    "description": "Skills Catalog for Codex",
+    "date_added": "2026-09-08"
+  },
+  {
+    "full_name": "sponsors/coreyhaines31",
+    "url": "https://github.com/sponsors/coreyhaines31",
+    "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+    "date_added": "2026-09-08"
+  },
+  {
+    "full_name": "sponsors/obra",
+    "url": "https://github.com/sponsors/obra",
+    "description": "An agentic skills framework & software development methodology that works.",
+    "date_added": "2026-09-08"
+  },
+  {
+    "full_name": "multica-ai/andrej-karpathy-skills",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "date_added": "2026-09-08"
   }
 ]
