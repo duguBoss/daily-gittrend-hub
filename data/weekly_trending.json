@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "fmtlib/fmt",
-    "url": "https://github.com/fmtlib/fmt",
-    "description": "A modern formatting library",
-    "date_added": "2026-09-02"
-  },
-  {
-    "full_name": "google-research/timesfm",
-    "url": "https://github.com/google-research/timesfm",
-    "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
-    "date_added": "2026-09-02"
-  },
-  {
-    "full_name": "sponsors/DietrichGebert",
-    "url": "https://github.com/sponsors/DietrichGebert",
-    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-    "date_added": "2026-09-02"
-  },
-  {
-    "full_name": "sngyai/Sequoia-X",
-    "url": "https://github.com/sngyai/Sequoia-X",
-    "description": "A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书",
-    "date_added": "2026-09-02"
-  },
-  {
-    "full_name": "ChromeDevTools/chrome-devtools-mcp",
-    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-    "description": "Chrome DevTools for coding agents",
-    "date_added": "2026-09-02"
-  },
-  {
     "full_name": "sponsors/mattpocock",
     "url": "https://github.com/sponsors/mattpocock",
     "description": "Skills for Real Engineers. Straight from my .agents directory.",
@@ -190,5 +160,35 @@
     "url": "https://github.com/multica-ai/andrej-karpathy-skills",
     "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
     "date_added": "2026-09-08"
+  },
+  {
+    "full_name": "Tencent/teamai-cli",
+    "url": "https://github.com/Tencent/teamai-cli",
+    "description": "Make Every Team AI Native",
+    "date_added": "2026-09-09"
+  },
+  {
+    "full_name": "pascalorg/editor",
+    "url": "https://github.com/pascalorg/editor",
+    "description": "Create and share 3D architectural projects.",
+    "date_added": "2026-09-09"
+  },
+  {
+    "full_name": "earthtojake/text-to-cad",
+    "url": "https://github.com/earthtojake/text-to-cad",
+    "description": "A library of agent skills for CAD, CAE and CAM",
+    "date_added": "2026-09-09"
+  },
+  {
+    "full_name": "TauricResearch/TradingAgents",
+    "url": "https://github.com/TauricResearch/TradingAgents",
+    "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+    "date_added": "2026-09-09"
+  },
+  {
+    "full_name": "liquidslr/system-design-notes",
+    "url": "https://github.com/liquidslr/system-design-notes",
+    "description": "Notes of the book System Desgin Interview - An Insider's Guide",
+    "date_added": "2026-09-09"
   }
 ]

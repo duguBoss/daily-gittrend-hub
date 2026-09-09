@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-09-08)
+# GitHub Trending (Added at: 2026-09-09)
 
-### [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)
-- A skill to stop your coding agent from burying the answer. ADHD-friendly output.
+### [Tencent/teamai-cli](https://github.com/Tencent/teamai-cli)
+- Make Every Team AI Native
 
-### [openai/skills](https://github.com/openai/skills)
-- Skills Catalog for Codex
+### [pascalorg/editor](https://github.com/pascalorg/editor)
+- Create and share 3D architectural projects.
 
-### [sponsors/coreyhaines31](https://github.com/sponsors/coreyhaines31)
-- Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
+### [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad)
+- A library of agent skills for CAD, CAE and CAM
 
-### [sponsors/obra](https://github.com/sponsors/obra)
-- An agentic skills framework & software development methodology that works.
+### [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)
+- TradingAgents: Multi-Agents LLM Financial Trading Framework
 
-### [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)
-- A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+### [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes)
+- Notes of the book System Desgin Interview - An Insider's Guide
 
