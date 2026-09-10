@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "sponsors/mattpocock",
-    "url": "https://github.com/sponsors/mattpocock",
-    "description": "Skills for Real Engineers. Straight from my .agents directory.",
-    "date_added": "2026-09-03"
-  },
-  {
-    "full_name": "NousResearch/hermes-agent",
-    "url": "https://github.com/NousResearch/hermes-agent",
-    "description": "The agent that grows with you",
-    "date_added": "2026-09-03"
-  },
-  {
-    "full_name": "anthropics/skills",
-    "url": "https://github.com/anthropics/skills",
-    "description": "Public repository for Agent Skills",
-    "date_added": "2026-09-03"
-  },
-  {
-    "full_name": "sponsors/affaan-m",
-    "url": "https://github.com/sponsors/affaan-m",
-    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-    "date_added": "2026-09-03"
-  },
-  {
-    "full_name": "sponsors/JuliusBrussee",
-    "url": "https://github.com/sponsors/JuliusBrussee",
-    "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
-    "date_added": "2026-09-03"
-  },
-  {
     "full_name": "blader/humanizer",
     "url": "https://github.com/blader/humanizer",
     "description": "Agent skill that removes signs of AI-generated writing from text",
@@ -190,5 +160,35 @@
     "url": "https://github.com/liquidslr/system-design-notes",
     "description": "Notes of the book System Desgin Interview - An Insider's Guide",
     "date_added": "2026-09-09"
+  },
+  {
+    "full_name": "bilawalsidhu/gods-eye-view",
+    "url": "https://github.com/bilawalsidhu/gods-eye-view",
+    "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+    "date_added": "2026-09-10"
+  },
+  {
+    "full_name": "alsk1992/CloddsBot",
+    "url": "https://github.com/alsk1992/CloddsBot",
+    "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
+    "date_added": "2026-09-10"
+  },
+  {
+    "full_name": "sponsors/AlexsJones",
+    "url": "https://github.com/sponsors/AlexsJones",
+    "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
+    "date_added": "2026-09-10"
+  },
+  {
+    "full_name": "freestylefly/awesome-gpt-image-2",
+    "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+    "description": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。",
+    "date_added": "2026-09-10"
+  },
+  {
+    "full_name": "armory3d/armorpaint",
+    "url": "https://github.com/armory3d/armorpaint",
+    "description": "Graphics Creation Tools",
+    "date_added": "2026-09-10"
   }
 ]

@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-09-09)
+# GitHub Trending (Added at: 2026-09-10)
 
-### [Tencent/teamai-cli](https://github.com/Tencent/teamai-cli)
-- Make Every Team AI Native
+### [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)
+- A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
 
-### [pascalorg/editor](https://github.com/pascalorg/editor)
-- Create and share 3D architectural projects.
+### [alsk1992/CloddsBot](https://github.com/alsk1992/CloddsBot)
+- Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.
 
-### [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad)
-- A library of agent skills for CAD, CAE and CAM
+### [sponsors/AlexsJones](https://github.com/sponsors/AlexsJones)
+- Hundreds of models & providers. One command to find what runs on your hardware.
 
-### [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)
-- TradingAgents: Multi-Agents LLM Financial Trading Framework
+### [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
+- Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。
 
-### [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes)
-- Notes of the book System Desgin Interview - An Insider's Guide
+### [armory3d/armorpaint](https://github.com/armory3d/armorpaint)
+- Graphics Creation Tools
 
