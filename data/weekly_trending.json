@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "blader/humanizer",
-    "url": "https://github.com/blader/humanizer",
-    "description": "Agent skill that removes signs of AI-generated writing from text",
-    "date_added": "2026-09-04"
-  },
-  {
-    "full_name": "magnitudedev/magnitude",
-    "url": "https://github.com/magnitudedev/magnitude",
-    "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
-    "date_added": "2026-09-04"
-  },
-  {
-    "full_name": "bikini/exploitarium",
-    "url": "https://github.com/bikini/exploitarium",
-    "description": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.",
-    "date_added": "2026-09-04"
-  },
-  {
-    "full_name": "bannedbook/fanqiang",
-    "url": "https://github.com/bannedbook/fanqiang",
-    "description": "翻墙-科学上网",
-    "date_added": "2026-09-04"
-  },
-  {
-    "full_name": "radixark/miles",
-    "url": "https://github.com/radixark/miles",
-    "description": "Miles is an enterprise-facing reinforcement learning framework for LLM and VLM post-training, forked from and co-evolving with slime.",
-    "date_added": "2026-09-04"
-  },
-  {
     "full_name": "cathrynlavery/diagram-design",
     "url": "https://github.com/cathrynlavery/diagram-design",
     "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
@@ -190,5 +160,35 @@
     "url": "https://github.com/armory3d/armorpaint",
     "description": "Graphics Creation Tools",
     "date_added": "2026-09-10"
+  },
+  {
+    "full_name": "nab138/iloader",
+    "url": "https://github.com/nab138/iloader",
+    "description": "User friendly sideloader",
+    "date_added": "2026-09-11"
+  },
+  {
+    "full_name": "melgarafael/DeskcommCRM",
+    "url": "https://github.com/melgarafael/DeskcommCRM",
+    "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+    "date_added": "2026-09-11"
+  },
+  {
+    "full_name": "vastsa/PI-Desktop",
+    "url": "https://github.com/vastsa/PI-Desktop",
+    "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
+    "date_added": "2026-09-11"
+  },
+  {
+    "full_name": "nashsu/llm_wiki",
+    "url": "https://github.com/nashsu/llm_wiki",
+    "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
+    "date_added": "2026-09-11"
+  },
+  {
+    "full_name": "Sonarr/Sonarr",
+    "url": "https://github.com/Sonarr/Sonarr",
+    "description": "Smart PVR for newsgroup and bittorrent users.",
+    "date_added": "2026-09-11"
   }
 ]
