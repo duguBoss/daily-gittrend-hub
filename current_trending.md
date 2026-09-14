@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-09-13)
+# GitHub Trending (Added at: 2026-09-14)
 
-### [JustVugg/colibri](https://github.com/JustVugg/colibri)
-- Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
+### [alibaba/open-code-review](https://github.com/alibaba/open-code-review)
+- Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
 
-### [sponsors/ever-co](https://github.com/sponsors/ever-co)
-- Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co
+### [multimodal-art-projection/YuE](https://github.com/multimodal-art-projection/YuE)
+- YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.
 
-### [tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills)
-- The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.
+### [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)
+- VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
 
-### [sponsors/calesthio](https://github.com/sponsors/calesthio)
-- World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.
+### [666ghj/MiroFish](https://github.com/666ghj/MiroFish)
+- A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
 
-### [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi)
-- Fully autonomous AI Agents system capable of performing complex penetration testing tasks
+### [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
+- Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
 

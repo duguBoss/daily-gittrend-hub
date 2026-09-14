@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "heygen-com/hyperframes",
-    "url": "https://github.com/heygen-com/hyperframes",
-    "description": "Write HTML. Render video. Built for agents.",
-    "date_added": "2026-09-07"
-  },
-  {
-    "full_name": "microsoft/markitdown",
-    "url": "https://github.com/microsoft/markitdown",
-    "description": "Python tool for converting files and office documents to Markdown.",
-    "date_added": "2026-09-07"
-  },
-  {
-    "full_name": "sponsors/mksglu",
-    "url": "https://github.com/sponsors/mksglu",
-    "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-    "date_added": "2026-09-07"
-  },
-  {
-    "full_name": "jo-inc/camofox-browser",
-    "url": "https://github.com/jo-inc/camofox-browser",
-    "description": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
-    "date_added": "2026-09-07"
-  },
-  {
-    "full_name": "MoonTechLab/LunaTV",
-    "url": "https://github.com/MoonTechLab/LunaTV",
-    "description": "本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源",
-    "date_added": "2026-09-07"
-  },
-  {
     "full_name": "ayghri/i-have-adhd",
     "url": "https://github.com/ayghri/i-have-adhd",
     "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
@@ -208,5 +178,35 @@
     "url": "https://github.com/vxcontrol/pentagi",
     "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
     "date_added": "2026-09-13"
+  },
+  {
+    "full_name": "alibaba/open-code-review",
+    "url": "https://github.com/alibaba/open-code-review",
+    "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+    "date_added": "2026-09-14"
+  },
+  {
+    "full_name": "multimodal-art-projection/YuE",
+    "url": "https://github.com/multimodal-art-projection/YuE",
+    "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+    "date_added": "2026-09-14"
+  },
+  {
+    "full_name": "debpalash/VoiceStudio",
+    "url": "https://github.com/debpalash/VoiceStudio",
+    "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+    "date_added": "2026-09-14"
+  },
+  {
+    "full_name": "666ghj/MiroFish",
+    "url": "https://github.com/666ghj/MiroFish",
+    "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+    "date_added": "2026-09-14"
+  },
+  {
+    "full_name": "Panniantong/Agent-Reach",
+    "url": "https://github.com/Panniantong/Agent-Reach",
+    "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+    "date_added": "2026-09-14"
   }
 ]
