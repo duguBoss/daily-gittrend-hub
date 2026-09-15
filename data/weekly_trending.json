@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "ayghri/i-have-adhd",
-    "url": "https://github.com/ayghri/i-have-adhd",
-    "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-    "date_added": "2026-09-08"
-  },
-  {
-    "full_name": "openai/skills",
-    "url": "https://github.com/openai/skills",
-    "description": "Skills Catalog for Codex",
-    "date_added": "2026-09-08"
-  },
-  {
-    "full_name": "sponsors/coreyhaines31",
-    "url": "https://github.com/sponsors/coreyhaines31",
-    "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
-    "date_added": "2026-09-08"
-  },
-  {
-    "full_name": "sponsors/obra",
-    "url": "https://github.com/sponsors/obra",
-    "description": "An agentic skills framework & software development methodology that works.",
-    "date_added": "2026-09-08"
-  },
-  {
-    "full_name": "multica-ai/andrej-karpathy-skills",
-    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-    "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-    "date_added": "2026-09-08"
-  },
-  {
     "full_name": "Tencent/teamai-cli",
     "url": "https://github.com/Tencent/teamai-cli",
     "description": "Make Every Team AI Native",
@@ -208,5 +178,35 @@
     "url": "https://github.com/Panniantong/Agent-Reach",
     "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
     "date_added": "2026-09-14"
+  },
+  {
+    "full_name": "sponsors/Homebrew",
+    "url": "https://github.com/sponsors/Homebrew",
+    "description": "📺 Homebrew's official macOS GUI",
+    "date_added": "2026-09-15"
+  },
+  {
+    "full_name": "alphaXiv/OpenResearch",
+    "url": "https://github.com/alphaXiv/OpenResearch",
+    "description": "Turn your coding agents into research agents",
+    "date_added": "2026-09-15"
+  },
+  {
+    "full_name": "NationalSecurityAgency/ghidra",
+    "url": "https://github.com/NationalSecurityAgency/ghidra",
+    "description": "Ghidra is a software reverse engineering (SRE) framework",
+    "date_added": "2026-09-15"
+  },
+  {
+    "full_name": "sponsors/danny-avila",
+    "url": "https://github.com/sponsors/danny-avila",
+    "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
+    "date_added": "2026-09-15"
+  },
+  {
+    "full_name": "pacifio/atlas",
+    "url": "https://github.com/pacifio/atlas",
+    "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
+    "date_added": "2026-09-15"
   }
 ]

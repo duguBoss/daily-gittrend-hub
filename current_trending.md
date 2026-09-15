@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-09-14)
+# GitHub Trending (Added at: 2026-09-15)
 
-### [alibaba/open-code-review](https://github.com/alibaba/open-code-review)
-- Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
+### [sponsors/Homebrew](https://github.com/sponsors/Homebrew)
+- 📺 Homebrew's official macOS GUI
 
-### [multimodal-art-projection/YuE](https://github.com/multimodal-art-projection/YuE)
-- YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.
+### [alphaXiv/OpenResearch](https://github.com/alphaXiv/OpenResearch)
+- Turn your coding agents into research agents
 
-### [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)
-- VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
+### [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)
+- Ghidra is a software reverse engineering (SRE) framework
 
-### [666ghj/MiroFish](https://github.com/666ghj/MiroFish)
-- A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
+### [sponsors/danny-avila](https://github.com/sponsors/danny-avila)
+- Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active
 
-### [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
-- Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
+### [pacifio/atlas](https://github.com/pacifio/atlas)
+- Source control for agents. Use multiple coding agents, track their changes and query them in one place
 
