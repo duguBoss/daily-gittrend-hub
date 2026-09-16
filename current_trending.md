@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-09-15)
+# GitHub Trending (Added at: 2026-09-16)
 
-### [sponsors/Homebrew](https://github.com/sponsors/Homebrew)
-- 📺 Homebrew's official macOS GUI
+### [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)
+- A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
 
-### [alphaXiv/OpenResearch](https://github.com/alphaXiv/OpenResearch)
-- Turn your coding agents into research agents
+### [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast)
+- Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.
 
-### [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)
-- Ghidra is a software reverse engineering (SRE) framework
+### [jamiepine/voicebox](https://github.com/jamiepine/voicebox)
+- The open-source AI voice studio. Clone, dictate, create.
 
-### [sponsors/danny-avila](https://github.com/sponsors/danny-avila)
-- Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active
+### [sponsors/Lakr233](https://github.com/sponsors/Lakr233)
+- 
 
-### [pacifio/atlas](https://github.com/pacifio/atlas)
-- Source control for agents. Use multiple coding agents, track their changes and query them in one place
+### [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)
+- Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
 
