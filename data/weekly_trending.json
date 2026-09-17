@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "bilawalsidhu/gods-eye-view",
-    "url": "https://github.com/bilawalsidhu/gods-eye-view",
-    "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-    "date_added": "2026-09-10"
-  },
-  {
-    "full_name": "alsk1992/CloddsBot",
-    "url": "https://github.com/alsk1992/CloddsBot",
-    "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
-    "date_added": "2026-09-10"
-  },
-  {
-    "full_name": "sponsors/AlexsJones",
-    "url": "https://github.com/sponsors/AlexsJones",
-    "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
-    "date_added": "2026-09-10"
-  },
-  {
-    "full_name": "freestylefly/awesome-gpt-image-2",
-    "url": "https://github.com/freestylefly/awesome-gpt-image-2",
-    "description": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。",
-    "date_added": "2026-09-10"
-  },
-  {
-    "full_name": "armory3d/armorpaint",
-    "url": "https://github.com/armory3d/armorpaint",
-    "description": "Graphics Creation Tools",
-    "date_added": "2026-09-10"
-  },
-  {
     "full_name": "nab138/iloader",
     "url": "https://github.com/nab138/iloader",
     "description": "User friendly sideloader",
@@ -208,5 +178,35 @@
     "url": "https://github.com/anthropics/knowledge-work-plugins",
     "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
     "date_added": "2026-09-16"
+  },
+  {
+    "full_name": "addyosmani/agent-skills",
+    "url": "https://github.com/addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "date_added": "2026-09-17"
+  },
+  {
+    "full_name": "Tencent/BrowserSkill",
+    "url": "https://github.com/Tencent/BrowserSkill",
+    "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
+    "date_added": "2026-09-17"
+  },
+  {
+    "full_name": "anthropics/claude-code",
+    "url": "https://github.com/anthropics/claude-code",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+    "date_added": "2026-09-17"
+  },
+  {
+    "full_name": "Tencent/WeKnora",
+    "url": "https://github.com/Tencent/WeKnora",
+    "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+    "date_added": "2026-09-17"
+  },
+  {
+    "full_name": "cilium/cilium",
+    "url": "https://github.com/cilium/cilium",
+    "description": "eBPF-based Networking, Security, and Observability",
+    "date_added": "2026-09-17"
   }
 ]

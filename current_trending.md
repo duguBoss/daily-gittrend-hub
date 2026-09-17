@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-09-16)
+# GitHub Trending (Added at: 2026-09-17)
 
-### [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)
-- A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
+### [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
+- Production-grade engineering skills for AI coding agents.
 
-### [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast)
-- Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.
+### [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill)
+- Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.
 
-### [jamiepine/voicebox](https://github.com/jamiepine/voicebox)
-- The open-source AI voice studio. Clone, dictate, create.
+### [anthropics/claude-code](https://github.com/anthropics/claude-code)
+- Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
 
-### [sponsors/Lakr233](https://github.com/sponsors/Lakr233)
-- 
+### [Tencent/WeKnora](https://github.com/Tencent/WeKnora)
+- Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
 
-### [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)
-- Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
+### [cilium/cilium](https://github.com/cilium/cilium)
+- eBPF-based Networking, Security, and Observability
 
