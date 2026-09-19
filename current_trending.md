@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-09-18)
+# GitHub Trending (Added at: 2026-09-19)
 
-### [sponsors/affaan-m](https://github.com/sponsors/affaan-m)
-- The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+### [sponsors/trycua](https://github.com/sponsors/trycua)
+- Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
 
-### [TencentCloud/Octop](https://github.com/TencentCloud/Octop)
-- A smarter, self-hosted AI assistant — multi-user, multi-agent.
+### [coder/coder](https://github.com/coder/coder)
+- Secure environments for developers and their agents
 
-### [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec)
-- Spec-driven development (SDD) for AI coding assistants.
+### [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock)
+- OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.
 
-### [ankitects/anki](https://github.com/ankitects/anki)
-- Anki is a smart spaced repetition flashcard program
+### [higgsfield-ai/higgsfield](https://github.com/higgsfield-ai/higgsfield)
+- Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters
 
-### [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory)
-- Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.
+### [docling-project/docling](https://github.com/docling-project/docling)
+- Get your documents ready for gen AI
 
