@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "JustVugg/colibri",
-    "url": "https://github.com/JustVugg/colibri",
-    "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
-    "date_added": "2026-09-13"
-  },
-  {
-    "full_name": "sponsors/ever-co",
-    "url": "https://github.com/sponsors/ever-co",
-    "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-    "date_added": "2026-09-13"
-  },
-  {
-    "full_name": "tech-leads-club/agent-skills",
-    "url": "https://github.com/tech-leads-club/agent-skills",
-    "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
-    "date_added": "2026-09-13"
-  },
-  {
-    "full_name": "sponsors/calesthio",
-    "url": "https://github.com/sponsors/calesthio",
-    "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
-    "date_added": "2026-09-13"
-  },
-  {
-    "full_name": "vxcontrol/pentagi",
-    "url": "https://github.com/vxcontrol/pentagi",
-    "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
-    "date_added": "2026-09-13"
-  },
-  {
     "full_name": "alibaba/open-code-review",
     "url": "https://github.com/alibaba/open-code-review",
     "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
@@ -208,5 +178,35 @@
     "url": "https://github.com/docling-project/docling",
     "description": "Get your documents ready for gen AI",
     "date_added": "2026-09-19"
+  },
+  {
+    "full_name": "BuilderIO/agent-native",
+    "url": "https://github.com/BuilderIO/agent-native",
+    "description": "A framework for building agentic apps",
+    "date_added": "2026-09-20"
+  },
+  {
+    "full_name": "anthropics/financial-services",
+    "url": "https://github.com/anthropics/financial-services",
+    "description": "",
+    "date_added": "2026-09-20"
+  },
+  {
+    "full_name": "paperless-ngx/paperless-ngx",
+    "url": "https://github.com/paperless-ngx/paperless-ngx",
+    "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
+    "date_added": "2026-09-20"
+  },
+  {
+    "full_name": "mihail911/modern-software-dev-assignments",
+    "url": "https://github.com/mihail911/modern-software-dev-assignments",
+    "description": "Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2025)",
+    "date_added": "2026-09-20"
+  },
+  {
+    "full_name": "vercel-labs/json-render",
+    "url": "https://github.com/vercel-labs/json-render",
+    "description": "The Generative UI framework",
+    "date_added": "2026-09-20"
   }
 ]

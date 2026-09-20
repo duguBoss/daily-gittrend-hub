@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-09-19)
+# GitHub Trending (Added at: 2026-09-20)
 
-### [sponsors/trycua](https://github.com/sponsors/trycua)
-- Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
+### [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native)
+- A framework for building agentic apps
 
-### [coder/coder](https://github.com/coder/coder)
-- Secure environments for developers and their agents
+### [anthropics/financial-services](https://github.com/anthropics/financial-services)
+- 
 
-### [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock)
-- OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.
+### [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)
+- A community-supported supercharged document management system: scan, index and archive all your documents
 
-### [higgsfield-ai/higgsfield](https://github.com/higgsfield-ai/higgsfield)
-- Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters
+### [mihail911/modern-software-dev-assignments](https://github.com/mihail911/modern-software-dev-assignments)
+- Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2025)
 
-### [docling-project/docling](https://github.com/docling-project/docling)
-- Get your documents ready for gen AI
+### [vercel-labs/json-render](https://github.com/vercel-labs/json-render)
+- The Generative UI framework
 
