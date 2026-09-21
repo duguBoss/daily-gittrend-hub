@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "alibaba/open-code-review",
-    "url": "https://github.com/alibaba/open-code-review",
-    "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-    "date_added": "2026-09-14"
-  },
-  {
-    "full_name": "multimodal-art-projection/YuE",
-    "url": "https://github.com/multimodal-art-projection/YuE",
-    "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
-    "date_added": "2026-09-14"
-  },
-  {
-    "full_name": "debpalash/VoiceStudio",
-    "url": "https://github.com/debpalash/VoiceStudio",
-    "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-    "date_added": "2026-09-14"
-  },
-  {
-    "full_name": "666ghj/MiroFish",
-    "url": "https://github.com/666ghj/MiroFish",
-    "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
-    "date_added": "2026-09-14"
-  },
-  {
-    "full_name": "Panniantong/Agent-Reach",
-    "url": "https://github.com/Panniantong/Agent-Reach",
-    "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-    "date_added": "2026-09-14"
-  },
-  {
     "full_name": "sponsors/Homebrew",
     "url": "https://github.com/sponsors/Homebrew",
     "description": "📺 Homebrew's official macOS GUI",
@@ -208,5 +178,35 @@
     "url": "https://github.com/vercel-labs/json-render",
     "description": "The Generative UI framework",
     "date_added": "2026-09-20"
+  },
+  {
+    "full_name": "akitaonrails/ai-memory",
+    "url": "https://github.com/akitaonrails/ai-memory",
+    "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+    "date_added": "2026-09-21"
+  },
+  {
+    "full_name": "cloudflare/quiche",
+    "url": "https://github.com/cloudflare/quiche",
+    "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+    "date_added": "2026-09-21"
+  },
+  {
+    "full_name": "mvt-project/mvt",
+    "url": "https://github.com/mvt-project/mvt",
+    "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+    "date_added": "2026-09-21"
+  },
+  {
+    "full_name": "zhouxiaoka/autoclip",
+    "url": "https://github.com/zhouxiaoka/autoclip",
+    "description": "AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具",
+    "date_added": "2026-09-21"
+  },
+  {
+    "full_name": "ruanyf/weekly",
+    "url": "https://github.com/ruanyf/weekly",
+    "description": "科技爱好者周刊，每周五发布",
+    "date_added": "2026-09-21"
   }
 ]

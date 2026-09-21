@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-09-20)
+# GitHub Trending (Added at: 2026-09-21)
 
-### [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native)
-- A framework for building agentic apps
+### [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory)
+- Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
 
-### [anthropics/financial-services](https://github.com/anthropics/financial-services)
-- 
+### [cloudflare/quiche](https://github.com/cloudflare/quiche)
+- 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
 
-### [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)
-- A community-supported supercharged document management system: scan, index and archive all your documents
+### [mvt-project/mvt](https://github.com/mvt-project/mvt)
+- MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.
 
-### [mihail911/modern-software-dev-assignments](https://github.com/mihail911/modern-software-dev-assignments)
-- Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2025)
+### [zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip)
+- AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具
 
-### [vercel-labs/json-render](https://github.com/vercel-labs/json-render)
-- The Generative UI framework
+### [ruanyf/weekly](https://github.com/ruanyf/weekly)
+- 科技爱好者周刊，每周五发布
 
