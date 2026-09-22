@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-09-21)
+# GitHub Trending (Added at: 2026-09-22)
 
-### [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory)
-- Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
+### [agent-substrate/substrate](https://github.com/agent-substrate/substrate)
+- Agent Substrate: the core system
 
-### [cloudflare/quiche](https://github.com/cloudflare/quiche)
-- 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
+### [dream-num/univer](https://github.com/dream-num/univer)
+- The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.
 
-### [mvt-project/mvt](https://github.com/mvt-project/mvt)
-- MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.
+### [sponsors/davila7](https://github.com/sponsors/davila7)
+- CLI tool for configuring and monitoring Claude Code
 
-### [zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip)
-- AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具
+### [google/ax](https://github.com/google/ax)
+- Google's open agentic orchestration runtime
 
-### [ruanyf/weekly](https://github.com/ruanyf/weekly)
-- 科技爱好者周刊，每周五发布
+### [superdesigndev/treg](https://github.com/superdesigndev/treg)
+- OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn
 

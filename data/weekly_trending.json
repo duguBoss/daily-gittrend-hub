@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "sponsors/Homebrew",
-    "url": "https://github.com/sponsors/Homebrew",
-    "description": "📺 Homebrew's official macOS GUI",
-    "date_added": "2026-09-15"
-  },
-  {
-    "full_name": "alphaXiv/OpenResearch",
-    "url": "https://github.com/alphaXiv/OpenResearch",
-    "description": "Turn your coding agents into research agents",
-    "date_added": "2026-09-15"
-  },
-  {
-    "full_name": "NationalSecurityAgency/ghidra",
-    "url": "https://github.com/NationalSecurityAgency/ghidra",
-    "description": "Ghidra is a software reverse engineering (SRE) framework",
-    "date_added": "2026-09-15"
-  },
-  {
-    "full_name": "sponsors/danny-avila",
-    "url": "https://github.com/sponsors/danny-avila",
-    "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
-    "date_added": "2026-09-15"
-  },
-  {
-    "full_name": "pacifio/atlas",
-    "url": "https://github.com/pacifio/atlas",
-    "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
-    "date_added": "2026-09-15"
-  },
-  {
     "full_name": "cloudflare/security-audit-skill",
     "url": "https://github.com/cloudflare/security-audit-skill",
     "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
@@ -208,5 +178,35 @@
     "url": "https://github.com/ruanyf/weekly",
     "description": "科技爱好者周刊，每周五发布",
     "date_added": "2026-09-21"
+  },
+  {
+    "full_name": "agent-substrate/substrate",
+    "url": "https://github.com/agent-substrate/substrate",
+    "description": "Agent Substrate: the core system",
+    "date_added": "2026-09-22"
+  },
+  {
+    "full_name": "dream-num/univer",
+    "url": "https://github.com/dream-num/univer",
+    "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+    "date_added": "2026-09-22"
+  },
+  {
+    "full_name": "sponsors/davila7",
+    "url": "https://github.com/sponsors/davila7",
+    "description": "CLI tool for configuring and monitoring Claude Code",
+    "date_added": "2026-09-22"
+  },
+  {
+    "full_name": "google/ax",
+    "url": "https://github.com/google/ax",
+    "description": "Google's open agentic orchestration runtime",
+    "date_added": "2026-09-22"
+  },
+  {
+    "full_name": "superdesigndev/treg",
+    "url": "https://github.com/superdesigndev/treg",
+    "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+    "date_added": "2026-09-22"
   }
 ]
