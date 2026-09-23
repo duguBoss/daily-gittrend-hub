@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-09-22)
+# GitHub Trending (Added at: 2026-09-23)
 
-### [agent-substrate/substrate](https://github.com/agent-substrate/substrate)
-- Agent Substrate: the core system
+### [sponsors/obra](https://github.com/sponsors/obra)
+- An agentic skills framework & software development methodology that works.
 
-### [dream-num/univer](https://github.com/dream-num/univer)
-- The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.
+### [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk)
+- Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.
 
-### [sponsors/davila7](https://github.com/sponsors/davila7)
-- CLI tool for configuring and monitoring Claude Code
+### [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
+- "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
 
-### [google/ax](https://github.com/google/ax)
-- Google's open agentic orchestration runtime
+### [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
+- The design language that makes your AI harness better at design.
 
-### [superdesigndev/treg](https://github.com/superdesigndev/treg)
-- OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn
+### [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
+- High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
 
