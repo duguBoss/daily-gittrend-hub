@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-09-23)
+# GitHub Trending (Added at: 2026-09-24)
 
-### [sponsors/obra](https://github.com/sponsors/obra)
-- An agentic skills framework & software development methodology that works.
+### [sponsors/rohitg00](https://github.com/sponsors/rohitg00)
+- Learn it. Build it. Ship it for others.
 
-### [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk)
-- Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.
+### [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight)
+- Hindsight: Agent Memory That Learns
 
-### [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
-- "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
+### [NVIDIA/Model-Optimizer](https://github.com/NVIDIA/Model-Optimizer)
+- A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.
 
-### [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
-- The design language that makes your AI harness better at design.
+### [FxEmbed/FxEmbed](https://github.com/FxEmbed/FxEmbed)
+- Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others
 
-### [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
-- High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
+### [julyx10/lap](https://github.com/julyx10/lap)
+- An offline-first photo manager for large local libraries
 
