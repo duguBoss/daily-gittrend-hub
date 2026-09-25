@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-09-24)
+# GitHub Trending (Added at: 2026-09-25)
 
-### [sponsors/rohitg00](https://github.com/sponsors/rohitg00)
-- Learn it. Build it. Ship it for others.
+### [paperclipai/paperclip](https://github.com/paperclipai/paperclip)
+- The open-source app everyone uses to manage agents at work
 
-### [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight)
-- Hindsight: Agent Memory That Learns
+### [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
+- Official, Anthropic-managed directory of high quality Claude Code Plugins.
 
-### [NVIDIA/Model-Optimizer](https://github.com/NVIDIA/Model-Optimizer)
-- A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.
+### [sponsors/mattpocock](https://github.com/sponsors/mattpocock)
+- Skills for Real Engineers. Straight from my .agents directory.
 
-### [FxEmbed/FxEmbed](https://github.com/FxEmbed/FxEmbed)
-- Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others
+### [anthropics/skills](https://github.com/anthropics/skills)
+- Public repository for Agent Skills
 
-### [julyx10/lap](https://github.com/julyx10/lap)
-- An offline-first photo manager for large local libraries
+### [androoAGI/starnet](https://github.com/androoAGI/starnet)
+- A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.
 

@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "sponsors/affaan-m",
-    "url": "https://github.com/sponsors/affaan-m",
-    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-    "date_added": "2026-09-18"
-  },
-  {
-    "full_name": "TencentCloud/Octop",
-    "url": "https://github.com/TencentCloud/Octop",
-    "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
-    "date_added": "2026-09-18"
-  },
-  {
-    "full_name": "Fission-AI/OpenSpec",
-    "url": "https://github.com/Fission-AI/OpenSpec",
-    "description": "Spec-driven development (SDD) for AI coding assistants.",
-    "date_added": "2026-09-18"
-  },
-  {
-    "full_name": "ankitects/anki",
-    "url": "https://github.com/ankitects/anki",
-    "description": "Anki is a smart spaced repetition flashcard program",
-    "date_added": "2026-09-18"
-  },
-  {
-    "full_name": "supermemoryai/supermemory",
-    "url": "https://github.com/supermemoryai/supermemory",
-    "description": "Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.",
-    "date_added": "2026-09-18"
-  },
-  {
     "full_name": "sponsors/trycua",
     "url": "https://github.com/sponsors/trycua",
     "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
@@ -208,5 +178,35 @@
     "url": "https://github.com/julyx10/lap",
     "description": "An offline-first photo manager for large local libraries",
     "date_added": "2026-09-24"
+  },
+  {
+    "full_name": "paperclipai/paperclip",
+    "url": "https://github.com/paperclipai/paperclip",
+    "description": "The open-source app everyone uses to manage agents at work",
+    "date_added": "2026-09-25"
+  },
+  {
+    "full_name": "anthropics/claude-plugins-official",
+    "url": "https://github.com/anthropics/claude-plugins-official",
+    "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+    "date_added": "2026-09-25"
+  },
+  {
+    "full_name": "sponsors/mattpocock",
+    "url": "https://github.com/sponsors/mattpocock",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "date_added": "2026-09-25"
+  },
+  {
+    "full_name": "anthropics/skills",
+    "url": "https://github.com/anthropics/skills",
+    "description": "Public repository for Agent Skills",
+    "date_added": "2026-09-25"
+  },
+  {
+    "full_name": "androoAGI/starnet",
+    "url": "https://github.com/androoAGI/starnet",
+    "description": "A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.",
+    "date_added": "2026-09-25"
   }
 ]
