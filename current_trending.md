@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-09-25)
+# GitHub Trending (Added at: 2026-09-26)
 
-### [paperclipai/paperclip](https://github.com/paperclipai/paperclip)
-- The open-source app everyone uses to manage agents at work
+### [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)
+- An Open Source Machine Learning Framework for Everyone
 
-### [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
-- Official, Anthropic-managed directory of high quality Claude Code Plugins.
+### [openbao/openbao](https://github.com/openbao/openbao)
+- OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 
-### [sponsors/mattpocock](https://github.com/sponsors/mattpocock)
-- Skills for Real Engineers. Straight from my .agents directory.
+### [block/buzz](https://github.com/block/buzz)
+- A hive mind communication platform
 
-### [anthropics/skills](https://github.com/anthropics/skills)
-- Public repository for Agent Skills
+### [microsoft/vscode](https://github.com/microsoft/vscode)
+- Visual Studio Code
 
-### [androoAGI/starnet](https://github.com/androoAGI/starnet)
-- A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.
+### [sponsors/zhaoxuya520](https://github.com/sponsors/zhaoxuya520)
+- Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
 
