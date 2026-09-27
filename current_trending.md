@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-09-26)
+# GitHub Trending (Added at: 2026-09-27)
 
-### [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)
-- An Open Source Machine Learning Framework for Everyone
+### [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)
+- VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
 
-### [openbao/openbao](https://github.com/openbao/openbao)
-- OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
+### [InfinityLoop1308/PipePipe](https://github.com/InfinityLoop1308/PipePipe)
+- An open-source Android app to let you browse YouTube and other services freely.
 
-### [block/buzz](https://github.com/block/buzz)
-- A hive mind communication platform
+### [vercel-labs/scriptc](https://github.com/vercel-labs/scriptc)
+- TypeScript-to-Native Compiler
 
-### [microsoft/vscode](https://github.com/microsoft/vscode)
-- Visual Studio Code
+### [mvschwarz/openrig](https://github.com/mvschwarz/openrig)
+- Multi-agent harness that runs Claude Code and Codex together as one system
 
-### [sponsors/zhaoxuya520](https://github.com/sponsors/zhaoxuya520)
-- Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
+### [willfaust/Madeira](https://github.com/willfaust/Madeira)
+- Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT
 
