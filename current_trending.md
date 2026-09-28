@@ -1,17 +1,11 @@
-# GitHub Trending (Added at: 2026-09-27)
+# GitHub Trending (Added at: 2026-09-28)
 
-### [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)
-- VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
+### [NawfalMotii79/PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR)
+- Open-source, low-cost 10.5 GHz PLFM phased array RADAR system
 
-### [InfinityLoop1308/PipePipe](https://github.com/InfinityLoop1308/PipePipe)
-- An open-source Android app to let you browse YouTube and other services freely.
+### [cs341-illinois/coursebook](https://github.com/cs341-illinois/coursebook)
+- Open Source Introductory Systems Programming Textbook for the University of Illinois
 
-### [vercel-labs/scriptc](https://github.com/vercel-labs/scriptc)
-- TypeScript-to-Native Compiler
-
-### [mvschwarz/openrig](https://github.com/mvschwarz/openrig)
-- Multi-agent harness that runs Claude Code and Codex together as one system
-
-### [willfaust/Madeira](https://github.com/willfaust/Madeira)
-- Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT
+### [byoungd/up](https://github.com/byoungd/up)
+- An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语
 
