@@ -1,11 +1,17 @@
-# GitHub Trending (Added at: 2026-09-28)
+# GitHub Trending (Added at: 2026-09-29)
 
-### [NawfalMotii79/PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR)
-- Open-source, low-cost 10.5 GHz PLFM phased array RADAR system
+### [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell)
+- OpenShell is the safe, private runtime for autonomous AI agents.
 
-### [cs341-illinois/coursebook](https://github.com/cs341-illinois/coursebook)
-- Open Source Introductory Systems Programming Textbook for the University of Illinois
+### [t8y2/dbx](https://github.com/t8y2/dbx)
+- 25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。
 
-### [byoungd/up](https://github.com/byoungd/up)
-- An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语
+### [oblien/openship](https://github.com/oblien/openship)
+- Self-hosted deployment platform
+
+### [averygan/reclip](https://github.com/averygan/reclip)
+- Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.
+
+### [sponsors/VectifyAI](https://github.com/sponsors/VectifyAI)
+- 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
 
