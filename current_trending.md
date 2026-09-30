@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-09-29)
+# GitHub Trending (Added at: 2026-09-30)
 
-### [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell)
-- OpenShell is the safe, private runtime for autonomous AI agents.
+### [sponsors/mksglu](https://github.com/sponsors/mksglu)
+- Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
 
-### [t8y2/dbx](https://github.com/t8y2/dbx)
-- 25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。
+### [sponsors/DietrichGebert](https://github.com/sponsors/DietrichGebert)
+- Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 
-### [oblien/openship](https://github.com/oblien/openship)
-- Self-hosted deployment platform
+### [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
+- 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
 
-### [averygan/reclip](https://github.com/averygan/reclip)
-- Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.
+### [sponsors/openclaw](https://github.com/sponsors/openclaw)
+- The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
 
-### [sponsors/VectifyAI](https://github.com/sponsors/VectifyAI)
-- 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
+### [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)
+- A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 
