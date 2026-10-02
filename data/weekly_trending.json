@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "paperclipai/paperclip",
-    "url": "https://github.com/paperclipai/paperclip",
-    "description": "The open-source app everyone uses to manage agents at work",
-    "date_added": "2026-09-25"
-  },
-  {
-    "full_name": "anthropics/claude-plugins-official",
-    "url": "https://github.com/anthropics/claude-plugins-official",
-    "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-    "date_added": "2026-09-25"
-  },
-  {
-    "full_name": "sponsors/mattpocock",
-    "url": "https://github.com/sponsors/mattpocock",
-    "description": "Skills for Real Engineers. Straight from my .agents directory.",
-    "date_added": "2026-09-25"
-  },
-  {
-    "full_name": "anthropics/skills",
-    "url": "https://github.com/anthropics/skills",
-    "description": "Public repository for Agent Skills",
-    "date_added": "2026-09-25"
-  },
-  {
-    "full_name": "androoAGI/starnet",
-    "url": "https://github.com/androoAGI/starnet",
-    "description": "A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.",
-    "date_added": "2026-09-25"
-  },
-  {
     "full_name": "tensorflow/tensorflow",
     "url": "https://github.com/tensorflow/tensorflow",
     "description": "An Open Source Machine Learning Framework for Everyone",
@@ -196,5 +166,35 @@
     "url": "https://github.com/earendil-works/pi",
     "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
     "date_added": "2026-10-01"
+  },
+  {
+    "full_name": "Panniantong/Agent-Reach",
+    "url": "https://github.com/Panniantong/Agent-Reach",
+    "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+    "date_added": "2026-10-02"
+  },
+  {
+    "full_name": "sponsors/JuliusBrussee",
+    "url": "https://github.com/sponsors/JuliusBrussee",
+    "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+    "date_added": "2026-10-02"
+  },
+  {
+    "full_name": "pbakaus/impeccable",
+    "url": "https://github.com/pbakaus/impeccable",
+    "description": "The design language that makes your AI harness better at design.",
+    "date_added": "2026-10-02"
+  },
+  {
+    "full_name": "sponsors/mattpocock",
+    "url": "https://github.com/sponsors/mattpocock",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "date_added": "2026-10-02"
+  },
+  {
+    "full_name": "sponsors/coreyhaines31",
+    "url": "https://github.com/sponsors/coreyhaines31",
+    "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+    "date_added": "2026-10-02"
   }
 ]

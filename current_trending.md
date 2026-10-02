@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-10-01)
+# GitHub Trending (Added at: 2026-10-02)
 
-### [firebase/firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk)
-- Firebase SDK for Apple App Development
+### [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
+- Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
 
-### [cursor/plugins](https://github.com/cursor/plugins)
-- Cursor plugin specification and official plugins
+### [sponsors/JuliusBrussee](https://github.com/sponsors/JuliusBrussee)
+- 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
 
-### [sponsors/obra](https://github.com/sponsors/obra)
-- An agentic skills framework & software development methodology that works.
+### [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
+- The design language that makes your AI harness better at design.
 
-### [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)
-- Write HTML. Render video. Built for agents.
+### [sponsors/mattpocock](https://github.com/sponsors/mattpocock)
+- Skills for Real Engineers. Straight from my .agents directory.
 
-### [earendil-works/pi](https://github.com/earendil-works/pi)
-- AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
+### [sponsors/coreyhaines31](https://github.com/sponsors/coreyhaines31)
+- Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 
