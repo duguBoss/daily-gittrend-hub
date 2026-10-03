@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-10-02)
+# GitHub Trending (Added at: 2026-10-03)
 
-### [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
-- Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
+### [sponsors/affaan-m](https://github.com/sponsors/affaan-m)
+- The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
-### [sponsors/JuliusBrussee](https://github.com/sponsors/JuliusBrussee)
-- 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
+### [Effect-TS/effect](https://github.com/Effect-TS/effect)
+- Build production-ready applications in TypeScript
 
-### [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
-- The design language that makes your AI harness better at design.
+### [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
+- 
 
-### [sponsors/mattpocock](https://github.com/sponsors/mattpocock)
-- Skills for Real Engineers. Straight from my .agents directory.
+### [sponsors/thedotmack](https://github.com/sponsors/thedotmack)
+- Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
 
-### [sponsors/coreyhaines31](https://github.com/sponsors/coreyhaines31)
-- Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
+### [cloudflare/cloudflare-os](https://github.com/cloudflare/cloudflare-os)
+- Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.
 

@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "tensorflow/tensorflow",
-    "url": "https://github.com/tensorflow/tensorflow",
-    "description": "An Open Source Machine Learning Framework for Everyone",
-    "date_added": "2026-09-26"
-  },
-  {
-    "full_name": "openbao/openbao",
-    "url": "https://github.com/openbao/openbao",
-    "description": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
-    "date_added": "2026-09-26"
-  },
-  {
-    "full_name": "block/buzz",
-    "url": "https://github.com/block/buzz",
-    "description": "A hive mind communication platform",
-    "date_added": "2026-09-26"
-  },
-  {
-    "full_name": "microsoft/vscode",
-    "url": "https://github.com/microsoft/vscode",
-    "description": "Visual Studio Code",
-    "date_added": "2026-09-26"
-  },
-  {
-    "full_name": "sponsors/zhaoxuya520",
-    "url": "https://github.com/sponsors/zhaoxuya520",
-    "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
-    "date_added": "2026-09-26"
-  },
-  {
     "full_name": "debpalash/VoiceStudio",
     "url": "https://github.com/debpalash/VoiceStudio",
     "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
@@ -196,5 +166,35 @@
     "url": "https://github.com/sponsors/coreyhaines31",
     "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
     "date_added": "2026-10-02"
+  },
+  {
+    "full_name": "sponsors/affaan-m",
+    "url": "https://github.com/sponsors/affaan-m",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "date_added": "2026-10-03"
+  },
+  {
+    "full_name": "Effect-TS/effect",
+    "url": "https://github.com/Effect-TS/effect",
+    "description": "Build production-ready applications in TypeScript",
+    "date_added": "2026-10-03"
+  },
+  {
+    "full_name": "pingdotgg/t3code",
+    "url": "https://github.com/pingdotgg/t3code",
+    "description": "",
+    "date_added": "2026-10-03"
+  },
+  {
+    "full_name": "sponsors/thedotmack",
+    "url": "https://github.com/sponsors/thedotmack",
+    "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+    "date_added": "2026-10-03"
+  },
+  {
+    "full_name": "cloudflare/cloudflare-os",
+    "url": "https://github.com/cloudflare/cloudflare-os",
+    "description": "Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.",
+    "date_added": "2026-10-03"
   }
 ]
