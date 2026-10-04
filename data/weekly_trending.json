@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "debpalash/VoiceStudio",
-    "url": "https://github.com/debpalash/VoiceStudio",
-    "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-    "date_added": "2026-09-27"
-  },
-  {
-    "full_name": "InfinityLoop1308/PipePipe",
-    "url": "https://github.com/InfinityLoop1308/PipePipe",
-    "description": "An open-source Android app to let you browse YouTube and other services freely.",
-    "date_added": "2026-09-27"
-  },
-  {
-    "full_name": "vercel-labs/scriptc",
-    "url": "https://github.com/vercel-labs/scriptc",
-    "description": "TypeScript-to-Native Compiler",
-    "date_added": "2026-09-27"
-  },
-  {
-    "full_name": "mvschwarz/openrig",
-    "url": "https://github.com/mvschwarz/openrig",
-    "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
-    "date_added": "2026-09-27"
-  },
-  {
-    "full_name": "willfaust/Madeira",
-    "url": "https://github.com/willfaust/Madeira",
-    "description": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
-    "date_added": "2026-09-27"
-  },
-  {
     "full_name": "NawfalMotii79/PLFM_RADAR",
     "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
     "description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
@@ -196,5 +166,35 @@
     "url": "https://github.com/cloudflare/cloudflare-os",
     "description": "Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.",
     "date_added": "2026-10-03"
+  },
+  {
+    "full_name": "tester-army/e2e",
+    "url": "https://github.com/tester-army/e2e",
+    "description": "Next generation e2e testing framework for web and mobile apps.",
+    "date_added": "2026-10-04"
+  },
+  {
+    "full_name": "earthtojake/text-to-cad",
+    "url": "https://github.com/earthtojake/text-to-cad",
+    "description": "Give your agent CAD superpowers.",
+    "date_added": "2026-10-04"
+  },
+  {
+    "full_name": "getsentry/sentry",
+    "url": "https://github.com/getsentry/sentry",
+    "description": "Developer-first error tracking and performance monitoring",
+    "date_added": "2026-10-04"
+  },
+  {
+    "full_name": "sponsors/calesthio",
+    "url": "https://github.com/sponsors/calesthio",
+    "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+    "date_added": "2026-10-04"
+  },
+  {
+    "full_name": "caddyserver/caddy",
+    "url": "https://github.com/caddyserver/caddy",
+    "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
+    "date_added": "2026-10-04"
   }
 ]
