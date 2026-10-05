@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-10-04)
+# GitHub Trending (Added at: 2026-10-05)
 
-### [tester-army/e2e](https://github.com/tester-army/e2e)
-- Next generation e2e testing framework for web and mobile apps.
+### [michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude)
+- Claude Code, Codex, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.
 
-### [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad)
-- Give your agent CAD superpowers.
+### [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5)
+- Tool for automatic PS5 executables porting to Linux and Windows
 
-### [getsentry/sentry](https://github.com/getsentry/sentry)
-- Developer-first error tracking and performance monitoring
+### [sponsors/DuarteSantos8](https://github.com/sponsors/DuarteSantos8)
+- Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.
 
-### [sponsors/calesthio](https://github.com/sponsors/calesthio)
-- World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.
+### [Stremio/stremio-web](https://github.com/Stremio/stremio-web)
+- Stremio - Freedom to Stream
 
-### [caddyserver/caddy](https://github.com/caddyserver/caddy)
-- Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+### [sponsors/msitarzewski](https://github.com/sponsors/msitarzewski)
+- A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
 

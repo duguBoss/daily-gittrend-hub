@@ -1,23 +1,5 @@
 [
   {
-    "full_name": "NawfalMotii79/PLFM_RADAR",
-    "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
-    "description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
-    "date_added": "2026-09-28"
-  },
-  {
-    "full_name": "cs341-illinois/coursebook",
-    "url": "https://github.com/cs341-illinois/coursebook",
-    "description": "Open Source Introductory Systems Programming Textbook for the University of Illinois",
-    "date_added": "2026-09-28"
-  },
-  {
-    "full_name": "byoungd/up",
-    "url": "https://github.com/byoungd/up",
-    "description": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语",
-    "date_added": "2026-09-28"
-  },
-  {
     "full_name": "NVIDIA/OpenShell",
     "url": "https://github.com/NVIDIA/OpenShell",
     "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
@@ -196,5 +178,35 @@
     "url": "https://github.com/caddyserver/caddy",
     "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
     "date_added": "2026-10-04"
+  },
+  {
+    "full_name": "michael-denyer/pstack-claude",
+    "url": "https://github.com/michael-denyer/pstack-claude",
+    "description": "Claude Code, Codex, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.",
+    "date_added": "2026-10-05"
+  },
+  {
+    "full_name": "boykopovar/AnyPS5",
+    "url": "https://github.com/boykopovar/AnyPS5",
+    "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+    "date_added": "2026-10-05"
+  },
+  {
+    "full_name": "sponsors/DuarteSantos8",
+    "url": "https://github.com/sponsors/DuarteSantos8",
+    "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
+    "date_added": "2026-10-05"
+  },
+  {
+    "full_name": "Stremio/stremio-web",
+    "url": "https://github.com/Stremio/stremio-web",
+    "description": "Stremio - Freedom to Stream",
+    "date_added": "2026-10-05"
+  },
+  {
+    "full_name": "sponsors/msitarzewski",
+    "url": "https://github.com/sponsors/msitarzewski",
+    "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+    "date_added": "2026-10-05"
   }
 ]
