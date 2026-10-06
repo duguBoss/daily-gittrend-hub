@@ -1,17 +1,14 @@
-# GitHub Trending (Added at: 2026-10-05)
+# GitHub Trending (Added at: 2026-10-06)
 
-### [michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude)
-- Claude Code, Codex, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.
+### [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)
+- A skill to stop your coding agent from burying the answer. ADHD-friendly output.
 
-### [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5)
-- Tool for automatic PS5 executables porting to Linux and Windows
+### [morluto/rea](https://github.com/morluto/rea)
+- Reverse engineer anything with agents, from app behavior down to native binaries.
 
-### [sponsors/DuarteSantos8](https://github.com/sponsors/DuarteSantos8)
-- Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.
+### [deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM)
+- DeepGEMM: clean and efficient BLAS kernel library on GPU
 
-### [Stremio/stremio-web](https://github.com/Stremio/stremio-web)
-- Stremio - Freedom to Stream
-
-### [sponsors/msitarzewski](https://github.com/sponsors/msitarzewski)
-- A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
+### [sponsors/cathrynlavery](https://github.com/sponsors/cathrynlavery)
+- Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
 
