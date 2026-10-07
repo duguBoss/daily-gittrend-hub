@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "sponsors/mksglu",
-    "url": "https://github.com/sponsors/mksglu",
-    "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-    "date_added": "2026-09-30"
-  },
-  {
-    "full_name": "sponsors/DietrichGebert",
-    "url": "https://github.com/sponsors/DietrichGebert",
-    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-    "date_added": "2026-09-30"
-  },
-  {
-    "full_name": "harry0703/MoneyPrinterTurbo",
-    "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-    "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-    "date_added": "2026-09-30"
-  },
-  {
-    "full_name": "sponsors/openclaw",
-    "url": "https://github.com/sponsors/openclaw",
-    "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
-    "date_added": "2026-09-30"
-  },
-  {
-    "full_name": "ComposioHQ/awesome-claude-skills",
-    "url": "https://github.com/ComposioHQ/awesome-claude-skills",
-    "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
-    "date_added": "2026-09-30"
-  },
-  {
     "full_name": "firebase/firebase-ios-sdk",
     "url": "https://github.com/firebase/firebase-ios-sdk",
     "description": "Firebase SDK for Apple App Development",
@@ -202,5 +172,35 @@
     "url": "https://github.com/sponsors/cathrynlavery",
     "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
     "date_added": "2026-10-06"
+  },
+  {
+    "full_name": "addyosmani/agent-skills",
+    "url": "https://github.com/addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "date_added": "2026-10-07"
+  },
+  {
+    "full_name": "EpicGames/raddebugger",
+    "url": "https://github.com/EpicGames/raddebugger",
+    "description": "A native, user-mode, multi-process, graphical debugger.",
+    "date_added": "2026-10-07"
+  },
+  {
+    "full_name": "manaflow-ai/cmux",
+    "url": "https://github.com/manaflow-ai/cmux",
+    "description": "Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.",
+    "date_added": "2026-10-07"
+  },
+  {
+    "full_name": "sponsors/trycua",
+    "url": "https://github.com/sponsors/trycua",
+    "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+    "date_added": "2026-10-07"
+  },
+  {
+    "full_name": "cloudflare/security-audit-skill",
+    "url": "https://github.com/cloudflare/security-audit-skill",
+    "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "date_added": "2026-10-07"
   }
 ]

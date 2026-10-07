@@ -1,14 +1,17 @@
-# GitHub Trending (Added at: 2026-10-06)
+# GitHub Trending (Added at: 2026-10-07)
 
-### [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)
-- A skill to stop your coding agent from burying the answer. ADHD-friendly output.
+### [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
+- Production-grade engineering skills for AI coding agents.
 
-### [morluto/rea](https://github.com/morluto/rea)
-- Reverse engineer anything with agents, from app behavior down to native binaries.
+### [EpicGames/raddebugger](https://github.com/EpicGames/raddebugger)
+- A native, user-mode, multi-process, graphical debugger.
 
-### [deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM)
-- DeepGEMM: clean and efficient BLAS kernel library on GPU
+### [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)
+- Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
 
-### [sponsors/cathrynlavery](https://github.com/sponsors/cathrynlavery)
-- Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
+### [sponsors/trycua](https://github.com/sponsors/trycua)
+- Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
+
+### [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)
+- A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
 
