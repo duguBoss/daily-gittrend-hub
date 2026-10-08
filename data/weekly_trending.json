@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "firebase/firebase-ios-sdk",
-    "url": "https://github.com/firebase/firebase-ios-sdk",
-    "description": "Firebase SDK for Apple App Development",
-    "date_added": "2026-10-01"
-  },
-  {
-    "full_name": "cursor/plugins",
-    "url": "https://github.com/cursor/plugins",
-    "description": "Cursor plugin specification and official plugins",
-    "date_added": "2026-10-01"
-  },
-  {
-    "full_name": "sponsors/obra",
-    "url": "https://github.com/sponsors/obra",
-    "description": "An agentic skills framework & software development methodology that works.",
-    "date_added": "2026-10-01"
-  },
-  {
-    "full_name": "heygen-com/hyperframes",
-    "url": "https://github.com/heygen-com/hyperframes",
-    "description": "Write HTML. Render video. Built for agents.",
-    "date_added": "2026-10-01"
-  },
-  {
-    "full_name": "earendil-works/pi",
-    "url": "https://github.com/earendil-works/pi",
-    "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
-    "date_added": "2026-10-01"
-  },
-  {
     "full_name": "Panniantong/Agent-Reach",
     "url": "https://github.com/Panniantong/Agent-Reach",
     "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
@@ -202,5 +172,23 @@
     "url": "https://github.com/cloudflare/security-audit-skill",
     "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
     "date_added": "2026-10-07"
+  },
+  {
+    "full_name": "anthropics/knowledge-work-plugins",
+    "url": "https://github.com/anthropics/knowledge-work-plugins",
+    "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+    "date_added": "2026-10-08"
+  },
+  {
+    "full_name": "storytold/artcraft",
+    "url": "https://github.com/storytold/artcraft",
+    "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+    "date_added": "2026-10-08"
+  },
+  {
+    "full_name": "liquidslr/system-design-notes",
+    "url": "https://github.com/liquidslr/system-design-notes",
+    "description": "Notes of the book System Desgin Interview - An Insider's Guide",
+    "date_added": "2026-10-08"
   }
 ]
