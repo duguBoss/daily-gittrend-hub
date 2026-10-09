@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "Panniantong/Agent-Reach",
-    "url": "https://github.com/Panniantong/Agent-Reach",
-    "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-    "date_added": "2026-10-02"
-  },
-  {
-    "full_name": "sponsors/JuliusBrussee",
-    "url": "https://github.com/sponsors/JuliusBrussee",
-    "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
-    "date_added": "2026-10-02"
-  },
-  {
-    "full_name": "pbakaus/impeccable",
-    "url": "https://github.com/pbakaus/impeccable",
-    "description": "The design language that makes your AI harness better at design.",
-    "date_added": "2026-10-02"
-  },
-  {
-    "full_name": "sponsors/mattpocock",
-    "url": "https://github.com/sponsors/mattpocock",
-    "description": "Skills for Real Engineers. Straight from my .agents directory.",
-    "date_added": "2026-10-02"
-  },
-  {
-    "full_name": "sponsors/coreyhaines31",
-    "url": "https://github.com/sponsors/coreyhaines31",
-    "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
-    "date_added": "2026-10-02"
-  },
-  {
     "full_name": "sponsors/affaan-m",
     "url": "https://github.com/sponsors/affaan-m",
     "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
@@ -190,5 +160,35 @@
     "url": "https://github.com/liquidslr/system-design-notes",
     "description": "Notes of the book System Desgin Interview - An Insider's Guide",
     "date_added": "2026-10-08"
+  },
+  {
+    "full_name": "sponsors/mattpocock",
+    "url": "https://github.com/sponsors/mattpocock",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "date_added": "2026-10-09"
+  },
+  {
+    "full_name": "alibaba/open-code-review",
+    "url": "https://github.com/alibaba/open-code-review",
+    "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+    "date_added": "2026-10-09"
+  },
+  {
+    "full_name": "sponsors/BerriAI",
+    "url": "https://github.com/sponsors/BerriAI",
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
+    "date_added": "2026-10-09"
+  },
+  {
+    "full_name": "Robbyant/lingbot-map",
+    "url": "https://github.com/Robbyant/lingbot-map",
+    "description": "[ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction",
+    "date_added": "2026-10-09"
+  },
+  {
+    "full_name": "twostraws/SwiftUI-Agent-Skill",
+    "url": "https://github.com/twostraws/SwiftUI-Agent-Skill",
+    "description": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
+    "date_added": "2026-10-09"
   }
 ]
