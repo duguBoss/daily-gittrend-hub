@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-10-09)
+# GitHub Trending (Added at: 2026-10-10)
 
-### [sponsors/mattpocock](https://github.com/sponsors/mattpocock)
-- Skills for Real Engineers. Straight from my .agents directory.
+### [sponsors/mksglu](https://github.com/sponsors/mksglu)
+- Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
 
-### [alibaba/open-code-review](https://github.com/alibaba/open-code-review)
-- Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
+### [flutter/flutter](https://github.com/flutter/flutter)
+- Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
-### [sponsors/BerriAI](https://github.com/sponsors/BerriAI)
-- The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]
+### [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)
+- An Open Source Machine Learning Framework for Everyone
 
-### [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map)
-- [ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction
+### [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master)
+- AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He
 
-### [twostraws/SwiftUI-Agent-Skill](https://github.com/twostraws/SwiftUI-Agent-Skill)
-- SwiftUI agent skill for Claude Code, Codex, and other AI tools.
+### [pytorch/pytorch](https://github.com/pytorch/pytorch)
+- Tensors and Dynamic neural networks in Python with strong GPU acceleration
 

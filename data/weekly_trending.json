@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "sponsors/affaan-m",
-    "url": "https://github.com/sponsors/affaan-m",
-    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-    "date_added": "2026-10-03"
-  },
-  {
-    "full_name": "Effect-TS/effect",
-    "url": "https://github.com/Effect-TS/effect",
-    "description": "Build production-ready applications in TypeScript",
-    "date_added": "2026-10-03"
-  },
-  {
-    "full_name": "pingdotgg/t3code",
-    "url": "https://github.com/pingdotgg/t3code",
-    "description": "",
-    "date_added": "2026-10-03"
-  },
-  {
-    "full_name": "sponsors/thedotmack",
-    "url": "https://github.com/sponsors/thedotmack",
-    "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-    "date_added": "2026-10-03"
-  },
-  {
-    "full_name": "cloudflare/cloudflare-os",
-    "url": "https://github.com/cloudflare/cloudflare-os",
-    "description": "Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.",
-    "date_added": "2026-10-03"
-  },
-  {
     "full_name": "tester-army/e2e",
     "url": "https://github.com/tester-army/e2e",
     "description": "Next generation e2e testing framework for web and mobile apps.",
@@ -190,5 +160,35 @@
     "url": "https://github.com/twostraws/SwiftUI-Agent-Skill",
     "description": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
     "date_added": "2026-10-09"
+  },
+  {
+    "full_name": "sponsors/mksglu",
+    "url": "https://github.com/sponsors/mksglu",
+    "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+    "date_added": "2026-10-10"
+  },
+  {
+    "full_name": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+    "date_added": "2026-10-10"
+  },
+  {
+    "full_name": "tensorflow/tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "description": "An Open Source Machine Learning Framework for Everyone",
+    "date_added": "2026-10-10"
+  },
+  {
+    "full_name": "hugohe3/ppt-master",
+    "url": "https://github.com/hugohe3/ppt-master",
+    "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
+    "date_added": "2026-10-10"
+  },
+  {
+    "full_name": "pytorch/pytorch",
+    "url": "https://github.com/pytorch/pytorch",
+    "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+    "date_added": "2026-10-10"
   }
 ]
