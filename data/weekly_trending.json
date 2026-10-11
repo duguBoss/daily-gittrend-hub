@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "tester-army/e2e",
-    "url": "https://github.com/tester-army/e2e",
-    "description": "Next generation e2e testing framework for web and mobile apps.",
-    "date_added": "2026-10-04"
-  },
-  {
-    "full_name": "earthtojake/text-to-cad",
-    "url": "https://github.com/earthtojake/text-to-cad",
-    "description": "Give your agent CAD superpowers.",
-    "date_added": "2026-10-04"
-  },
-  {
-    "full_name": "getsentry/sentry",
-    "url": "https://github.com/getsentry/sentry",
-    "description": "Developer-first error tracking and performance monitoring",
-    "date_added": "2026-10-04"
-  },
-  {
-    "full_name": "sponsors/calesthio",
-    "url": "https://github.com/sponsors/calesthio",
-    "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
-    "date_added": "2026-10-04"
-  },
-  {
-    "full_name": "caddyserver/caddy",
-    "url": "https://github.com/caddyserver/caddy",
-    "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
-    "date_added": "2026-10-04"
-  },
-  {
     "full_name": "michael-denyer/pstack-claude",
     "url": "https://github.com/michael-denyer/pstack-claude",
     "description": "Claude Code, Codex, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.",
@@ -190,5 +160,23 @@
     "url": "https://github.com/pytorch/pytorch",
     "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
     "date_added": "2026-10-10"
+  },
+  {
+    "full_name": "bilawalsidhu/gods-eye-view",
+    "url": "https://github.com/bilawalsidhu/gods-eye-view",
+    "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+    "date_added": "2026-10-11"
+  },
+  {
+    "full_name": "sponsors/lyogavin",
+    "url": "https://github.com/sponsors/lyogavin",
+    "description": "AirLLM 70B inference with single 4GB GPU",
+    "date_added": "2026-10-11"
+  },
+  {
+    "full_name": "sponsors/chrislgarry",
+    "url": "https://github.com/sponsors/chrislgarry",
+    "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+    "date_added": "2026-10-11"
   }
 ]

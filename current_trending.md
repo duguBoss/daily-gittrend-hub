@@ -1,17 +1,11 @@
-# GitHub Trending (Added at: 2026-10-10)
+# GitHub Trending (Added at: 2026-10-11)
 
-### [sponsors/mksglu](https://github.com/sponsors/mksglu)
-- Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
+### [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)
+- A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
 
-### [flutter/flutter](https://github.com/flutter/flutter)
-- Flutter makes it easy and fast to build beautiful apps for mobile and beyond
+### [sponsors/lyogavin](https://github.com/sponsors/lyogavin)
+- AirLLM 70B inference with single 4GB GPU
 
-### [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)
-- An Open Source Machine Learning Framework for Everyone
-
-### [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master)
-- AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He
-
-### [pytorch/pytorch](https://github.com/pytorch/pytorch)
-- Tensors and Dynamic neural networks in Python with strong GPU acceleration
+### [sponsors/chrislgarry](https://github.com/sponsors/chrislgarry)
+- Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
 
