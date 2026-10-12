@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "michael-denyer/pstack-claude",
-    "url": "https://github.com/michael-denyer/pstack-claude",
-    "description": "Claude Code, Codex, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.",
-    "date_added": "2026-10-05"
-  },
-  {
-    "full_name": "boykopovar/AnyPS5",
-    "url": "https://github.com/boykopovar/AnyPS5",
-    "description": "Tool for automatic PS5 executables porting to Linux and Windows",
-    "date_added": "2026-10-05"
-  },
-  {
-    "full_name": "sponsors/DuarteSantos8",
-    "url": "https://github.com/sponsors/DuarteSantos8",
-    "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
-    "date_added": "2026-10-05"
-  },
-  {
-    "full_name": "Stremio/stremio-web",
-    "url": "https://github.com/Stremio/stremio-web",
-    "description": "Stremio - Freedom to Stream",
-    "date_added": "2026-10-05"
-  },
-  {
-    "full_name": "sponsors/msitarzewski",
-    "url": "https://github.com/sponsors/msitarzewski",
-    "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-    "date_added": "2026-10-05"
-  },
-  {
     "full_name": "ayghri/i-have-adhd",
     "url": "https://github.com/ayghri/i-have-adhd",
     "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
@@ -178,5 +148,23 @@
     "url": "https://github.com/sponsors/chrislgarry",
     "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
     "date_added": "2026-10-11"
+  },
+  {
+    "full_name": "sponsors/open-webui",
+    "url": "https://github.com/sponsors/open-webui",
+    "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+    "date_added": "2026-10-12"
+  },
+  {
+    "full_name": "microsoft/BitNet",
+    "url": "https://github.com/microsoft/BitNet",
+    "description": "Official inference framework for 1-bit LLMs",
+    "date_added": "2026-10-12"
+  },
+  {
+    "full_name": "Alishahryar1/free-claude-code",
+    "url": "https://github.com/Alishahryar1/free-claude-code",
+    "description": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+    "date_added": "2026-10-12"
   }
 ]
