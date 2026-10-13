@@ -1,29 +1,5 @@
 [
   {
-    "full_name": "ayghri/i-have-adhd",
-    "url": "https://github.com/ayghri/i-have-adhd",
-    "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-    "date_added": "2026-10-06"
-  },
-  {
-    "full_name": "morluto/rea",
-    "url": "https://github.com/morluto/rea",
-    "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-    "date_added": "2026-10-06"
-  },
-  {
-    "full_name": "deepseek-ai/DeepGEMM",
-    "url": "https://github.com/deepseek-ai/DeepGEMM",
-    "description": "DeepGEMM: clean and efficient BLAS kernel library on GPU",
-    "date_added": "2026-10-06"
-  },
-  {
-    "full_name": "sponsors/cathrynlavery",
-    "url": "https://github.com/sponsors/cathrynlavery",
-    "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-    "date_added": "2026-10-06"
-  },
-  {
     "full_name": "addyosmani/agent-skills",
     "url": "https://github.com/addyosmani/agent-skills",
     "description": "Production-grade engineering skills for AI coding agents.",
@@ -166,5 +142,35 @@
     "url": "https://github.com/Alishahryar1/free-claude-code",
     "description": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
     "date_added": "2026-10-12"
+  },
+  {
+    "full_name": "morluto/rea",
+    "url": "https://github.com/morluto/rea",
+    "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "date_added": "2026-10-13"
+  },
+  {
+    "full_name": "debpalash/VoiceStudio",
+    "url": "https://github.com/debpalash/VoiceStudio",
+    "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+    "date_added": "2026-10-13"
+  },
+  {
+    "full_name": "sponsors/cathrynlavery",
+    "url": "https://github.com/sponsors/cathrynlavery",
+    "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+    "date_added": "2026-10-13"
+  },
+  {
+    "full_name": "vercel-labs/skills",
+    "url": "https://github.com/vercel-labs/skills",
+    "description": "The open agent skills tool - npx skills",
+    "date_added": "2026-10-13"
+  },
+  {
+    "full_name": "xtool-org/xtool",
+    "url": "https://github.com/xtool-org/xtool",
+    "description": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",
+    "date_added": "2026-10-13"
   }
 ]
