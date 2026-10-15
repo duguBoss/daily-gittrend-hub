@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-10-14)
+# GitHub Trending (Added at: 2026-10-15)
 
-### [nvm-sh/nvm](https://github.com/nvm-sh/nvm)
-- Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.
+### [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
+- Official, Anthropic-managed directory of high quality Claude Code Plugins.
 
-### [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)
-- Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.
+### [sponsors/JuliusBrussee](https://github.com/sponsors/JuliusBrussee)
+- 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
 
-### [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
-- "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
+### [sponsors/obra](https://github.com/sponsors/obra)
+- An agentic skills framework & software development methodology that works.
 
-### [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi)
-- Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.
+### [ruvnet/ruflo](https://github.com/ruvnet/ruflo)
+- 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated
 
-### [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi)
-- Fully autonomous AI Agents system capable of performing complex penetration testing tasks
+### [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)
+- Ghidra is a software reverse engineering (SRE) framework
 
