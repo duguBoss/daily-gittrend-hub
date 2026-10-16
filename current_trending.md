@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-10-15)
+# GitHub Trending (Added at: 2026-10-16)
 
-### [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
-- Official, Anthropic-managed directory of high quality Claude Code Plugins.
+### [sponsors/affaan-m](https://github.com/sponsors/affaan-m)
+- The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
-### [sponsors/JuliusBrussee](https://github.com/sponsors/JuliusBrussee)
-- 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
+### [android/skills](https://github.com/android/skills)
+- 
 
-### [sponsors/obra](https://github.com/sponsors/obra)
-- An agentic skills framework & software development methodology that works.
+### [cursor/plugins](https://github.com/cursor/plugins)
+- Cursor plugin specification and official plugins
 
-### [ruvnet/ruflo](https://github.com/ruvnet/ruflo)
-- 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated
+### [sponsors/debpalash](https://github.com/sponsors/debpalash)
+- VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
 
-### [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)
-- Ghidra is a software reverse engineering (SRE) framework
+### [sponsors/MadsLorentzen](https://github.com/sponsors/MadsLorentzen)
+- The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
 

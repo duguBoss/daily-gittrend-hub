@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "sponsors/mattpocock",
-    "url": "https://github.com/sponsors/mattpocock",
-    "description": "Skills for Real Engineers. Straight from my .agents directory.",
-    "date_added": "2026-10-09"
-  },
-  {
-    "full_name": "alibaba/open-code-review",
-    "url": "https://github.com/alibaba/open-code-review",
-    "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-    "date_added": "2026-10-09"
-  },
-  {
-    "full_name": "sponsors/BerriAI",
-    "url": "https://github.com/sponsors/BerriAI",
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
-    "date_added": "2026-10-09"
-  },
-  {
-    "full_name": "Robbyant/lingbot-map",
-    "url": "https://github.com/Robbyant/lingbot-map",
-    "description": "[ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction",
-    "date_added": "2026-10-09"
-  },
-  {
-    "full_name": "twostraws/SwiftUI-Agent-Skill",
-    "url": "https://github.com/twostraws/SwiftUI-Agent-Skill",
-    "description": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
-    "date_added": "2026-10-09"
-  },
-  {
     "full_name": "sponsors/mksglu",
     "url": "https://github.com/sponsors/mksglu",
     "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
@@ -184,5 +154,35 @@
     "url": "https://github.com/NationalSecurityAgency/ghidra",
     "description": "Ghidra is a software reverse engineering (SRE) framework",
     "date_added": "2026-10-15"
+  },
+  {
+    "full_name": "sponsors/affaan-m",
+    "url": "https://github.com/sponsors/affaan-m",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "date_added": "2026-10-16"
+  },
+  {
+    "full_name": "android/skills",
+    "url": "https://github.com/android/skills",
+    "description": "",
+    "date_added": "2026-10-16"
+  },
+  {
+    "full_name": "cursor/plugins",
+    "url": "https://github.com/cursor/plugins",
+    "description": "Cursor plugin specification and official plugins",
+    "date_added": "2026-10-16"
+  },
+  {
+    "full_name": "sponsors/debpalash",
+    "url": "https://github.com/sponsors/debpalash",
+    "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+    "date_added": "2026-10-16"
+  },
+  {
+    "full_name": "sponsors/MadsLorentzen",
+    "url": "https://github.com/sponsors/MadsLorentzen",
+    "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+    "date_added": "2026-10-16"
   }
 ]
