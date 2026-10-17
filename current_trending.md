@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-10-16)
+# GitHub Trending (Added at: 2026-10-17)
 
-### [sponsors/affaan-m](https://github.com/sponsors/affaan-m)
-- The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+### [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory)
+- Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
 
-### [android/skills](https://github.com/android/skills)
-- 
+### [stablyai/orca](https://github.com/stablyai/orca)
+- Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
 
-### [cursor/plugins](https://github.com/cursor/plugins)
-- Cursor plugin specification and official plugins
+### [anthropics/claude-code](https://github.com/anthropics/claude-code)
+- Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
 
-### [sponsors/debpalash](https://github.com/sponsors/debpalash)
-- VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
+### [sponsors/anomalyco](https://github.com/sponsors/anomalyco)
+- The open source coding agent.
 
-### [sponsors/MadsLorentzen](https://github.com/sponsors/MadsLorentzen)
-- The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
+### [xerj-org/xerj](https://github.com/xerj-org/xerj)
+- XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work.
 
