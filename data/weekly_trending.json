@@ -1,23 +1,5 @@
 [
   {
-    "full_name": "bilawalsidhu/gods-eye-view",
-    "url": "https://github.com/bilawalsidhu/gods-eye-view",
-    "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-    "date_added": "2026-10-11"
-  },
-  {
-    "full_name": "sponsors/lyogavin",
-    "url": "https://github.com/sponsors/lyogavin",
-    "description": "AirLLM 70B inference with single 4GB GPU",
-    "date_added": "2026-10-11"
-  },
-  {
-    "full_name": "sponsors/chrislgarry",
-    "url": "https://github.com/sponsors/chrislgarry",
-    "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
-    "date_added": "2026-10-11"
-  },
-  {
     "full_name": "sponsors/open-webui",
     "url": "https://github.com/sponsors/open-webui",
     "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
@@ -184,5 +166,23 @@
     "url": "https://github.com/xerj-org/xerj",
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work.",
     "date_added": "2026-10-17"
+  },
+  {
+    "full_name": "mlabonne/llm-course",
+    "url": "https://github.com/mlabonne/llm-course",
+    "description": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+    "date_added": "2026-10-18"
+  },
+  {
+    "full_name": "Kruk2/jasna",
+    "url": "https://github.com/Kruk2/jasna",
+    "description": "Video restoration tool",
+    "date_added": "2026-10-18"
+  },
+  {
+    "full_name": "Comfy-Org/ComfyUI",
+    "url": "https://github.com/Comfy-Org/ComfyUI",
+    "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+    "date_added": "2026-10-18"
   }
 ]

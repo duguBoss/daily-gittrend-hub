@@ -1,17 +1,11 @@
-# GitHub Trending (Added at: 2026-10-17)
+# GitHub Trending (Added at: 2026-10-18)
 
-### [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory)
-- Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
+### [mlabonne/llm-course](https://github.com/mlabonne/llm-course)
+- Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
 
-### [stablyai/orca](https://github.com/stablyai/orca)
-- Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
+### [Kruk2/jasna](https://github.com/Kruk2/jasna)
+- Video restoration tool
 
-### [anthropics/claude-code](https://github.com/anthropics/claude-code)
-- Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-
-### [sponsors/anomalyco](https://github.com/sponsors/anomalyco)
-- The open source coding agent.
-
-### [xerj-org/xerj](https://github.com/xerj-org/xerj)
-- XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work.
+### [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI)
+- The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
 
