@@ -1,23 +1,5 @@
 [
   {
-    "full_name": "sponsors/open-webui",
-    "url": "https://github.com/sponsors/open-webui",
-    "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-    "date_added": "2026-10-12"
-  },
-  {
-    "full_name": "microsoft/BitNet",
-    "url": "https://github.com/microsoft/BitNet",
-    "description": "Official inference framework for 1-bit LLMs",
-    "date_added": "2026-10-12"
-  },
-  {
-    "full_name": "Alishahryar1/free-claude-code",
-    "url": "https://github.com/Alishahryar1/free-claude-code",
-    "description": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
-    "date_added": "2026-10-12"
-  },
-  {
     "full_name": "morluto/rea",
     "url": "https://github.com/morluto/rea",
     "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
@@ -184,5 +166,23 @@
     "url": "https://github.com/Comfy-Org/ComfyUI",
     "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
     "date_added": "2026-10-18"
+  },
+  {
+    "full_name": "headroomlabs-ai/headroom",
+    "url": "https://github.com/headroomlabs-ai/headroom",
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+    "date_added": "2026-10-19"
+  },
+  {
+    "full_name": "withmarbleapp/os-taxonomy",
+    "url": "https://github.com/withmarbleapp/os-taxonomy",
+    "description": "",
+    "date_added": "2026-10-19"
+  },
+  {
+    "full_name": "shiyu-coder/Kronos",
+    "url": "https://github.com/shiyu-coder/Kronos",
+    "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+    "date_added": "2026-10-19"
   }
 ]

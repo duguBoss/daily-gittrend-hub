@@ -1,11 +1,11 @@
-# GitHub Trending (Added at: 2026-10-18)
+# GitHub Trending (Added at: 2026-10-19)
 
-### [mlabonne/llm-course](https://github.com/mlabonne/llm-course)
-- Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
+### [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom)
+- Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
 
-### [Kruk2/jasna](https://github.com/Kruk2/jasna)
-- Video restoration tool
+### [withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy)
+- 
 
-### [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI)
-- The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
+### [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos)
+- Kronos: A Foundation Model for the Language of Financial Markets
 
