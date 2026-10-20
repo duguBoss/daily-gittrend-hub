@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "morluto/rea",
-    "url": "https://github.com/morluto/rea",
-    "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-    "date_added": "2026-10-13"
-  },
-  {
-    "full_name": "debpalash/VoiceStudio",
-    "url": "https://github.com/debpalash/VoiceStudio",
-    "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-    "date_added": "2026-10-13"
-  },
-  {
-    "full_name": "sponsors/cathrynlavery",
-    "url": "https://github.com/sponsors/cathrynlavery",
-    "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-    "date_added": "2026-10-13"
-  },
-  {
-    "full_name": "vercel-labs/skills",
-    "url": "https://github.com/vercel-labs/skills",
-    "description": "The open agent skills tool - npx skills",
-    "date_added": "2026-10-13"
-  },
-  {
-    "full_name": "xtool-org/xtool",
-    "url": "https://github.com/xtool-org/xtool",
-    "description": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",
-    "date_added": "2026-10-13"
-  },
-  {
     "full_name": "nvm-sh/nvm",
     "url": "https://github.com/nvm-sh/nvm",
     "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
@@ -184,5 +154,35 @@
     "url": "https://github.com/shiyu-coder/Kronos",
     "description": "Kronos: A Foundation Model for the Language of Financial Markets",
     "date_added": "2026-10-19"
+  },
+  {
+    "full_name": "cloudflare/security-audit-skill",
+    "url": "https://github.com/cloudflare/security-audit-skill",
+    "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "date_added": "2026-10-20"
+  },
+  {
+    "full_name": "sponsors/DietrichGebert",
+    "url": "https://github.com/sponsors/DietrichGebert",
+    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "date_added": "2026-10-20"
+  },
+  {
+    "full_name": "Graphify-Labs/graphify",
+    "url": "https://github.com/Graphify-Labs/graphify",
+    "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+    "date_added": "2026-10-20"
+  },
+  {
+    "full_name": "YuJunZhiXue/dsh-purge",
+    "url": "https://github.com/YuJunZhiXue/dsh-purge",
+    "description": "DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分",
+    "date_added": "2026-10-20"
+  },
+  {
+    "full_name": "sponsors/msitarzewski",
+    "url": "https://github.com/sponsors/msitarzewski",
+    "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+    "date_added": "2026-10-20"
   }
 ]
