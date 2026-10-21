@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "nvm-sh/nvm",
-    "url": "https://github.com/nvm-sh/nvm",
-    "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
-    "date_added": "2026-10-14"
-  },
-  {
-    "full_name": "K-Dense-AI/scientific-agent-skills",
-    "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-    "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-    "date_added": "2026-10-14"
-  },
-  {
-    "full_name": "HKUDS/CLI-Anything",
-    "url": "https://github.com/HKUDS/CLI-Anything",
-    "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-    "date_added": "2026-10-14"
-  },
-  {
-    "full_name": "ifixai-ai/iFixAi",
-    "url": "https://github.com/ifixai-ai/iFixAi",
-    "description": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.",
-    "date_added": "2026-10-14"
-  },
-  {
-    "full_name": "vxcontrol/pentagi",
-    "url": "https://github.com/vxcontrol/pentagi",
-    "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
-    "date_added": "2026-10-14"
-  },
-  {
     "full_name": "anthropics/claude-plugins-official",
     "url": "https://github.com/anthropics/claude-plugins-official",
     "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
@@ -184,5 +154,29 @@
     "url": "https://github.com/sponsors/msitarzewski",
     "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
     "date_added": "2026-10-20"
+  },
+  {
+    "full_name": "sponsors/vllm-project",
+    "url": "https://github.com/sponsors/vllm-project",
+    "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+    "date_added": "2026-10-21"
+  },
+  {
+    "full_name": "sponsors/supabase",
+    "url": "https://github.com/sponsors/supabase",
+    "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+    "date_added": "2026-10-21"
+  },
+  {
+    "full_name": "twentyhq/twenty",
+    "url": "https://github.com/twentyhq/twenty",
+    "description": "The open alternative to Salesforce, designed for AI.",
+    "date_added": "2026-10-21"
+  },
+  {
+    "full_name": "sponsors/strelov1",
+    "url": "https://github.com/sponsors/strelov1",
+    "description": "freehire — the open-source search engine for job seekers",
+    "date_added": "2026-10-21"
   }
 ]
