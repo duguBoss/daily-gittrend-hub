@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "anthropics/claude-plugins-official",
-    "url": "https://github.com/anthropics/claude-plugins-official",
-    "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-    "date_added": "2026-10-15"
-  },
-  {
-    "full_name": "sponsors/JuliusBrussee",
-    "url": "https://github.com/sponsors/JuliusBrussee",
-    "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
-    "date_added": "2026-10-15"
-  },
-  {
-    "full_name": "sponsors/obra",
-    "url": "https://github.com/sponsors/obra",
-    "description": "An agentic skills framework & software development methodology that works.",
-    "date_added": "2026-10-15"
-  },
-  {
-    "full_name": "ruvnet/ruflo",
-    "url": "https://github.com/ruvnet/ruflo",
-    "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
-    "date_added": "2026-10-15"
-  },
-  {
-    "full_name": "NationalSecurityAgency/ghidra",
-    "url": "https://github.com/NationalSecurityAgency/ghidra",
-    "description": "Ghidra is a software reverse engineering (SRE) framework",
-    "date_added": "2026-10-15"
-  },
-  {
     "full_name": "sponsors/affaan-m",
     "url": "https://github.com/sponsors/affaan-m",
     "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
@@ -178,5 +148,35 @@
     "url": "https://github.com/sponsors/strelov1",
     "description": "freehire — the open-source search engine for job seekers",
     "date_added": "2026-10-21"
+  },
+  {
+    "full_name": "php/php-src",
+    "url": "https://github.com/php/php-src",
+    "description": "The PHP Interpreter",
+    "date_added": "2026-10-22"
+  },
+  {
+    "full_name": "anthropics/knowledge-work-plugins",
+    "url": "https://github.com/anthropics/knowledge-work-plugins",
+    "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+    "date_added": "2026-10-22"
+  },
+  {
+    "full_name": "fastapi/fastapi",
+    "url": "https://github.com/fastapi/fastapi",
+    "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+    "date_added": "2026-10-22"
+  },
+  {
+    "full_name": "sponsors/luongnv89",
+    "url": "https://github.com/sponsors/luongnv89",
+    "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+    "date_added": "2026-10-22"
+  },
+  {
+    "full_name": "Meloong-Git/PCL",
+    "url": "https://github.com/Meloong-Git/PCL",
+    "description": "Minecraft 启动器 Plain Craft Launcher（PCL）。",
+    "date_added": "2026-10-22"
   }
 ]
