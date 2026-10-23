@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "sponsors/affaan-m",
-    "url": "https://github.com/sponsors/affaan-m",
-    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-    "date_added": "2026-10-16"
-  },
-  {
-    "full_name": "android/skills",
-    "url": "https://github.com/android/skills",
-    "description": "",
-    "date_added": "2026-10-16"
-  },
-  {
-    "full_name": "cursor/plugins",
-    "url": "https://github.com/cursor/plugins",
-    "description": "Cursor plugin specification and official plugins",
-    "date_added": "2026-10-16"
-  },
-  {
-    "full_name": "sponsors/debpalash",
-    "url": "https://github.com/sponsors/debpalash",
-    "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-    "date_added": "2026-10-16"
-  },
-  {
-    "full_name": "sponsors/MadsLorentzen",
-    "url": "https://github.com/sponsors/MadsLorentzen",
-    "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
-    "date_added": "2026-10-16"
-  },
-  {
     "full_name": "akitaonrails/ai-memory",
     "url": "https://github.com/akitaonrails/ai-memory",
     "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
@@ -178,5 +148,35 @@
     "url": "https://github.com/Meloong-Git/PCL",
     "description": "Minecraft 启动器 Plain Craft Launcher（PCL）。",
     "date_added": "2026-10-22"
+  },
+  {
+    "full_name": "NVIDIA/OpenShell",
+    "url": "https://github.com/NVIDIA/OpenShell",
+    "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+    "date_added": "2026-10-23"
+  },
+  {
+    "full_name": "Renhuai123/ziwei-doushu",
+    "url": "https://github.com/Renhuai123/ziwei-doushu",
+    "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+    "date_added": "2026-10-23"
+  },
+  {
+    "full_name": "SnailSploit/Claude-Red",
+    "url": "https://github.com/SnailSploit/Claude-Red",
+    "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+    "date_added": "2026-10-23"
+  },
+  {
+    "full_name": "OpenBMB/VoxCPM",
+    "url": "https://github.com/OpenBMB/VoxCPM",
+    "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+    "date_added": "2026-10-23"
+  },
+  {
+    "full_name": "sponsors/nodejs",
+    "url": "https://github.com/sponsors/nodejs",
+    "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+    "date_added": "2026-10-23"
   }
 ]
