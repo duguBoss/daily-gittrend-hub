@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "akitaonrails/ai-memory",
-    "url": "https://github.com/akitaonrails/ai-memory",
-    "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-    "date_added": "2026-10-17"
-  },
-  {
-    "full_name": "stablyai/orca",
-    "url": "https://github.com/stablyai/orca",
-    "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-    "date_added": "2026-10-17"
-  },
-  {
-    "full_name": "anthropics/claude-code",
-    "url": "https://github.com/anthropics/claude-code",
-    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-    "date_added": "2026-10-17"
-  },
-  {
-    "full_name": "sponsors/anomalyco",
-    "url": "https://github.com/sponsors/anomalyco",
-    "description": "The open source coding agent.",
-    "date_added": "2026-10-17"
-  },
-  {
-    "full_name": "xerj-org/xerj",
-    "url": "https://github.com/xerj-org/xerj",
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work.",
-    "date_added": "2026-10-17"
-  },
-  {
     "full_name": "mlabonne/llm-course",
     "url": "https://github.com/mlabonne/llm-course",
     "description": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
@@ -178,5 +148,35 @@
     "url": "https://github.com/sponsors/nodejs",
     "description": "Node.js JavaScript runtime ✨🐢🚀✨",
     "date_added": "2026-10-23"
+  },
+  {
+    "full_name": "aws/agent-toolkit-for-aws",
+    "url": "https://github.com/aws/agent-toolkit-for-aws",
+    "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+    "date_added": "2026-10-24"
+  },
+  {
+    "full_name": "Nutlope/hallmark",
+    "url": "https://github.com/Nutlope/hallmark",
+    "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+    "date_added": "2026-10-24"
+  },
+  {
+    "full_name": "pbakaus/impeccable",
+    "url": "https://github.com/pbakaus/impeccable",
+    "description": "The design language that makes your AI harness better at design.",
+    "date_added": "2026-10-24"
+  },
+  {
+    "full_name": "pollen-robotics/microduck",
+    "url": "https://github.com/pollen-robotics/microduck",
+    "description": "A Tiny biped duck robot 🦆",
+    "date_added": "2026-10-24"
+  },
+  {
+    "full_name": "google-gemini/gemini-cli",
+    "url": "https://github.com/google-gemini/gemini-cli",
+    "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+    "date_added": "2026-10-24"
   }
 ]

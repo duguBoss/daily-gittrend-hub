@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-10-23)
+# GitHub Trending (Added at: 2026-10-24)
 
-### [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell)
-- OpenShell is the safe, private runtime for autonomous AI agents.
+### [aws/agent-toolkit-for-aws](https://github.com/aws/agent-toolkit-for-aws)
+- Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS
 
-### [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu)
-- 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据
+### [Nutlope/hallmark](https://github.com/Nutlope/hallmark)
+- Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
 
-### [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red)
-- claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.
+### [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
+- The design language that makes your AI harness better at design.
 
-### [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM)
-- VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
+### [pollen-robotics/microduck](https://github.com/pollen-robotics/microduck)
+- A Tiny biped duck robot 🦆
 
-### [sponsors/nodejs](https://github.com/sponsors/nodejs)
-- Node.js JavaScript runtime ✨🐢🚀✨
+### [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
+- An open-source AI agent that brings the power of Gemini directly into your terminal.
 
