@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-10-24)
+# GitHub Trending (Added at: 2026-10-25)
 
-### [aws/agent-toolkit-for-aws](https://github.com/aws/agent-toolkit-for-aws)
-- Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS
+### [makecindy/cindy](https://github.com/makecindy/cindy)
+- Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。
 
-### [Nutlope/hallmark](https://github.com/Nutlope/hallmark)
-- Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
+### [sponsors/debpalash](https://github.com/sponsors/debpalash)
+- VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
 
-### [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
-- The design language that makes your AI harness better at design.
+### [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)
+- TradingAgents: Multi-Agents LLM Financial Trading Framework
 
-### [pollen-robotics/microduck](https://github.com/pollen-robotics/microduck)
-- A Tiny biped duck robot 🦆
+### [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail)
+- Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need
 
-### [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
-- An open-source AI agent that brings the power of Gemini directly into your terminal.
+### [sponsors/coollabsio](https://github.com/sponsors/coollabsio)
+- An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.
 
