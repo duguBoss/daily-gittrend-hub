@@ -1,23 +1,5 @@
 [
   {
-    "full_name": "headroomlabs-ai/headroom",
-    "url": "https://github.com/headroomlabs-ai/headroom",
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
-    "date_added": "2026-10-19"
-  },
-  {
-    "full_name": "withmarbleapp/os-taxonomy",
-    "url": "https://github.com/withmarbleapp/os-taxonomy",
-    "description": "",
-    "date_added": "2026-10-19"
-  },
-  {
-    "full_name": "shiyu-coder/Kronos",
-    "url": "https://github.com/shiyu-coder/Kronos",
-    "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-    "date_added": "2026-10-19"
-  },
-  {
     "full_name": "cloudflare/security-audit-skill",
     "url": "https://github.com/cloudflare/security-audit-skill",
     "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
@@ -190,5 +172,35 @@
     "url": "https://github.com/sponsors/coollabsio",
     "description": "An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.",
     "date_added": "2026-10-25"
+  },
+  {
+    "full_name": "sponsors/affaan-m",
+    "url": "https://github.com/sponsors/affaan-m",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "date_added": "2026-10-26"
+  },
+  {
+    "full_name": "NVIDIA/SkillSpector",
+    "url": "https://github.com/NVIDIA/SkillSpector",
+    "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
+    "date_added": "2026-10-26"
+  },
+  {
+    "full_name": "nightly-labs/openbot",
+    "url": "https://github.com/nightly-labs/openbot",
+    "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+    "date_added": "2026-10-26"
+  },
+  {
+    "full_name": "Panniantong/Agent-Reach",
+    "url": "https://github.com/Panniantong/Agent-Reach",
+    "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+    "date_added": "2026-10-26"
+  },
+  {
+    "full_name": "gitroomhq/postiz-app",
+    "url": "https://github.com/gitroomhq/postiz-app",
+    "description": "📨 The ultimate agentic social media scheduling tool 🤖",
+    "date_added": "2026-10-26"
   }
 ]
