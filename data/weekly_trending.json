@@ -1,29 +1,5 @@
 [
   {
-    "full_name": "sponsors/vllm-project",
-    "url": "https://github.com/sponsors/vllm-project",
-    "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
-    "date_added": "2026-10-21"
-  },
-  {
-    "full_name": "sponsors/supabase",
-    "url": "https://github.com/sponsors/supabase",
-    "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-    "date_added": "2026-10-21"
-  },
-  {
-    "full_name": "twentyhq/twenty",
-    "url": "https://github.com/twentyhq/twenty",
-    "description": "The open alternative to Salesforce, designed for AI.",
-    "date_added": "2026-10-21"
-  },
-  {
-    "full_name": "sponsors/strelov1",
-    "url": "https://github.com/sponsors/strelov1",
-    "description": "freehire — the open-source search engine for job seekers",
-    "date_added": "2026-10-21"
-  },
-  {
     "full_name": "php/php-src",
     "url": "https://github.com/php/php-src",
     "description": "The PHP Interpreter",
@@ -190,5 +166,35 @@
     "url": "https://github.com/togg53192-cmd/jailbreaks",
     "description": "LIST OF ALL MY JAILBREAKS",
     "date_added": "2026-10-27"
+  },
+  {
+    "full_name": "sponsors/elayadesign",
+    "url": "https://github.com/sponsors/elayadesign",
+    "description": "",
+    "date_added": "2026-10-28"
+  },
+  {
+    "full_name": "macro-inc/macro",
+    "url": "https://github.com/macro-inc/macro",
+    "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+    "date_added": "2026-10-28"
+  },
+  {
+    "full_name": "hmjz100/LinkSwift",
+    "url": "https://github.com/hmjz100/LinkSwift",
+    "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
+    "date_added": "2026-10-28"
+  },
+  {
+    "full_name": "expo/skills",
+    "url": "https://github.com/expo/skills",
+    "description": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
+    "date_added": "2026-10-28"
+  },
+  {
+    "full_name": "ruvnet/RuView",
+    "url": "https://github.com/ruvnet/RuView",
+    "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+    "date_added": "2026-10-28"
   }
 ]
