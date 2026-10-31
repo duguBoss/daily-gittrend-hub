@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-10-30)
+# GitHub Trending (Added at: 2026-10-31)
 
-### [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu)
-- 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据
+### [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
+- The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
 
-### [sponsors/mattpocock](https://github.com/sponsors/mattpocock)
-- Skills for Real Engineers. Straight from my .agents directory.
+### [Orkas-AI/Orkas](https://github.com/Orkas-AI/Orkas)
+- Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.
 
-### [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
-- 
+### [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)
+- Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
 
-### [anthropics/skills](https://github.com/anthropics/skills)
-- Public repository for Agent Skills
+### [sponsors/bregman-arie](https://github.com/sponsors/bregman-arie)
+- Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 
-### [lightpanda-io/browser](https://github.com/lightpanda-io/browser)
-- Lightpanda: the headless browser designed for AI and automation
+### [sponsors/vorssaint](https://github.com/sponsors/vorssaint)
+- Free and open-source macOS menu bar toolkit.
 
