@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-10-31)
+# GitHub Trending (Added at: 2026-11-01)
 
-### [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
-- The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
+### [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos)
+- Kronos: A Foundation Model for the Language of Financial Markets
 
-### [Orkas-AI/Orkas](https://github.com/Orkas-AI/Orkas)
-- Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.
+### [public-apis/public-apis](https://github.com/public-apis/public-apis)
+- A collective list of free APIs
 
-### [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)
-- Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
+### [sponsors/cjpais](https://github.com/sponsors/cjpais)
+- A free, open source, and extensible speech-to-text application that works completely offline.
 
-### [sponsors/bregman-arie](https://github.com/sponsors/bregman-arie)
-- Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+### [sponsors/kornia](https://github.com/sponsors/kornia)
+- 🐍 Geometric Computer Vision Library for Spatial AI
 
-### [sponsors/vorssaint](https://github.com/sponsors/vorssaint)
-- Free and open-source macOS menu bar toolkit.
+### [beenuar/AiSOC](https://github.com/beenuar/AiSOC)
+- Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE ATT&CK investigation, and a replayable decision ledger for every agent step. Self-hostable, runs with no API keys, MIT licensed. Ships an MCP server for Claude, Cursor and Continue.
 
