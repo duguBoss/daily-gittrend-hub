@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "sponsors/affaan-m",
-    "url": "https://github.com/sponsors/affaan-m",
-    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-    "date_added": "2026-10-26"
-  },
-  {
-    "full_name": "NVIDIA/SkillSpector",
-    "url": "https://github.com/NVIDIA/SkillSpector",
-    "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
-    "date_added": "2026-10-26"
-  },
-  {
-    "full_name": "nightly-labs/openbot",
-    "url": "https://github.com/nightly-labs/openbot",
-    "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
-    "date_added": "2026-10-26"
-  },
-  {
-    "full_name": "Panniantong/Agent-Reach",
-    "url": "https://github.com/Panniantong/Agent-Reach",
-    "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-    "date_added": "2026-10-26"
-  },
-  {
-    "full_name": "gitroomhq/postiz-app",
-    "url": "https://github.com/gitroomhq/postiz-app",
-    "description": "📨 The ultimate agentic social media scheduling tool 🤖",
-    "date_added": "2026-10-26"
-  },
-  {
     "full_name": "sponsors/obra",
     "url": "https://github.com/sponsors/obra",
     "description": "An agentic skills framework & software development methodology that works.",
@@ -190,5 +160,35 @@
     "url": "https://github.com/beenuar/AiSOC",
     "description": "Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE ATT&CK investigation, and a replayable decision ledger for every agent step. Self-hostable, runs with no API keys, MIT licensed. Ships an MCP server for Claude, Cursor and Continue.",
     "date_added": "2026-11-01"
+  },
+  {
+    "full_name": "vercel-labs/agent-desktop",
+    "url": "https://github.com/vercel-labs/agent-desktop",
+    "description": "Computer use CLI for AI agents",
+    "date_added": "2026-11-02"
+  },
+  {
+    "full_name": "sponsors/D4Vinci",
+    "url": "https://github.com/sponsors/D4Vinci",
+    "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
+    "date_added": "2026-11-02"
+  },
+  {
+    "full_name": "hyprwm/Hyprland",
+    "url": "https://github.com/hyprwm/Hyprland",
+    "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+    "date_added": "2026-11-02"
+  },
+  {
+    "full_name": "FlashML-org/FreeToken",
+    "url": "https://github.com/FlashML-org/FreeToken",
+    "description": "FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.",
+    "date_added": "2026-11-02"
+  },
+  {
+    "full_name": "JustVugg/colibri",
+    "url": "https://github.com/JustVugg/colibri",
+    "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+    "date_added": "2026-11-02"
   }
 ]
