@@ -1,23 +1,5 @@
 [
   {
-    "full_name": "sponsors/obra",
-    "url": "https://github.com/sponsors/obra",
-    "description": "An agentic skills framework & software development methodology that works.",
-    "date_added": "2026-10-27"
-  },
-  {
-    "full_name": "HKUDS/DeepTutor",
-    "url": "https://github.com/HKUDS/DeepTutor",
-    "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
-    "date_added": "2026-10-27"
-  },
-  {
-    "full_name": "togg53192-cmd/jailbreaks",
-    "url": "https://github.com/togg53192-cmd/jailbreaks",
-    "description": "LIST OF ALL MY JAILBREAKS",
-    "date_added": "2026-10-27"
-  },
-  {
     "full_name": "sponsors/elayadesign",
     "url": "https://github.com/sponsors/elayadesign",
     "description": "",
@@ -190,5 +172,35 @@
     "url": "https://github.com/JustVugg/colibri",
     "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
     "date_added": "2026-11-02"
+  },
+  {
+    "full_name": "max-sixty/worktrunk",
+    "url": "https://github.com/max-sixty/worktrunk",
+    "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+    "date_added": "2026-11-03"
+  },
+  {
+    "full_name": "p-e-w/heretic",
+    "url": "https://github.com/p-e-w/heretic",
+    "description": "Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more",
+    "date_added": "2026-11-03"
+  },
+  {
+    "full_name": "spotify/portal-ai-plugins",
+    "url": "https://github.com/spotify/portal-ai-plugins",
+    "description": "",
+    "date_added": "2026-11-03"
+  },
+  {
+    "full_name": "sponsors/floci-io",
+    "url": "https://github.com/sponsors/floci-io",
+    "description": "Light, fluffy, and always free - The AWS Local Emulator alternative",
+    "date_added": "2026-11-03"
+  },
+  {
+    "full_name": "Usagi-org/ai-goofish-monitor",
+    "url": "https://github.com/Usagi-org/ai-goofish-monitor",
+    "description": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
+    "date_added": "2026-11-03"
   }
 ]

@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-11-02)
+# GitHub Trending (Added at: 2026-11-03)
 
-### [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop)
-- Computer use CLI for AI agents
+### [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk)
+- Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
 
-### [sponsors/D4Vinci](https://github.com/sponsors/D4Vinci)
-- 🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev
+### [p-e-w/heretic](https://github.com/p-e-w/heretic)
+- Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more
 
-### [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
-- Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
+### [spotify/portal-ai-plugins](https://github.com/spotify/portal-ai-plugins)
+- 
 
-### [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken)
-- FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.
+### [sponsors/floci-io](https://github.com/sponsors/floci-io)
+- Light, fluffy, and always free - The AWS Local Emulator alternative
 
-### [JustVugg/colibri](https://github.com/JustVugg/colibri)
-- Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
+### [Usagi-org/ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor)
+- 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。
 
