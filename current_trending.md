@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-11-03)
+# GitHub Trending (Added at: 2026-11-04)
 
-### [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk)
-- Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
+### [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology)
+- Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.
 
-### [p-e-w/heretic](https://github.com/p-e-w/heretic)
-- Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more
+### [github/spec-kit](https://github.com/github/spec-kit)
+- 💫 Toolkit to help you get started with SDD or any other process!
 
-### [spotify/portal-ai-plugins](https://github.com/spotify/portal-ai-plugins)
-- 
+### [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent)
+- 🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.
 
-### [sponsors/floci-io](https://github.com/sponsors/floci-io)
-- Light, fluffy, and always free - The AWS Local Emulator alternative
+### [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
+- 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
 
-### [Usagi-org/ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor)
-- 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。
+### [garrytan/gstack](https://github.com/garrytan/gstack)
+- Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 
