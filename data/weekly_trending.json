@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "Renhuai123/ziwei-doushu",
-    "url": "https://github.com/Renhuai123/ziwei-doushu",
-    "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
-    "date_added": "2026-10-30"
-  },
-  {
-    "full_name": "sponsors/mattpocock",
-    "url": "https://github.com/sponsors/mattpocock",
-    "description": "Skills for Real Engineers. Straight from my .agents directory.",
-    "date_added": "2026-10-30"
-  },
-  {
-    "full_name": "pingdotgg/t3code",
-    "url": "https://github.com/pingdotgg/t3code",
-    "description": "",
-    "date_added": "2026-10-30"
-  },
-  {
-    "full_name": "anthropics/skills",
-    "url": "https://github.com/anthropics/skills",
-    "description": "Public repository for Agent Skills",
-    "date_added": "2026-10-30"
-  },
-  {
-    "full_name": "lightpanda-io/browser",
-    "url": "https://github.com/lightpanda-io/browser",
-    "description": "Lightpanda: the headless browser designed for AI and automation",
-    "date_added": "2026-10-30"
-  },
-  {
     "full_name": "pbakaus/impeccable",
     "url": "https://github.com/pbakaus/impeccable",
     "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
@@ -208,5 +178,35 @@
     "url": "https://github.com/ConardLi/garden-skills",
     "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
     "date_added": "2026-11-05"
+  },
+  {
+    "full_name": "sponsors/zed-industries",
+    "url": "https://github.com/sponsors/zed-industries",
+    "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+    "date_added": "2026-11-06"
+  },
+  {
+    "full_name": "rails/rails",
+    "url": "https://github.com/rails/rails",
+    "description": "Ruby on Rails",
+    "date_added": "2026-11-06"
+  },
+  {
+    "full_name": "mpv-player/mpv",
+    "url": "https://github.com/mpv-player/mpv",
+    "description": "🎥 Command line media player",
+    "date_added": "2026-11-06"
+  },
+  {
+    "full_name": "rust-lang/rust",
+    "url": "https://github.com/rust-lang/rust",
+    "description": "Empowering everyone to build reliable and efficient software.",
+    "date_added": "2026-11-06"
+  },
+  {
+    "full_name": "react/react",
+    "url": "https://github.com/react/react",
+    "description": "The library for web and native user interfaces.",
+    "date_added": "2026-11-06"
   }
 ]

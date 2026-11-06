@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-11-05)
+# GitHub Trending (Added at: 2026-11-06)
 
-### [lz4/lz4](https://github.com/lz4/lz4)
-- Extremely Fast Compression algorithm
+### [sponsors/zed-industries](https://github.com/sponsors/zed-industries)
+- Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 
-### [google/skills](https://github.com/google/skills)
-- Agent Skills for Google products and technologies
+### [rails/rails](https://github.com/rails/rails)
+- Ruby on Rails
 
-### [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)
-- Browser automation CLI for AI agents
+### [mpv-player/mpv](https://github.com/mpv-player/mpv)
+- 🎥 Command line media player
 
-### [scenario-labs/skills](https://github.com/scenario-labs/skills)
-- Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.
+### [rust-lang/rust](https://github.com/rust-lang/rust)
+- Empowering everyone to build reliable and efficient software.
 
-### [ConardLi/garden-skills](https://github.com/ConardLi/garden-skills)
-- ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.
+### [react/react](https://github.com/react/react)
+- The library for web and native user interfaces.
 
