@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-11-06)
+# GitHub Trending (Added at: 2026-11-07)
 
-### [sponsors/zed-industries](https://github.com/sponsors/zed-industries)
-- Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+### [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)
+- A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
 
-### [rails/rails](https://github.com/rails/rails)
-- Ruby on Rails
+### [sponsors/mattpocock](https://github.com/sponsors/mattpocock)
+- Skills for Real Engineers. Straight from my .agents directory.
 
-### [mpv-player/mpv](https://github.com/mpv-player/mpv)
-- 🎥 Command line media player
+### [anthropics/skills](https://github.com/anthropics/skills)
+- Public repository for Agent Skills
 
-### [rust-lang/rust](https://github.com/rust-lang/rust)
-- Empowering everyone to build reliable and efficient software.
+### [meta/astryx](https://github.com/meta/astryx)
+- An open source design system that's fully customizable and agent ready
 
-### [react/react](https://github.com/react/react)
-- The library for web and native user interfaces.
+### [prometheus/prometheus](https://github.com/prometheus/prometheus)
+- The Prometheus monitoring system and time series database.
 

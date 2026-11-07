@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "pbakaus/impeccable",
-    "url": "https://github.com/pbakaus/impeccable",
-    "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
-    "date_added": "2026-10-31"
-  },
-  {
-    "full_name": "Orkas-AI/Orkas",
-    "url": "https://github.com/Orkas-AI/Orkas",
-    "description": "Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.",
-    "date_added": "2026-10-31"
-  },
-  {
-    "full_name": "THU-MAIC/OpenMAIC",
-    "url": "https://github.com/THU-MAIC/OpenMAIC",
-    "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
-    "date_added": "2026-10-31"
-  },
-  {
-    "full_name": "sponsors/bregman-arie",
-    "url": "https://github.com/sponsors/bregman-arie",
-    "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
-    "date_added": "2026-10-31"
-  },
-  {
-    "full_name": "sponsors/vorssaint",
-    "url": "https://github.com/sponsors/vorssaint",
-    "description": "Free and open-source macOS menu bar toolkit.",
-    "date_added": "2026-10-31"
-  },
-  {
     "full_name": "shiyu-coder/Kronos",
     "url": "https://github.com/shiyu-coder/Kronos",
     "description": "Kronos: A Foundation Model for the Language of Financial Markets",
@@ -208,5 +178,35 @@
     "url": "https://github.com/react/react",
     "description": "The library for web and native user interfaces.",
     "date_added": "2026-11-06"
+  },
+  {
+    "full_name": "cloudflare/security-audit-skill",
+    "url": "https://github.com/cloudflare/security-audit-skill",
+    "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "date_added": "2026-11-07"
+  },
+  {
+    "full_name": "sponsors/mattpocock",
+    "url": "https://github.com/sponsors/mattpocock",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "date_added": "2026-11-07"
+  },
+  {
+    "full_name": "anthropics/skills",
+    "url": "https://github.com/anthropics/skills",
+    "description": "Public repository for Agent Skills",
+    "date_added": "2026-11-07"
+  },
+  {
+    "full_name": "meta/astryx",
+    "url": "https://github.com/meta/astryx",
+    "description": "An open source design system that's fully customizable and agent ready",
+    "date_added": "2026-11-07"
+  },
+  {
+    "full_name": "prometheus/prometheus",
+    "url": "https://github.com/prometheus/prometheus",
+    "description": "The Prometheus monitoring system and time series database.",
+    "date_added": "2026-11-07"
   }
 ]
