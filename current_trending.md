@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-11-07)
+# GitHub Trending (Added at: 2026-11-08)
 
-### [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)
-- A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
+### [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)
+- Hunt down social media accounts by username across social networks
 
-### [sponsors/mattpocock](https://github.com/sponsors/mattpocock)
-- Skills for Real Engineers. Straight from my .agents directory.
+### [dsx-ai-factory/nvke](https://github.com/dsx-ai-factory/nvke)
+- NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.
 
-### [anthropics/skills](https://github.com/anthropics/skills)
-- Public repository for Agent Skills
+### [sponsors/milind-soni](https://github.com/sponsors/milind-soni)
+- Open-source Grok Bot alternative with a virtual machine that bots can use
 
-### [meta/astryx](https://github.com/meta/astryx)
-- An open source design system that's fully customizable and agent ready
+### [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts)
+- A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
 
-### [prometheus/prometheus](https://github.com/prometheus/prometheus)
-- The Prometheus monitoring system and time series database.
+### [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco)
+- Multi-Joint dynamics with Contact. A general purpose physics simulator.
 

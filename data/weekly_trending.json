@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "shiyu-coder/Kronos",
-    "url": "https://github.com/shiyu-coder/Kronos",
-    "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-    "date_added": "2026-11-01"
-  },
-  {
-    "full_name": "public-apis/public-apis",
-    "url": "https://github.com/public-apis/public-apis",
-    "description": "A collective list of free APIs",
-    "date_added": "2026-11-01"
-  },
-  {
-    "full_name": "sponsors/cjpais",
-    "url": "https://github.com/sponsors/cjpais",
-    "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
-    "date_added": "2026-11-01"
-  },
-  {
-    "full_name": "sponsors/kornia",
-    "url": "https://github.com/sponsors/kornia",
-    "description": "🐍 Geometric Computer Vision Library for Spatial AI",
-    "date_added": "2026-11-01"
-  },
-  {
-    "full_name": "beenuar/AiSOC",
-    "url": "https://github.com/beenuar/AiSOC",
-    "description": "Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE ATT&CK investigation, and a replayable decision ledger for every agent step. Self-hostable, runs with no API keys, MIT licensed. Ships an MCP server for Claude, Cursor and Continue.",
-    "date_added": "2026-11-01"
-  },
-  {
     "full_name": "vercel-labs/agent-desktop",
     "url": "https://github.com/vercel-labs/agent-desktop",
     "description": "Computer use CLI for AI agents",
@@ -208,5 +178,35 @@
     "url": "https://github.com/prometheus/prometheus",
     "description": "The Prometheus monitoring system and time series database.",
     "date_added": "2026-11-07"
+  },
+  {
+    "full_name": "sherlock-project/sherlock",
+    "url": "https://github.com/sherlock-project/sherlock",
+    "description": "Hunt down social media accounts by username across social networks",
+    "date_added": "2026-11-08"
+  },
+  {
+    "full_name": "dsx-ai-factory/nvke",
+    "url": "https://github.com/dsx-ai-factory/nvke",
+    "description": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
+    "date_added": "2026-11-08"
+  },
+  {
+    "full_name": "sponsors/milind-soni",
+    "url": "https://github.com/sponsors/milind-soni",
+    "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+    "date_added": "2026-11-08"
+  },
+  {
+    "full_name": "anthropics/claude-quickstarts",
+    "url": "https://github.com/anthropics/claude-quickstarts",
+    "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+    "date_added": "2026-11-08"
+  },
+  {
+    "full_name": "google-deepmind/mujoco",
+    "url": "https://github.com/google-deepmind/mujoco",
+    "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+    "date_added": "2026-11-08"
   }
 ]
