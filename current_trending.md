@@ -1,17 +1,14 @@
-# GitHub Trending (Added at: 2026-11-08)
+# GitHub Trending (Added at: 2026-11-09)
 
-### [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)
-- Hunt down social media accounts by username across social networks
+### [garrytan/gbrain](https://github.com/garrytan/gbrain)
+- Garry's Opinionated OpenClaw/Hermes Agent Brain
 
-### [dsx-ai-factory/nvke](https://github.com/dsx-ai-factory/nvke)
-- NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.
+### [ruvnet/RuView](https://github.com/ruvnet/RuView)
+- π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 
-### [sponsors/milind-soni](https://github.com/sponsors/milind-soni)
-- Open-source Grok Bot alternative with a virtual machine that bots can use
+### [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)
+- LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.
 
-### [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts)
-- A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
-
-### [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco)
-- Multi-Joint dynamics with Contact. A general purpose physics simulator.
+### [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp)
+- Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.
 

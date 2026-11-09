@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "vercel-labs/agent-desktop",
-    "url": "https://github.com/vercel-labs/agent-desktop",
-    "description": "Computer use CLI for AI agents",
-    "date_added": "2026-11-02"
-  },
-  {
-    "full_name": "sponsors/D4Vinci",
-    "url": "https://github.com/sponsors/D4Vinci",
-    "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
-    "date_added": "2026-11-02"
-  },
-  {
-    "full_name": "hyprwm/Hyprland",
-    "url": "https://github.com/hyprwm/Hyprland",
-    "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
-    "date_added": "2026-11-02"
-  },
-  {
-    "full_name": "FlashML-org/FreeToken",
-    "url": "https://github.com/FlashML-org/FreeToken",
-    "description": "FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.",
-    "date_added": "2026-11-02"
-  },
-  {
-    "full_name": "JustVugg/colibri",
-    "url": "https://github.com/JustVugg/colibri",
-    "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
-    "date_added": "2026-11-02"
-  },
-  {
     "full_name": "max-sixty/worktrunk",
     "url": "https://github.com/max-sixty/worktrunk",
     "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
@@ -208,5 +178,29 @@
     "url": "https://github.com/google-deepmind/mujoco",
     "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
     "date_added": "2026-11-08"
+  },
+  {
+    "full_name": "garrytan/gbrain",
+    "url": "https://github.com/garrytan/gbrain",
+    "description": "Garry's Opinionated OpenClaw/Hermes Agent Brain",
+    "date_added": "2026-11-09"
+  },
+  {
+    "full_name": "ruvnet/RuView",
+    "url": "https://github.com/ruvnet/RuView",
+    "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+    "date_added": "2026-11-09"
+  },
+  {
+    "full_name": "ZhuLinsen/daily_stock_analysis",
+    "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+    "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+    "date_added": "2026-11-09"
+  },
+  {
+    "full_name": "homeassistant-ai/ha-mcp",
+    "url": "https://github.com/homeassistant-ai/ha-mcp",
+    "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+    "date_added": "2026-11-09"
   }
 ]
