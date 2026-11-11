@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "NVIDIA/auto-ontology",
-    "url": "https://github.com/NVIDIA/auto-ontology",
-    "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
-    "date_added": "2026-11-04"
-  },
-  {
-    "full_name": "github/spec-kit",
-    "url": "https://github.com/github/spec-kit",
-    "description": "💫 Toolkit to help you get started with SDD or any other process!",
-    "date_added": "2026-11-04"
-  },
-  {
-    "full_name": "The-PR-Agent/pr-agent",
-    "url": "https://github.com/The-PR-Agent/pr-agent",
-    "description": "🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.",
-    "date_added": "2026-11-04"
-  },
-  {
-    "full_name": "harry0703/MoneyPrinterTurbo",
-    "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-    "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-    "date_added": "2026-11-04"
-  },
-  {
-    "full_name": "garrytan/gstack",
-    "url": "https://github.com/garrytan/gstack",
-    "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
-    "date_added": "2026-11-04"
-  },
-  {
     "full_name": "lz4/lz4",
     "url": "https://github.com/lz4/lz4",
     "description": "Extremely Fast Compression algorithm",
@@ -196,5 +166,29 @@
     "url": "https://github.com/ranxianglei/billion-context",
     "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
     "date_added": "2026-11-10"
+  },
+  {
+    "full_name": "GoogleChrome/modern-web-guidance-src",
+    "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+    "description": "",
+    "date_added": "2026-11-11"
+  },
+  {
+    "full_name": "sponsors/shadcn",
+    "url": "https://github.com/sponsors/shadcn",
+    "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
+    "date_added": "2026-11-11"
+  },
+  {
+    "full_name": "openai/codex-security",
+    "url": "https://github.com/openai/codex-security",
+    "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+    "date_added": "2026-11-11"
+  },
+  {
+    "full_name": "TheAlgorithms/Java",
+    "url": "https://github.com/TheAlgorithms/Java",
+    "description": "All Algorithms implemented in Java",
+    "date_added": "2026-11-11"
   }
 ]

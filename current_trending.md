@@ -1,14 +1,14 @@
-# GitHub Trending (Added at: 2026-11-10)
+# GitHub Trending (Added at: 2026-11-11)
 
-### [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
-- Production-grade engineering skills for AI coding agents.
+### [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src)
+- 
 
-### [we-promise/sure](https://github.com/we-promise/sure)
-- The personal finance app for everyone (by everyone)
+### [sponsors/shadcn](https://github.com/sponsors/shadcn)
+- Use your most capable model to audit your codebase and write plans for cheaper models to execute.
 
-### [sponsors/tokio-rs](https://github.com/sponsors/tokio-rs)
-- A batteries-included framework for building web apps
+### [openai/codex-security](https://github.com/openai/codex-security)
+- OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security
 
-### [ranxianglei/billion-context](https://github.com/ranxianglei/billion-context)
-- A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need
+### [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java)
+- All Algorithms implemented in Java
 
