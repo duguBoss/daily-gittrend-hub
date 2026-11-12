@@ -1,14 +1,17 @@
-# GitHub Trending (Added at: 2026-11-11)
+# GitHub Trending (Added at: 2026-11-12)
 
-### [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src)
-- 
+### [nvm-sh/nvm](https://github.com/nvm-sh/nvm)
+- Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.
 
-### [sponsors/shadcn](https://github.com/sponsors/shadcn)
-- Use your most capable model to audit your codebase and write plans for cheaper models to execute.
+### [pookjw/HermesEnabler](https://github.com/pookjw/HermesEnabler)
+- Enable Hermès Watch Faces on any Apple Watch devices
 
-### [openai/codex-security](https://github.com/openai/codex-security)
-- OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security
+### [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+- An open-source AI coding agent that lives in your terminal.
 
-### [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java)
-- All Algorithms implemented in Java
+### [sponsors/ashhart](https://github.com/sponsors/ashhart)
+- LLM Inference Engine for Metal, CUDA and Vulkan.
+
+### [sponsors/nodejs](https://github.com/sponsors/nodejs)
+- Node.js JavaScript runtime ✨🐢🚀✨
 

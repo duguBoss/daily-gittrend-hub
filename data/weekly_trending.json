@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "lz4/lz4",
-    "url": "https://github.com/lz4/lz4",
-    "description": "Extremely Fast Compression algorithm",
-    "date_added": "2026-11-05"
-  },
-  {
-    "full_name": "google/skills",
-    "url": "https://github.com/google/skills",
-    "description": "Agent Skills for Google products and technologies",
-    "date_added": "2026-11-05"
-  },
-  {
-    "full_name": "vercel-labs/agent-browser",
-    "url": "https://github.com/vercel-labs/agent-browser",
-    "description": "Browser automation CLI for AI agents",
-    "date_added": "2026-11-05"
-  },
-  {
-    "full_name": "scenario-labs/skills",
-    "url": "https://github.com/scenario-labs/skills",
-    "description": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.",
-    "date_added": "2026-11-05"
-  },
-  {
-    "full_name": "ConardLi/garden-skills",
-    "url": "https://github.com/ConardLi/garden-skills",
-    "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
-    "date_added": "2026-11-05"
-  },
-  {
     "full_name": "sponsors/zed-industries",
     "url": "https://github.com/sponsors/zed-industries",
     "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
@@ -190,5 +160,35 @@
     "url": "https://github.com/TheAlgorithms/Java",
     "description": "All Algorithms implemented in Java",
     "date_added": "2026-11-11"
+  },
+  {
+    "full_name": "nvm-sh/nvm",
+    "url": "https://github.com/nvm-sh/nvm",
+    "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
+    "date_added": "2026-11-12"
+  },
+  {
+    "full_name": "pookjw/HermesEnabler",
+    "url": "https://github.com/pookjw/HermesEnabler",
+    "description": "Enable Hermès Watch Faces on any Apple Watch devices",
+    "date_added": "2026-11-12"
+  },
+  {
+    "full_name": "QwenLM/qwen-code",
+    "url": "https://github.com/QwenLM/qwen-code",
+    "description": "An open-source AI coding agent that lives in your terminal.",
+    "date_added": "2026-11-12"
+  },
+  {
+    "full_name": "sponsors/ashhart",
+    "url": "https://github.com/sponsors/ashhart",
+    "description": "LLM Inference Engine for Metal, CUDA and Vulkan.",
+    "date_added": "2026-11-12"
+  },
+  {
+    "full_name": "sponsors/nodejs",
+    "url": "https://github.com/sponsors/nodejs",
+    "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+    "date_added": "2026-11-12"
   }
 ]
