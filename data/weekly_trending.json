@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "sponsors/zed-industries",
-    "url": "https://github.com/sponsors/zed-industries",
-    "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
-    "date_added": "2026-11-06"
-  },
-  {
-    "full_name": "rails/rails",
-    "url": "https://github.com/rails/rails",
-    "description": "Ruby on Rails",
-    "date_added": "2026-11-06"
-  },
-  {
-    "full_name": "mpv-player/mpv",
-    "url": "https://github.com/mpv-player/mpv",
-    "description": "🎥 Command line media player",
-    "date_added": "2026-11-06"
-  },
-  {
-    "full_name": "rust-lang/rust",
-    "url": "https://github.com/rust-lang/rust",
-    "description": "Empowering everyone to build reliable and efficient software.",
-    "date_added": "2026-11-06"
-  },
-  {
-    "full_name": "react/react",
-    "url": "https://github.com/react/react",
-    "description": "The library for web and native user interfaces.",
-    "date_added": "2026-11-06"
-  },
-  {
     "full_name": "cloudflare/security-audit-skill",
     "url": "https://github.com/cloudflare/security-audit-skill",
     "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
@@ -190,5 +160,35 @@
     "url": "https://github.com/sponsors/nodejs",
     "description": "Node.js JavaScript runtime ✨🐢🚀✨",
     "date_added": "2026-11-12"
+  },
+  {
+    "full_name": "alibaba/open-code-review",
+    "url": "https://github.com/alibaba/open-code-review",
+    "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+    "date_added": "2026-11-13"
+  },
+  {
+    "full_name": "sponsors/ZhuLinsen",
+    "url": "https://github.com/sponsors/ZhuLinsen",
+    "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+    "date_added": "2026-11-13"
+  },
+  {
+    "full_name": "backnotprop/plannotator",
+    "url": "https://github.com/backnotprop/plannotator",
+    "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+    "date_added": "2026-11-13"
+  },
+  {
+    "full_name": "sponsors/louislam",
+    "url": "https://github.com/sponsors/louislam",
+    "description": "A fancy self-hosted monitoring tool",
+    "date_added": "2026-11-13"
+  },
+  {
+    "full_name": "block/buzz",
+    "url": "https://github.com/block/buzz",
+    "description": "A hive mind communication platform",
+    "date_added": "2026-11-13"
   }
 ]
