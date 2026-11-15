@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-11-14)
+# GitHub Trending (Added at: 2026-11-15)
 
-### [tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills)
-- Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.
+### [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills)
+- A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.
 
-### [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
-- Chrome DevTools for coding agents
+### [Tencent/LoopForge](https://github.com/Tencent/LoopForge)
+- Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.
 
-### [dream-num/univer](https://github.com/dream-num/univer)
-- Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.
+### [ggml-org/ggml](https://github.com/ggml-org/ggml)
+- Tensor library for machine learning
 
-### [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui)
-- AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
+### [sponsors/elementalsouls](https://github.com/sponsors/elementalsouls)
+- A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.
 
-### [sponsors/JuliusBrussee](https://github.com/sponsors/JuliusBrussee)
-- 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
+### [NVIDIA/SkillEvaluator](https://github.com/NVIDIA/SkillEvaluator)
+- Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.
 

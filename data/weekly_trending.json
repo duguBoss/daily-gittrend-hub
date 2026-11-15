@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "sherlock-project/sherlock",
-    "url": "https://github.com/sherlock-project/sherlock",
-    "description": "Hunt down social media accounts by username across social networks",
-    "date_added": "2026-11-08"
-  },
-  {
-    "full_name": "dsx-ai-factory/nvke",
-    "url": "https://github.com/dsx-ai-factory/nvke",
-    "description": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
-    "date_added": "2026-11-08"
-  },
-  {
-    "full_name": "sponsors/milind-soni",
-    "url": "https://github.com/sponsors/milind-soni",
-    "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
-    "date_added": "2026-11-08"
-  },
-  {
-    "full_name": "anthropics/claude-quickstarts",
-    "url": "https://github.com/anthropics/claude-quickstarts",
-    "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
-    "date_added": "2026-11-08"
-  },
-  {
-    "full_name": "google-deepmind/mujoco",
-    "url": "https://github.com/google-deepmind/mujoco",
-    "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
-    "date_added": "2026-11-08"
-  },
-  {
     "full_name": "garrytan/gbrain",
     "url": "https://github.com/garrytan/gbrain",
     "description": "Garry's Opinionated OpenClaw/Hermes Agent Brain",
@@ -190,5 +160,35 @@
     "url": "https://github.com/sponsors/JuliusBrussee",
     "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
     "date_added": "2026-11-14"
+  },
+  {
+    "full_name": "google-labs-code/stitch-skills",
+    "url": "https://github.com/google-labs-code/stitch-skills",
+    "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+    "date_added": "2026-11-15"
+  },
+  {
+    "full_name": "Tencent/LoopForge",
+    "url": "https://github.com/Tencent/LoopForge",
+    "description": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
+    "date_added": "2026-11-15"
+  },
+  {
+    "full_name": "ggml-org/ggml",
+    "url": "https://github.com/ggml-org/ggml",
+    "description": "Tensor library for machine learning",
+    "date_added": "2026-11-15"
+  },
+  {
+    "full_name": "sponsors/elementalsouls",
+    "url": "https://github.com/sponsors/elementalsouls",
+    "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+    "date_added": "2026-11-15"
+  },
+  {
+    "full_name": "NVIDIA/SkillEvaluator",
+    "url": "https://github.com/NVIDIA/SkillEvaluator",
+    "description": "Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
+    "date_added": "2026-11-15"
   }
 ]
