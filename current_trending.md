@@ -1,17 +1,17 @@
-# GitHub Trending (Added at: 2026-11-15)
+# GitHub Trending (Added at: 2026-11-16)
 
-### [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills)
-- A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.
+### [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane)
+- Modern Docker Management, Designed for Everyone
 
-### [Tencent/LoopForge](https://github.com/Tencent/LoopForge)
-- Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.
+### [DeanChensj/jiangshan-map](https://github.com/DeanChensj/jiangshan-map)
+- 江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place genealogy & classical poetry routes
 
-### [ggml-org/ggml](https://github.com/ggml-org/ggml)
-- Tensor library for machine learning
+### [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)
+- AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 
-### [sponsors/elementalsouls](https://github.com/sponsors/elementalsouls)
-- A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.
+### [google-research/paper-orchestra](https://github.com/google-research/paper-orchestra)
+- PaperOrchestra is a multi-agent framework for automated AI research paper writing.
 
-### [NVIDIA/SkillEvaluator](https://github.com/NVIDIA/SkillEvaluator)
-- Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.
+### [sponsors/sveltejs](https://github.com/sponsors/sveltejs)
+- web development for the rest of us
 

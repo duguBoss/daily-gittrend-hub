@@ -1,29 +1,5 @@
 [
   {
-    "full_name": "garrytan/gbrain",
-    "url": "https://github.com/garrytan/gbrain",
-    "description": "Garry's Opinionated OpenClaw/Hermes Agent Brain",
-    "date_added": "2026-11-09"
-  },
-  {
-    "full_name": "ruvnet/RuView",
-    "url": "https://github.com/ruvnet/RuView",
-    "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-    "date_added": "2026-11-09"
-  },
-  {
-    "full_name": "ZhuLinsen/daily_stock_analysis",
-    "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-    "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-    "date_added": "2026-11-09"
-  },
-  {
-    "full_name": "homeassistant-ai/ha-mcp",
-    "url": "https://github.com/homeassistant-ai/ha-mcp",
-    "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
-    "date_added": "2026-11-09"
-  },
-  {
     "full_name": "addyosmani/agent-skills",
     "url": "https://github.com/addyosmani/agent-skills",
     "description": "Production-grade engineering skills for AI coding agents.",
@@ -190,5 +166,35 @@
     "url": "https://github.com/NVIDIA/SkillEvaluator",
     "description": "Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
     "date_added": "2026-11-15"
+  },
+  {
+    "full_name": "getarcaneapp/arcane",
+    "url": "https://github.com/getarcaneapp/arcane",
+    "description": "Modern Docker Management, Designed for Everyone",
+    "date_added": "2026-11-16"
+  },
+  {
+    "full_name": "DeanChensj/jiangshan-map",
+    "url": "https://github.com/DeanChensj/jiangshan-map",
+    "description": "江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place genealogy & classical poetry routes",
+    "date_added": "2026-11-16"
+  },
+  {
+    "full_name": "mvanhorn/last30days-skill",
+    "url": "https://github.com/mvanhorn/last30days-skill",
+    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+    "date_added": "2026-11-16"
+  },
+  {
+    "full_name": "google-research/paper-orchestra",
+    "url": "https://github.com/google-research/paper-orchestra",
+    "description": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
+    "date_added": "2026-11-16"
+  },
+  {
+    "full_name": "sponsors/sveltejs",
+    "url": "https://github.com/sponsors/sveltejs",
+    "description": "web development for the rest of us",
+    "date_added": "2026-11-16"
   }
 ]
