@@ -1,17 +1,14 @@
-# GitHub Trending (Added at: 2026-11-16)
+# GitHub Trending (Added at: 2026-11-17)
 
-### [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane)
-- Modern Docker Management, Designed for Everyone
+### [cursor/plugins](https://github.com/cursor/plugins)
+- Cursor plugin specification and official plugins
 
-### [DeanChensj/jiangshan-map](https://github.com/DeanChensj/jiangshan-map)
-- 江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place genealogy & classical poetry routes
+### [sponsors/obra](https://github.com/sponsors/obra)
+- An agentic skills framework & software development methodology that works.
 
-### [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)
-- AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
+### [sponsors/affaan-m](https://github.com/sponsors/affaan-m)
+- The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
-### [google-research/paper-orchestra](https://github.com/google-research/paper-orchestra)
-- PaperOrchestra is a multi-agent framework for automated AI research paper writing.
-
-### [sponsors/sveltejs](https://github.com/sponsors/sveltejs)
-- web development for the rest of us
+### [jingyaogong/minimind](https://github.com/jingyaogong/minimind)
+- 🧠 Train a 64M-parameter LLM from scratch in just 2h!
 
