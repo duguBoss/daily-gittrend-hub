@@ -1,29 +1,5 @@
 [
   {
-    "full_name": "GoogleChrome/modern-web-guidance-src",
-    "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
-    "description": "",
-    "date_added": "2026-11-11"
-  },
-  {
-    "full_name": "sponsors/shadcn",
-    "url": "https://github.com/sponsors/shadcn",
-    "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
-    "date_added": "2026-11-11"
-  },
-  {
-    "full_name": "openai/codex-security",
-    "url": "https://github.com/openai/codex-security",
-    "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
-    "date_added": "2026-11-11"
-  },
-  {
-    "full_name": "TheAlgorithms/Java",
-    "url": "https://github.com/TheAlgorithms/Java",
-    "description": "All Algorithms implemented in Java",
-    "date_added": "2026-11-11"
-  },
-  {
     "full_name": "nvm-sh/nvm",
     "url": "https://github.com/nvm-sh/nvm",
     "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
@@ -196,5 +172,35 @@
     "url": "https://github.com/jingyaogong/minimind",
     "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
     "date_added": "2026-11-17"
+  },
+  {
+    "full_name": "HKUDS/CLI-Anything",
+    "url": "https://github.com/HKUDS/CLI-Anything",
+    "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+    "date_added": "2026-11-18"
+  },
+  {
+    "full_name": "astral-sh/uv",
+    "url": "https://github.com/astral-sh/uv",
+    "description": "An extremely fast Python package and project manager, written in Rust.",
+    "date_added": "2026-11-18"
+  },
+  {
+    "full_name": "jquery/jquery",
+    "url": "https://github.com/jquery/jquery",
+    "description": "jQuery JavaScript Library",
+    "date_added": "2026-11-18"
+  },
+  {
+    "full_name": "appwrite/appwrite",
+    "url": "https://github.com/appwrite/appwrite",
+    "description": "The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more",
+    "date_added": "2026-11-18"
+  },
+  {
+    "full_name": "openvinotoolkit/openvino",
+    "url": "https://github.com/openvinotoolkit/openvino",
+    "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+    "date_added": "2026-11-18"
   }
 ]

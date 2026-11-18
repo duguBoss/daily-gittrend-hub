@@ -1,14 +1,17 @@
-# GitHub Trending (Added at: 2026-11-17)
+# GitHub Trending (Added at: 2026-11-18)
 
-### [cursor/plugins](https://github.com/cursor/plugins)
-- Cursor plugin specification and official plugins
+### [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
+- "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
 
-### [sponsors/obra](https://github.com/sponsors/obra)
-- An agentic skills framework & software development methodology that works.
+### [astral-sh/uv](https://github.com/astral-sh/uv)
+- An extremely fast Python package and project manager, written in Rust.
 
-### [sponsors/affaan-m](https://github.com/sponsors/affaan-m)
-- The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+### [jquery/jquery](https://github.com/jquery/jquery)
+- jQuery JavaScript Library
 
-### [jingyaogong/minimind](https://github.com/jingyaogong/minimind)
-- 🧠 Train a 64M-parameter LLM from scratch in just 2h!
+### [appwrite/appwrite](https://github.com/appwrite/appwrite)
+- The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more
+
+### [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino)
+- OpenVINO™ is an open source toolkit for optimizing and deploying AI inference
 
