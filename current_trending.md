@@ -1,17 +1,11 @@
-# GitHub Trending (Added at: 2026-11-19)
+# GitHub Trending (Added at: 2026-11-20)
 
-### [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)
-- Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API.
+### [sponsors/toeverything](https://github.com/sponsors/toeverything)
+- There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
 
-### [nginx/nginx](https://github.com/nginx/nginx)
-- The official NGINX Open Source repository.
+### [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3)
+- The only downloader you need. 下载器的集大成者。
 
-### [sponsors/cathrynlavery](https://github.com/sponsors/cathrynlavery)
-- Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
-
-### [sponsors/mjmirza](https://github.com/sponsors/mjmirza)
-- Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 117 documented rejection patterns and fixes, privacy manifest and Data safety checks, 95 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.
-
-### [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre)
-- The open-source agent for CI/CD reliability.
+### [zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip)
+- AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.
 

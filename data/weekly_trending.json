@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "alibaba/open-code-review",
-    "url": "https://github.com/alibaba/open-code-review",
-    "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-    "date_added": "2026-11-13"
-  },
-  {
-    "full_name": "sponsors/ZhuLinsen",
-    "url": "https://github.com/sponsors/ZhuLinsen",
-    "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-    "date_added": "2026-11-13"
-  },
-  {
-    "full_name": "backnotprop/plannotator",
-    "url": "https://github.com/backnotprop/plannotator",
-    "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
-    "date_added": "2026-11-13"
-  },
-  {
-    "full_name": "sponsors/louislam",
-    "url": "https://github.com/sponsors/louislam",
-    "description": "A fancy self-hosted monitoring tool",
-    "date_added": "2026-11-13"
-  },
-  {
-    "full_name": "block/buzz",
-    "url": "https://github.com/block/buzz",
-    "description": "A hive mind communication platform",
-    "date_added": "2026-11-13"
-  },
-  {
     "full_name": "tradermonty/claude-trading-skills",
     "url": "https://github.com/tradermonty/claude-trading-skills",
     "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
@@ -202,5 +172,23 @@
     "url": "https://github.com/Tracer-Cloud/opensre",
     "description": "The open-source agent for CI/CD reliability.",
     "date_added": "2026-11-19"
+  },
+  {
+    "full_name": "sponsors/toeverything",
+    "url": "https://github.com/sponsors/toeverything",
+    "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+    "date_added": "2026-11-20"
+  },
+  {
+    "full_name": "XiaoYouChR/Ghost-Downloader-3",
+    "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
+    "description": "The only downloader you need. 下载器的集大成者。",
+    "date_added": "2026-11-20"
+  },
+  {
+    "full_name": "zhouxiaoka/autoclip",
+    "url": "https://github.com/zhouxiaoka/autoclip",
+    "description": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
+    "date_added": "2026-11-20"
   }
 ]
