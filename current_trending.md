@@ -1,11 +1,8 @@
-# GitHub Trending (Added at: 2026-11-24)
+# GitHub Trending (Added at: 2026-11-25)
 
-### [sponsors/obra](https://github.com/sponsors/obra)
-- An agentic skills framework & software development methodology that works.
+### [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
+- "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
 
-### [jingyaogong/minimind](https://github.com/jingyaogong/minimind)
-- 🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.
-
-### [cursor/plugins](https://github.com/cursor/plugins)
-- Cursor plugin specification and official plugins
+### [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino)
+- OpenVINO™ is an open source toolkit for optimizing and deploying AI inference
 

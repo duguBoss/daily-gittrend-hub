@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "HKUDS/CLI-Anything",
-    "url": "https://github.com/HKUDS/CLI-Anything",
-    "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-    "date_added": "2026-11-18"
-  },
-  {
-    "full_name": "astral-sh/uv",
-    "url": "https://github.com/astral-sh/uv",
-    "description": "An extremely fast Python package and project manager, written in Rust.",
-    "date_added": "2026-11-18"
-  },
-  {
-    "full_name": "jquery/jquery",
-    "url": "https://github.com/jquery/jquery",
-    "description": "jQuery JavaScript Library",
-    "date_added": "2026-11-18"
-  },
-  {
-    "full_name": "appwrite/appwrite",
-    "url": "https://github.com/appwrite/appwrite",
-    "description": "The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more",
-    "date_added": "2026-11-18"
-  },
-  {
-    "full_name": "openvinotoolkit/openvino",
-    "url": "https://github.com/openvinotoolkit/openvino",
-    "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
-    "date_added": "2026-11-18"
-  },
-  {
     "full_name": "firecrawl/firecrawl",
     "url": "https://github.com/firecrawl/firecrawl",
     "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API.",
@@ -112,5 +82,17 @@
     "url": "https://github.com/cursor/plugins",
     "description": "Cursor plugin specification and official plugins",
     "date_added": "2026-11-24"
+  },
+  {
+    "full_name": "HKUDS/CLI-Anything",
+    "url": "https://github.com/HKUDS/CLI-Anything",
+    "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+    "date_added": "2026-11-25"
+  },
+  {
+    "full_name": "openvinotoolkit/openvino",
+    "url": "https://github.com/openvinotoolkit/openvino",
+    "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+    "date_added": "2026-11-25"
   }
 ]
