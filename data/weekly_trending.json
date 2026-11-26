@@ -1,35 +1,5 @@
 [
   {
-    "full_name": "firecrawl/firecrawl",
-    "url": "https://github.com/firecrawl/firecrawl",
-    "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API.",
-    "date_added": "2026-11-19"
-  },
-  {
-    "full_name": "nginx/nginx",
-    "url": "https://github.com/nginx/nginx",
-    "description": "The official NGINX Open Source repository.",
-    "date_added": "2026-11-19"
-  },
-  {
-    "full_name": "sponsors/cathrynlavery",
-    "url": "https://github.com/sponsors/cathrynlavery",
-    "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-    "date_added": "2026-11-19"
-  },
-  {
-    "full_name": "sponsors/mjmirza",
-    "url": "https://github.com/sponsors/mjmirza",
-    "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 117 documented rejection patterns and fixes, privacy manifest and Data safety checks, 95 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
-    "date_added": "2026-11-19"
-  },
-  {
-    "full_name": "Tracer-Cloud/opensre",
-    "url": "https://github.com/Tracer-Cloud/opensre",
-    "description": "The open-source agent for CI/CD reliability.",
-    "date_added": "2026-11-19"
-  },
-  {
     "full_name": "sponsors/toeverything",
     "url": "https://github.com/sponsors/toeverything",
     "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
@@ -94,5 +64,35 @@
     "url": "https://github.com/openvinotoolkit/openvino",
     "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
     "date_added": "2026-11-25"
+  },
+  {
+    "full_name": "firecrawl/firecrawl",
+    "url": "https://github.com/firecrawl/firecrawl",
+    "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+    "date_added": "2026-11-26"
+  },
+  {
+    "full_name": "nginx/nginx",
+    "url": "https://github.com/nginx/nginx",
+    "description": "The official NGINX Open Source repository.",
+    "date_added": "2026-11-26"
+  },
+  {
+    "full_name": "sponsors/cathrynlavery",
+    "url": "https://github.com/sponsors/cathrynlavery",
+    "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+    "date_added": "2026-11-26"
+  },
+  {
+    "full_name": "sponsors/mjmirza",
+    "url": "https://github.com/sponsors/mjmirza",
+    "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 125 documented rejection patterns and fixes, privacy manifest and Data safety checks, 117 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+    "date_added": "2026-11-26"
+  },
+  {
+    "full_name": "Tracer-Cloud/opensre",
+    "url": "https://github.com/Tracer-Cloud/opensre",
+    "description": "The open-source agent for CI/CD reliability.",
+    "date_added": "2026-11-26"
   }
 ]
